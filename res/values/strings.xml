@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2015 The CyanogenMod Project
+     Copyright (C) 2013-2016 The CyanogenMod Project
+
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
+
           http://www.apache.org/licenses/LICENSE-2.0
+
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -12,22 +15,65 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">On</string>
 
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">Off</string>
+
+    <!-- Gestures panel -->
+    <string name="screen_gestures_panel_title">Gestures</string>
+
+    <!-- Screen-off gestures -->
+    <string name="gesture_display_title">Screen off gestures</string>
+    <string name="touchscreen_c_gesture_title">Camera</string>
+    <string name="touchscreen_c_gesture_summary">Draw a \"C\" to activate camera</string>
+    <string name="touchscreen_e_gesture_title">Email</string>
+    <string name="touchscreen_e_gesture_summary">Draw an \"e\" to open the email app</string>
+    <string name="touchscreen_s_gesture_title">Messaging</string>
+    <string name="touchscreen_s_gesture_summary">Draw an \"S\" to open the messaging app</string>
+    <string name="touchscreen_v_gesture_title">Dialer</string>
+    <string name="touchscreen_v_gesture_summary">Draw a \"V\" to open the dialer app</string>
+    <string name="touchscreen_w_gesture_title">Browser</string>
+    <string name="touchscreen_w_gesture_summary">Draw a \"W\" to open the browser app</string>
+    <string name="touchscreen_z_gesture_title">Flashlight</string>
+    <string name="touchscreen_z_gesture_summary">Draw a \"Z\" to toggle flashlight</string>
+
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Ambient display</string>
-
     <string name="ambient_display_enable_title">Ambient display</string>
     <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_summary_on">Screen will wake when you receive notifications</string>
+    <string name="ambient_display_summary_off">Screen will not wake when you receive notifications</string>
 
+    <!-- Tilt sensor -->
+    <string name="tilt_sensor_title">Tilt sensor</string>
+
+    <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">Proximity sensor</string>
+
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Hand wave</string>
     <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
 
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Pick-up</string>
     <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
 
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Pocket</string>
     <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
 
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">Proximity wake</string>
     <string name="proximity_wake_enable_title">Proximity wake</string>
     <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
 
+    <!-- Dialog texts -->
+    <string name="dialog_ok">OK</string>
+
+    <!-- Help texts -->
+    <string name="doze_settings_help_title">Help</string>
+    <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
 </resources>
