@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
+               (C) 2017 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -141,4 +142,6 @@
     <string name="fingerprint_title">Fingerprint</string>
     <string name="fingerprint_as_home_title">Fingerprint as home</string>
     <string name="fingerprint_as_home_summary">Use the fingerprint sensor as a home button</string>
+    <string name="fingerprint_wakeup_title">Fingerprint wake-up</string>
+    <string name="fingerprint_wakeup_summary" Allow the fingerprint sensor to wake the device while the screen is off</string>
 </resources>
