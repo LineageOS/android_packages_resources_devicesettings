@@ -107,4 +107,5 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Ajuda</string>
   <string name="doze_settings_help_text">Estes recursos utilizam eventos de sensores para mostrarem notificações enquanto o dispositivo está em repouso. O sensor escolhido só é ativado quando o dispositivo recebe uma notificação, o que ajuda a reduzir a utilização da bateria. Há também uma opção para ativar o sensor escolhido assim que o ecrã se desliga, o que resultará numa maior utilização da bateria.</string>
+  <!-- Fingerprint -->
 </resources>

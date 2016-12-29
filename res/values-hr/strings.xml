@@ -111,4 +111,5 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Pomoć</string>
   <string name="doze_settings_help_text">Te značajke koriste događaje senzora za pokretanje pulsiranja obavijesti. Odabrani senzor je omogućen jedino kada uređaj primi obavijest, to pomaže smanjenju potrošnje baterije. Tu je i opcija omogućenja odabranog senzora čim se zaslon isključi, to će uzrokovati veću potrošnju baterije.</string>
+  <!-- Fingerprint -->
 </resources>

@@ -107,4 +107,5 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Ajuda</string>
   <string name="doze_settings_help_text">Esses recursos monitoram o sensor para que o dispositivo possa despertar do estado de repouso e pulsar notificações. O sensor escolhido só é habilitado quando o dispositivo recebe uma notificação, isso ajuda a reduzir o uso de bateria. Há também uma opção para ativar o sensor escolhido assim que a tela desliga, isso causará o maior uso da bateria.</string>
+  <!-- Fingerprint -->
 </resources>

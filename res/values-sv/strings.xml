@@ -90,4 +90,5 @@
   <string name="dialog_ok">OK</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Hjälp</string>
+  <!-- Fingerprint -->
 </resources>

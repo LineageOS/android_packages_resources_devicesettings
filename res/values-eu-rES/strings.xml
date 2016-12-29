@@ -111,4 +111,5 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Laguntza</string>
   <string name="doze_settings_help_text">Ezaugarri hauek sentsoreen gertakizunak erabiltzen dituzte jakinarazpen argi bat pizteko. Sentsorea jakinarazpen bat jasotzean gaituko da, honi esker bateria erabilera murrizten da. Badago ere pantaila itzali eta berehala sentsorea pizteko aukera, honek bateria gehiago erabiliko du.</string>
+  <!-- Fingerprint -->
 </resources>

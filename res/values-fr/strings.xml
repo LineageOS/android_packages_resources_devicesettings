@@ -90,4 +90,5 @@
   <!-- Dialog texts -->
   <!-- Help texts -->
   <string name="dialog_ok">OK</string>
+  <!-- Fingerprint -->
 </resources>

@@ -105,4 +105,5 @@
   <string name="dialog_ok">ACEPTAR</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Axuda</string>
+  <!-- Fingerprint -->
 </resources>

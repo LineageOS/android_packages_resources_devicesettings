@@ -111,4 +111,5 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Apua</string>
   <string name="doze_settings_help_text">Ominaisuudet käyttää sensorin tapahtumia näyttääkseen ilmoituksia. Valittu sensori on vain käytössä kun laite saa ilmoituksen, tämä auttaa vähentämään akun kulutusta. Voit myös ottaa sensorit käyttöön kun näyttö on suljettu, mutta tämä kasvattaa akun kulutusta.</string>
+  <!-- Fingerprint -->
 </resources>

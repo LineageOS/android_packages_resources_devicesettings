@@ -111,4 +111,5 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Ajuda</string>
   <string name="doze_settings_help_text">Aquestes característiques utilitzen esdeveniments dels sensors per llançar una notificació latent. El sensor escollit només serà habilitat quan el dispositiu rebi una notificació, això ajuda a reduir l\'ús de la bateria. També hi ha una opció per habilitar el sensor escollit tan aviat com s\'apagui la pantalla, això causarà un major ús de la bateria.</string>
+  <!-- Fingerprint -->
 </resources>
