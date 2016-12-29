@@ -141,4 +141,6 @@
     <string name="fingerprint_title">Fingerprint</string>
     <string name="fingerprint_as_home_title">Fingerprint as home</string>
     <string name="fingerprint_as_home_summary">Use the fingerprint sensor as a home button</string>
+    <string name="fingerprint_wakeup_title">Fingerprint wake up</string>
+    <string name="fingerprint_wakeup_summary">Allow fingerprint sensor to wake the device while screen is off</string>
 </resources>
