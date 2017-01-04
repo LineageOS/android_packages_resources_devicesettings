@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa3479d7_79bf98d1",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2017-01-04T20:41:22Z",
+      "side": 1,
+      "message": "Is tapping the fingerprint sensor the only way to wake the device? (I assume so, unless there is some sort of gesture)",
+      "revId": "0c43d61abb2f8fbf3ef0681e0fa3a68245c2eeaa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
