@@ -16,6 +16,24 @@
       "revId": "0c43d61abb2f8fbf3ef0681e0fa3a68245c2eeaa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa3479d7_3987d011",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-01-04T21:03:04Z",
+      "side": 1,
+      "message": "Some sort of gesture on fingerprint? No, only tapping. Better saying, it\u0027s more a long-press than a tap because sensor takes some time to read the fingerprint. I would still prefer \"Allow the...\"",
+      "parentUuid": "fa3479d7_79bf98d1",
+      "revId": "0c43d61abb2f8fbf3ef0681e0fa3a68245c2eeaa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
