@@ -90,4 +90,7 @@
   <string name="dialog_ok">OK</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Hjälp</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Ytterligare knappar</string>
+  <string name="button_swap_title">Växla knappar</string>
 </resources>

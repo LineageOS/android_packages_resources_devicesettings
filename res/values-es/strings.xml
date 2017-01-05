@@ -81,4 +81,8 @@
   <string name="feedback_intensity_high">Alta</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">Botones adicionales</string>
+  <string name="button_swap_title">Cambiar botones</string>
+  <string name="button_swap_summary">Cambiar el orden de los botones \"recientes\" y \"atrás\"</string>
 </resources>

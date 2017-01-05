@@ -100,4 +100,8 @@
   <string name="dialog_ok">OK</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Βοήθεια</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Πρόσθετα πλήκτρα</string>
+  <string name="button_swap_title">Εναλλαγή πλήκτρων</string>
+  <string name="button_swap_summary">Εναλλαγή της διάταξης των πλήκτρων προσφάτων και πίσω</string>
 </resources>

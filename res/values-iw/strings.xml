@@ -106,4 +106,8 @@
   <string name="dialog_ok">אישור</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">עזרה</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">לחצנים נוספים</string>
+  <string name="button_swap_title">החלף בין לחצנים</string>
+  <string name="button_swap_summary">החלף את סדר הלחצנים ״חזור״ ו״אחרונים״</string>
 </resources>
