@@ -60,4 +60,8 @@
   <string name="feedback_intensity_high">高</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">更多按鍵</string>
+  <string name="button_swap_title">切換按鍵</string>
+  <string name="button_swap_summary">切換多工和返回鍵的順序</string>
 </resources>

@@ -86,4 +86,8 @@
   <string name="feedback_intensity_high">높게</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">기타 버튼</string>
+  <string name="button_swap_title">버튼 바꾸기</string>
+  <string name="button_swap_summary">최근 앱과 뒤로 버튼의 위치 바꾸기</string>
 </resources>

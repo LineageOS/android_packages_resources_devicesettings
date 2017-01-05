@@ -107,4 +107,8 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Súgó</string>
   <string name="doze_settings_help_text">Ezen funkció az érzékelő eseményeket használja a környezeti kijelző értesítési impulzusaihoz. A választott érzékelő csak akkor engedélyezett, ha a készülék értesítést kap, ez segít csökkenteni az akkumulátor használatát. Lehetőség van a választott érzékelő engedélyezésére is, amint a képernyő kikapcsol, de ez nagyobb akkumulátor használatot jelent.</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">További gombok</string>
+  <string name="button_swap_title">Gombok felcserélése</string>
+  <string name="button_swap_summary">Az előzmények és a vissza gomb sorrendjének felcserélése</string>
 </resources>

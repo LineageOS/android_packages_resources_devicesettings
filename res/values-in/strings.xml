@@ -89,4 +89,8 @@
   <string name="feedback_intensity_high">Kuat</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">Tombol tambahan</string>
+  <string name="button_swap_title">Tombol tukar</string>
+  <string name="button_swap_summary">Tukar urutan tombol terbaru dan kembali</string>
 </resources>

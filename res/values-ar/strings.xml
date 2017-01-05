@@ -86,4 +86,8 @@
   <string name="feedback_intensity_high">عالية</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">أزرار إضافية</string>
+  <string name="button_swap_title">تبديل الأزرار</string>
+  <string name="button_swap_summary">تبديل ترتيب أزرار حديث ورجوع</string>
 </resources>

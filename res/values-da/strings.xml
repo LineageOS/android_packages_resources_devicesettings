@@ -111,4 +111,8 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Hjælp</string>
   <string name="doze_settings_help_text">Disse funktioner bruger sensoraktiviteter til at starte en doze-notifikation. Den valgte sensor er kun aktiveret, når enheden modtager en notifikation, dette hjælper med at reducere batteriforbruget. Der er også en mulighed for at aktivere den valgte sensor, så snart skærmen slukkes, dette vil medføre højere batteribrug.</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Yderligere knapper</string>
+  <string name="button_swap_title">Ombyt knapper</string>
+  <string name="button_swap_summary">Byt om på rækkefølgen af knapperne seneste og tilbage</string>
 </resources>

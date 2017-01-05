@@ -138,6 +138,11 @@
     <string name="doze_settings_help_title">Help</string>
     <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
 
+    <!-- Button settings -->
+    <string name="button_panel_title">Additional buttons</string>
+    <string name="button_swap_title">Swap buttons</string>
+    <string name="button_swap_summary">Swap the order of recents and back buttons</string>
+
     <!-- Fingerprint -->
     <string name="fingerprint_title">Fingerprint</string>
     <string name="fingerprint_as_home_title">Fingerprint as home</string>

@@ -74,4 +74,8 @@
   <string name="feedback_intensity_high">Cao</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">Nút bổ sung</string>
+  <string name="button_swap_title">Nút đổi</string>
+  <string name="button_swap_summary">Đổi thứ tự của các nút gần đây và quay lại</string>
 </resources>

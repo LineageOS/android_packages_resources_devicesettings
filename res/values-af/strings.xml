@@ -105,4 +105,8 @@
   <string name="dialog_ok">OK</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Hulp</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Addisionele knoppies</string>
+  <string name="button_swap_title">Ruil knoppies</string>
+  <string name="button_swap_summary">Verander die volgorde van onlangse en terug knoppies</string>
 </resources>

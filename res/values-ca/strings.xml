@@ -111,4 +111,8 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Ajuda</string>
   <string name="doze_settings_help_text">Aquestes característiques utilitzen esdeveniments dels sensors per llançar una notificació latent. El sensor escollit només serà habilitat quan el dispositiu rebi una notificació, això ajuda a reduir l\'ús de la bateria. També hi ha una opció per habilitar el sensor escollit tan aviat com s\'apagui la pantalla, això causarà un major ús de la bateria.</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Botons addicionals</string>
+  <string name="button_swap_title">Intercanvia els botons</string>
+  <string name="button_swap_summary">Intercanvia l\'ordre dels botons recent i enrera</string>
 </resources>

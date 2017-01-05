@@ -111,4 +111,8 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Pomoč</string>
   <string name="doze_settings_help_text">Te značilnosti uporabljajo dogodke tipal za sprožitev utripanja obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo energije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo večjo porabo energije.</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Dodatni gumbi</string>
+  <string name="button_swap_title">Zamenjaj gumba</string>
+  <string name="button_swap_summary">Zamenjaj vrstni red gumbov Nedavno in Nazaj</string>
 </resources>

@@ -86,4 +86,8 @@
   <string name="feedback_intensity_high">สูง</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">ปุ่มเพิ่มเติม</string>
+  <string name="button_swap_title">สลับปุ่ม</string>
+  <string name="button_swap_summary">สลับตำแหน่งของปุ่มล่าสุดและปุ่มย้อนกลับ</string>
 </resources>
