@@ -111,4 +111,8 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">帮助</string>
   <string name="doze_settings_help_text">这些功能使用传感器启用打盹通知指示灯。选择的传感器仅在设备收到通知时开启，这将有助于减少电池用量。还有一个选项是当屏幕关闭后立即启用传感器，这会导致更多的电池用量。</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">更多按钮</string>
+  <string name="button_swap_title">交换按钮</string>
+  <string name="button_swap_summary">交换最近应用和后退按钮的顺序</string>
 </resources>

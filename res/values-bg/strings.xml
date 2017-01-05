@@ -100,4 +100,8 @@
   <string name="dialog_ok">ОK</string>
   <string name="doze_settings_help_title">Помощ</string>
   <string name="doze_settings_help_text">Тези функции използват сензорни събития да показват известия, когато устройството е в състояние на покой. Избраният сензор се активира само когато устройството получава уведомление, което помага за намаляване на използването на батерията. Има и опция за активиране на избрания сензор, така че екранът се изключва, което ще доведе до увеличаване на използването на батерията.</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Допълнителни бутони</string>
+  <string name="button_swap_title">Помени местата на бутоните</string>
+  <string name="button_swap_summary">Разменени бутонити \"Последни\" и \"Назад\"</string>
 </resources>

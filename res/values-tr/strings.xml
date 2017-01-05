@@ -86,4 +86,8 @@
   <string name="feedback_intensity_high">Yüksek</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">Ek düğmeler</string>
+  <string name="button_swap_title">Düğmeleri değiştir</string>
+  <string name="button_swap_summary">Son uygulamalar ve geri düğmesinin sırasını değiştir</string>
 </resources>

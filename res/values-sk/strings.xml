@@ -67,4 +67,8 @@
   <string name="feedback_intensity_high">Vysoká</string>
   <!-- Dialog texts -->
   <!-- Help texts -->
+  <!-- Button settings -->
+  <string name="button_panel_title">Ďalšie tlačítka</string>
+  <string name="button_swap_title">Vymeniť tlačítka</string>
+  <string name="button_swap_summary">Vymeniť poradie tlačítok nedávne a späť</string>
 </resources>

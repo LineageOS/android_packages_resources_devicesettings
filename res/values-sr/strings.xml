@@ -107,4 +107,8 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Помоћ</string>
   <string name="doze_settings_help_text">Ова функција користи активирање сензора да покрене пулсно обавештење. Изабрани сензор је омогућен једино када уређај прима обавештење, то помаже смањењу потрожње батерије. Ту је и опција омогућења изабраног сензора чим се екран искључи, то ће узроковати већој потрожњи батерије.</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Додатна дугмад</string>
+  <string name="button_swap_title">Замени дугмад</string>
+  <string name="button_swap_summary">Замени редослед за скоро и назад</string>
 </resources>

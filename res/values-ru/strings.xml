@@ -111,4 +111,8 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Информация</string>
   <string name="doze_settings_help_text">Эти функции используют события датчиков для отображения уведомлений. Датчик проверяется только при поступлении нового уведомления, что помогает сэкономить заряд батареи. Можно активировать включение датчика сразу при отключении экрана устройства, однако это может ускорить разряд батареи.</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Дополнительные кнопки</string>
+  <string name="button_swap_title">Поменять кнопки местами</string>
+  <string name="button_swap_summary">Поменять местами кнопки «Обзор» и «Назад»</string>
 </resources>

@@ -90,4 +90,8 @@
   <!-- Dialog texts -->
   <!-- Help texts -->
   <string name="dialog_ok">OK</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Boutons supplémentaires</string>
+  <string name="button_swap_title">Permuter les boutons</string>
+  <string name="button_swap_summary">Permuter les boutons retour et récents</string>
 </resources>
