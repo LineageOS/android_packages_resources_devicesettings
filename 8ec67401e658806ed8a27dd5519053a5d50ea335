@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa3479d7_208668ba",
+        "filename": "res/values-bg/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 15037
+      },
+      "writtenOn": "2017-01-06T11:55:50Z",
+      "side": 1,
+      "message": "Need to be \"??????? ??????? ?? ????????\"",
+      "revId": "8ec67401e658806ed8a27dd5519053a5d50ea335",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
