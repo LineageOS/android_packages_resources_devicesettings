@@ -115,4 +115,10 @@
   <string name="button_panel_title">Дополнительные кнопки</string>
   <string name="button_swap_title">Поменять кнопки местами</string>
   <string name="button_swap_summary">Поменять местами кнопки «Обзор» и «Назад»</string>
+  <!-- Fingeprint reader settings -->
+  <string name="fp_title">Сканер отпечатка пальца</string>
+  <string name="fp_home_title">Сканер отпечатка пальца как кнопка "Домой"</string>
+  <string name="fp_home_summary">Использовать сканер отпечатка пальца как кнопку "Домой"</string>
+  <string name="fp_wakeup_title">Разблокировка устройство отпечатком пальца</string>
+  <string name="fp_wakeup_summary">Разрешить разблокировку устройства отпечатком пальца, когда экран выключен</string>
 </resources>
