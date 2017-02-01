@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Açık</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Kapalı</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Gelişmiş ayarlar</string>
   <!-- Device gestures panel -->
@@ -28,10 +30,13 @@
   <string name="touchscreen_gesture_haptic_feedback">Dokunmatik geri bildirim</string>
   <string name="touchscreen_gesture_haptic_feedback_summary">Bir hareket algılandığında titrer</string>
   <!-- Touchscreen gestures -->
+  <string name="gesture_display_title">Kapalı ekranda kısayollar</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>
   <string name="touchscreen_c_gesture_summary">Kamerayı etkinleştirmek için bir \"C\" çizin</string>
   <string name="touchscreen_e_gesture_title">E-Posta</string>
   <string name="touchscreen_e_gesture_summary">E-posta uygulamasını açmak için bir \"e\" çizin</string>
+  <string name="touchscreen_m_gesture_title">Mesajlaşma</string>
+  <string name="touchscreen_m_gesture_summary">Mesaj uygulamasını açmak için \"M\" çizin</string>
   <string name="touchscreen_s_gesture_title">Mesajlaşma</string>
   <string name="touchscreen_s_gesture_summary">Mesaj uygulamasını açmak için \"S\" çizin</string>
   <string name="touchscreen_v_gesture_title">Telefon</string>
@@ -40,6 +45,13 @@
   <string name="touchscreen_w_gesture_summary">Tarayıcı uygulamasını açmak için \"W\" çizin</string>
   <string name="touchscreen_z_gesture_title">El feneri</string>
   <string name="touchscreen_z_gesture_summary">El fenerini açıp kapatmak için \'Z\' çizin</string>
+  <string name="touchscreen_flashlight_gesture_title">El Feneri</string>
+  <string name="touchscreen_flashlight_gesture_summary">El feneri için daire çiz</string>
+  <string name="touchscreen_music_gesture_title">Müzik</string>
+  <string name="touchscreen_music_gesture_summary">Müziği kontrol etmek için hareketlerinizi kullanın\n
+    • Parçayı oynatmak/durdurmak için aşağı\n
+    • Önceki parçayı oynatmak için sola\n
+    • Sonraki parça için sağa kaydırın</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Etkileşimli ekran</string>
   <string name="user_aware_display_summary">Kullanıcı ekranın önündeyken ekranı açık tutar</string>
@@ -47,12 +59,19 @@
   <string name="ambient_display_title">Bildirim ekranı</string>
   <string name="ambient_display_enable_title">Bildirim ekranı</string>
   <string name="ambient_display_enable_summary">Bildirim aldığınızda ekranı uyandırın</string>
+  <string name="ambient_display_summary">Bildirim geldiğinde cihazı uyandır</string>
+  <string name="ambient_display_summary_on">Bildirimler aldığınızda ekran uyanacak</string>
+  <string name="ambient_display_summary_off">Bildirimler aldığınızda ekran uyanmayacak</string>
   <!-- Tilt sensor -->
+  <string name="tilt_sensor_title">Eğrilik sensörü</string>
   <!-- Proximity sensor -->
+  <string name="proximity_sensor_title">Yakınlık sensörü</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">El sallama</string>
   <string name="hand_wave_gesture_summary">El sallayınca bildirimleri at</string>
   <!-- Pick-up gesture -->
+  <string name="pick_up_gesture_title">Kaldır</string>
+  <string name="pick_up_gesture_summary">Telefonu kaldırınca bildirimleri göster</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Cep</string>
   <string name="pocket_gesture_summary">Cepten çıkarınca bildirimleri at</string>
@@ -72,8 +91,13 @@
   <string name="hand_wave_silencer_title">Sessize almak için sallayın</string>
   <string name="hand_wave_silencer_summary">Elinizi ekranın üstünde sallayarak gelen çağrıları sessize alın</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">Rahatsız Etmeyin Modu için döndür</string>
+  <string name="flip_to_mute_summary">Sessize almak için telefonu ters döndür</string>
   <!-- Do Not Disturb access -->
+  <string name="dnd_access">Bu özelliği kullanmak CMActions\'a izin ver.</string>
   <!-- Lift to silence gesture -->
+  <string name="lift_to_silence_title">Zil sesini susturmak için cihazı kaldır</string>
+  <string name="lift_to_silence_summary">Gelen aramaları susturmak için telefonu kaldır</string>
   <!-- Action toggles -->
   <string name="action_none">Devre dışı</string>
   <string name="action_launch_camera">Kamerayı başlat</string>
@@ -86,7 +110,18 @@
   <string name="feedback_intensity_medium">Orta</string>
   <string name="feedback_intensity_high">Yüksek</string>
   <!-- Dialog texts -->
+  <string name="dialog_ok">TAMAM</string>
   <!-- Help texts -->
+  <string name="doze_settings_help_title">Yardım</string>
+  <string name="doze_settings_help_text">Doze özelliği çalışmak için sensörleri kullanır. Seçilen sensör yalnızca cihaz bildirim aldığında etkinleştirilir, pil kullanımını azaltmaya yardımcı olur. Seçilen sensörü ekran kapanır kaldırılmaz etkinleştirebilirsiniz ancak bu yüksek pil kullanımına neden olur.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Ek düğmeler</string>
+  <string name="button_swap_title">Düğmeleri değiştir</string>
+  <string name="button_swap_summary">Son uygulamalar ve geri düğmesinin sırasını değiştir</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Parmak İzi</string>
+  <string name="fingerprint_as_home_title">Ana ekran için parmak izi</string>
+  <string name="fingerprint_as_home_summary">Parmak izi sensörünü home tuşu olarak kullan</string>
+  <string name="fingerprint_wakeup_title">Parmak izi ile uyandırma</string>
+  <string name="fingerprint_wakeup_summary">Ekran kapalı iken cihazın uyandırmak için parmak izine onay ver</string>
 </resources>

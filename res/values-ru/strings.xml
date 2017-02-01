@@ -35,6 +35,8 @@
   <string name="touchscreen_c_gesture_summary">Нарисуйте букву «C», чтобы включить камеру</string>
   <string name="touchscreen_e_gesture_title">Эл. почта</string>
   <string name="touchscreen_e_gesture_summary">Нарисуйте букву «е», чтобы открыть приложение электронной почты</string>
+  <string name="touchscreen_m_gesture_title">Сообщения</string>
+  <string name="touchscreen_m_gesture_summary">Нарисуйте букву «M», чтобы открыть приложение для обмена сообщениями</string>
   <string name="touchscreen_s_gesture_title">Сообщения</string>
   <string name="touchscreen_s_gesture_summary">Нарисуйте букву «S», чтобы открыть приложение для обмена сообщениями</string>
   <string name="touchscreen_v_gesture_title">Телефон</string>
@@ -113,5 +115,10 @@
   <string name="doze_settings_help_title">Информация</string>
   <string name="doze_settings_help_text">Эти функции используют события датчиков для отображения уведомлений. Датчик проверяется только при поступлении нового уведомления, что помогает сэкономить заряд батареи. Можно активировать включение датчика сразу при отключении экрана устройства, однако это может ускорить разряд батареи.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Дополнительные кнопки</string>
+  <string name="button_swap_title">Поменять кнопки местами</string>
+  <string name="button_swap_summary">Поменять местами кнопки «Обзор» и «Назад»</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Сканер отпечатка пальца</string>
+  <string name="fingerprint_as_home_title">Сканер отпечатка пальца как кнопка «Домой»</string>
 </resources>

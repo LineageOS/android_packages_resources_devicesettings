@@ -35,6 +35,8 @@
   <string name="touchscreen_c_gesture_summary">Cを描いてカメラを有効にする</string>
   <string name="touchscreen_e_gesture_title">メール</string>
   <string name="touchscreen_e_gesture_summary">eを描いてメールアプリを開く</string>
+  <string name="touchscreen_m_gesture_title">メッセージ</string>
+  <string name="touchscreen_m_gesture_summary">Mを描いてメッセージアプリを開く</string>
   <string name="touchscreen_s_gesture_title">メッセージ</string>
   <string name="touchscreen_s_gesture_summary">Sを描いてメッセージアプリを開く</string>
   <string name="touchscreen_v_gesture_title">電話</string>
@@ -113,5 +115,13 @@
   <string name="doze_settings_help_title">ヘルプ</string>
   <string name="doze_settings_help_text">これらの機能は、Doze通知点滅表示を起動するためにセンサーイベントを使用します。電池の使用量を削減するために、端末が通知を受信した時にのみ選択したセンサーが有効になります。画面を消灯した直後から選択したセンサーを有効にするオプションもありますが、電池の使用量が多くなります。</string>
   <!-- Button settings -->
+  <string name="button_panel_title">追加のボタン</string>
+  <string name="button_swap_title">ボタンを入れ替える</string>
+  <string name="button_swap_summary">アプリ履歴ボタンと戻るボタンの位置を入れ替える</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">指紋</string>
+  <string name="fingerprint_as_home_title">指紋センサーをホームボタンにする</string>
+  <string name="fingerprint_as_home_summary">指紋センサーをホームボタンとして使用します</string>
+  <string name="fingerprint_wakeup_title">指紋で復帰</string>
+  <string name="fingerprint_wakeup_summary">画面が消灯しているとき指紋センサーを使ってスリープを解除します</string>
 </resources>

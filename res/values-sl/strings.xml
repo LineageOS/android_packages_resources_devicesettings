@@ -35,6 +35,8 @@
   <string name="touchscreen_c_gesture_summary">Narišite \"C\" za zagon fotoaparata</string>
   <string name="touchscreen_e_gesture_title">E-pošta</string>
   <string name="touchscreen_e_gesture_summary">Narišite \"e\", da odprete aplikacijo za e-pošto</string>
+  <string name="touchscreen_m_gesture_title">Sporočanje</string>
+  <string name="touchscreen_m_gesture_summary">Narišite \"M\", da odprete aplikacijo za sporočanje</string>
   <string name="touchscreen_s_gesture_title">Sporočanje</string>
   <string name="touchscreen_s_gesture_summary">Narišite \"S\", da odprete aplikacijo za sporočanje</string>
   <string name="touchscreen_v_gesture_title">Klicalnik</string>
@@ -113,5 +115,11 @@
   <string name="doze_settings_help_title">Pomoč</string>
   <string name="doze_settings_help_text">Te značilnosti uporabljajo dogodke tipal za sprožitev utripanja obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo energije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo večjo porabo energije.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Dodatni gumbi</string>
+  <string name="button_swap_title">Zamenjaj gumbe</string>
+  <string name="button_swap_summary">Zamenjaj vrstni red gumbov Nedavno in Nazaj</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Prstni odtis</string>
+  <string name="fingerprint_as_home_summary">Uporabi čitalec prstnih odtisov kot gumb Domov</string>
+  <string name="fingerprint_wakeup_title">Zbudi s prstnim odtisom</string>
 </resources>

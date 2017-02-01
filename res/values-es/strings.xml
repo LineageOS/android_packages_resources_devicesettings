@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Activado</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Desactivado</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Ajustes avanzados</string>
   <!-- Device gestures panel -->
@@ -32,6 +34,7 @@
   <string name="touchscreen_c_gesture_summary">Dibuja una \"C\" para activar la cámara</string>
   <string name="touchscreen_e_gesture_title">Correo electrónico</string>
   <string name="touchscreen_e_gesture_summary">Dibuja una \"e\" para abrir la aplicación de correo electrónico</string>
+  <string name="touchscreen_m_gesture_title">Mensajes</string>
   <string name="touchscreen_s_gesture_title">Mensajes</string>
   <string name="touchscreen_s_gesture_summary">Dibuja una \"S\" para abrir la aplicación de mensajería</string>
   <string name="touchscreen_v_gesture_title">Marcador</string>
