@@ -36,7 +36,7 @@
   <string name="touchscreen_e_gesture_title">E-mail</string>
   <string name="touchscreen_e_gesture_summary">Teken een \"e\" om e-mail-app te openen</string>
   <string name="touchscreen_m_gesture_title">Berichten</string>
-  <string name="touchscreen_m_gesture_summary">Teken een \"M\" om de berichten app te openen</string>
+  <string name="touchscreen_m_gesture_summary">Teken een \"M\" om berichten-app te openen</string>
   <string name="touchscreen_s_gesture_title">Berichten</string>
   <string name="touchscreen_s_gesture_summary">Teken een \"S\" om berichten-app te openen</string>
   <string name="touchscreen_v_gesture_title">Telefoon</string>
@@ -120,8 +120,8 @@
   <string name="button_swap_summary">Recente apps- en Terugknop omwisselen</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Vingerafdruk</string>
-  <string name="fingerprint_as_home_title">Vingerafdruk als home-knop</string>
-  <string name="fingerprint_as_home_summary">De vingerafdruk sensor gebruiken als de home-knop</string>
-  <string name="fingerprint_wakeup_title">Ontwaak van vingerafdruk</string>
-  <string name="fingerprint_wakeup_summary">Toestaan om te ontwaken van een vingerafdruk wanneer het scherm uit is</string>
+  <string name="fingerprint_as_home_title">Vingerafdruk als thuisknop</string>
+  <string name="fingerprint_as_home_summary">Vingerafdruksensor gebruiken als thuisknop</string>
+  <string name="fingerprint_wakeup_title">Ontwaken via vingerafdruk</string>
+  <string name="fingerprint_wakeup_summary">Apparaat ontwaken met vingerafdruk als scherm uit is</string>
 </resources>

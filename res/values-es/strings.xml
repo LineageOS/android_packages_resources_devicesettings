@@ -30,11 +30,13 @@
   <string name="touchscreen_gesture_haptic_feedback">Respuesta háptica</string>
   <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cuando se detecte un gesto</string>
   <!-- Touchscreen gestures -->
+  <string name="gesture_display_title">Gestos con pantalla apagada</string>
   <string name="touchscreen_c_gesture_title">Cámara</string>
   <string name="touchscreen_c_gesture_summary">Dibuja una \"C\" para activar la cámara</string>
   <string name="touchscreen_e_gesture_title">Correo electrónico</string>
   <string name="touchscreen_e_gesture_summary">Dibuja una \"e\" para abrir la aplicación de correo electrónico</string>
   <string name="touchscreen_m_gesture_title">Mensajes</string>
+  <string name="touchscreen_m_gesture_summary">Dibuja una \"M\" para abrir la aplicación de mensajería</string>
   <string name="touchscreen_s_gesture_title">Mensajes</string>
   <string name="touchscreen_s_gesture_summary">Dibuja una \"S\" para abrir la aplicación de mensajería</string>
   <string name="touchscreen_v_gesture_title">Marcador</string>
@@ -43,6 +45,13 @@
   <string name="touchscreen_w_gesture_summary">Dibuja una \"W\" para abrir la aplicación del navegador</string>
   <string name="touchscreen_z_gesture_title">Linterna</string>
   <string name="touchscreen_z_gesture_summary">Dibuja una \"Z\" para conmutar la linterna</string>
+  <string name="touchscreen_flashlight_gesture_title">Linterna</string>
+  <string name="touchscreen_flashlight_gesture_summary">Dibuja un círculo para activar la linterna</string>
+  <string name="touchscreen_music_gesture_title">Música</string>
+  <string name="touchscreen_music_gesture_summary">Utilizar gestos para controlar la reproducción de música \n
+    • Desliza hacia abajo para iniciar/pausar\n
+    • Desliza a la izquierda para la pista anterior\n
+    • Desliza a la derecha para la pista siguiente</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Pantalla en función de la presencia del usuario</string>
   <string name="user_aware_display_summary">Mantener la pantalla encendida mientras el usuario esté frente a ella</string>
@@ -50,8 +59,13 @@
   <string name="ambient_display_title">Pantalla ambiental</string>
   <string name="ambient_display_enable_title">Pantalla ambiental</string>
   <string name="ambient_display_enable_summary">Activar la pantalla cuando se reciben notificaciones</string>
+  <string name="ambient_display_summary">Activar la pantalla cuando recibas notificaciones</string>
+  <string name="ambient_display_summary_on">La pantalla se activará cuando reciba las notificaciones</string>
+  <string name="ambient_display_summary_off">La pantalla se activará cuando reciba las notificaciones</string>
   <!-- Tilt sensor -->
+  <string name="tilt_sensor_title">Sensor de inclinación</string>
   <!-- Proximity sensor -->
+  <string name="proximity_sensor_title">Sensor de proximidad</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Pasar la mano</string>
   <string name="hand_wave_gesture_summary">Mostrar notificaciones cuando se pase la mano por el dispositivo</string>
@@ -66,12 +80,24 @@
   <string name="proximity_wake_enable_title">Despertar por proximidad</string>
   <string name="proximity_wake_enable_summary">Despertar el dispositivo al agitar</string>
   <!-- Device actions -->
+  <string name="actions_title">Acciones</string>
   <!-- Camera gesture -->
+  <string name="camera_gesture_title">Doble giro</string>
+  <string name="camera_gesture_summary">Abrir cámara cuando se use el gesto de doble giro</string>
   <!-- Chop-chop gesture -->
+  <string name="chop_chop_gesture_title">Doble sacudida</string>
+  <string name="chop_chop_gesture_summary">Alternar linterna cuando se usa el gesto de doble sacudida</string>
   <!-- Hand wave silencer gesture -->
+  <string name="hand_wave_silencer_title">Agitar para silenciar la llamada</string>
+  <string name="hand_wave_silencer_summary">Silenciar llamada al pasar la mano por la pantalla</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">Voltear para modo No Molestar</string>
+  <string name="flip_to_mute_summary">Colocar teléfono boca abajo para silenciar notificaciones y llamadas</string>
   <!-- Do Not Disturb access -->
+  <string name="dnd_access">Por favor, dar acceso de no molestar a CMActions para poder utilizar esta función.</string>
   <!-- Lift to silence gesture -->
+  <string name="lift_to_silence_title">Recoger para dejar de sonar</string>
+  <string name="lift_to_silence_summary">Levante el teléfono para silenciar las llamadas entrantes. Sólo funciona cuando el teléfono inicia sobre una superficie plana</string>
   <!-- Action toggles -->
   <string name="action_none">Desactivar</string>
   <string name="action_launch_camera">Iniciar cámara</string>
@@ -84,7 +110,18 @@
   <string name="feedback_intensity_medium">Media</string>
   <string name="feedback_intensity_high">Alta</string>
   <!-- Dialog texts -->
+  <string name="dialog_ok">OK</string>
   <!-- Help texts -->
+  <string name="doze_settings_help_title">Ayuda</string>
+  <string name="doze_settings_help_text">Estas características usan eventos de sensor para lanzar un pulso de notificación doze. El sensor elegido sólo se activa cuando el dispositivo recibe una notificación, esto ayuda a reducir el uso de la batería. También hay una opción para activar el sensor elegido tan pronto como la pantalla se apaga, esto hará que un mayor uso de la batería.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Botones adicionales</string>
+  <string name="button_swap_title">Intercambiar botones</string>
+  <string name="button_swap_summary">Cambiar el orden de los botones \"recientes\" y \"atrás\"</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Huella dactilar</string>
+  <string name="fingerprint_as_home_title">Huella dactilar como inicio</string>
+  <string name="fingerprint_as_home_summary">Usar el sensor de huellas dactilares como botón de inicio</string>
+  <string name="fingerprint_wakeup_title">Activado por huella dactilar</string>
+  <string name="fingerprint_wakeup_summary">Permitir al sensor de huellas dactilares activar el dispositivo cuando la pantalla este apagada</string>
 </resources>

@@ -18,9 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Uključen</string>
+  <string name="switch_bar_on">Uključeno</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Isključen</string>
+  <string name="switch_bar_off">Isključeno</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Napredne postavke</string>
   <!-- Device gestures panel -->
@@ -28,13 +28,15 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Dodatno</string>
   <string name="touchscreen_gesture_haptic_feedback">Dodirna povratna informacija</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibriraj kad je gesta prepoznata</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibracija kada se gesta prepozna</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Geste isključenog zaslona</string>
   <string name="touchscreen_c_gesture_title">Fotoaparat</string>
   <string name="touchscreen_c_gesture_summary">Nacrtajte \"C\" da biste aktivirali Fotoaparat</string>
   <string name="touchscreen_e_gesture_title">E-pošta</string>
   <string name="touchscreen_e_gesture_summary">Nacrtajte \"e\" da biste otvorili aplikaciju e-pošte</string>
+  <string name="touchscreen_m_gesture_title">Poruke</string>
+  <string name="touchscreen_m_gesture_summary">Nacrtajte \"M\" za otvaranje aplikacije Poruke</string>
   <string name="touchscreen_s_gesture_title">Poruke</string>
   <string name="touchscreen_s_gesture_summary">Nacrtajte \"S\" za otvaranje aplikacije Poruke</string>
   <string name="touchscreen_v_gesture_title">Brojčana tipkovnica</string>
@@ -113,5 +115,13 @@
   <string name="doze_settings_help_title">Pomoć</string>
   <string name="doze_settings_help_text">Te značajke koriste događaje senzora za pokretanje pulsiranja obavijesti. Odabrani senzor je omogućen jedino kada uređaj primi obavijest, to pomaže smanjenju potrošnje baterije. Tu je i opcija omogućenja odabranog senzora čim se zaslon isključi, to će uzrokovati veću potrošnju baterije.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Dodatne tipke</string>
+  <string name="button_swap_title">Zamijeni tipke</string>
+  <string name="button_swap_summary">Zamijeni redoslijed tipke za prikaz nedavnih aplikacije i tipke za povratak natrag</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Otisak prsta</string>
+  <string name="fingerprint_as_home_title">Otisak prsta kao početni gumb</string>
+  <string name="fingerprint_as_home_summary">Upotrebljavajte senzor za otisak prsta kao gumb za početni zaslon</string>
+  <string name="fingerprint_wakeup_title">Buđenje otiskom</string>
+  <string name="fingerprint_wakeup_summary">Omogućite senzoru otiska prsta da probudi uređaj kad je zaslon isključen.</string>
 </resources>

@@ -35,6 +35,8 @@
   <string name="touchscreen_c_gesture_summary">Tegn et \"C\" for at aktivere kameraet</string>
   <string name="touchscreen_e_gesture_title">Email</string>
   <string name="touchscreen_e_gesture_summary">Tegn et \"e\" for at åbne email-appen</string>
+  <string name="touchscreen_m_gesture_title">Beskeder</string>
+  <string name="touchscreen_m_gesture_summary">Tegn et \"M\" for at åbne Beskeder</string>
   <string name="touchscreen_s_gesture_title">Beskeder</string>
   <string name="touchscreen_s_gesture_summary">Tegn et \"S\" for at åbne besked-appen</string>
   <string name="touchscreen_v_gesture_title">Telefon</string>
@@ -113,5 +115,13 @@
   <string name="doze_settings_help_title">Hjælp</string>
   <string name="doze_settings_help_text">Disse funktioner bruger sensoraktiviteter til at starte en doze-notifikation. Den valgte sensor er kun aktiveret, når enheden modtager en notifikation, dette hjælper med at reducere batteriforbruget. Der er også en mulighed for at aktivere den valgte sensor, så snart skærmen slukkes, dette vil medføre højere batteribrug.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Yderligere knapper</string>
+  <string name="button_swap_title">Ombyt knapper</string>
+  <string name="button_swap_summary">Byt om på rækkefølgen af knapperne seneste og tilbage</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Fingeraftryk</string>
+  <string name="fingerprint_as_home_title">Fingeraftryk som startknap</string>
+  <string name="fingerprint_as_home_summary">Brug fingeraftrykssensoren som startknap</string>
+  <string name="fingerprint_wakeup_title">Vækning med fingeraftryk</string>
+  <string name="fingerprint_wakeup_summary">Tillad fingeraftrykssensoren at vække enheden, mens skærmen er slukket</string>
 </resources>

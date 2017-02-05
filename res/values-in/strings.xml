@@ -25,7 +25,7 @@
   <string name="screen_gestures_panel_title">Gerakan</string>
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Tambahan</string>
-  <string name="touchscreen_gesture_haptic_feedback">Loloh balik haptic</string>
+  <string name="touchscreen_gesture_haptic_feedback">Umpan balik haptic</string>
   <string name="touchscreen_gesture_haptic_feedback_summary">Bergetar pada saat gerakan terdeteksi</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Gerakan layar mati</string>
@@ -33,6 +33,8 @@
   <string name="touchscreen_c_gesture_summary">Gambar \"C\" untuk mengaktifkan kamera</string>
   <string name="touchscreen_e_gesture_title">Surel</string>
   <string name="touchscreen_e_gesture_summary">Gambar \"e\" untuk membuka aplikasi surel</string>
+  <string name="touchscreen_m_gesture_title">Pesan</string>
+  <string name="touchscreen_m_gesture_summary">Gambar \"M\" untuk membuka aplikasi pesan</string>
   <string name="touchscreen_s_gesture_title">Pesan</string>
   <string name="touchscreen_s_gesture_summary">Gambar \"S\" untuk membuka aplikasi pesan</string>
   <string name="touchscreen_v_gesture_title">Pendial</string>
@@ -41,6 +43,8 @@
   <string name="touchscreen_w_gesture_summary">Gambar \"W\" untuk membuka aplikasi peramban</string>
   <string name="touchscreen_z_gesture_title">Senter</string>
   <string name="touchscreen_z_gesture_summary">Gambar \"Z\" untuk mengaktifkan/menonaktifkan senter</string>
+  <string name="touchscreen_flashlight_gesture_title">Senter</string>
+  <string name="touchscreen_music_gesture_title">Musik</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Tampilan sadar pengguna</string>
   <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
@@ -89,7 +93,10 @@
   <string name="feedback_intensity_medium">Sedang</string>
   <string name="feedback_intensity_high">Kuat</string>
   <!-- Dialog texts -->
+  <string name="dialog_ok">Oke</string>
   <!-- Help texts -->
+  <string name="doze_settings_help_title">Bantuan</string>
   <!-- Button settings -->
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Sidik jari</string>
 </resources>
