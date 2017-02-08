@@ -110,7 +110,7 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Pomoc</string>
   <!-- Button settings -->
-  <string name="button_panel_title">Przyciski</string>
+  <string name="button_panel_title">Klawisze</string>
   <string name="button_swap_title">Zamień przyciski</string>
   <string name="button_swap_summary">Zamień miejscami przyciski ostatnie aplikacje oraz wstecz</string>
 
