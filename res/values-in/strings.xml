@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Aktif</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Nonaktif</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Pengaturan lanjut</string>
   <!-- Device gestures panel -->
@@ -44,7 +46,12 @@
   <string name="touchscreen_z_gesture_title">Senter</string>
   <string name="touchscreen_z_gesture_summary">Gambar \"Z\" untuk mengaktifkan/menonaktifkan senter</string>
   <string name="touchscreen_flashlight_gesture_title">Senter</string>
+  <string name="touchscreen_flashlight_gesture_summary">Gambar sebuah lingkaran untuk menyalakan lampu senter</string>
   <string name="touchscreen_music_gesture_title">Musik</string>
+  <string name="touchscreen_music_gesture_summary">Gunakan gerakan untuk mengontrol pemutaran musik \n
+    • Usap ke bawah untuk putar/jeda\n
+    • Usap ke kiri untuk trek sebelumnya\n
+    • Usap ke kanan untuk trek selanjutnya</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Tampilan sadar pengguna</string>
   <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
@@ -52,8 +59,12 @@
   <string name="ambient_display_title">Tampilan ambien</string>
   <string name="ambient_display_enable_title">Tampilan ambien</string>
   <string name="ambient_display_enable_summary">Bangunkan layar saat Anda menerima Pemberitahuan</string>
+  <string name="ambient_display_summary_on">Layar akan hidup ketika menerima pemberitahuan</string>
+  <string name="ambient_display_summary_off">Layar tidak akan hidup ketika menerima pemberitahuan</string>
   <!-- Tilt sensor -->
+  <string name="tilt_sensor_title">Sensor kemiringan</string>
   <!-- Proximity sensor -->
+  <string name="proximity_sensor_title">Sensor jarak</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Guncang Tangan</string>
   <string name="hand_wave_gesture_summary">Kedipakan pemberitahuan saat melambaikan tangan</string>
@@ -79,8 +90,12 @@
   <string name="hand_wave_silencer_title">Lambai untuk senyap</string>
   <string name="hand_wave_silencer_summary">Senyapkan panggilan masuk dengan melambaikan tangan di depan layar</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">Membalik untuk Jangan Ganggu</string>
+  <string name="flip_to_mute_summary">Balik layar telepon ke bawah untuk mengabaikan notifikasi dan panggilan</string>
   <!-- Do Not Disturb access -->
+  <string name="dnd_access">Silahkan berikan akses Jangan Ganggu ke CMActions untuk menggunakan fitur ini.</string>
   <!-- Lift to silence gesture -->
+  <string name="lift_to_silence_title">Angkat untuk menghentikan dering</string>
   <!-- Action toggles -->
   <string name="action_none">Nonaktifkan</string>
   <string name="action_launch_camera">Buka kamera</string>
@@ -97,6 +112,8 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Bantuan</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Tombol tambahan</string>
+  <string name="button_swap_summary">Tukar urutan tombol terkini dan kembali</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Sidik jari</string>
 </resources>

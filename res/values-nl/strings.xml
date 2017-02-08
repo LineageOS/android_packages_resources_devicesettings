@@ -97,7 +97,7 @@
   <string name="dnd_access">Geef CMActies toegang tot \'Niet storen\' om deze functie te gebruiken.</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Oppakken om te stoppen met rinkelen</string>
-  <string name="lift_to_silence_summary">Til de telefoon op om binnenkomende oproepen te dempen. Werkt alleen als de telefoon al plat ligt</string>
+  <string name="lift_to_silence_summary">Til de telefoon op om inkomende oproepen te dempen. Werkt alleen als de telefoon al plat ligt</string>
   <!-- Action toggles -->
   <string name="action_none">Uitschakelen</string>
   <string name="action_launch_camera">Camera openen</string>
