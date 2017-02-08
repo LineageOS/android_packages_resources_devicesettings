@@ -110,5 +110,14 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Pomoc</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Dodatkowe przyciski</string>
+  <string name="button_swap_title">Zamień przyciski</string>
+  <string name="button_swap_summary">Zamień miejscami przyciski ostatnie aplikacje oraz wstecz</string>
+
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Czytnik linii papilarnych</string>
+  <string name="fingerprint_as_home_title">Klawisz home</string>
+  <string name="fingerprint_as_home_summary">Użyj czytnika linii papilarnych jako klawisz home</string>
+  <string name="fingerprint_wakeup_title">Wybudzanie</string>
+  <string name="fingerprint_wakeup_summary">Zezwól, aby czytnik linii papilarnych wybudzał ekran</string>
 </resources>
