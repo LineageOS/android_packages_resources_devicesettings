@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">מופעל</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">כבוי</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">הגדרות מתקדמות</string>
   <!-- Device gestures panel -->
@@ -33,6 +35,8 @@
   <string name="touchscreen_c_gesture_summary">צייר \"C\" כדי להפעיל את המצלמה</string>
   <string name="touchscreen_e_gesture_title">דוא\"ל</string>
   <string name="touchscreen_e_gesture_summary">צייר \"e\" כדי להפעיל את יישום הדוא\"ל</string>
+  <string name="touchscreen_m_gesture_title">הודעות</string>
+  <string name="touchscreen_m_gesture_summary">צייר \"M\" כדי להפעיל את יישום ההודעות</string>
   <string name="touchscreen_s_gesture_title">הודעות</string>
   <string name="touchscreen_s_gesture_summary">צייר \"S\" כדי להפעיל את יישום ההודעות</string>
   <string name="touchscreen_v_gesture_title">חייגן</string>
@@ -56,6 +60,8 @@
   <string name="ambient_display_enable_title">תצוגת התראות עמומה</string>
   <string name="ambient_display_enable_summary">הפעל את המסך בעת קבלת התראות</string>
   <string name="ambient_display_summary">הפעל את המסך כשמתקבלות התראות</string>
+  <string name="ambient_display_summary_on">המסך יופעל כשמתקבלות התראות</string>
+  <string name="ambient_display_summary_off">המסך לא יופעל כשמתקבלות התראות</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">חיישן הטייה</string>
   <!-- Proximity sensor -->
@@ -107,6 +113,15 @@
   <string name="dialog_ok">אישור</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">עזרה</string>
+  <string name="doze_settings_help_text">התכונות נעזרות בחיישנים כדי להפעיל את נורית ההתראות עם Doze. החיישן הנבחר מופעל רק כאשר המכשיר מקבל התראה, מה שעוזר להקטין את השימוש בסוללה. בנוסף, ישנה אפשרות להפעיל את החיישן הנבחר ברגע שהמסך נכבה, מה שעלול לגרום לשימוש רב יותר בסוללה.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">מקשים נוספים</string>
+  <string name="button_swap_title">החלף בין מקשים</string>
+  <string name="button_swap_summary">החלף בין המקש \"חזור\" ל\"אחרונים\"</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">טביעת אצבע</string>
+  <string name="fingerprint_as_home_title">טביעת אצבע כמקש הבית</string>
+  <string name="fingerprint_as_home_summary">השתמש בטביעת האצבע כמקש הבית</string>
+  <string name="fingerprint_wakeup_title">טביעת אצבע מעירה את המסך</string>
+  <string name="fingerprint_wakeup_summary">אפשר לחיישן טביעת האצבע להפעיל את המכשיר כשהמסך כבוי</string>
 </resources>

@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Увімкнено</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Вимкнено</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Додаткові налаштування</string>
   <!-- Device gestures panel -->
@@ -28,6 +30,28 @@
   <string name="touchscreen_gesture_haptic_feedback">Вібро-відгук</string>
   <string name="touchscreen_gesture_haptic_feedback_summary">Вібрувати, коли виявлено жест</string>
   <!-- Touchscreen gestures -->
+  <string name="gesture_display_title">Жести при вимкненому екрані</string>
+  <string name="touchscreen_c_gesture_title">Камера</string>
+  <string name="touchscreen_c_gesture_summary">Намалюйте літеру «C», щоб активувати камеру</string>
+  <string name="touchscreen_e_gesture_title">Електронна пошта</string>
+  <string name="touchscreen_e_gesture_summary">Намалюйте літеру «е», щоб відкрити програму електронної пошти</string>
+  <string name="touchscreen_m_gesture_title">Повідомлення</string>
+  <string name="touchscreen_m_gesture_summary">Намалюйте літеру «М», щоб відкрити програму обміну повідомленнями</string>
+  <string name="touchscreen_s_gesture_title">Повідомлення</string>
+  <string name="touchscreen_s_gesture_summary">Намалюйте літеру «S», щоб відкрити програму обміну повідомленнями</string>
+  <string name="touchscreen_v_gesture_title">Номеронабирач</string>
+  <string name="touchscreen_v_gesture_summary">Намалюйте літеру «V», щоб відкрити номеронабирач</string>
+  <string name="touchscreen_w_gesture_title">Браузер</string>
+  <string name="touchscreen_w_gesture_summary">Намалюйте літеру «W», щоб відкрити браузер</string>
+  <string name="touchscreen_z_gesture_title">Ліхтарик</string>
+  <string name="touchscreen_z_gesture_summary">Намалюйте літеру «Z» аби перемкнути ліхтарик</string>
+  <string name="touchscreen_flashlight_gesture_title">Ліхтарик</string>
+  <string name="touchscreen_flashlight_gesture_summary">Намалюйте літеру «О», щоб перемкнути ліхтарик</string>
+  <string name="touchscreen_music_gesture_title">Музика</string>
+  <string name="touchscreen_music_gesture_summary">Використовувати жести для керування музичним плеєром \n
+    • Провести вниз щоб відтворити/зупинити\n
+    • Провести вліво для відтворення попереднього треку\n
+    • Провести вправо  для відтворення наступного треку</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Розумний екран</string>
   <string name="user_aware_display_summary">Тримати екран увімкненим, коли користувач знаходиться перед ним</string>
@@ -35,12 +59,19 @@
   <string name="ambient_display_title">Ambient display</string>
   <string name="ambient_display_enable_title">Ambient display</string>
   <string name="ambient_display_enable_summary">Вмикати екран, коли ви отримали сповіщення</string>
+  <string name="ambient_display_summary">Вмикати екран, коли ви отримали сповіщення</string>
+  <string name="ambient_display_summary_on">Екран вмикатиметься, коли ви отримаєте сповіщення</string>
+  <string name="ambient_display_summary_off">Екран не буде вмикатися, коли ви отримаєте сповіщення</string>
   <!-- Tilt sensor -->
+  <string name="tilt_sensor_title">Датчик нахилу</string>
   <!-- Proximity sensor -->
+  <string name="proximity_sensor_title">Датчик наближення</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Жести рукою</string>
   <string name="hand_wave_gesture_summary">Пульсуючі сповіщення на при жестах руками</string>
   <!-- Pick-up gesture -->
+  <string name="pick_up_gesture_title">Підняти</string>
+  <string name="pick_up_gesture_summary">Показувати сповіщення при підніманні пристрою</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Кишеня</string>
   <string name="pocket_gesture_summary">Пульсуючі сповіщення при вийманні з кишені</string>
@@ -49,12 +80,24 @@
   <string name="proximity_wake_enable_title">Прокидання при наближенні</string>
   <string name="proximity_wake_enable_summary">Прокидати пристрій на жест рукою</string>
   <!-- Device actions -->
+  <string name="actions_title">Дії</string>
   <!-- Camera gesture -->
+  <string name="camera_gesture_title">Подвійний поворот</string>
+  <string name="camera_gesture_summary">Запускати додаток камери при подвійному обертанні</string>
   <!-- Chop-chop gesture -->
+  <string name="chop_chop_gesture_title">Струс</string>
+  <string name="chop_chop_gesture_summary">Увімкнути або вимкнути ліхтарик при струсі</string>
   <!-- Hand wave silencer gesture -->
+  <string name="hand_wave_silencer_title">Помах рукою для вимикання звуку</string>
+  <string name="hand_wave_silencer_summary">Приглушити звук виклику, провівши рукою над екраном</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">Перегорнути та не турбувати</string>
+  <string name="flip_to_mute_summary">Покладіть пристрій екраном донизу, щоб приглушити звуки сповіщень і виклику</string>
   <!-- Do Not Disturb access -->
+  <string name="dnd_access">Будь ласка, надайте CMActions доступ до функції «Не турбувати».</string>
   <!-- Lift to silence gesture -->
+  <string name="lift_to_silence_title">Підняти та приглушити</string>
+  <string name="lift_to_silence_summary">Підніміть телефон, аби приглушити звук виклику. Ця дія спрацює, якщо телефон лежав горизонтально</string>
   <!-- Action toggles -->
   <string name="action_none">Вимкнути</string>
   <string name="action_launch_camera">Запуск камери</string>
@@ -67,7 +110,18 @@
   <string name="feedback_intensity_medium">Середня</string>
   <string name="feedback_intensity_high">Висока</string>
   <!-- Dialog texts -->
+  <string name="dialog_ok">OK</string>
   <!-- Help texts -->
+  <string name="doze_settings_help_title">Допомога</string>
+  <string name="doze_settings_help_text">Ці функції використовують події датчиків для показу сповіщень. Датчик перевіряється лише під час надходження нової події, що дозволяє економити заряд батареї. Можна активувати датчики одразу після вимкнення екрану пристрою, але це призведе до прискореного розряду батареї.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Додаткові кнопки</string>
+  <string name="button_swap_title">Поміняти кнопки місцями</string>
+  <string name="button_swap_summary">Поміняти місцями кнопку останніх програм і  кнопку «Назад»</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Сканер відбитків пальців</string>
+  <string name="fingerprint_as_home_title">Сканер відбитків пальців як кнопка «Додому»</string>
+  <string name="fingerprint_as_home_summary">Використовувати сканер відбитків пальців як кнопку \"Додому\"</string>
+  <string name="fingerprint_wakeup_title">Пробудження по сканеру відбитків пальців</string>
+  <string name="fingerprint_wakeup_summary">Дозволити сканеру відбитків пальців розблокувати пристрій, якщо екран було вимкнено</string>
 </resources>

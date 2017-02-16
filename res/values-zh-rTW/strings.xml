@@ -63,18 +63,18 @@
   <string name="ambient_display_summary_on">收到通知時將喚醒螢幕</string>
   <string name="ambient_display_summary_off">收到通知時將不會喚醒螢幕</string>
   <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">傾側感應器</string>
+  <string name="tilt_sensor_title">傾斜感應器</string>
   <!-- Proximity sensor -->
   <string name="proximity_sensor_title">接近感應器</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">揮手</string>
-  <string name="hand_wave_gesture_summary">揮手時閃爍呼吸燈</string>
+  <string name="hand_wave_gesture_summary">揮手時顯示通知</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">拿起</string>
-  <string name="pick_up_gesture_summary">拿起時閃爍呼吸燈</string>
+  <string name="pick_up_gesture_summary">拿起時顯示通知</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">口袋</string>
-  <string name="pocket_gesture_summary">從口袋中取出時閃爍呼吸燈</string>
+  <string name="pocket_gesture_summary">從口袋中取出時顯示通知</string>
   <!-- Proximity wake -->
   <string name="proximity_wake_title">接近喚醒</string>
   <string name="proximity_wake_enable_title">接近喚醒</string>
@@ -91,10 +91,10 @@
   <string name="hand_wave_silencer_title">揮動即可靜音</string>
   <string name="hand_wave_silencer_summary">在螢幕前揮手即可靜音來電</string>
   <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">翻轉即可為零打擾</string>
+  <string name="flip_to_mute_title">翻轉即可為勿干擾</string>
   <string name="flip_to_mute_summary">將電話朝下即可靜音通知和來電</string>
   <!-- Do Not Disturb access -->
-  <string name="dnd_access">請為 CMActions 授予「零打擾」存取權限即可使用此功能。</string>
+  <string name="dnd_access">請為 CMActions 授予「勿干擾」存取權限即可使用此功能。</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">拿起即可停止響鈴</string>
   <string name="lift_to_silence_summary">拿起電話即可來電靜音。這只會在您的電話平放時才生效</string>
@@ -113,7 +113,7 @@
   <string name="dialog_ok">確定</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">說明</string>
-  <string name="doze_settings_help_text">這些功能使用各種感應器來感測即可觸發閃爍呼吸燈，所選的感應器僅在裝置收到通知時才被啟動，達致減低耗電量。此外還有一個選項可以在每當螢幕關閉時馬上啟動感應器，當然這會消耗更多的電量。</string>
+  <string name="doze_settings_help_text">這些功能使用各種感應器來感測即可觸發休眠顯示通知，所選的感應器僅在裝置收到通知時才被啟動，達致減低耗電量。此外還有一個選項可以在每當螢幕關閉時馬上啟動感應器，當然這會消耗更多的電量。</string>
   <!-- Button settings -->
   <string name="button_panel_title">更多按鍵</string>
   <string name="button_swap_title">切換按鍵</string>
