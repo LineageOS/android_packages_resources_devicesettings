@@ -115,7 +115,7 @@
   <string name="doze_settings_help_title">帮助</string>
   <string name="doze_settings_help_text">这些功能使用传感器事件来启动一个打盹通知脉冲。所选的传感器仅在设备收到一条通知时启用，这有助于降低电池消耗。另有一个选项是屏幕关闭后马上启用所选的传感器，而这会消耗更多电量。</string>
   <!-- Button settings -->
-  <string name="button_panel_title">更多按钮</string>
+  <string name="button_panel_title">更多按键</string>
   <string name="button_swap_title">交换按钮</string>
   <string name="button_swap_summary">交换最近使用与后退按钮的顺序</string>
   <!-- Fingerprint -->
