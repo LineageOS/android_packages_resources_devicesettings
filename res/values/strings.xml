@@ -27,6 +27,7 @@
 
     <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gestures</string>
+    <string name="screen_gestures_panel_summary">Special device gestures</string>
 
     <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extras</string>
