@@ -18,13 +18,23 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">On</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Off</string>
   <!-- Device specific settings -->
+  <string name="device_settings_app_name">Advanced settings</string>
   <!-- Device gestures panel -->
+  <string name="screen_gestures_panel_title">Gestures</string>
   <!-- Touchscreen gesture haptic feedback -->
+  <string name="touchscreen_gesture_extras">Extras</string>
+  <string name="touchscreen_gesture_haptic_feedback">Haptic feedback</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a gesture got detected</string>
   <!-- Touchscreen gestures -->
+  <string name="gesture_display_title">Screen off gestures</string>
+  <string name="touchscreen_e_gesture_summary">Draw an \"e\" to open the email app</string>
   <string name="touchscreen_v_gesture_title">Dialler</string>
   <string name="touchscreen_v_gesture_summary">Draw a \"V\" to open the dialler app</string>
+  <string name="touchscreen_z_gesture_summary">Draw a \"Z\" to toggle flashlight</string>
   <!-- User-aware display -->
   <!-- Ambient Display -->
   <!-- Tilt sensor -->

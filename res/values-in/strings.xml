@@ -59,6 +59,7 @@
   <string name="ambient_display_title">Tampilan ambien</string>
   <string name="ambient_display_enable_title">Tampilan ambien</string>
   <string name="ambient_display_enable_summary">Bangunkan layar saat Anda menerima Pemberitahuan</string>
+  <string name="ambient_display_summary">Hidupkan layar saat Anda menerima pemberitahuan</string>
   <string name="ambient_display_summary_on">Layar akan hidup ketika menerima pemberitahuan</string>
   <string name="ambient_display_summary_off">Layar tidak akan hidup ketika menerima pemberitahuan</string>
   <!-- Tilt sensor -->
@@ -96,6 +97,7 @@
   <string name="dnd_access">Silahkan berikan akses Jangan Ganggu ke CMActions untuk menggunakan fitur ini.</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Angkat untuk menghentikan dering</string>
+  <string name="lift_to_silence_summary">Mengangkat telepon untuk menghentikan nada panggilan masuk. Ini hanya bekerja saat telepon dalam posisi datar</string>
   <!-- Action toggles -->
   <string name="action_none">Nonaktifkan</string>
   <string name="action_launch_camera">Buka kamera</string>
@@ -111,6 +113,7 @@
   <string name="dialog_ok">Oke</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Bantuan</string>
+  <string name="doze_settings_help_text">Fitur-fitur ini menggunakan aktivitas sensor untuk meluncurkan pulse pemberitahuan tertidur. sensor yang dipilih hanya diaktifkan bila perangkat menerima pemberitahuan, ini membantu mengurangi penggunaan baterai. Ada juga pilihan untuk mengaktifkan sensor yang dipilih secepat layar mati, ini akan menyebabkan penggunaan baterai yang lebih tinggi.</string>
   <!-- Button settings -->
   <string name="button_panel_title">Tombol tambahan</string>
   <string name="button_swap_summary">Tukar urutan tombol terkini dan kembali</string>

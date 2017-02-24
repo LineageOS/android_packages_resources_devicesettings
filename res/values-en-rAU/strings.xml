@@ -22,6 +22,7 @@
   <!-- Device specific settings -->
   <!-- Device gestures panel -->
   <!-- Touchscreen gesture haptic feedback -->
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a gesture is detected</string>
   <!-- Touchscreen gestures -->
   <!-- User-aware display -->
   <!-- Ambient Display -->

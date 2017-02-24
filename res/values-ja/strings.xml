@@ -117,7 +117,7 @@
   <!-- Button settings -->
   <string name="button_panel_title">追加のボタン</string>
   <string name="button_swap_title">ボタンを入れ替える</string>
-  <string name="button_swap_summary">アプリ履歴ボタンと戻るボタンの位置を入れ替える</string>
+  <string name="button_swap_summary">履歴ボタンと戻るボタンの位置を入れ替える</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">指紋</string>
   <string name="fingerprint_as_home_title">指紋センサーをホームボタンにする</string>

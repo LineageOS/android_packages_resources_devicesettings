@@ -35,6 +35,7 @@
   <string name="touchscreen_c_gesture_summary">Rita ett \"C\" för att aktivera kameran</string>
   <string name="touchscreen_e_gesture_title">E-post</string>
   <string name="touchscreen_e_gesture_summary">Rita ett \"e\" för att öppna epost-appen</string>
+  <string name="touchscreen_m_gesture_summary">Rita ett \"M\" för att öppna meddelandeappen</string>
   <string name="touchscreen_s_gesture_title">Meddelanden</string>
   <string name="touchscreen_s_gesture_summary">Rita ett \"S\" för att öppna meddelandeappen</string>
   <string name="touchscreen_v_gesture_title">Uppringare</string>
@@ -43,6 +44,7 @@
   <string name="touchscreen_w_gesture_summary">Rita ett \"W\" för att öppna webbläsaren</string>
   <string name="touchscreen_z_gesture_title">Ficklampa</string>
   <string name="touchscreen_z_gesture_summary">Rita ett \'Z\' för att slå på ficklampa</string>
+  <string name="touchscreen_music_gesture_title">Musik</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Användarmedveten display</string>
   <string name="user_aware_display_summary">Håll skärmen på medan en användare är framför displayen</string>

@@ -88,5 +88,6 @@
   <!-- Dialog texts -->
   <!-- Help texts -->
   <!-- Button settings -->
+  <string name="button_panel_title">기타 버튼</string>
   <!-- Fingerprint -->
 </resources>
