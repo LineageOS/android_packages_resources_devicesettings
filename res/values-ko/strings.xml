@@ -40,6 +40,8 @@
   <string name="touchscreen_w_gesture_summary">\"W\"를 그려 브라우저 앱 열기</string>
   <string name="touchscreen_z_gesture_title">손전등</string>
   <string name="touchscreen_z_gesture_summary">\'V\'를 그려 손전등 토글</string>
+  <string name="touchscreen_flashlight_gesture_title">손전등</string>
+  <string name="touchscreen_music_gesture_title">음악</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">사용자 인식 화면</string>
   <string name="user_aware_display_summary">사용자가 화면 앞에 있는 동안 화면 켜기</string>
@@ -49,6 +51,7 @@
   <string name="ambient_display_enable_summary">알림을 수신 시 절전 모드를 해제합니다.</string>
   <!-- Tilt sensor -->
   <!-- Proximity sensor -->
+  <string name="proximity_sensor_title">근접 센서</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">손 흔들기</string>
   <string name="hand_wave_gesture_summary">손을 좌우로 흔들면 알림 표시</string>
@@ -86,8 +89,11 @@
   <string name="feedback_intensity_medium">중간</string>
   <string name="feedback_intensity_high">높게</string>
   <!-- Dialog texts -->
+  <string name="dialog_ok">확인</string>
   <!-- Help texts -->
+  <string name="doze_settings_help_title">도움말</string>
   <!-- Button settings -->
   <string name="button_panel_title">기타 버튼</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">지문</string>
 </resources>

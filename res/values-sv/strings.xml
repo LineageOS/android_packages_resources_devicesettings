@@ -44,6 +44,7 @@
   <string name="touchscreen_w_gesture_summary">Rita ett \"W\" för att öppna webbläsaren</string>
   <string name="touchscreen_z_gesture_title">Ficklampa</string>
   <string name="touchscreen_z_gesture_summary">Rita ett \'Z\' för att slå på ficklampa</string>
+  <string name="touchscreen_flashlight_gesture_title">Ficklampa</string>
   <string name="touchscreen_music_gesture_title">Musik</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Användarmedveten display</string>
@@ -96,5 +97,7 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Hjälp</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Ytterligare knappar</string>
+  <string name="button_swap_title">Växla knappar</string>
   <!-- Fingerprint -->
 </resources>
