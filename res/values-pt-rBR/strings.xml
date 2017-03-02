@@ -36,6 +36,7 @@
   <string name="touchscreen_e_gesture_title">E-mail</string>
   <string name="touchscreen_e_gesture_summary">Desenhe um \"e\" para abrir o aplicativo de e-mail</string>
   <string name="touchscreen_m_gesture_title">Mensagens</string>
+  <string name="touchscreen_m_gesture_summary">Desenhe um \"M\" para abrir o aplicativo de mensagens</string>
   <string name="touchscreen_s_gesture_title">Mensagem</string>
   <string name="touchscreen_s_gesture_summary">Desenhe um \"S\" para abrir o aplicativo de mensagens</string>
   <string name="touchscreen_v_gesture_title">Discador</string>
