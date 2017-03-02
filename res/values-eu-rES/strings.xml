@@ -35,6 +35,7 @@
   <string name="touchscreen_c_gesture_summary">Marraztu \"C\" bat kamera abiatzeko</string>
   <string name="touchscreen_e_gesture_title">E-posta</string>
   <string name="touchscreen_e_gesture_summary">Marraztu \"e\" bat e-posta aplikazioa irekitzeko</string>
+  <string name="touchscreen_m_gesture_title">Mezularitza</string>
   <string name="touchscreen_s_gesture_title">Mezularitza</string>
   <string name="touchscreen_s_gesture_summary">Marraztu \"S\" bat mezularitza aplikazioa irekitzeko</string>
   <string name="touchscreen_v_gesture_title">Markatzailea</string>
