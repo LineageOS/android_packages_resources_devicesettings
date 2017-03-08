@@ -115,4 +115,5 @@
   <string name="doze_settings_help_text">Ezaugarri hauek sentsoreen gertakizunak erabiltzen dituzte jakinarazpen argi bat pizteko. Sentsorea jakinarazpen bat jasotzean gaituko da, honi esker bateria erabilera murrizten da. Badago ere pantaila itzali eta berehala sentsorea pizteko aukera, honek bateria gehiago erabiliko du.</string>
   <!-- Button settings -->
   <!-- Fingerprint -->
+  <string name="fingerprint_as_home_summary">Erabili hatz-marken sentsorea hasiera-botoi gisa</string>
 </resources>

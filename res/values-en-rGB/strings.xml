@@ -31,21 +31,46 @@
   <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a gesture got detected</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Screen off gestures</string>
+  <string name="touchscreen_c_gesture_title">Camera</string>
+  <string name="touchscreen_c_gesture_summary">Draw a \"C\" to activate camera</string>
+  <string name="touchscreen_e_gesture_title">Email</string>
   <string name="touchscreen_e_gesture_summary">Draw an \"e\" to open the email app</string>
+  <string name="touchscreen_m_gesture_title">Messaging</string>
+  <string name="touchscreen_m_gesture_summary">Draw a \"M\" to open the messaging app</string>
+  <string name="touchscreen_s_gesture_title">Messaging</string>
+  <string name="touchscreen_s_gesture_summary">Draw an \"S\" to open the messaging app</string>
   <string name="touchscreen_v_gesture_title">Dialler</string>
   <string name="touchscreen_v_gesture_summary">Draw a \"V\" to open the dialler app</string>
-  <string name="touchscreen_z_gesture_summary">Draw a \"Z\" to toggle flashlight</string>
+  <string name="touchscreen_w_gesture_title">Browser</string>
+  <string name="touchscreen_w_gesture_summary">Draw a \"W\" to open the browser app</string>
+  <string name="touchscreen_z_gesture_title">Torch</string>
+  <string name="touchscreen_z_gesture_summary">Draw a \"Z\" to toggle torch</string>
+  <string name="touchscreen_flashlight_gesture_title">Torch</string>
+  <string name="touchscreen_flashlight_gesture_summary">Draw a circle to toggle torch</string>
+  <string name="touchscreen_music_gesture_title">Music</string>
+  <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
+    • Swipe down to play/pause\n
+    • Swipe left for previous track\n
+    • Swipe right for next track</string>
   <!-- User-aware display -->
+  <string name="user_aware_display_title">User-aware display</string>
+  <string name="user_aware_display_summary">Keep the screen on while a user is in front of the display</string>
   <!-- Ambient Display -->
+  <string name="ambient_display_title">Ambient display</string>
   <!-- Tilt sensor -->
   <!-- Proximity sensor -->
   <!-- Hand wave gesture -->
+  <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
   <!-- Pick-up gesture -->
+  <string name="pick_up_gesture_title">Pick-up</string>
+  <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
   <!-- Pocket gesture -->
+  <string name="pocket_gesture_title">Pocket</string>
   <!-- Proximity wake -->
   <!-- Device actions -->
   <!-- Camera gesture -->
   <!-- Chop-chop gesture -->
+  <string name="chop_chop_gesture_summary">Toggle torch when using the chop-chop gesture</string>
   <!-- Hand wave silencer gesture -->
   <!-- Flip to mute gesture -->
   <!-- Do Not Disturb access -->

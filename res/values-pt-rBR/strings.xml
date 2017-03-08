@@ -60,6 +60,8 @@
   <string name="ambient_display_enable_title">Tela ambiente</string>
   <string name="ambient_display_enable_summary">Ligar a tela quando receber notificações</string>
   <string name="ambient_display_summary">Ligar a tela ao receber notificações</string>
+  <string name="ambient_display_summary_on">A tela ligará ao receber notificações</string>
+  <string name="ambient_display_summary_off">A tela não ligará ao receber notificações</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Sensor de inclinação</string>
   <!-- Proximity sensor -->
@@ -113,5 +115,9 @@
   <string name="doze_settings_help_title">Ajuda</string>
   <string name="doze_settings_help_text">Esses recursos monitoram o sensor para que o dispositivo possa despertar do estado de repouso e pulsar notificações. O sensor escolhido só é habilitado quando o dispositivo recebe uma notificação, isso ajuda a reduzir o uso de bateria. Há também uma opção para ativar o sensor escolhido assim que a tela desliga, isso causará o maior uso da bateria.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Botões adicionais</string>
+  <string name="button_swap_title">Inverter botões</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Impressão digital</string>
+  <string name="fingerprint_wakeup_summary">Permitir que o sensor de impressões digitais ative o dispositivo enquanto a tela estiver desligada</string>
 </resources>
