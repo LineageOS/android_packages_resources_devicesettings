@@ -18,9 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Aktif</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Nonaktif</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Pengaturan lanjut</string>
   <!-- Device gestures panel -->

@@ -25,22 +25,36 @@
   <string name="screen_gestures_panel_title">Xestos</string>
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Estres</string>
+  <string name="touchscreen_gesture_haptic_feedback">Feedback hápticu</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibra al deteutase un xestu</string>
   <!-- Touchscreen gestures -->
+  <string name="gesture_display_title">Xestos de pantalla apagada</string>
   <string name="touchscreen_c_gesture_title">Cámara</string>
   <string name="touchscreen_c_gesture_summary">Dibuxa una «C» p\'activar la cámara</string>
+  <string name="touchscreen_e_gesture_title">Corréu</string>
   <string name="touchscreen_e_gesture_summary">Dibuxa una «e» p\'abrir l\'aplicación de corréu</string>
   <string name="touchscreen_m_gesture_title">Mensaxería</string>
   <string name="touchscreen_m_gesture_summary">Dibuxa una «M» p\'abrir l\'aplicación de mensaxería</string>
+  <string name="touchscreen_s_gesture_title">Mensaxería</string>
   <string name="touchscreen_s_gesture_summary">Dibuxa una «S» p\'abrir l\'aplicación de mensaxería</string>
+  <string name="touchscreen_v_gesture_title">Marcador</string>
   <string name="touchscreen_v_gesture_summary">Dibuxa una «V» p\'abrir el marcador numbéricu</string>
   <string name="touchscreen_w_gesture_title">Restolador</string>
   <string name="touchscreen_w_gesture_summary">Dibuxa una «W» p\'abrir el restolador</string>
   <string name="touchscreen_z_gesture_title">Llinterna</string>
   <string name="touchscreen_z_gesture_summary">Dibuxa una «Z» p\'alternar la llinterna</string>
   <string name="touchscreen_flashlight_gesture_title">Llinterna</string>
+  <string name="touchscreen_flashlight_gesture_summary">Dibuxa un círculu p\'alternar la llinterna</string>
   <string name="touchscreen_music_gesture_title">Música</string>
   <!-- User-aware display -->
+  <string name="user_aware_display_summary">Caltién la pantalla encesa entrín heba un usuariu enfrente d\'ella</string>
   <!-- Ambient Display -->
+  <string name="ambient_display_title">Pantalla ambiente</string>
+  <string name="ambient_display_enable_title">Pantalla ambiente</string>
+  <string name="ambient_display_enable_summary">Esconsueña la pantalla al recibir avisos</string>
+  <string name="ambient_display_summary">Esconsueña la pantalla al recibir avisos</string>
+  <string name="ambient_display_summary_on">La pantalla esconsoñará al recibir avisos</string>
+  <string name="ambient_display_summary_off">La pantalla nun esconsoñará al recibir avisos</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Sensor d\'inclinación</string>
   <!-- Proximity sensor -->
@@ -48,6 +62,7 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Pasar la mano</string>
   <!-- Pick-up gesture -->
+  <string name="pick_up_gesture_title">Coyer</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Bolsiellu</string>
   <!-- Proximity wake -->
@@ -59,14 +74,27 @@
   <string name="camera_gesture_title">Xiru doblu</string>
   <string name="camera_gesture_summary">Abre la cámara al usar xestu de xiru doblu</string>
   <!-- Chop-chop gesture -->
+  <string name="chop_chop_gesture_title">Chop-chop</string>
+  <string name="chop_chop_gesture_summary">Alterna la llinterna cuando s\'usa\'l xestu chop-chop</string>
   <!-- Hand wave silencer gesture -->
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">Voltiar pa Nun molestar</string>
+  <string name="flip_to_mute_summary">Pon el teléfonu boca abaxo pa silenciar avisos y llamaes</string>
   <!-- Do Not Disturb access -->
+  <string name="dnd_access">Nun-y deas permisu de Nun molestar a CMActions pa usar esta carauterística, por favor.</string>
   <!-- Lift to silence gesture -->
+  <string name="lift_to_silence_title">Coyer pa parar de sonar</string>
+  <string name="lift_to_silence_summary">Garra\'l teléfonu pa silenciar llamaes entrantes. Namái furrula cuando\'l teléfonu ta planu</string>
   <!-- Action toggles -->
+  <string name="action_none">Deshabilitar</string>
   <string name="action_launch_camera">Llanzar cámara</string>
   <string name="action_torch">Alternar llinterna</string>
   <!-- Feedback intensity -->
+  <string name="feedback_intensity_title">Intensidá de feedback hápticu</string>
+  <string name="feedback_intensity_summary">Fuercia del feedback hápticu pa les aiciones de xiru doblu y chop-chop</string>
+  <string name="feedback_intensity_low">Baxa</string>
+  <string name="feedback_intensity_medium">Media</string>
+  <string name="feedback_intensity_high">Alta</string>
   <!-- Dialog texts -->
   <string name="dialog_ok">ACEUTAR</string>
   <!-- Help texts -->
@@ -76,4 +104,6 @@
   <string name="button_swap_summary">Camuda l\'orde de los botones «Recientes» y «Atrás»</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Buelga</string>
+  <string name="fingerprint_as_home_summary">Usa\'l sensor de buelgues como botón d\'aniciu</string>
+  <string name="fingerprint_wakeup_summary">Permite que\'l sensor de buelgues esconsueñe\'l preséu entrín la pantalla tea apagada</string>
 </resources>

@@ -56,8 +56,8 @@
   <string name="user_aware_display_title">Розумний екран</string>
   <string name="user_aware_display_summary">Тримати екран увімкненим, коли користувач знаходиться перед ним</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient display</string>
-  <string name="ambient_display_enable_title">Ambient display</string>
+  <string name="ambient_display_title">Ambient дисплей</string>
+  <string name="ambient_display_enable_title">Ambient дисплей</string>
   <string name="ambient_display_enable_summary">Вмикати екран, коли ви отримали сповіщення</string>
   <string name="ambient_display_summary">Вмикати екран, коли ви отримали сповіщення</string>
   <string name="ambient_display_summary_on">Екран вмикатиметься, коли ви отримаєте сповіщення</string>

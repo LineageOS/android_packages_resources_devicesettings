@@ -117,7 +117,11 @@
   <!-- Button settings -->
   <string name="button_panel_title">Botões adicionais</string>
   <string name="button_swap_title">Inverter botões</string>
+  <string name="button_swap_summary">Inverter a ordem dos botões recentes e voltar</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Impressão digital</string>
+  <string name="fingerprint_as_home_title">Sensor de impressões digitais como botão Home</string>
+  <string name="fingerprint_as_home_summary">Utilizar o sensor de impressões digitais como botão Home</string>
+  <string name="fingerprint_wakeup_title">Ligar tela com impressão digital</string>
   <string name="fingerprint_wakeup_summary">Permitir que o sensor de impressões digitais ative o dispositivo enquanto a tela estiver desligada</string>
 </resources>

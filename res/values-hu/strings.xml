@@ -61,6 +61,7 @@
   <string name="ambient_display_enable_summary">Képernyő ébresztése értesítések fogadásakor</string>
   <string name="ambient_display_summary">Képernyő felébresztése értesítések fogadásakor</string>
   <string name="ambient_display_summary_on">Képernyő ébresztése értesítések fogadásakor</string>
+  <string name="ambient_display_summary_off">Képernyő nem ébred értesítések fogadásakor</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Dőlés érzékelő</string>
   <!-- Proximity sensor -->
@@ -119,4 +120,8 @@
   <string name="button_swap_summary">Előzmények és a vissza gomb sorrendjének felcserélése</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Ujjlenyomat</string>
+  <string name="fingerprint_as_home_title">Ujjlenyomat kezdőlap gombként</string>
+  <string name="fingerprint_as_home_summary">Ujjlenyomat érzékelő használata kezdőlap gombként</string>
+  <string name="fingerprint_wakeup_title">Ujjlenyomat ébresztés</string>
+  <string name="fingerprint_wakeup_summary">Lehetővé teszi, hogy az ujjlenyomat érzékelő felébressze az eszközt, amkor a képernyő ki van kapcsolva</string>
 </resources>
