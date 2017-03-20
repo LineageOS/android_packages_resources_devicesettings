@@ -68,6 +68,7 @@
   <!-- Proximity wake -->
   <string name="proximity_wake_title">Esconsueñu per proximidá</string>
   <string name="proximity_wake_enable_title">Esconsueñu per proximidá</string>
+  <string name="proximity_wake_enable_summary">Esconsueña\'l preséu al pasar la mano</string>
   <!-- Device actions -->
   <string name="actions_title">Aiciones</string>
   <!-- Camera gesture -->

@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Aan</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Af</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Gevorderde instellings</string>
   <!-- Device gestures panel -->
@@ -33,6 +35,8 @@
   <string name="touchscreen_c_gesture_summary">Teken \'n \"C\" om Kamera to aktiveer</string>
   <string name="touchscreen_e_gesture_title">Epos</string>
   <string name="touchscreen_e_gesture_summary">Teken \'n \"e\" om e-pos toep oop te maak</string>
+  <string name="touchscreen_m_gesture_title">Boodskappe</string>
+  <string name="touchscreen_m_gesture_summary">Teken \'n \"M\" om boodskappe toep oop te maak</string>
   <string name="touchscreen_s_gesture_title">Boodskappe</string>
   <string name="touchscreen_s_gesture_summary">Teken \'n \"S\" om boodskappe toep oop te maak</string>
   <string name="touchscreen_v_gesture_title">Beller</string>
@@ -55,6 +59,9 @@
   <string name="ambient_display_title">Omgewings temperatuur skerm</string>
   <string name="ambient_display_enable_title">Omgewings temperatuur skerm</string>
   <string name="ambient_display_enable_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>
+  <string name="ambient_display_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>
+  <string name="ambient_display_summary_on">Skerm sal aan gaan wanneer jy kennisgewings ontvang</string>
+  <string name="ambient_display_summary_off">Skerm sal nie aan gaan nie wanneer jy kennisgewings ontvang</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Kantel sensor</string>
   <!-- Proximity sensor -->
@@ -106,6 +113,15 @@
   <string name="dialog_ok">OK</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Hulp</string>
+  <string name="doze_settings_help_text">Hierdie kenmerke gebruik \'n sensor gebaar om \'n slaap kennisgewing pols te laai. Die gekose sensor is slegs geaktiveer wanneer die toestel \'n kennisgewing ontvang, dit help om battery gebruik te verminder. Daar is ook \'n opsie om die gekose sensor te aktiveer sodra die skerm afskakel word, maar dit sal hoër battery gebruik veroorsaak.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Addisionele knoppies</string>
+  <string name="button_swap_title">Ruil knoppies</string>
+  <string name="button_swap_summary">Verander die volgorde van onlangse en terug knoppies</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Vingerafdruk</string>
+  <string name="fingerprint_as_home_title">Vingerafdruk as tuis</string>
+  <string name="fingerprint_as_home_summary">Gebruik die vingerafdruksensor as jou tuisknoppie</string>
+  <string name="fingerprint_wakeup_title">Maak wakker met vingerafdruk</string>
+  <string name="fingerprint_wakeup_summary">Laat die vingerafsruksensor toe om die toestel wakker te maak terwyl die skerm af is</string>
 </resources>

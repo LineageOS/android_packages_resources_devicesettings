@@ -35,6 +35,7 @@
   <string name="touchscreen_c_gesture_summary">Narysuj \"C\", aby włączyć aparat</string>
   <string name="touchscreen_e_gesture_title">E-mail</string>
   <string name="touchscreen_e_gesture_summary">Narysuj \"e\", aby otworzyć aplikację e-mail</string>
+  <string name="touchscreen_m_gesture_summary">Narysuj \"M\", aby otworzyć aplikację wiadomości</string>
   <string name="touchscreen_s_gesture_title">Wiadomości</string>
   <string name="touchscreen_s_gesture_summary">Narysuj \"S\", aby włączyć otworzyć wiadomości</string>
   <string name="touchscreen_v_gesture_title">Telefon</string>
@@ -58,6 +59,7 @@
   <string name="ambient_display_enable_title">Aktywny wyświetlacz</string>
   <string name="ambient_display_enable_summary">Wybudź ekran, po otrzymaniu powiadomienia</string>
   <string name="ambient_display_summary">Wybudź ekran po odebraniu powiadomienia</string>
+  <string name="ambient_display_summary_on">Ekran się wybudzi, po otrzymaniu powiadomienia</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Czujnik pochylenia</string>
   <!-- Proximity sensor -->
@@ -111,4 +113,6 @@
   <string name="doze_settings_help_title">Pomoc</string>
   <!-- Button settings -->
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Odcisk palca</string>
+  <string name="fingerprint_wakeup_summary">Pozwól, aby czujnik linii papilarnych wybudził urządzenie, gdy ekran jest wyłączony</string>
 </resources>
