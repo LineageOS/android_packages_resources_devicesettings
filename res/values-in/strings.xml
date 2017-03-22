@@ -82,7 +82,7 @@
   <!-- Device actions -->
   <string name="actions_title">Tindakan</string>
   <!-- Camera gesture -->
-  <string name="camera_gesture_title">Dwiputar</string>
+  <string name="camera_gesture_title">Dua kali putar</string>
   <string name="camera_gesture_summary">Buka Kamera ketika melakukan gerakan dwiputar</string>
   <!-- Chop-chop gesture -->
   <string name="chop_chop_gesture_title">Dwiguncang</string>
