@@ -149,4 +149,6 @@
     <string name="fingerprint_as_home_summary">Use the fingerprint sensor as a home button</string>
     <string name="fingerprint_wakeup_title">Fingerprint wake-up</string>
     <string name="fingerprint_wakeup_summary">Allow the fingerprint sensor to wake the device while the screen is off</string>
+    <string name="fingerprint_pocketmode_title">Prevent accidental wake-up</string>
+    <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
 </resources>
