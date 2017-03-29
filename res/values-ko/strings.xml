@@ -44,7 +44,7 @@
   <string name="touchscreen_w_gesture_title">브라우저</string>
   <string name="touchscreen_w_gesture_summary">\"W\"를 그려 브라우저 앱 열기</string>
   <string name="touchscreen_z_gesture_title">손전등</string>
-  <string name="touchscreen_z_gesture_summary">\'V\'를 그려 손전등 토글</string>
+  <string name="touchscreen_z_gesture_summary">\"Z\"를 그려 손전등 켜고 끄기</string>
   <string name="touchscreen_flashlight_gesture_title">손전등</string>
   <string name="touchscreen_flashlight_gesture_summary">원를 그려 손전등 켜고 끄기</string>
   <string name="touchscreen_music_gesture_title">음악</string>
@@ -58,8 +58,8 @@
   <!-- Ambient Display -->
   <string name="ambient_display_title">절전 모드 자동 해제</string>
   <string name="ambient_display_enable_title">절전 모드 자동 해제</string>
-  <string name="ambient_display_enable_summary">알림을 수신 시 절전 모드를 해제합니다.</string>
-  <string name="ambient_display_summary">알림을 받았을 때 화면을 켬</string>
+  <string name="ambient_display_enable_summary">알림을 받았을 때 화면이 켜짐</string>
+  <string name="ambient_display_summary">알림을 받으면 화면 켜기</string>
   <string name="ambient_display_summary_on">알림을 받았을 때 화면이 켜짐</string>
   <string name="ambient_display_summary_off">알림을 받아도 화면이 켜지지 않음</string>
   <!-- Tilt sensor -->

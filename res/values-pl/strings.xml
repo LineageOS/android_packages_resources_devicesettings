@@ -18,9 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Wł.</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Wył.</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Ustawienia zaawansowane</string>
   <!-- Device gestures panel -->
@@ -112,7 +110,12 @@
   <!-- Help texts -->
   <string name="doze_settings_help_title">Pomoc</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Dodatkowe przyciski</string>
+  <string name="button_swap_title">Zamień przyciski</string>
+  <string name="button_swap_summary">Zamień miejscami przyciski ostatnio uruchomionych aplikacji i powrotu</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Odcisk palca</string>
+  <string name="fingerprint_as_home_title">Uruchom ekran główny czytnikiem linii papilarnych</string>
+  <string name="fingerprint_wakeup_title">Wybudzenie ekranu czytnikiem linii papilarnych</string>
   <string name="fingerprint_wakeup_summary">Pozwól, aby czujnik linii papilarnych wybudził urządzenie, gdy ekran jest wyłączony</string>
 </resources>

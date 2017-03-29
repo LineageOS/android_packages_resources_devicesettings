@@ -67,22 +67,32 @@
   <!-- Proximity sensor -->
   <string name="proximity_sensor_title">Proximity sensor</string>
   <!-- Hand wave gesture -->
+  <string name="hand_wave_gesture_title">Hand wave</string>
   <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Pick-up</string>
   <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Pocket</string>
+  <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
   <!-- Proximity wake -->
   <string name="proximity_wake_title">Proximity wake</string>
   <string name="proximity_wake_enable_title">Proximity wake</string>
   <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
   <!-- Device actions -->
+  <string name="actions_title">Actions</string>
   <!-- Camera gesture -->
+  <string name="camera_gesture_title">Double-twist</string>
+  <string name="camera_gesture_summary">Open camera when using the double twist gesture</string>
   <!-- Chop-chop gesture -->
+  <string name="chop_chop_gesture_title">Chop-chop</string>
   <string name="chop_chop_gesture_summary">Toggle torch when using the chop-chop gesture</string>
   <!-- Hand wave silencer gesture -->
+  <string name="hand_wave_silencer_title">Wave to silence</string>
+  <string name="hand_wave_silencer_summary">Silence incoming calls by waving your hand across the screen</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">Flip for Do Not Disturb</string>
+  <string name="flip_to_mute_summary">Place the phone face down to silence notifications and calls</string>
   <!-- Do Not Disturb access -->
   <!-- Lift to silence gesture -->
   <!-- Action toggles -->

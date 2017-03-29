@@ -18,9 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Vkl.</string>
+  <string name="switch_bar_on">Vklopljeno</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Izk.</string>
+  <string name="switch_bar_off">Izklopljeno</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Napredne nastavitve</string>
   <!-- Device gestures panel -->

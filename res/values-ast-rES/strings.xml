@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Sí</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Non</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Axustes avanzaos</string>
   <!-- Device gestures panel -->
@@ -46,7 +48,12 @@
   <string name="touchscreen_flashlight_gesture_title">Llinterna</string>
   <string name="touchscreen_flashlight_gesture_summary">Dibuxa un círculu p\'alternar la llinterna</string>
   <string name="touchscreen_music_gesture_title">Música</string>
+  <string name="touchscreen_music_gesture_summary">Usa xestos pa controlar la reproducción musical\n
+    • Esliza haza abaxo pa reproducir/posar\n
+    • Esliza a la izquierda pa la pista previa\n
+    • Esliza a la drecha pa la pista siguiente</string>
   <!-- User-aware display -->
+  <string name="user_aware_display_title">Pantalla en presencia del usuariu</string>
   <string name="user_aware_display_summary">Caltién la pantalla encesa entrín heba un usuariu enfrente d\'ella</string>
   <!-- Ambient Display -->
   <string name="ambient_display_title">Pantalla ambiente</string>
@@ -61,10 +68,13 @@
   <string name="proximity_sensor_title">Sensor de proximidá</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Pasar la mano</string>
+  <string name="hand_wave_gesture_summary">Avisos llatentes al pasar la mano</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Coyer</string>
+  <string name="pick_up_gesture_summary">Avisos llatentes al coyer</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Bolsiellu</string>
+  <string name="pocket_gesture_summary">Avisos llatentes al sacar del bolsiellu</string>
   <!-- Proximity wake -->
   <string name="proximity_wake_title">Esconsueñu per proximidá</string>
   <string name="proximity_wake_enable_title">Esconsueñu per proximidá</string>
@@ -78,6 +88,8 @@
   <string name="chop_chop_gesture_title">Chop-chop</string>
   <string name="chop_chop_gesture_summary">Alterna la llinterna cuando s\'usa\'l xestu chop-chop</string>
   <!-- Hand wave silencer gesture -->
+  <string name="hand_wave_silencer_title">Pasar la mano pa silenciar</string>
+  <string name="hand_wave_silencer_summary">Silencia les llames entrantes al pasar la to mano pela pantalla</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">Voltiar pa Nun molestar</string>
   <string name="flip_to_mute_summary">Pon el teléfonu boca abaxo pa silenciar avisos y llamaes</string>
@@ -93,6 +105,7 @@
   <!-- Feedback intensity -->
   <string name="feedback_intensity_title">Intensidá de feedback hápticu</string>
   <string name="feedback_intensity_summary">Fuercia del feedback hápticu pa les aiciones de xiru doblu y chop-chop</string>
+  <string name="feedback_intensity_none">Deshabilitada</string>
   <string name="feedback_intensity_low">Baxa</string>
   <string name="feedback_intensity_medium">Media</string>
   <string name="feedback_intensity_high">Alta</string>
@@ -100,11 +113,15 @@
   <string name="dialog_ok">ACEUTAR</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Ayuda</string>
+  <string name="doze_settings_help_text">Estes carauterístiques usen los eventos del sensor pa llanzar un avisu doze. El sensor esbilláu namái s\'habilita cuando\'l preséu recibe un avisu, esto ayuda a amenorgar l\'usu de batería. Tamién hai una opción p\'habilitar el sensor escoyíu namái s\'apague la pantalla, esto causará un usu más altu de batería.</string>
   <!-- Button settings -->
   <string name="button_panel_title">Botones adicionales</string>
+  <string name="button_swap_title">Intercambear botones</string>
   <string name="button_swap_summary">Camuda l\'orde de los botones «Recientes» y «Atrás»</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Buelga</string>
+  <string name="fingerprint_as_home_title">Buelga como aniciu</string>
   <string name="fingerprint_as_home_summary">Usa\'l sensor de buelgues como botón d\'aniciu</string>
+  <string name="fingerprint_wakeup_title">Esconsueñu per buelga</string>
   <string name="fingerprint_wakeup_summary">Permite que\'l sensor de buelgues esconsueñe\'l preséu entrín la pantalla tea apagada</string>
 </resources>
