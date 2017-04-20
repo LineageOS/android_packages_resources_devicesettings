@@ -151,4 +151,23 @@
     <string name="fingerprint_wakeup_summary">Allow the fingerprint sensor to wake the device while the screen is off</string>
     <string name="fingerprint_pocketmode_title">Prevent accidental wake-up</string>
     <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
+
+    <!-- Fingerprint Gestures -->
+    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
+    <string name="fingerprint_gestures_summary">Use fingerprint gestures to trigger actions</string>
+    <string name="fingerprint_gestures_tap_title">Single tap</string>
+    <string name="fingerprint_gestures_tap_summary">Select an action on single tap</string>
+    <string name="fingerprint_gestures_double_tap_title">Double tap</string>
+    <string name="fingerprint_gestures_double_tap_summary">Select an action on double tap</string>
+    <string name="fingerprint_gestures_long_press_title">Long press</string>
+    <string name="fingerprint_gestures_long_press_summary">Select an action on long press</string>
+    <string name="fingerprint_gestures_left_title">Swipe left</string>
+    <string name="fingerprint_gestures_left_summary">Select an action when swiping left</string>
+    <string name="fingerprint_gestures_right_title">Swipe right</string>
+    <string name="fingerprint_gestures_right_summary">Select an action when swiping right</string>
+    <string name="fingerprint_gestures_up_title">Swipe up</string>
+    <string name="fingerprint_gestures_up_summary">Select an action when swiping up</string>
+    <string name="fingerprint_gestures_down_title">Swipe down</string>
+    <string name="fingerprint_gestures_down_summary">Select an action when swiping down</string>
+
 </resources>
