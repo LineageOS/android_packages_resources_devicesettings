@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">将指纹传感器作为 Home 键使用</string>
   <string name="fingerprint_wakeup_title">指纹唤醒</string>
   <string name="fingerprint_wakeup_summary">屏幕关闭时允许指纹传感器唤醒设备</string>
+  <string name="fingerprint_pocketmode_title">防止意外唤醒</string>
+  <string name="fingerprint_pocketmode_summary">指纹传感器触发唤醒前先检查接近传感器</string>
 </resources>

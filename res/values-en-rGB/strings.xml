@@ -94,11 +94,36 @@
   <string name="flip_to_mute_title">Flip for Do Not Disturb</string>
   <string name="flip_to_mute_summary">Place the phone face down to silence notifications and calls</string>
   <!-- Do Not Disturb access -->
+  <string name="dnd_access">Please give Do Not Disturb access to CMActions in order to use this feature.</string>
   <!-- Lift to silence gesture -->
+  <string name="lift_to_silence_title">Pick up to stop ringing</string>
+  <string name="lift_to_silence_summary">Lift the phone to silence incoming calls. It only works when your phone starts flat</string>
   <!-- Action toggles -->
+  <string name="action_none">Disable</string>
+  <string name="action_launch_camera">Launch camera</string>
+  <string name="action_torch">Toggle torch</string>
   <!-- Feedback intensity -->
+  <string name="feedback_intensity_title">Haptic feedback intensity</string>
+  <string name="feedback_intensity_summary">Strength of the haptic feedback for the double-twist and chop-chop actions</string>
+  <string name="feedback_intensity_none">Disabled</string>
+  <string name="feedback_intensity_low">Low</string>
+  <string name="feedback_intensity_medium">Medium</string>
+  <string name="feedback_intensity_high">High</string>
   <!-- Dialog texts -->
+  <string name="dialog_ok">OK</string>
   <!-- Help texts -->
+  <string name="doze_settings_help_title">Help</string>
+  <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Additional buttons</string>
+  <string name="button_swap_title">Swap buttons</string>
+  <string name="button_swap_summary">Swap the order of recents and back buttons</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Fingerprint</string>
+  <string name="fingerprint_as_home_title">Fingerprint as home</string>
+  <string name="fingerprint_as_home_summary">Use the fingerprint sensor as a home button</string>
+  <string name="fingerprint_wakeup_title">Fingerprint wake-up</string>
+  <string name="fingerprint_wakeup_summary">Allow the fingerprint sensor to wake the device while the screen is off</string>
+  <string name="fingerprint_pocketmode_title">Prevent accidental wake-up</string>
+  <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
 </resources>

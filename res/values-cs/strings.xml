@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Použít senzor otisku prstů jako tlačítko Domů</string>
   <string name="fingerprint_wakeup_title">Probudit otiskem prstu</string>
   <string name="fingerprint_wakeup_summary">Umožnit senzoru otisku prstu probudit zařízení pokud je obrazovka vypnuta</string>
+  <string name="fingerprint_pocketmode_title">Zabránit nechtěnému probuzení</string>
+  <string name="fingerprint_pocketmode_summary">Před probuzením otiskem prstu zkontrolovat senzor přiblížení</string>
 </resources>

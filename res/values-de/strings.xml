@@ -68,10 +68,10 @@
   <string name="proximity_sensor_title">Näherungssensor</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Winken</string>
-  <string name="hand_wave_gesture_summary">Beim Winken Benachrichtigungen kurzzeitig einblenden</string>
+  <string name="hand_wave_gesture_summary">Benachrichtigungen kurz einblenden, wenn gewunken wird</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Aufheben</string>
-  <string name="pick_up_gesture_summary">Beim Aufheben Benachrichtigungen kurzzeitig einblenden</string>
+  <string name="pick_up_gesture_summary">Benachrichtigungen kurz einblenden, wenn das Gerät aufgehoben wird</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Tasche</string>
   <string name="pocket_gesture_summary">Benachrichtigungen kurz einblenden, wenn das Gerät aus der Tasche genommen wird</string>
@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Fingerabdrucksensor als Home-Taste verwenden</string>
   <string name="fingerprint_wakeup_title">Bildschirm mit Fingerabdruck einschalten</string>
   <string name="fingerprint_wakeup_summary">Ermöglichen Sie dem Fingerprint-Sensor, das Gerät zu wecken, wenn der Bildschirm ausgeschaltet ist</string>
+  <string name="fingerprint_pocketmode_title">Unbeabsichtigtes Aufwecken verhindern</string>
+  <string name="fingerprint_pocketmode_summary">Vor dem Aufwecken durch den Fingerabdrucksensor den Näherungssensor prüfen</string>
 </resources>

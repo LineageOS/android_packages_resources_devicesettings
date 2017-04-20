@@ -101,4 +101,5 @@
   <string name="button_panel_title">Ytterligare knappar</string>
   <string name="button_swap_title">Växla knappar</string>
   <!-- Fingerprint -->
+  <string name="fingerprint_title">Fingeravtryck</string>
 </resources>

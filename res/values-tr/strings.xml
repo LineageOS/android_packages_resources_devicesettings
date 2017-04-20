@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Parmak izi sensörünü home tuşu olarak kullan</string>
   <string name="fingerprint_wakeup_title">Parmak izi ile uyandırma</string>
   <string name="fingerprint_wakeup_summary">Ekran kapalı iken cihazın uyandırmak için parmak izine onay ver</string>
+  <string name="fingerprint_pocketmode_title">Yanlış uyandırmaları önle</string>
+  <string name="fingerprint_pocketmode_summary">Parmak izi sensörü tarafından tetiklenen uyandırma durumlarından önce yakınlık sensörünü kontrol edin</string>
 </resources>

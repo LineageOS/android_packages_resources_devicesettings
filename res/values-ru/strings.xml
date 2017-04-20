@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Использовать сканер отпечатков пальцев в качестве кнопки «Домой»</string>
   <string name="fingerprint_wakeup_title">Выход из режима сна</string>
   <string name="fingerprint_wakeup_summary">Включать экран при касании датчика отпечатков пальцев</string>
+  <string name="fingerprint_pocketmode_title">Предотвращать случайное включение</string>
+  <string name="fingerprint_pocketmode_summary">Проверять датчик приближения при выходе из режима сна с помощью отпечатка пальца</string>
 </resources>

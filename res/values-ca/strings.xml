@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Utilitza el sensor d\'empremta digital com si fos un botó d\'inici</string>
   <string name="fingerprint_wakeup_title">Encesa amb empremta digital</string>
   <string name="fingerprint_wakeup_summary">Permet al sensor d\'empremta digital encendre el dispositiu, mentre la pantalla està apagada</string>
+  <string name="fingerprint_pocketmode_title">Evita l\'encesa accidental</string>
+  <string name="fingerprint_pocketmode_summary">Comprova el sensor de proximitat abans d\'encendre\'s a través del lector d\'empremtes</string>
 </resources>

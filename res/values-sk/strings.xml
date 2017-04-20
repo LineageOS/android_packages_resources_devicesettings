@@ -124,4 +124,6 @@ položený na plocho</string>
   <string name="fingerprint_as_home_summary">Používať senzor odtlačkov prstov ako tlačidlo Domov</string>
   <string name="fingerprint_wakeup_title">Prebudenie snímačom odtlačkov prstov</string>
   <string name="fingerprint_wakeup_summary">Povoliť prebudenie zariadenia priložením prsta na snímač odtlačkov prstov</string>
+  <string name="fingerprint_pocketmode_title">Zabrániť nechcenému prebudeniu</string>
+  <string name="fingerprint_pocketmode_summary">Pred prebudením pomocou odtlačku prsta skontrolovať senzor priblíženia</string>
 </resources>

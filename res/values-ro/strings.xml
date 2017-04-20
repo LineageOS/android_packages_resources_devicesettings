@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Utilizați senzorul de amprentă ca un buton de acasă</string>
   <string name="fingerprint_wakeup_title">Trezire amprentă</string>
   <string name="fingerprint_wakeup_summary">Permite senzorului de amprentă să trezească dispozitivul când ecranul este oprit</string>
+  <string name="fingerprint_pocketmode_title">Previne trezirea accidentală</string>
+  <string name="fingerprint_pocketmode_summary">Verifică senzorul de proximitate înainte de wake-up-urile declanșate de senzorul de amprentă</string>
 </resources>

@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">השתמש בטביעת האצבע כמקש הבית</string>
   <string name="fingerprint_wakeup_title">טביעת אצבע מעירה את המסך</string>
   <string name="fingerprint_wakeup_summary">אפשר לחיישן טביעת האצבע להפעיל את המכשיר כשהמסך כבוי</string>
+  <string name="fingerprint_pocketmode_title">מנע התעוררות מקרית</string>
+  <string name="fingerprint_pocketmode_summary">בדוק את חיישן הקירבה לפני הערת המכשיר על ידי טביעת האצבע</string>
 </resources>

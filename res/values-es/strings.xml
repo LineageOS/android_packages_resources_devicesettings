@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Usar el sensor de huellas dactilares como botón de inicio</string>
   <string name="fingerprint_wakeup_title">Activado por huella dactilar</string>
   <string name="fingerprint_wakeup_summary">Permitir al sensor de huellas dactilares activar el dispositivo cuando la pantalla este apagada</string>
+  <string name="fingerprint_pocketmode_title">Prevenir encendido accidental</string>
+  <string name="fingerprint_pocketmode_summary">Comprueba el sensor de proximidad antes de encender mediante huella dactilar</string>
 </resources>
