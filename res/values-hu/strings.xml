@@ -124,4 +124,5 @@
   <string name="fingerprint_as_home_summary">Ujjlenyomat érzékelő használata kezdőlap gombként</string>
   <string name="fingerprint_wakeup_title">Ujjlenyomat ébresztés</string>
   <string name="fingerprint_wakeup_summary">Lehetővé teszi, hogy az ujjlenyomat érzékelő felébressze az eszközt, amkor a képernyő ki van kapcsolva</string>
+  <string name="fingerprint_pocketmode_title">Véletlen ébresztés megakadályozása</string>
 </resources>

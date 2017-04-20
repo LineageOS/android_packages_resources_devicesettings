@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Використовувати сканер відбитків пальців як кнопку \"Додому\"</string>
   <string name="fingerprint_wakeup_title">Пробудження по сканеру відбитків пальців</string>
   <string name="fingerprint_wakeup_summary">Дозволити сканеру відбитків пальців розблокувати пристрій, якщо екран було вимкнено</string>
+  <string name="fingerprint_pocketmode_title">Запобігання випадкового пробудження</string>
+  <string name="fingerprint_pocketmode_summary">Перевіряти датчик наближення, виходячи з режиму сну з використанням жестів</string>
 </resources>

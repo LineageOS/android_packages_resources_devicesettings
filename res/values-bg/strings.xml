@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Използвай сензора за пръстови отпечанъци, като бутон Начало</string>
   <string name="fingerprint_wakeup_title">Събуждане с пръстов отпечатък</string>
   <string name="fingerprint_wakeup_summary">Позволи на сензора за пръстови отпечатъци да се събуди на устройството, докато екрана е изключен</string>
+  <string name="fingerprint_pocketmode_title">Предотвратяване на случайно събуждане</string>
+  <string name="fingerprint_pocketmode_summary">Проверете сензора за близост за събуждане с помощта на четец на пръстови отпечатъци</string>
 </resources>

@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Gebruik die vingerafdruksensor as jou tuisknoppie</string>
   <string name="fingerprint_wakeup_title">Maak wakker met vingerafdruk</string>
   <string name="fingerprint_wakeup_summary">Laat die vingerafsruksensor toe om die toestel wakker te maak terwyl die skerm af is</string>
+  <string name="fingerprint_pocketmode_title">Voorkom toevallige wakker word</string>
+  <string name="fingerprint_pocketmode_summary">Kontroleer die nabyheidsensor voor wakkerword, veroorsaak deur die vingerafdruk sensor</string>
 </resources>

@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">使用指紋感應器作為主畫面鍵</string>
   <string name="fingerprint_wakeup_title">指紋喚醒</string>
   <string name="fingerprint_wakeup_summary">允許指紋感應器在螢幕關閉時喚醒裝置</string>
+  <string name="fingerprint_pocketmode_title">防止意外喚醒</string>
+  <string name="fingerprint_pocketmode_summary">指紋感應器觸發喚醒前先檢查接近感應器</string>
 </resources>

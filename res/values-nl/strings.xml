@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Vingerafdruksensor gebruiken als thuisknop</string>
   <string name="fingerprint_wakeup_title">Ontwaken via vingerafdruk</string>
   <string name="fingerprint_wakeup_summary">Apparaat ontwaken met vingerafdruk als scherm uit is</string>
+  <string name="fingerprint_pocketmode_title">Per ongeluk ontwaken voorkomen</string>
+  <string name="fingerprint_pocketmode_summary">Nabijheidssensor gebruiken voorafgaand aan ontwaken door de vingerafdruksensor</string>
 </resources>

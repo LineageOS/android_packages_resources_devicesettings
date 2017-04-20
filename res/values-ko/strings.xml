@@ -28,7 +28,7 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">추가 기능</string>
   <string name="touchscreen_gesture_haptic_feedback">햅틱 반응</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">제스처가 감지되면 진동합니다</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">제스처를 감지하면 진동 울림</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">화면 끄기 제스처</string>
   <string name="touchscreen_c_gesture_title">카메라</string>
@@ -78,7 +78,7 @@
   <!-- Proximity wake -->
   <string name="proximity_wake_title">근접 깨우기</string>
   <string name="proximity_wake_enable_title">근접 깨우기</string>
-  <string name="proximity_wake_enable_summary">손을 흔들어 기기 깨우기</string>
+  <string name="proximity_wake_enable_summary">손을 좌우로 흔들어 기기 깨우기</string>
   <!-- Device actions -->
   <string name="actions_title">동작</string>
   <!-- Camera gesture -->
@@ -88,7 +88,7 @@
   <string name="chop_chop_gesture_title">위 아래로 흔들기</string>
   <string name="chop_chop_gesture_summary">위 아래로 흔들기 제스처를 사용할 때 손전등 토글</string>
   <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">흔들어서 무음으로 전환</string>
+  <string name="hand_wave_silencer_title">손 흔들어서 음소거</string>
   <string name="hand_wave_silencer_summary">화면 위에서 손을 흔들어 전화 벨소리 끄기</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">뒤집어서 알림 일시중지</string>
@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">지문 인식 센서를 홈 버튼으로 사용</string>
   <string name="fingerprint_wakeup_title">지문으로 깨우기</string>
   <string name="fingerprint_wakeup_summary">화면이 꺼져 있을 때 지문 인식 센서가 기기를 깨우는 것을 허용</string>
+  <string name="fingerprint_pocketmode_title">실수로 화면 켜기 방지</string>
+  <string name="fingerprint_pocketmode_summary">지문 인식 센서에 의해 깨워지기 전에 근접 센서 확인</string>
 </resources>

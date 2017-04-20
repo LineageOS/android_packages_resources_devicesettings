@@ -124,4 +124,6 @@
   <string name="fingerprint_as_home_summary">Sử dụng cảm biến vân tay như là một nút home</string>
   <string name="fingerprint_wakeup_title">Đánh thức bằng vân tay</string>
   <string name="fingerprint_wakeup_summary">Cho phép cảm biến vân tay đánh thức thiết bị trong khi màn hình đang tắt</string>
+  <string name="fingerprint_pocketmode_title">Ngăn chặn tình cờ mở màn hình</string>
+  <string name="fingerprint_pocketmode_summary">Kiểm tra cảm biến tiệm cận trước khi đánh thức được kích hoạt bằng cảm biến vân tay</string>
 </resources>

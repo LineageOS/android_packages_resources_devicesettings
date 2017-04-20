@@ -116,6 +116,7 @@
   <!-- Fingerprint -->
   <string name="fingerprint_title">Odcisk palca</string>
   <string name="fingerprint_as_home_title">Uruchom ekran główny czytnikiem linii papilarnych</string>
+  <string name="fingerprint_as_home_summary">Używaj czytnika linii papilarnych jako przycisku Home</string>
   <string name="fingerprint_wakeup_title">Wybudzenie ekranu czytnikiem linii papilarnych</string>
   <string name="fingerprint_wakeup_summary">Pozwól, aby czujnik linii papilarnych wybudził urządzenie, gdy ekran jest wyłączony</string>
 </resources>
