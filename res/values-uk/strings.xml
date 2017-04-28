@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Жести рукою</string>
   <string name="hand_wave_gesture_summary">Пульсуючі сповіщення на при жестах руками</string>
+  <string name="hand_wave_gesture_flat_title">Визначити орієнтацію</string>
+  <string name="hand_wave_gesture_flat_summary">Пульсувати тільки, якщо телефон лежить на плоскій поверхні</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Підняти</string>
   <string name="pick_up_gesture_summary">Показувати сповіщення при підніманні пристрою</string>

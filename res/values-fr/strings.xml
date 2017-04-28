@@ -69,6 +69,7 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Passage de la main</string>
   <string name="hand_wave_gesture_summary">Le voyant des notifications clignote en passage de main</string>
+  <string name="hand_wave_gesture_flat_title">Détecter l\'orientation</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Prise en main</string>
   <string name="pick_up_gesture_summary">Afficher les notifications lors de la prise en main</string>
@@ -124,4 +125,5 @@
   <string name="fingerprint_as_home_summary">Utiliser le capteur d’empreintes digitales comme bouton accueil</string>
   <string name="fingerprint_wakeup_title">Réveiller l\'appareil via le lecteur d\'empreinte</string>
   <string name="fingerprint_wakeup_summary">Permet au capteur d\'empreintes digitales de réveiller l\'appareil quand l\'écran est éteint</string>
+  <string name="fingerprint_pocketmode_title">Empêcher un réveil accidentel</string>
 </resources>

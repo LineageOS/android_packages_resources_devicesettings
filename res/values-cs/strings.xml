@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Mávání rukou</string>
   <string name="hand_wave_gesture_summary">Upozornit pulsováním při zamáváním rukou</string>
+  <string name="hand_wave_gesture_flat_title">Detekovat orientaci</string>
+  <string name="hand_wave_gesture_flat_summary">Pulsovat pouze v případě, když telefon leží na rovné ploše obrazovkou nahoru</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Sebrání</string>
   <string name="pick_up_gesture_summary">Upozornit pulsováním při sebrání</string>

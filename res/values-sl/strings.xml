@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Mahanje z roko</string>
   <string name="hand_wave_gesture_summary">Utripaj obvestila ob mahanju z roko</string>
+  <string name="hand_wave_gesture_flat_title">Zaznaj usmerjenost</string>
+  <string name="hand_wave_gesture_flat_summary">Utripaj samo, če telefon leži na ravni površini obrnjen navzgor</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Dvig</string>
   <string name="pick_up_gesture_summary">Utripaj obvestila ob dvigu</string>

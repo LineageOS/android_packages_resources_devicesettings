@@ -125,4 +125,5 @@
   <string name="fingerprint_wakeup_title">Ligar tela com impressão digital</string>
   <string name="fingerprint_wakeup_summary">Permitir que o sensor de impressões digitais ative o dispositivo enquanto a tela estiver desligada</string>
   <string name="fingerprint_pocketmode_title">Impedir que a tela se ligue acidentalmente</string>
+  <string name="fingerprint_pocketmode_summary">Verificar o sensor de proximidade antes de ligar a tela do dispositivo com a impressão digital</string>
 </resources>

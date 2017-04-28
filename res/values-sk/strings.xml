@@ -68,6 +68,8 @@ doprava pre daľšiu skladbu</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Mávnutie ruky</string>
   <string name="hand_wave_gesture_summary">Pulzné oznámenia po mávnutí rukou</string>
+  <string name="hand_wave_gesture_flat_title">Detekovať orientáciu</string>
+  <string name="hand_wave_gesture_flat_summary">Pulzovať iba v prípade, keď telefón leží na rovnej ploche položený obrazovkou nahor</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Zdvihnutie</string>
   <string name="pick_up_gesture_summary">Upozorniť pulzovaním pri zdvihnutí</string>

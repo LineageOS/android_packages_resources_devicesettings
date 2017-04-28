@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Encendido</string>
+  <string name="switch_bar_on">Aceso</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_off">Apagado</string>
   <!-- Device specific settings -->
@@ -36,7 +36,7 @@
   <string name="touchscreen_e_gesture_title">Correo electrónico</string>
   <string name="touchscreen_e_gesture_summary">Debuxar un \"e\" para abrir a aplicación do correo electrónico</string>
   <string name="touchscreen_m_gesture_title">Mensaxes</string>
-  <string name="touchscreen_m_gesture_summary">Debuxar una \"M\" para abrir a aplicación de mensaxes</string>
+  <string name="touchscreen_m_gesture_summary">Debuxar un \"M\" para abrir a aplicación de mensaxes</string>
   <string name="touchscreen_s_gesture_title">Mensaxes</string>
   <string name="touchscreen_s_gesture_summary">Debuxar un \"S\" para abrir a aplicación de mensaxes</string>
   <string name="touchscreen_v_gesture_title">Teléfono</string>
@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Pasar a man</string>
   <string name="hand_wave_gesture_summary">Amosar notificacións ao pasar a man</string>
+  <string name="hand_wave_gesture_flat_title">Detectar a orientación</string>
+  <string name="hand_wave_gesture_flat_summary">Amosar notificacións só se o móbil está nunha superficie plana coa pantalla cara arriba</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Contestar</string>
   <string name="pick_up_gesture_summary">Amosar notificacións ao contestar</string>
@@ -119,11 +121,11 @@
   <string name="button_swap_title">Trocar os botóns</string>
   <string name="button_swap_summary">Trocar a orde dos botóns recentes e atrás</string>
   <!-- Fingerprint -->
-  <string name="fingerprint_title">Huella dactilar</string>
-  <string name="fingerprint_as_home_title">Huella dactilar como inicio</string>
-  <string name="fingerprint_as_home_summary">Usar a huella dactilar como sensor del botón inicio</string>
-  <string name="fingerprint_wakeup_title">Acender coa huella dactilar</string>
-  <string name="fingerprint_wakeup_summary">Permite que o sensor de huella digital activeo dispositivo coa pantalla apagada</string>
+  <string name="fingerprint_title">Pegada dixital</string>
+  <string name="fingerprint_as_home_title">Pegada dixital como inicio</string>
+  <string name="fingerprint_as_home_summary">Empregar a pegada dixital como sensor do botón inicio</string>
+  <string name="fingerprint_wakeup_title">Acender coa pegada dixital</string>
+  <string name="fingerprint_wakeup_summary">Permite ao sensor de pegada dixital activar o dispositivo coa pantalla apagada</string>
   <string name="fingerprint_pocketmode_title">Previr acender de forma accidental</string>
   <string name="fingerprint_pocketmode_summary">Verificar o sensor de proximidade antes de acender o dispositivo coa pegada dixital</string>
 </resources>

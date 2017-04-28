@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Passa la mà</string>
   <string name="hand_wave_gesture_summary">Mostra notificacions quan es passi la mà</string>
+  <string name="hand_wave_gesture_flat_title">Detecta l\'orientació</string>
+  <string name="hand_wave_gesture_flat_summary">Prem només si el telèfon està cara amunt sobre una superfície plana</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Contesta</string>
   <string name="pick_up_gesture_summary">Mostra notificacions en contestar</string>

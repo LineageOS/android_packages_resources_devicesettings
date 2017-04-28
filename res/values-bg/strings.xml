@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Махане с ръка</string>
   <string name="hand_wave_gesture_summary">Показва известията при прекарване на ръка над екрана</string>
+  <string name="hand_wave_gesture_flat_title">Определяне на ориентацията</string>
+  <string name="hand_wave_gesture_flat_summary">Светлинни индикации, само когато телефонът лежи върху равна повърхност с дисплея нагоре</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Повдигане</string>
   <string name="pick_up_gesture_summary">Показва известията при повдигане на устройството</string>

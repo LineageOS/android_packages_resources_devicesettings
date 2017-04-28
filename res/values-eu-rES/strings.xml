@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Eskuarekin agurtu</string>
   <string name="hand_wave_gesture_summary">Jakinarazpen argia eskuarekin agurtzean</string>
+  <string name="hand_wave_gesture_flat_title">Antzeman orientazioa</string>
+  <string name="hand_wave_gesture_flat_summary">Jakinarazpen argia telefonoa azalera horizontal batean buruz gora badago besterik ez</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Hartu</string>
   <string name="pick_up_gesture_summary">Bistarazi jakinarazpenak hartzean</string>
@@ -124,4 +126,6 @@
   <string name="fingerprint_as_home_summary">Erabili hatz-marken sentsorea hasiera-botoi gisa</string>
   <string name="fingerprint_wakeup_title">Hatz-marka bidez esnatu</string>
   <string name="fingerprint_wakeup_summary">Baimendu hatz-marka sentsoreari gailua esnatzen pantaila itzalita dagoen bitartean</string>
+  <string name="fingerprint_pocketmode_title">Eragotzi ustekabeko esnatzea</string>
+  <string name="fingerprint_pocketmode_summary">Egiaztatu hurbiltasun sentsorea hatz-marka sentsoreak eragindako esnatzeen aurretik</string>
 </resources>

@@ -119,4 +119,6 @@
   <string name="button_swap_summary">Tukar urutan tombol terkini dan kembali</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Sidik jari</string>
+  <string name="fingerprint_pocketmode_title">Mencegah bangun yang tidak disengaja</string>
+  <string name="fingerprint_pocketmode_summary">Periksa sensor kedekatan sebelum memicu sensor sidik jari</string>
 </resources>

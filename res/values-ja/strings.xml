@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">手を振る</string>
   <string name="hand_wave_gesture_summary">手を振ったときに通知を点滅表示する</string>
+  <string name="hand_wave_gesture_flat_title">向きの検出</string>
+  <string name="hand_wave_gesture_flat_summary">端末が平らな面で上向きになっているときだけ点滅表示します</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">持ち上げ</string>
   <string name="pick_up_gesture_summary">端末を持ち上げたときに通知を点滅表示する</string>
@@ -124,4 +126,6 @@
   <string name="fingerprint_as_home_summary">指紋センサーをホームボタンとして使用します</string>
   <string name="fingerprint_wakeup_title">指紋で復帰</string>
   <string name="fingerprint_wakeup_summary">画面が消灯しているとき指紋センサーを使ってスリープを解除します</string>
+  <string name="fingerprint_pocketmode_title">誤作動を防止</string>
+  <string name="fingerprint_pocketmode_summary">指紋センサーで復帰する際に、近接センサーを確認します</string>
 </resources>

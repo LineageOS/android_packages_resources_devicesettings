@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">נפנוף יד</string>
   <string name="hand_wave_gesture_summary">הצג התראות בנפנוף יד</string>
+  <string name="hand_wave_gesture_flat_title">זהה כיוון</string>
+  <string name="hand_wave_gesture_flat_summary">הצג התראות רק אם המכשיר שוכב עם הפנים כלפי מעלה על משטח שטוח</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">הרמה</string>
   <string name="pick_up_gesture_summary">הצג התראות בעת הרמה</string>
