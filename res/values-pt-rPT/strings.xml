@@ -18,9 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Ligada</string>
+  <string name="switch_bar_on">Ligado</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Desligada</string>
+  <string name="switch_bar_off">Desligado</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Definições avançadas</string>
   <!-- Device gestures panel -->

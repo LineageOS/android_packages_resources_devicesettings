@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Взмах рукой</string>
   <string name="hand_wave_gesture_summary">Проведите ладонью над экраном для просмотра уведомлений</string>
+  <string name="hand_wave_gesture_flat_title">Учитывать положение устройства</string>
+  <string name="hand_wave_gesture_flat_summary">Показывать уведомления только тогда, когда телефон лежит на плоской поверхности экраном вверх</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Поднять</string>
   <string name="pick_up_gesture_summary">Отображать уведомления при поднятии устройства</string>

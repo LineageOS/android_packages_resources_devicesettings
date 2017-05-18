@@ -69,6 +69,7 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Hand waai</string>
   <string name="hand_wave_gesture_summary">Pols kennisgewings met hand waai</string>
+  <string name="hand_wave_gesture_flat_title">Bespeur oriëntasie</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Optel</string>
   <string name="pick_up_gesture_summary">Pols kennisgewings met optel</string>

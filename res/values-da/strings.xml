@@ -69,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Vink med hånden</string>
   <string name="hand_wave_gesture_summary">Vibrér, hvis der er notifikationer, når du vinker over skærmen</string>
+  <string name="hand_wave_gesture_flat_title">Registrér orientering</string>
+  <string name="hand_wave_gesture_flat_summary">Blink kun, hvis telefonen ligger med forsiden opad på en flad overflade</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Samle op</string>
   <string name="pick_up_gesture_summary">Blink med notifikationerne ved opsamling</string>
@@ -124,4 +126,6 @@
   <string name="fingerprint_as_home_summary">Brug fingeraftrykssensoren som startknap</string>
   <string name="fingerprint_wakeup_title">Vækning med fingeraftryk</string>
   <string name="fingerprint_wakeup_summary">Tillad fingeraftrykssensoren at vække enheden, mens skærmen er slukket</string>
+  <string name="fingerprint_pocketmode_title">Undgå utilsigtet vækning</string>
+  <string name="fingerprint_pocketmode_summary">Kontrollér nærhedsføleren før oplåsning udløst af fingeraftrykslæseren</string>
 </resources>

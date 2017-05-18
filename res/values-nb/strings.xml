@@ -68,15 +68,15 @@
   <string name="proximity_sensor_title">Avstandsmåler</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Håndvink</string>
-  <string name="hand_wave_gesture_summary">Pulseringsvarsel ved håndvink</string>
+  <string name="hand_wave_gesture_summary">Pulsér varsler ved håndvink</string>
   <string name="hand_wave_gesture_flat_title">Oppdag skjermretning</string>
   <string name="hand_wave_gesture_flat_summary">Bare pulser hvis telefonen ligger med skjermen opp på en flat overflate</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Opp-plukking</string>
-  <string name="pick_up_gesture_summary">Pulseringsvarsel når plukket opp</string>
+  <string name="pick_up_gesture_summary">Pulsér varsler når plukket opp</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Lomme</string>
-  <string name="pocket_gesture_summary">Pulseringsvarsel når telefonen er tatt opp av lommen</string>
+  <string name="pocket_gesture_summary">Pulsér varsler når telefonen er tatt opp av lommen</string>
   <!-- Proximity wake -->
   <string name="proximity_wake_title">Berøringsfri vekking</string>
   <string name="proximity_wake_enable_title">Berøringsfri vekking</string>
@@ -115,7 +115,7 @@
   <string name="dialog_ok">OK</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Hjelp</string>
-  <string name="doze_settings_help_text">Disse funksjonene bruker sensor aktiviteter for å åpne en doze pulseringsvarsel. Den valgte sensoren er bare slått på når du har fått et varsel, for å spare batteriet. Du kan også slå på så sensoren slår seg på når skjermen slår seg av, som vill tappe mer strøm.</string>
+  <string name="doze_settings_help_text">Disse funksjonene bruker sensor aktiviteter for å starte en doze pulsering av varsler. Den valgte sensoren er bare slått på når du har fått et varsel, for å spare batteriet. Du kan også slå på slik at sensoren slår seg på når skjermen slår seg av, som vill tappe mer strøm.</string>
   <!-- Button settings -->
   <string name="button_panel_title">Flere knapper</string>
   <string name="button_swap_title">Bytt knapper</string>
