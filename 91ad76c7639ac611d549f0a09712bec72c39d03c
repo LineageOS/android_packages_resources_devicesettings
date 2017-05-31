@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa82b9bf_7341bc0a",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-05-31T15:59:17Z",
+      "side": 1,
+      "message": "turn off the screen",
+      "range": {
+        "startLine": 157,
+        "startChar": 77,
+        "endLine": 157,
+        "endChar": 92
+      },
+      "revId": "91ad76c7639ac611d549f0a09712bec72c39d03c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
