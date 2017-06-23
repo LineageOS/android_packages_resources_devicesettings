@@ -128,4 +128,6 @@ položený na plocho</string>
   <string name="fingerprint_wakeup_summary">Povoliť prebudenie zariadenia priložením prsta na snímač odtlačkov prstov</string>
   <string name="fingerprint_pocketmode_title">Zabrániť nechcenému prebudeniu</string>
   <string name="fingerprint_pocketmode_summary">Pred prebudením pomocou odtlačku prsta skontrolovať senzor priblíženia</string>
+  <string name="fingerprint_sleep_title">Uspať odtlačkom prsta</string>
+  <string name="fingerprint_sleep_summary">Stlačením snímača odtlačkov prstov vypnete obrazovku</string>
 </resources>

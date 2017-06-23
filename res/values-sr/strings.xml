@@ -18,97 +18,99 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Укљ</string>
+  <string name="switch_bar_on">Укључено</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Искљ</string>
+  <string name="switch_bar_off">Искључено</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Напредна подешавања</string>
   <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Гестови</string>
+  <string name="screen_gestures_panel_title">Покрети</string>
   <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">Додаци</string>
-  <string name="touchscreen_gesture_haptic_feedback">Повратне информације</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Вибрација кад гест није откривен</string>
+  <string name="touchscreen_gesture_extras">Додатно</string>
+  <string name="touchscreen_gesture_haptic_feedback">Вибрација при додиру</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Вибрирајте при препознавању покрета.</string>
   <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">Гестови екрана</string>
+  <string name="gesture_display_title">Покрети при искљученом екрану</string>
   <string name="touchscreen_c_gesture_title">Камера</string>
-  <string name="touchscreen_c_gesture_summary">Нацртај \"C\" да би активирао камеру</string>
-  <string name="touchscreen_e_gesture_title">Е-пошта</string>
-  <string name="touchscreen_e_gesture_summary">Нацртај \"e\" да отвориш е-пошту</string>
+  <string name="touchscreen_c_gesture_summary">Нацртајте слово „C“ да бисте укључили камеру.</string>
+  <string name="touchscreen_e_gesture_title">Имејл</string>
+  <string name="touchscreen_e_gesture_summary">Нацртајте слово „e“ да бисте отворили имејл.</string>
   <string name="touchscreen_m_gesture_title">Размена порука</string>
-  <string name="touchscreen_m_gesture_summary">Нацртај \"М\" да отвориш размену порука</string>
+  <string name="touchscreen_m_gesture_summary">Нацртајте слово „M“ да бисте отворили поруке.</string>
   <string name="touchscreen_s_gesture_title">Размена порука</string>
-  <string name="touchscreen_s_gesture_summary">Нацртај \"S\" да отвориш размену порука</string>
-  <string name="touchscreen_v_gesture_title">Бирач бројева</string>
-  <string name="touchscreen_v_gesture_summary">Нацртај \"V\" да отвориш бирач бројева</string>
-  <string name="touchscreen_w_gesture_title">Претраживач</string>
-  <string name="touchscreen_w_gesture_summary">Нацртај \"W\" да отвориш претраживач</string>
+  <string name="touchscreen_s_gesture_summary">Нацртајте слово „S“ да бисте отворили поруке.</string>
+  <string name="touchscreen_v_gesture_title">Телефон</string>
+  <string name="touchscreen_v_gesture_summary">Нацртајте слово „V“ да бисте отворили телефон.</string>
+  <string name="touchscreen_w_gesture_title">Прегледач</string>
+  <string name="touchscreen_w_gesture_summary">Нацртајте слово „W“ да бисте отворили прегледач.</string>
   <string name="touchscreen_z_gesture_title">Лампа</string>
-  <string name="touchscreen_z_gesture_summary">Нацртај \"Z\" да покренеш лампу</string>
+  <string name="touchscreen_z_gesture_summary">Нацртајте слово „Z“ да бисте укључили или искључили лампу.</string>
   <string name="touchscreen_flashlight_gesture_title">Лампа</string>
-  <string name="touchscreen_flashlight_gesture_summary">Нацртај круг да покренеш лампу</string>
+  <string name="touchscreen_flashlight_gesture_summary">Нацртајте круг да бисте укључили или искључили лампу.</string>
   <string name="touchscreen_music_gesture_title">Музика</string>
-  <string name="touchscreen_music_gesture_summary">Користи гестове за контролу пуштања музике \n
-• Повуци доле за пуштање/паузу\n     
-• Повуци лево за претходну нумеру\n     
-• Повуци десно за следећу нумеру</string>
+  <string name="touchscreen_music_gesture_summary">Користите покрете да бисте управљали репродукцијом музике \n
+    • Превуците надоле за репродукцију/паузу\n
+    • Превуците улево за претходну нумеру\n
+    • Превуците удесно за следећу нумеру</string>
   <!-- User-aware display -->
-  <string name="user_aware_display_title">Дисплеј свестан корисника</string>
-  <string name="user_aware_display_summary">Држи екран укљученим док је корисник испред дисплеја</string>
+  <string name="user_aware_display_title">Екран свестан корисника</string>
+  <string name="user_aware_display_summary">Не закључавајте екран док је корисник пред њим.</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Амбијент приказ</string>
-  <string name="ambient_display_enable_title">Амбијент приказ</string>
-  <string name="ambient_display_enable_summary">Пробуди екран кад добијеш обавештење</string>
-  <string name="ambient_display_summary">Пробуди екран кад добијеш обавештење</string>
-  <string name="ambient_display_summary_on">Екран ће се пробудити кад добијеш обавештење</string>
-  <string name="ambient_display_summary_off">Екран се неће пробудити кад добијеш обавештење</string>
+  <string name="ambient_display_title">Амбијентални екран</string>
+  <string name="ambient_display_enable_title">Амбијентални екран</string>
+  <string name="ambient_display_enable_summary">Пробудите екран када примите обавештења.</string>
+  <string name="ambient_display_summary">Пробудите екран када примите обавештења.</string>
+  <string name="ambient_display_summary_on">Екран ће се пробудити када примите обавештења.</string>
+  <string name="ambient_display_summary_off">Екран се неће пробудити када примите обавештења.</string>
   <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">Тилт сензор</string>
+  <string name="tilt_sensor_title">Сензор нагиба</string>
   <!-- Proximity sensor -->
   <string name="proximity_sensor_title">Сензор близине</string>
   <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Покрет руком</string>
-  <string name="hand_wave_gesture_summary">Пулсно обавештење при покрету руком</string>
+  <string name="hand_wave_gesture_title">Замах руком</string>
+  <string name="hand_wave_gesture_summary">Приказујте обавештења при преласку дланом преко екрана.</string>
+  <string name="hand_wave_gesture_flat_title">Препознавање положаја уређаја</string>
+  <string name="hand_wave_gesture_flat_summary">Приказујте обавештења само ако је телефон окренут лицем нагоре на равној површини.</string>
   <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Купљење</string>
-  <string name="pick_up_gesture_summary">Пулсно обавештење при купљењу</string>
+  <string name="pick_up_gesture_title">Подизање</string>
+  <string name="pick_up_gesture_summary">Приказујте обавештења при подизању уређаја.</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Џеп</string>
-  <string name="pocket_gesture_summary">Пулсно обавештење при уклањању из џепа</string>
+  <string name="pocket_gesture_summary">Приказујте обавештења при вађењу уређаја из џепа.</string>
   <!-- Proximity wake -->
-  <string name="proximity_wake_title">Буђење близином</string>
-  <string name="proximity_wake_enable_title">Буђење близином</string>
-  <string name="proximity_wake_enable_summary">Пробуди уређај покретом руке</string>
+  <string name="proximity_wake_title">Буђење на близину</string>
+  <string name="proximity_wake_enable_title">Буђење на близину</string>
+  <string name="proximity_wake_enable_summary">Пробудите уређај при преласку дланом преко екрана.</string>
   <!-- Device actions -->
-  <string name="actions_title">Акције</string>
+  <string name="actions_title">Радње</string>
   <!-- Camera gesture -->
-  <string name="camera_gesture_title">Дупло ротирање</string>
-  <string name="camera_gesture_summary">Отвори камеру када се користи гест дуплог ротирања</string>
+  <string name="camera_gesture_title">Двоструки окрет</string>
+  <string name="camera_gesture_summary">Отворите камеру при двоструком окрету.</string>
   <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">Пожури</string>
-  <string name="chop_chop_gesture_summary">Укључи/Искључи лампу користећи гест пожури</string>
+  <string name="chop_chop_gesture_title">Двоструко протресање</string>
+  <string name="chop_chop_gesture_summary">Укључите или искључите лампу при двоструком протресању.</string>
   <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">Махни за тишину</string>
-  <string name="hand_wave_silencer_summary">Утишај долазеће позиве махањем руком преко екрана</string>
+  <string name="hand_wave_silencer_title">Замах руком за искључење звука</string>
+  <string name="hand_wave_silencer_summary">Пређите руком преко екрана да бисте искључили звук долазних позива.</string>
   <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">Окрени за \'\'Не узнемиравај\'\'</string>
-  <string name="flip_to_mute_summary">Постави телефон лицем на доле да утишаш обавештавање и позиве</string>
+  <string name="flip_to_mute_title">Режим „Не узнемиравај“</string>
+  <string name="flip_to_mute_summary">Окрените телефон лицем надоле да бисте искључили звук обавештења и позива.</string>
   <!-- Do Not Disturb access -->
-  <string name="dnd_access">Да би користио ову функцију дај приступ \'\'Не Узнемиравај\'\' за CM налоге.</string>
+  <string name="dnd_access">Да бисте користили ову функцију, доделите CMActions-у приступ режиму „Не узнемиравај“.</string>
   <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">Подигни да зауставиш звоњење</string>
-  <string name="lift_to_silence_summary">Подигни телефон да утишаш долазеће позиве. Ради само ако је телефон стартовао на равном</string>
+  <string name="lift_to_silence_title">Искључење звука при подизању</string>
+  <string name="lift_to_silence_summary">Подигните телефон да бисте искључили звук долазних позива. Ова функција ради само ако је телефон у хоризонталном положају.</string>
   <!-- Action toggles -->
   <string name="action_none">Онемогући</string>
   <string name="action_launch_camera">Покрени камеру</string>
-  <string name="action_torch">Пребацивање бакље</string>
+  <string name="action_torch">Лампа</string>
   <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">Интензитет одговора додира</string>
-  <string name="feedback_intensity_summary">Јачина повратне информације за дуплу ротацију и пожури акцију</string>
-  <string name="feedback_intensity_none">Онемогућено</string>
-  <string name="feedback_intensity_low">Ниска</string>
-  <string name="feedback_intensity_medium">Средња</string>
-  <string name="feedback_intensity_high">Висока</string>
+  <string name="feedback_intensity_title">Интензитет вибрације</string>
+  <string name="feedback_intensity_summary">Јачина вибрације за покрете двоструког окрета и протресања.</string>
+  <string name="feedback_intensity_none">Онемогућен</string>
+  <string name="feedback_intensity_low">Низак</string>
+  <string name="feedback_intensity_medium">Средњи</string>
+  <string name="feedback_intensity_high">Висок</string>
   <!-- Dialog texts -->
   <string name="dialog_ok">У реду</string>
   <!-- Help texts -->
@@ -116,12 +118,16 @@
   <string name="doze_settings_help_text">Ова функција користи активирање сензора да покрене пулсно обавештење. Изабрани сензор је омогућен једино када уређај прима обавештење, то помаже смањењу потрожње батерије. Ту је и опција омогућења изабраног сензора чим се екран искључи, то ће узроковати већој потрожњи батерије.</string>
   <!-- Button settings -->
   <string name="button_panel_title">Додатна дугмад</string>
-  <string name="button_swap_title">Замени дугмад</string>
-  <string name="button_swap_summary">Замени редослед за скоро и назад дугмад</string>
+  <string name="button_swap_title">Замени места дугмади</string>
+  <string name="button_swap_summary">Замените места дугмади „Преглед“ и „Назад“.</string>
   <!-- Fingerprint -->
-  <string name="fingerprint_title">Отисак прста</string>
-  <string name="fingerprint_as_home_title">Отисак прста као главни</string>
-  <string name="fingerprint_as_home_summary">Користи сензор отиска прста као главно дугме</string>
-  <string name="fingerprint_wakeup_title">Буђење отиском прста</string>
-  <string name="fingerprint_wakeup_summary">Дозволи сензору отиска прста да пробуди уређај док је екран искључен</string>
+  <string name="fingerprint_title">Сензор за отисак прста</string>
+  <string name="fingerprint_as_home_title">Прелаз на почетни екран</string>
+  <string name="fingerprint_as_home_summary">Користите сензор за отисак прста као дугме „Почетна“.</string>
+  <string name="fingerprint_wakeup_title">Излаз из режима сна</string>
+  <string name="fingerprint_wakeup_summary">Пробудите уређај при коришћењу сензора за отисак прста.</string>
+  <string name="fingerprint_pocketmode_title">Спречи случајно буђење</string>
+  <string name="fingerprint_pocketmode_summary">Проверите сензор близине пре буђења сензором за отисак прста.</string>
+  <string name="fingerprint_sleep_title">Искључење екрана отиском прста</string>
+  <string name="fingerprint_sleep_summary">Додирните сензор за отисак прста да бисте искључили екран.</string>
 </resources>

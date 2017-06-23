@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Umožnit senzoru otisku prstu probudit zařízení pokud je obrazovka vypnuta</string>
   <string name="fingerprint_pocketmode_title">Zabránit nechtěnému probuzení</string>
   <string name="fingerprint_pocketmode_summary">Před probuzením otiskem prstu zkontrolovat senzor přiblížení</string>
+  <string name="fingerprint_sleep_title">Uspat otiskem prstu</string>
+  <string name="fingerprint_sleep_summary">Stisknutím snímače otisků prstů vypnete obrazovku</string>
 </resources>

@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Permitir al sensor de huellas dactilares activar el dispositivo cuando la pantalla este apagada</string>
   <string name="fingerprint_pocketmode_title">Prevenir encendido accidental</string>
   <string name="fingerprint_pocketmode_summary">Comprueba el sensor de proximidad antes de encender mediante huella dactilar</string>
+  <string name="fingerprint_sleep_title">Reposo con huella dactilar</string>
+  <string name="fingerprint_sleep_summary">Pulse el sensor de huella dactilar para apagar la pantalla</string>
 </resources>

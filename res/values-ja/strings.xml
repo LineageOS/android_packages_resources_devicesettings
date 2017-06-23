@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">画面が消灯しているとき指紋センサーを使ってスリープを解除します</string>
   <string name="fingerprint_pocketmode_title">誤作動を防止</string>
   <string name="fingerprint_pocketmode_summary">指紋センサーで復帰する際に、近接センサーを確認します</string>
+  <string name="fingerprint_sleep_title">指紋センサーでスリープ</string>
+  <string name="fingerprint_sleep_summary">指紋センサーを押すと画面を消灯します</string>
 </resources>

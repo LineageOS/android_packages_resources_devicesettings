@@ -125,4 +125,6 @@
   <string name="fingerprint_as_home_summary">Usa\'l sensor de buelgues como botón d\'aniciu</string>
   <string name="fingerprint_wakeup_title">Esconsueñu per buelga</string>
   <string name="fingerprint_wakeup_summary">Permite que\'l sensor de buelgues esconsueñe\'l preséu entrín la pantalla tea apagada</string>
+  <string name="fingerprint_sleep_title">Reposu cola buelga</string>
+  <string name="fingerprint_sleep_summary">Pimi\'l sensor de buelgues p\'apagar la pantalla</string>
 </resources>

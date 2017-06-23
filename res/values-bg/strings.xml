@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Позволи на сензора за пръстови отпечатъци да се събуди на устройството, докато екрана е изключен</string>
   <string name="fingerprint_pocketmode_title">Предотвратяване на случайно събуждане</string>
   <string name="fingerprint_pocketmode_summary">Проверете сензора за близост за събуждане с помощта на четец на пръстови отпечатъци</string>
+  <string name="fingerprint_sleep_title">Изключване на дисплея чрез пръстов отпечатък</string>
+  <string name="fingerprint_sleep_summary">Докоснете сензора за пръстови отпечатъци, за да изключите дисплея</string>
 </resources>

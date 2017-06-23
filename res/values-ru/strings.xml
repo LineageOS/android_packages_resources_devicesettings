@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Включать экран при касании датчика отпечатков пальцев</string>
   <string name="fingerprint_pocketmode_title">Предотвращать случайное включение</string>
   <string name="fingerprint_pocketmode_summary">Проверять датчик приближения при выходе из режима сна с помощью отпечатка пальца</string>
+  <string name="fingerprint_sleep_title">Отключение экрана отпечатком</string>
+  <string name="fingerprint_sleep_summary">Нажмите на сканер отпечатка пальца для отключения экрана</string>
 </resources>

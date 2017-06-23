@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Permite ao sensor de pegada dixital activar o dispositivo coa pantalla apagada</string>
   <string name="fingerprint_pocketmode_title">Previr acender de forma accidental</string>
   <string name="fingerprint_pocketmode_summary">Verificar o sensor de proximidade antes de acender o dispositivo coa pegada dixital</string>
+  <string name="fingerprint_sleep_title">Reposo coa pegada dactilar</string>
+  <string name="fingerprint_sleep_summary">Pulse a pegada dixital para apagar a pantalla</string>
 </resources>

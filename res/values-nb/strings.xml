@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Gir fingerskanneren tilgang til å vekke enheten når skjermen er av</string>
   <string name="fingerprint_pocketmode_title">Forhindre feilaktig oppvåkning</string>
   <string name="fingerprint_pocketmode_summary">Sjekk nærhetssensoren i forkant av oppvåkninger forårsaket av fingeravtrykkssensoren</string>
+  <string name="fingerprint_sleep_title">Fingeravtrykk slukker</string>
+  <string name="fingerprint_sleep_summary">Trykk fingeravtrykk sensoren for å slå av skjermen</string>
 </resources>

@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Дозволити сканеру відбитків пальців розблокувати пристрій, якщо екран було вимкнено</string>
   <string name="fingerprint_pocketmode_title">Запобігання випадкового пробудження</string>
   <string name="fingerprint_pocketmode_summary">Перевіряти датчик наближення, виходячи з режиму сну з використанням жестів</string>
+  <string name="fingerprint_sleep_title">Вимикання екрану відбитком</string>
+  <string name="fingerprint_sleep_summary">Торкніться до сенсору відбитку пальців для вимикання екрану</string>
 </resources>

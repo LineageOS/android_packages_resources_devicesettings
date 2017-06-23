@@ -125,7 +125,9 @@
   <string name="fingerprint_as_home_title">Fingerabdrucksensor als Home-Taste verwenden</string>
   <string name="fingerprint_as_home_summary">Fingerabdrucksensor als Home-Taste verwenden</string>
   <string name="fingerprint_wakeup_title">Bildschirm mit Fingerabdruck einschalten</string>
-  <string name="fingerprint_wakeup_summary">Ermöglichen Sie dem Fingerprint-Sensor, das Gerät zu wecken, wenn der Bildschirm ausgeschaltet ist</string>
+  <string name="fingerprint_wakeup_summary">Ermöglicht dem Fingerabdrucksensor, das Gerät zu wecken, wenn der Bildschirm ausgeschaltet ist</string>
   <string name="fingerprint_pocketmode_title">Unbeabsichtigtes Aufwecken verhindern</string>
   <string name="fingerprint_pocketmode_summary">Vor dem Aufwecken durch den Fingerabdrucksensor den Näherungssensor prüfen</string>
+  <string name="fingerprint_sleep_title">Display durch Fingerabdruck ausschalten</string>
+  <string name="fingerprint_sleep_summary">Fingerabdrucksensor berühren, um das Display auszuschalten</string>
 </resources>

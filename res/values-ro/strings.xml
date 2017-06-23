@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Permite senzorului de amprentă să trezească dispozitivul când ecranul este oprit</string>
   <string name="fingerprint_pocketmode_title">Previne trezirea accidentală</string>
   <string name="fingerprint_pocketmode_summary">Verifică senzorul de proximitate înainte de wake-up-urile declanșate de senzorul de amprentă</string>
+  <string name="fingerprint_sleep_title">Fingerprint sleep</string>
+  <string name="fingerprint_sleep_summary">Apăsaţi senzorul de amprentă digitală pentru a opri ecranul</string>
 </resources>

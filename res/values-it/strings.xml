@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Consenti al sensore d\'impronte digitali di risvegliare il dispositivo quando lo schermo è spento</string>
   <string name="fingerprint_pocketmode_title">Previeni risvegli accidentali</string>
   <string name="fingerprint_pocketmode_summary">Controla il sensore di prossimità prima di risvegliare lo smartphone con le impronte digitali</string>
+  <string name="fingerprint_sleep_title">Sospensione con impronte digitali</string>
+  <string name="fingerprint_sleep_summary">Premi il sensore d\'impronte digitali per sospendere il dispositivo</string>
 </resources>

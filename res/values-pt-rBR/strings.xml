@@ -56,10 +56,10 @@
   <string name="user_aware_display_title">Tela que reconhece o usuário</string>
   <string name="user_aware_display_summary">Manter a tela ligada enquanto houver um usuário na frente dela</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Brilho adaptável</string>
-  <string name="ambient_display_enable_title">Brilho adaptável</string>
-  <string name="ambient_display_enable_summary">Ligar a tela quando receber notificações</string>
-  <string name="ambient_display_summary">Ligar a tela ao receber notificações</string>
+  <string name="ambient_display_title">Tela ambiente</string>
+  <string name="ambient_display_enable_title">Tela ambiente</string>
+  <string name="ambient_display_enable_summary">Ligar tela ao receber notificações</string>
+  <string name="ambient_display_summary">Ligar tela ao receber notificações</string>
   <string name="ambient_display_summary_on">A tela ligará ao receber notificações</string>
   <string name="ambient_display_summary_off">A tela não ligará ao receber notificações</string>
   <!-- Tilt sensor -->
@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Permitir que o sensor de impressões digitais ative o dispositivo enquanto a tela estiver desligada</string>
   <string name="fingerprint_pocketmode_title">Impedir que a tela se ligue acidentalmente</string>
   <string name="fingerprint_pocketmode_summary">Verificar o sensor de proximidade antes de ligar a tela do dispositivo com a impressão digital</string>
+  <string name="fingerprint_sleep_title">Suspender com impressão digital</string>
+  <string name="fingerprint_sleep_summary">Pressione o sensor de impressão digital para desligar a tela</string>
 </resources>

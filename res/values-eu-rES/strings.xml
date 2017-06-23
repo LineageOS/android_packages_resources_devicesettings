@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Baimendu hatz-marka sentsoreari gailua esnatzen pantaila itzalita dagoen bitartean</string>
   <string name="fingerprint_pocketmode_title">Eragotzi ustekabeko esnatzea</string>
   <string name="fingerprint_pocketmode_summary">Egiaztatu hurbiltasun sentsorea hatz-marka sentsoreak eragindako esnatzeen aurretik</string>
+  <string name="fingerprint_sleep_title">Hatz-markarekin lokartu</string>
+  <string name="fingerprint_sleep_summary">Sakatu hatz-marka sentsorea pantaila itzaltzeko</string>
 </resources>

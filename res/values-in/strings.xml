@@ -116,6 +116,7 @@
   <string name="doze_settings_help_text">Fitur-fitur ini menggunakan aktivitas sensor untuk meluncurkan pulse pemberitahuan tertidur. sensor yang dipilih hanya diaktifkan bila perangkat menerima pemberitahuan, ini membantu mengurangi penggunaan baterai. Ada juga pilihan untuk mengaktifkan sensor yang dipilih secepat layar mati, ini akan menyebabkan penggunaan baterai yang lebih tinggi.</string>
   <!-- Button settings -->
   <string name="button_panel_title">Tombol tambahan</string>
+  <string name="button_swap_title">Tukar tombol</string>
   <string name="button_swap_summary">Tukar urutan tombol terkini dan kembali</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Sidik jari</string>

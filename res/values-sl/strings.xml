@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Dovolite čitalcu prstnih odtisov da zbudi napravo, ko je zaslon ugasnjen</string>
   <string name="fingerprint_pocketmode_title">Prepreči nenamerno bujenje</string>
   <string name="fingerprint_pocketmode_summary">Pred bujenjem s čitalcem prstnih odtisov preveri tipalo bližine</string>
+  <string name="fingerprint_sleep_title">Spanje s prstnim odtisom</string>
+  <string name="fingerprint_sleep_summary">Za izklop ekrana pritisnite čitalec prstnih odtisov</string>
 </resources>

@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">屏幕关闭时允许指纹传感器唤醒设备</string>
   <string name="fingerprint_pocketmode_title">防止意外唤醒</string>
   <string name="fingerprint_pocketmode_summary">经由指纹唤醒前先检查距离传感器</string>
+  <string name="fingerprint_sleep_title">指纹关屏</string>
+  <string name="fingerprint_sleep_summary">按下指纹传感器来关闭屏幕</string>
 </resources>

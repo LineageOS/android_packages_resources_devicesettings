@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">화면이 꺼져 있을 때 지문 인식 센서가 기기를 깨우는 것을 허용</string>
   <string name="fingerprint_pocketmode_title">실수로 화면 켜기 방지</string>
   <string name="fingerprint_pocketmode_summary">지문 인식 센서에 의해 깨워지기 전에 근접 센서 확인</string>
+  <string name="fingerprint_sleep_title">지문으로 재우기</string>
+  <string name="fingerprint_sleep_summary">지문 인식 센서를 눌러 화면 끄기</string>
 </resources>
