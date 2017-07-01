@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Włączone</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Wyłączone</string>
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Ustawienia zaawansowane</string>
   <!-- Device gestures panel -->
@@ -67,6 +69,8 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Machnij ręką</string>
   <string name="hand_wave_gesture_summary">Pulsujące powiadomienia po machnięciu ręką</string>
+  <string name="hand_wave_gesture_flat_title">Wykrywanie orientacji</string>
+  <string name="hand_wave_gesture_flat_summary">Pulsuj tylko wtedy, gdy telefon jest w pozycji ekranem do góry</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Podnieś</string>
   <string name="pick_up_gesture_summary">Pulsujące powiadomienia podczas podnoszenia</string>
@@ -122,4 +126,8 @@
   <string name="fingerprint_as_home_summary">Używaj czytnika linii papilarnych jako przycisku Home</string>
   <string name="fingerprint_wakeup_title">Wybudzenie ekranu czytnikiem linii papilarnych</string>
   <string name="fingerprint_wakeup_summary">Pozwól, aby czujnik linii papilarnych wybudził urządzenie, gdy ekran jest wyłączony</string>
+  <string name="fingerprint_pocketmode_title">Zapobiegaj przypadkowemu wybudzeniu</string>
+  <string name="fingerprint_pocketmode_summary">Sprawdź czujnik zbliżeniowy przed wybudzeniem za pomocą czytnika linii papilarnych</string>
+  <string name="fingerprint_sleep_title">Usypianie odciskiem palca</string>
+  <string name="fingerprint_sleep_summary">Naciśnij czytnik linii papilarnych, aby wyłączyć ekran</string>
 </resources>

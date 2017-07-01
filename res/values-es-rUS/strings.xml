@@ -32,19 +32,19 @@
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Gestos de apagado</string>
   <string name="touchscreen_c_gesture_title">Cámara</string>
-  <string name="touchscreen_c_gesture_summary">Dibujar una \"C\" para activar la cámara</string>
+  <string name="touchscreen_c_gesture_summary">Dibujar una «C» para activar la cámara</string>
   <string name="touchscreen_e_gesture_title">Correo electrónico</string>
-  <string name="touchscreen_e_gesture_summary">Dibujar una \"e\" para abrir la aplicación correo electrónico</string>
+  <string name="touchscreen_e_gesture_summary">Dibujar una «e» para abrir la aplicación de correo electrónico</string>
   <string name="touchscreen_m_gesture_title">Mensajes</string>
-  <string name="touchscreen_m_gesture_summary">Dibujar una \"M\" para abrir la aplicación de mensajería</string>
+  <string name="touchscreen_m_gesture_summary">Dibujar una «M» para abrir la aplicación de mensajería</string>
   <string name="touchscreen_s_gesture_title">Mensajes</string>
-  <string name="touchscreen_s_gesture_summary">Dibujar una \"S\" para abrir la aplicación de mensajería</string>
+  <string name="touchscreen_s_gesture_summary">Dibujar una «S» para abrir la aplicación de mensajería</string>
   <string name="touchscreen_v_gesture_title">Marcador</string>
-  <string name="touchscreen_v_gesture_summary">Dibujar una \"V\" para abrir la aplicación dialer</string>
+  <string name="touchscreen_v_gesture_summary">Dibujar una «V» para abrir la aplicación del marcador</string>
   <string name="touchscreen_w_gesture_title">Navegador</string>
-  <string name="touchscreen_w_gesture_summary">Dibujar una \"W\" para abrir la aplicación navegador</string>
+  <string name="touchscreen_w_gesture_summary">Dibujar una «W» para abrir la aplicación del navegador</string>
   <string name="touchscreen_z_gesture_title">Linterna</string>
-  <string name="touchscreen_z_gesture_summary">Dibujar una \"Z\" para alternar la linterna</string>
+  <string name="touchscreen_z_gesture_summary">Dibujar una «Z» para alternar la linterna</string>
   <string name="touchscreen_flashlight_gesture_title">Linterna</string>
   <string name="touchscreen_flashlight_gesture_summary">Dibujar un círculo para alternar la linterna</string>
   <string name="touchscreen_music_gesture_title">Música</string>

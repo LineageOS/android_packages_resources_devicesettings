@@ -115,7 +115,7 @@
   <string name="dialog_ok">TAMAM</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Yardım</string>
-  <string name="doze_settings_help_text">Doze özelliği çalışmak için sensörleri kullanır. Seçilen sensör yalnızca cihaz bildirim aldığında etkinleştirilir, pil kullanımını azaltmaya yardımcı olur. Seçilen sensörü ekran kapanır kaldırılmaz etkinleştirebilirsiniz ancak bu yüksek pil kullanımına neden olur.</string>
+  <string name="doze_settings_help_text">Bu özellik bildirim ekranını başlatmak için sensörleri kullanır. Seçilen sensör yalnızca cihaz bildirim aldığında etkinleştirilir, pil kullanımını azaltmaya yardımcı olur. Ekran kapandığında seçilen sensörü etkinleştirmek için bir seçenek de vardır, fakat bu daha yüksek pil kullanımına neden olur.</string>
   <!-- Button settings -->
   <string name="button_panel_title">Ek düğmeler</string>
   <string name="button_swap_title">Düğmeleri değiştir</string>
