@@ -128,4 +128,5 @@
   <string name="fingerprint_wakeup_summary">Permet au capteur d\'empreintes digitales de réveiller l\'appareil quand l\'écran est éteint</string>
   <string name="fingerprint_pocketmode_title">Empêcher un réveil accidentel</string>
   <string name="fingerprint_pocketmode_summary">Vérifier le capteur de proximité avant une sortie de veille déclenchée par le capteur d\'empreinte digitale</string>
+  <string name="fingerprint_sleep_title">Veille par empreinte digitale</string>
 </resources>
