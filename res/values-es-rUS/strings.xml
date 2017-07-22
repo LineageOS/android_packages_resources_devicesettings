@@ -85,7 +85,7 @@
   <string name="actions_title">Acciones</string>
   <!-- Camera gesture -->
   <string name="camera_gesture_title">Doble giro</string>
-  <string name="camera_gesture_summary">Abrir cámara al usar el gesto de doble giro</string>
+  <string name="camera_gesture_summary">Abrir la cámara al usar el gesto de doble giro</string>
   <!-- Chop-chop gesture -->
   <string name="chop_chop_gesture_title">Doble sacudida</string>
   <string name="chop_chop_gesture_summary">Alternar linterna al usar el gesto de doble sacudida (chop-chop)</string>
@@ -93,10 +93,10 @@
   <string name="hand_wave_silencer_title">Pasar la mano para silenciar</string>
   <string name="hand_wave_silencer_summary">Silenciar llamadas entrantes al pasar la mano por la pantalla</string>
   <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">Voltear para modo No Molestar</string>
+  <string name="flip_to_mute_title">Voltear para modo «No molestar»</string>
   <string name="flip_to_mute_summary">Colocar el teléfono hacia abajo para silenciar notificaciones y llamadas</string>
   <!-- Do Not Disturb access -->
-  <string name="dnd_access">Concede el acceso de No Molestar a CMActions para utilizar esta función.</string>
+  <string name="dnd_access">Concede el acceso de «No molestar» a CMActions para utilizar esta función.</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Levantar para silenciar</string>
   <string name="lift_to_silence_summary">Levante el teléfono para silenciar las llamadas entrantes. Sólo funciona cuando el teléfono inicia sobre una superficie plana</string>

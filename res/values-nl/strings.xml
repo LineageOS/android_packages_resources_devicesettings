@@ -128,4 +128,6 @@
   <string name="fingerprint_wakeup_summary">Apparaat ontwaken met vingerafdruk als scherm uit is</string>
   <string name="fingerprint_pocketmode_title">Per ongeluk ontwaken voorkomen</string>
   <string name="fingerprint_pocketmode_summary">Nabijheidssensor gebruiken voorafgaand aan ontwaken door de vingerafdruksensor</string>
+  <string name="fingerprint_sleep_title">Slaapstand via vingerafdruk</string>
+  <string name="fingerprint_sleep_summary">Vingerafdruksensor indrukken om scherm uit te zetten</string>
 </resources>

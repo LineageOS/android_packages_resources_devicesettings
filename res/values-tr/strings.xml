@@ -30,7 +30,7 @@
   <string name="touchscreen_gesture_haptic_feedback">Dokunmatik geri bildirim</string>
   <string name="touchscreen_gesture_haptic_feedback_summary">Bir hareket algılandığında titrer</string>
   <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">Kapalı ekranda kısayollar</string>
+  <string name="gesture_display_title">Ekran kapalı hareketleri</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>
   <string name="touchscreen_c_gesture_summary">Kamerayı etkinleştirmek için bir \"C\" çizin</string>
   <string name="touchscreen_e_gesture_title">E-Posta</string>
@@ -45,7 +45,7 @@
   <string name="touchscreen_w_gesture_summary">Tarayıcı uygulamasını açmak için \"W\" çizin</string>
   <string name="touchscreen_z_gesture_title">El feneri</string>
   <string name="touchscreen_z_gesture_summary">El fenerini açıp kapatmak için \'Z\' çizin</string>
-  <string name="touchscreen_flashlight_gesture_title">El Feneri</string>
+  <string name="touchscreen_flashlight_gesture_title">El feneri</string>
   <string name="touchscreen_flashlight_gesture_summary">El feneri için daire çiz</string>
   <string name="touchscreen_music_gesture_title">Müzik</string>
   <string name="touchscreen_music_gesture_summary">Müziği kontrol etmek için hareketlerinizi kullanın\n
@@ -58,8 +58,8 @@
   <!-- Ambient Display -->
   <string name="ambient_display_title">Bildirim ekranı</string>
   <string name="ambient_display_enable_title">Bildirim ekranı</string>
-  <string name="ambient_display_enable_summary">Bildirim aldığınızda ekranı uyandırın</string>
-  <string name="ambient_display_summary">Bildirim geldiğinde cihazı uyandır</string>
+  <string name="ambient_display_enable_summary">Bildirim aldığınızda ekran uyanır</string>
+  <string name="ambient_display_summary">Bildirim aldığınızda ekran uyanır</string>
   <string name="ambient_display_summary_on">Bildirimler aldığınızda ekran uyanacak</string>
   <string name="ambient_display_summary_off">Bildirimler aldığınızda ekran uyanmayacak</string>
   <!-- Tilt sensor -->
@@ -72,11 +72,11 @@
   <string name="hand_wave_gesture_flat_title">Yönü algıla</string>
   <string name="hand_wave_gesture_flat_summary">Yalnızca telefonun ekranı yukarı bakacak şekilde düz bir yüzeyde duruyor ise uyansın</string>
   <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Kaldır</string>
+  <string name="pick_up_gesture_title">Telefonu kaldır</string>
   <string name="pick_up_gesture_summary">Telefonu kaldırınca bildirimleri göster</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">Cep</string>
-  <string name="pocket_gesture_summary">Cepten çıkarınca bildirimleri at</string>
+  <string name="pocket_gesture_summary">Cepten çıkarınca bildirimleri göster</string>
   <!-- Proximity wake -->
   <string name="proximity_wake_title">Harekette uyandır</string>
   <string name="proximity_wake_enable_title">Harekette uyandır</string>
@@ -91,15 +91,15 @@
   <string name="chop_chop_gesture_summary">Tak-tak hareketi kullanıldığında flaşı aç/kapat</string>
   <!-- Hand wave silencer gesture -->
   <string name="hand_wave_silencer_title">Sessize almak için sallayın</string>
-  <string name="hand_wave_silencer_summary">Elinizi ekranın üstünde sallayarak gelen çağrıları sessize alın</string>
+  <string name="hand_wave_silencer_summary">Elinizi ekranın üstünde sallayarak gelen aramaları sessize alın</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">Rahatsız Etmeyin Modu için döndür</string>
-  <string name="flip_to_mute_summary">Sessize almak için telefonu ters döndür</string>
+  <string name="flip_to_mute_summary">Bildirimleri ve aramaları sessize almak için telefonun ön yüzünü ters çevirin</string>
   <!-- Do Not Disturb access -->
-  <string name="dnd_access">Bu özelliği kullanmak CMActions\'a izin ver.</string>
+  <string name="dnd_access">Lütfen, bu özelliği kullanmak için CMActions\'a Rahatsız Etme erişimi izni verin.</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Zil sesini susturmak için cihazı kaldır</string>
-  <string name="lift_to_silence_summary">Gelen aramaları susturmak için telefonu kaldır</string>
+  <string name="lift_to_silence_summary">Gelen aramaları susturmak için telefonu kaldır. Sadece telefonunuz düz olduğunda çalışır</string>
   <!-- Action toggles -->
   <string name="action_none">Devre dışı</string>
   <string name="action_launch_camera">Kamerayı başlat</string>
@@ -112,22 +112,22 @@
   <string name="feedback_intensity_medium">Orta</string>
   <string name="feedback_intensity_high">Yüksek</string>
   <!-- Dialog texts -->
-  <string name="dialog_ok">TAMAM</string>
+  <string name="dialog_ok">Tamam</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">Yardım</string>
   <string name="doze_settings_help_text">Bu özellik bildirim ekranını başlatmak için sensörleri kullanır. Seçilen sensör yalnızca cihaz bildirim aldığında etkinleştirilir, pil kullanımını azaltmaya yardımcı olur. Ekran kapandığında seçilen sensörü etkinleştirmek için bir seçenek de vardır, fakat bu daha yüksek pil kullanımına neden olur.</string>
   <!-- Button settings -->
-  <string name="button_panel_title">Ek düğmeler</string>
-  <string name="button_swap_title">Düğmeleri değiştir</string>
-  <string name="button_swap_summary">Son uygulamalar ve geri düğmesinin sırasını değiştir</string>
+  <string name="button_panel_title">Ek tuşlar</string>
+  <string name="button_swap_title">Tuşları değiştir</string>
+  <string name="button_swap_summary">Son kullanılanlar ve geri tuşlarının yerini değiştirin</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Parmak İzi</string>
   <string name="fingerprint_as_home_title">Ana ekran için parmak izi</string>
-  <string name="fingerprint_as_home_summary">Parmak izi sensörünü home tuşu olarak kullan</string>
-  <string name="fingerprint_wakeup_title">Parmak izi ile uyandırma</string>
-  <string name="fingerprint_wakeup_summary">Ekran kapalı iken cihazın uyandırmak için parmak izine onay ver</string>
+  <string name="fingerprint_as_home_summary">Parmak izi sensörünü ana ekran tuşu olarak kullanın</string>
+  <string name="fingerprint_wakeup_title">Parmak izi ile uyandır</string>
+  <string name="fingerprint_wakeup_summary">Ekran kapalıyken parmak izi sensörünün cihazı uyandırmasına izin verin</string>
   <string name="fingerprint_pocketmode_title">Yanlış uyandırmaları önle</string>
   <string name="fingerprint_pocketmode_summary">Parmak izi sensörü tarafından tetiklenen uyandırma durumlarından önce yakınlık sensörünü kontrol edin</string>
   <string name="fingerprint_sleep_title">Parmak izi ile uyut</string>
-  <string name="fingerprint_sleep_summary">Ekranı kapatmak için parmak izi sensörüne dokun</string>
+  <string name="fingerprint_sleep_summary">Ekranı kapatmak için parmak izi sensörüne dokunun</string>
 </resources>
