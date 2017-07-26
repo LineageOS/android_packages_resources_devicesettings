@@ -129,4 +129,5 @@
   <string name="fingerprint_pocketmode_title">Empêcher un réveil accidentel</string>
   <string name="fingerprint_pocketmode_summary">Vérifier le capteur de proximité avant une sortie de veille déclenchée par le capteur d\'empreinte digitale</string>
   <string name="fingerprint_sleep_title">Veille par empreinte digitale</string>
+  <string name="fingerprint_sleep_summary">Appuyez sur le capteur d’empreintes digitales pour éteindre l’écran</string>
 </resources>
