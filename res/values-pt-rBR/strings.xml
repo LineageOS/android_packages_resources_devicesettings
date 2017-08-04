@@ -96,7 +96,7 @@
   <string name="flip_to_mute_title">Ativar o modo não perturbe ao virar o telefone</string>
   <string name="flip_to_mute_summary">Silenciar notificações e chamadas ao colocar o telefone com a tela para baixo</string>
   <!-- Do Not Disturb access -->
-  <string name="dnd_access">Por favor, conceda acesso Não Perturbe ao CMActions para poder utilizar esta função.</string>
+  <string name="dnd_access">Conceda o acesso de Não Perturbe ao CMActions para poder usar esta função.</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Parar de tocar ao pegar o telefone</string>
   <string name="lift_to_silence_summary">Levante o telefone para silenciar as chamadas. Só funciona quando o seu telefone está sobre uma superfície plana</string>
@@ -123,7 +123,7 @@
   <!-- Fingerprint -->
   <string name="fingerprint_title">Impressão digital</string>
   <string name="fingerprint_as_home_title">Sensor de impressões digitais como botão Home</string>
-  <string name="fingerprint_as_home_summary">Utilizar o sensor de impressões digitais como botão Home</string>
+  <string name="fingerprint_as_home_summary">Usar o sensor de impressões digitais como botão Home</string>
   <string name="fingerprint_wakeup_title">Ligar tela com impressão digital</string>
   <string name="fingerprint_wakeup_summary">Permitir que o sensor de impressões digitais ative o dispositivo enquanto a tela estiver desligada</string>
   <string name="fingerprint_pocketmode_title">Impedir que a tela se ligue acidentalmente</string>
