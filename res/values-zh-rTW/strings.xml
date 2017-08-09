@@ -68,15 +68,15 @@
   <string name="proximity_sensor_title">距離感應器</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">揮手</string>
-  <string name="hand_wave_gesture_summary">揮手時顯示通知</string>
+  <string name="hand_wave_gesture_summary">揮手時閃爍呼吸燈</string>
   <string name="hand_wave_gesture_flat_title">檢測方向</string>
-  <string name="hand_wave_gesture_flat_summary">僅在手機平放於平坦表面時顯示通知</string>
+  <string name="hand_wave_gesture_flat_summary">僅在手機平放於平坦表面時閃爍呼吸燈</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">拿起</string>
-  <string name="pick_up_gesture_summary">拿起時顯示通知</string>
+  <string name="pick_up_gesture_summary">拿起時閃爍呼吸燈</string>
   <!-- Pocket gesture -->
   <string name="pocket_gesture_title">口袋</string>
-  <string name="pocket_gesture_summary">從口袋中取出時顯示通知</string>
+  <string name="pocket_gesture_summary">從口袋中取出時閃爍呼吸燈</string>
   <!-- Proximity wake -->
   <string name="proximity_wake_title">距離喚醒</string>
   <string name="proximity_wake_enable_title">距離喚醒</string>
@@ -115,7 +115,7 @@
   <string name="dialog_ok">確定</string>
   <!-- Help texts -->
   <string name="doze_settings_help_title">說明</string>
-  <string name="doze_settings_help_text">這些功能使用各種感應器來感測即可觸發休眠顯示通知，所選的感應器僅在裝置收到通知時才被啟動，達致減低耗電量。此外還有一個選項可以在每當螢幕關閉時馬上啟動感應器，當然這會消耗更多的電量。</string>
+  <string name="doze_settings_help_text">這些功能使用各種感應器來感測即可觸發休眠閃爍呼吸燈，所選的感應器僅在裝置收到通知時才被啟動，達致減低耗電量。此外還有一個選項可以在每當螢幕關閉時馬上啟動感應器，當然這會消耗更多的電量。</string>
   <!-- Button settings -->
   <string name="button_panel_title">更多按鍵</string>
   <string name="button_swap_title">切換按鍵</string>
