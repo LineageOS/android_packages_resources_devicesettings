@@ -69,6 +69,7 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Guncang Tangan</string>
   <string name="hand_wave_gesture_summary">Kedipakan pemberitahuan saat melambaikan tangan</string>
+  <string name="hand_wave_gesture_flat_title">Orientasi deteksi</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Ambil</string>
   <string name="pick_up_gesture_summary">Kedipkan pemberitahuan saat diambil</string>
@@ -120,6 +121,12 @@
   <string name="button_swap_summary">Tukar urutan tombol terkini dan kembali</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Sidik jari</string>
+  <string name="fingerprint_as_home_title">Sidik jari sebagai Home</string>
+  <string name="fingerprint_as_home_summary">Gunakan sensor sidik jari sebagai tombol Home</string>
+  <string name="fingerprint_wakeup_title">Sidik jari untuk membangunkan layar</string>
+  <string name="fingerprint_wakeup_summary">Izinkan sensor sidik jari untuk membangunkan perangkat saat layar mati</string>
   <string name="fingerprint_pocketmode_title">Mencegah bangun yang tidak disengaja</string>
   <string name="fingerprint_pocketmode_summary">Periksa sensor kedekatan sebelum memicu sensor sidik jari</string>
+  <string name="fingerprint_sleep_title">Sidik jari layar mati</string>
+  <string name="fingerprint_sleep_summary">Tekan sensor sidik jari untuk mematikan layar</string>
 </resources>
