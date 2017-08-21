@@ -31,9 +31,12 @@
     <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extras</string>
     <string name="touchscreen_gesture_haptic_feedback">Haptic feedback</string>
-    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a gesture got detected</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a touchscreen gesture is detected</string>
 
     <!-- Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Touchscreen gestures</string>
+    <string name="touchscreen_gesture_settings_summary">Perform various touchscreen gestures for quick actions</string>
+
     <string name="gesture_display_title">Screen off gestures</string>
     <string name="touchscreen_c_gesture_title">Camera</string>
     <string name="touchscreen_c_gesture_summary">Draw a \"C\" to activate camera</string>
@@ -56,6 +59,11 @@
     • Swipe down to play/pause\n
     • Swipe left for previous track\n
     • Swipe right for next track</string>
+
+    <string name="touchscreen_swipe_up_title">Swipe up</string>
+    <string name="touchscreen_swipe_right_title">Swipe right</string>
+    <string name="touchscreen_swipe_down_title">Swipe down</string>
+    <string name="touchscreen_swipe_left_title">Swipe left</string>
 
     <!-- User-aware display -->
     <string name="user_aware_display_title">User-aware display</string>
