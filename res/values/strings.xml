@@ -26,12 +26,13 @@
     <string name="device_settings_app_name">Advanced settings</string>
 
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">Gestures</string>
+    <string name="screen_gestures_panel_title">Touchscreen gestures</string>
+    <string name="screen_gestures_panel_summary">Perform various touchscreen gestures for quick actions</string>
 
     <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extras</string>
     <string name="touchscreen_gesture_haptic_feedback">Haptic feedback</string>
-    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a gesture got detected</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a touchscreen gesture is detected</string>
 
     <!-- Touchscreen gestures -->
     <string name="gesture_display_title">Screen off gestures</string>
@@ -56,6 +57,11 @@
     • Swipe down to play/pause\n
     • Swipe left for previous track\n
     • Swipe right for next track</string>
+
+    <string name="touchscreen_swipe_up_title">Swipe up</string>
+    <string name="touchscreen_swipe_right_title">Swipe right</string>
+    <string name="touchscreen_swipe_down_title">Swipe down</string>
+    <string name="touchscreen_swipe_left_title">Swipe left</string>
 
     <!-- User-aware display -->
     <string name="user_aware_display_title">User-aware display</string>
