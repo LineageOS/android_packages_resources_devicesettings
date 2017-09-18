@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Estres</string>
   <string name="touchscreen_gesture_haptic_feedback">Feedback hápticu</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibra al deteutase un xestu</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Xestos de pantalla apagada</string>
   <string name="touchscreen_c_gesture_title">Cámara</string>

@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">قوشۇمچە ئىقتىدار</string>
   <string name="touchscreen_gesture_haptic_feedback">تېگىش ئىنكاسى</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">قوش ئىشارىتىنى بايقىغاندا تىتىرەيدۇ</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">كامېرا</string>
   <string name="touchscreen_c_gesture_summary">ئاپاراتنى قوزغىتىش ئۈچۈن \"C\" شەكلىنى سىزىڭ</string>

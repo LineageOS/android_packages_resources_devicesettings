@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">พิเศษ</string>
   <string name="touchscreen_gesture_haptic_feedback">สั่นเมื่อแตะ</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">สั่นเมื่อพบการเคลื่อนไหว</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">กล้องถ่ายรูป</string>
   <string name="touchscreen_c_gesture_summary">วาด \"C\" เพื่อเปิดกล้อง</string>

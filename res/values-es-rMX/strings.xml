@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Respuesta háptica</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cuando se detecte un gesto</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">Cámara</string>
   <string name="touchscreen_c_gesture_summary">Dibuja una \"C\" para activar la cámara</string>

@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Dodatki</string>
   <string name="touchscreen_gesture_haptic_feedback">Wibracja przy dotknięciu</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Zawibruj, gdy gest zostanie wykryty</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Gesty wyłączenia ekranu</string>
   <string name="touchscreen_c_gesture_title">Aparat</string>

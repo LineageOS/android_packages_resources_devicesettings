@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">その他</string>
   <string name="touchscreen_gesture_haptic_feedback">タッチ操作バイブ</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">ジェスチャーを検出したときに振動する</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">タッチスクリーンジェスチャーを検出したときにバイブします</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">タッチスクリーンジェスチャー</string>
+  <string name="touchscreen_gesture_settings_summary">様々なタッチスクリーンジェスチャーですばやくアクションを実行します</string>
   <string name="gesture_display_title">画面消灯時のジェスチャー</string>
   <string name="touchscreen_c_gesture_title">カメラ</string>
   <string name="touchscreen_c_gesture_summary">Cを描いてカメラを有効にする</string>
@@ -52,6 +54,10 @@
     • 下にスワイプして再生/一時停止する\n
     • 左にスワイプして前のトラックに戻る\n
     • 右にスワイプして次のトラックに進む</string>
+  <string name="touchscreen_swipe_up_title">上にスワイプ</string>
+  <string name="touchscreen_swipe_right_title">右にスワイプ</string>
+  <string name="touchscreen_swipe_down_title">下にスワイプ</string>
+  <string name="touchscreen_swipe_left_title">左にスワイプ</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">使用認識ディスプレイ</string>
   <string name="user_aware_display_summary">ユーザーがディスプレイの前にいる間は画面を点灯し続ける</string>

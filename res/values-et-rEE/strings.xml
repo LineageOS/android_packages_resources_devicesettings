@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Lisad</string>
   <string name="touchscreen_gesture_haptic_feedback">Haptiline tagasiside</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibreeri kui žest avastati</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Väljalülitatud ekraani žestid</string>
   <string name="touchscreen_c_gesture_title">Kaamera</string>

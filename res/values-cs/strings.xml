@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Doplňky</string>
   <string name="touchscreen_gesture_haptic_feedback">Hmatová odezva</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrovat při detekci gesta</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Gesta vypnutí obrazovky</string>
   <string name="touchscreen_c_gesture_title">Fotoaparát</string>

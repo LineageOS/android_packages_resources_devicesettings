@@ -30,6 +30,8 @@
   <string name="touchscreen_gesture_haptic_feedback">Виброотклик</string>
   <string name="touchscreen_gesture_haptic_feedback_summary">Вибрировать при распознавании жеста</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Жесты сенсорного экрана</string>
+  <string name="touchscreen_gesture_settings_summary">Настройка жестов сенсорного экрана для выполнения действий</string>
   <string name="gesture_display_title">Жесты выключенного экрана</string>
   <string name="touchscreen_c_gesture_title">Камера</string>
   <string name="touchscreen_c_gesture_summary">Нарисуйте букву «C», чтобы включить камеру</string>
@@ -52,6 +54,10 @@
     • Провести вниз — воспроизв./пауза\n
     • Провести влево — предыдущ. композиция\n
     • Провести вправо — следующ. композиция</string>
+  <string name="touchscreen_swipe_up_title">Провести вверх</string>
+  <string name="touchscreen_swipe_right_title">Провести вправо</string>
+  <string name="touchscreen_swipe_down_title">Провести вниз</string>
+  <string name="touchscreen_swipe_left_title">Провести влево</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Интеллектуальное откл. экрана</string>
   <string name="user_aware_display_summary">Не отключать экран, пока пользователь находится перед ним</string>

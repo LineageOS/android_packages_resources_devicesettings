@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">অতিৰিক্তবোৰ</string>
   <string name="touchscreen_gesture_haptic_feedback">হেপটিক ফীডবেক</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">ভঙ্গিমা চিনাক্ত কৰিব নোৱাৰিলে কম্পন কৰক</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">কেমেৰা</string>
   <string name="touchscreen_c_gesture_summary">কেমেৰা সক্ৰিয় কৰিবলৈ \"C\" আঁকক</string>

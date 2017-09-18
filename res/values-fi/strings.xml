@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Ekstrat</string>
   <string name="touchscreen_gesture_haptic_feedback">Haptinen palaute</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Värise kun ele tunnistetaan</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Suljetun näytön eleet</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>

@@ -28,23 +28,25 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Respuesta háptica</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cuando se detecte un gesto</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar al detectar un gesto táctil</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gestos en pantalla táctil</string>
+  <string name="touchscreen_gesture_settings_summary">Realizar varios gestos en la pantalla para acciones rápidas</string>
   <string name="gesture_display_title">Gestos con pantalla apagada</string>
   <string name="touchscreen_c_gesture_title">Cámara</string>
-  <string name="touchscreen_c_gesture_summary">Dibuja una \"C\" para activar la cámara</string>
+  <string name="touchscreen_c_gesture_summary">Dibuja una «C» para activar la cámara</string>
   <string name="touchscreen_e_gesture_title">Correo electrónico</string>
-  <string name="touchscreen_e_gesture_summary">Dibuja una \"e\" para abrir la aplicación de correo electrónico</string>
+  <string name="touchscreen_e_gesture_summary">Dibuja una «e» para abrir la aplicación de correo electrónico</string>
   <string name="touchscreen_m_gesture_title">Mensajes</string>
-  <string name="touchscreen_m_gesture_summary">Dibuja una \"M\" para abrir la aplicación de mensajería</string>
+  <string name="touchscreen_m_gesture_summary">Dibuja una «M» para abrir la aplicación de mensajería</string>
   <string name="touchscreen_s_gesture_title">Mensajes</string>
-  <string name="touchscreen_s_gesture_summary">Dibuja una \"S\" para abrir la aplicación de mensajería</string>
+  <string name="touchscreen_s_gesture_summary">Dibuja una «S» para abrir la aplicación de mensajería</string>
   <string name="touchscreen_v_gesture_title">Marcador</string>
-  <string name="touchscreen_v_gesture_summary">Dibuja una \"V\" para abrir la aplicación del marcador</string>
+  <string name="touchscreen_v_gesture_summary">Dibuja una «V» para abrir la aplicación del marcador</string>
   <string name="touchscreen_w_gesture_title">Navegador</string>
-  <string name="touchscreen_w_gesture_summary">Dibuja una \"W\" para abrir la aplicación del navegador</string>
+  <string name="touchscreen_w_gesture_summary">Dibuja una «W» para abrir la aplicación del navegador</string>
   <string name="touchscreen_z_gesture_title">Linterna</string>
-  <string name="touchscreen_z_gesture_summary">Dibuja una \"Z\" para conmutar la linterna</string>
+  <string name="touchscreen_z_gesture_summary">Dibuja una «Z» para conmutar la linterna</string>
   <string name="touchscreen_flashlight_gesture_title">Linterna</string>
   <string name="touchscreen_flashlight_gesture_summary">Dibuja un círculo para activar la linterna</string>
   <string name="touchscreen_music_gesture_title">Música</string>
@@ -52,6 +54,10 @@
     • Desliza hacia abajo para iniciar/pausar\n
     • Desliza a la izquierda para la pista anterior\n
     • Desliza a la derecha para la pista siguiente</string>
+  <string name="touchscreen_swipe_up_title">Deslizar hacia arriba</string>
+  <string name="touchscreen_swipe_right_title">Deslizar hacia la derecha</string>
+  <string name="touchscreen_swipe_down_title">Deslizar hacia abajo</string>
+  <string name="touchscreen_swipe_left_title">Deslizar hacia la izquierda</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Pantalla en función de la presencia del usuario</string>
   <string name="user_aware_display_summary">Mantener la pantalla encendida mientras el usuario esté frente a ella</string>
@@ -119,7 +125,7 @@
   <!-- Button settings -->
   <string name="button_panel_title">Botones adicionales</string>
   <string name="button_swap_title">Intercambiar botones</string>
-  <string name="button_swap_summary">Cambiar el orden de los botones \"recientes\" y \"atrás\"</string>
+  <string name="button_swap_summary">Cambiar el orden de los botones «recientes» y «atrás»</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Huella dactilar</string>
   <string name="fingerprint_as_home_title">Huella dactilar como inicio</string>

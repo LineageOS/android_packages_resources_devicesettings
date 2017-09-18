@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Resposta háptica</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cando un xesto é detectado</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cando se detecta un xesto táctil</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Xestos na pantalla táctil</string>
+  <string name="touchscreen_gesture_settings_summary">Realizar varios xestos na pantalla para accions rápidas</string>
   <string name="gesture_display_title">Gestos de apagado</string>
   <string name="touchscreen_c_gesture_title">Cámara</string>
   <string name="touchscreen_c_gesture_summary">Debuxar un \"C\" para activar a cámara</string>
@@ -52,6 +54,10 @@
     • Esvarar cara abaixo para reproducir/deter\n
     • Esvarar á esquerda para pista anterior\n
     • Esvarar á dereita para pista seguinte</string>
+  <string name="touchscreen_swipe_up_title">Esvarar cara arriba</string>
+  <string name="touchscreen_swipe_right_title">Esvarar á dereita</string>
+  <string name="touchscreen_swipe_down_title">Esvarar cara abaixo</string>
+  <string name="touchscreen_swipe_left_title">Esvarar á esquerda</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Visualización en función da presencia do usuario</string>
   <string name="user_aware_display_summary">Manter a pantalla acesa mentes o usuario estea diante dela</string>

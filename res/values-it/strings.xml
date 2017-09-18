@@ -30,6 +30,8 @@
   <string name="touchscreen_gesture_haptic_feedback">Feedback tattile</string>
   <string name="touchscreen_gesture_haptic_feedback_summary">Vibra quando viene rilevata una gesture</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gesture sullo schermo</string>
+  <string name="touchscreen_gesture_settings_summary">Esegui vari movimenti sul touchscreen per azioni rapide</string>
   <string name="gesture_display_title">Gesture schermo spento</string>
   <string name="touchscreen_c_gesture_title">Fotocamera</string>
   <string name="touchscreen_c_gesture_summary">Disegna una \"C\" per aprire la fotocamera</string>
@@ -52,6 +54,10 @@
 • Scorri verso il basso per play/pausa\n
 • Scorri verso sinistra per la traccia precedente\n
 • Scorri verso destre per la traccia sucessiva</string>
+  <string name="touchscreen_swipe_up_title">Scorri verso l\'alto</string>
+  <string name="touchscreen_swipe_right_title">Scorri a destra</string>
+  <string name="touchscreen_swipe_down_title">Scorri verso il basso</string>
+  <string name="touchscreen_swipe_left_title">Scorri a sinistra</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Visualizzazione utente</string>
   <string name="user_aware_display_summary">Tiene lo schermo accesso quando l\'utente lo guarda</string>

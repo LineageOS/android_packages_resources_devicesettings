@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">अधिक</string>
   <string name="touchscreen_gesture_haptic_feedback">स्पर्शाने दिलेला अभिप्राय</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">जेव्हा गेश्चर हटकले जाइल टेव्हा कंपन व्हावे</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">कॅमेरा</string>
   <string name="touchscreen_c_gesture_summary">कॅमेरा सक्रिय करण्यासाठी \"C\" काढा</string>

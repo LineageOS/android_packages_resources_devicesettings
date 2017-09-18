@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">موارد اضافی</string>
   <string name="touchscreen_gesture_haptic_feedback">بازخورد لمسی</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">لرزیدن هنگام تشخیص حرکت</string>
   <!-- Touchscreen gestures -->
   <!-- User-aware display -->
   <string name="user_aware_display_title">نمایش کاربر آگاه</string>

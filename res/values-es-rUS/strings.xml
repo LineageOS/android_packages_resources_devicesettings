@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Respuesta háptica</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar al detectar un gesto</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar al detectar un gesto táctil</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gestos de pantalla táctil</string>
+  <string name="touchscreen_gesture_settings_summary">Realizar varios gestos en la pantalla para acciones rápidas</string>
   <string name="gesture_display_title">Gestos de apagado</string>
   <string name="touchscreen_c_gesture_title">Cámara</string>
   <string name="touchscreen_c_gesture_summary">Dibujar una «C» para activar la cámara</string>
@@ -52,6 +54,10 @@
     • Deslizar hacia abajo para iniciar/pausar\n
     • Deslizar a la izquierda para la pista anterior\n
     • Deslizar a la derecha para la pista siguiente</string>
+  <string name="touchscreen_swipe_up_title">Deslizar hacia arriba</string>
+  <string name="touchscreen_swipe_right_title">Deslizar hacia la derecha</string>
+  <string name="touchscreen_swipe_down_title">Deslizar hacia abajo</string>
+  <string name="touchscreen_swipe_left_title">Deslizar hacia la izquierda</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Pantalla en función de la presencia del usuario</string>
   <string name="user_aware_display_summary">Mantener la pantalla activa mientras el usuario esté frente a ella</string>
@@ -119,7 +125,7 @@
   <!-- Button settings -->
   <string name="button_panel_title">Botones adicionales</string>
   <string name="button_swap_title">Intercambiar botones</string>
-  <string name="button_swap_summary">Intercambiar el orden de los botones Recientes y Atrás</string>
+  <string name="button_swap_summary">Intercambiar el orden de los botones «Recientes» y «Atrás»</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">Huella digital</string>
   <string name="fingerprint_as_home_title">Huella digital como página de inicio</string>

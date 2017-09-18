@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">附加功能</string>
   <string name="touchscreen_gesture_haptic_feedback">触觉反馈</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">检测到手势时振动</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">检测到一个触摸屏手势时振动</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">触摸屏手势</string>
+  <string name="touchscreen_gesture_settings_summary">为快捷操作采用各种触摸屏手势</string>
   <string name="gesture_display_title">关屏手势</string>
   <string name="touchscreen_c_gesture_title">相机</string>
   <string name="touchscreen_c_gesture_summary">绘制一个“C”来激活相机</string>
@@ -52,6 +54,10 @@
     • 双指垂直滑动来播放/暂停\n
     • 向左滑动切换到上一首\n
     • 向右滑动切换到下一首</string>
+  <string name="touchscreen_swipe_up_title">向上滑动</string>
+  <string name="touchscreen_swipe_right_title">向右滑动</string>
+  <string name="touchscreen_swipe_down_title">向下滑动</string>
+  <string name="touchscreen_swipe_left_title">向左滑动</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">用户感知显示</string>
   <string name="user_aware_display_summary">当使用者在屏幕前时保持屏幕开启</string>

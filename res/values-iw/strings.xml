@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">תוספות</string>
   <string name="touchscreen_gesture_haptic_feedback">משוב רטט</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">רטוט כאשר מחווה מזוהה</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">רטוט כאשר מזוהה מחווה</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">מחוות מגע</string>
+  <string name="touchscreen_gesture_settings_summary">השתמש במחוות מגע שונות לפעולות מהירות</string>
   <string name="gesture_display_title">מחוות לכיבוי המסך</string>
   <string name="touchscreen_c_gesture_title">מצלמה</string>
   <string name="touchscreen_c_gesture_summary">צייר \"C\" כדי להפעיל את המצלמה</string>
@@ -52,6 +54,10 @@
     • החלקה למטה להפעלה\השהייה\n
     • החלקה שמאלה לחזרה לרצועה הקודמת\n
     • החלקה ימינה למעבר לרצועה הבאה</string>
+  <string name="touchscreen_swipe_up_title">החלקה למעלה</string>
+  <string name="touchscreen_swipe_right_title">החלקה ימינה</string>
+  <string name="touchscreen_swipe_down_title">החלקה למטה</string>
+  <string name="touchscreen_swipe_left_title">החלקה שמאלה</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">תצוגה מודעת-משתמש</string>
   <string name="user_aware_display_summary">השאר את המסך פעיל כאשר המשתמש נמצא מולו</string>

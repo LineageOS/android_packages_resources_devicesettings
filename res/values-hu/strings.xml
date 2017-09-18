@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extrák</string>
   <string name="touchscreen_gesture_haptic_feedback">Érintési visszajelzés</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Rezeg, mikor egy gesztus érzékelésre kerül</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Képernyő-kikapcsoló gesztusok</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>
@@ -69,6 +68,7 @@
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Lebegő simítás</string>
   <string name="hand_wave_gesture_summary">Értesítések felvillantása lebegő simításnál</string>
+  <string name="hand_wave_gesture_flat_title">Tájolás érzékelése</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Kézbevétel</string>
   <string name="pick_up_gesture_summary">Értesítések felvillantása kézbevételkor</string>
@@ -125,4 +125,7 @@
   <string name="fingerprint_wakeup_title">Ujjlenyomat ébresztés</string>
   <string name="fingerprint_wakeup_summary">Lehetővé teszi, hogy az ujjlenyomat érzékelő felébressze az eszközt, amkor a képernyő ki van kapcsolva</string>
   <string name="fingerprint_pocketmode_title">Véletlen ébresztés megakadályozása</string>
+  <string name="fingerprint_pocketmode_summary">Ellenőrizze a közelségérzékelőt az ujjlenyomatszenzor által kiváltott ébresztések előtt</string>
+  <string name="fingerprint_sleep_title">Zárolás ujjlenyomat érintéssel</string>
+  <string name="fingerprint_sleep_summary">Nyomja meg az ujjlenyomat-érzékelőt a képernyő kikapcsolásához</string>
 </resources>

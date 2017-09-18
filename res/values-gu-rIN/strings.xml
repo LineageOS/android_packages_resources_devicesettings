@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">એક્સ્ટ્રા</string>
   <string name="touchscreen_gesture_haptic_feedback">હેપ્ટિક પ્રતિસાદ</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">અંગસ્થિતિ સૂચિત થાય ત્યારે વાઇબ્રેટ કરો</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">કૅમેરો</string>
   <string name="touchscreen_c_gesture_summary">\"C\" દોરો કેમેરા સક્રિય કરવા માટે</string>

@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">ବୃହତ୍ତର</string>
   <string name="touchscreen_gesture_haptic_feedback">ହାପ୍ଟିକ୍ ଫିଡବ୍ୟାକ୍</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">ଅଙ୍ଗଭଙ୍ଗୀ ସନ୍ଧାନ ପ୍ରାପ୍ତ କରିବା ସମୟରେ ଭାଇବ୍ରେଟ୍‍</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">କ୍ୟାମେରା</string>
   <string name="touchscreen_c_gesture_summary">କ୍ୟାମେରା ସକ୍ରିୟ କରିବା ପାଇଁ ଏକ \"C\" ଆଙ୍କନ୍ତୁ</string>

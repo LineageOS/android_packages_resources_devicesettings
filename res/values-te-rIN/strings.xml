@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">అధికమైనవి</string>
   <string name="touchscreen_gesture_haptic_feedback">స్పర్శతో అభిప్రాయం</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">ఎప్పుడు ఒక జెస్చర్ ప్రకంపనాలను కనుగొనబడలేదు </string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">కెమెరా</string>
   <string name="touchscreen_c_gesture_summary">కెమెరాను ఉత్తేజపరచటానికి కావలసిన ఒక \"C\" డ్రా</string>

@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Dodatki</string>
   <string name="touchscreen_gesture_haptic_feedback">Haptično zaznavanje</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibriraj ob zaznavi poteze</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibriraj, ko je zaznana poteza na zaslonu na dotik</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Poteze na zaslonu na dotik</string>
+  <string name="touchscreen_gesture_settings_summary">Za hitra dejanja na zaslonu na dotik izvedite različne poteze</string>
   <string name="gesture_display_title">Poteze za izklop zaslona</string>
   <string name="touchscreen_c_gesture_title">Fotoaparat</string>
   <string name="touchscreen_c_gesture_summary">Narišite \"C\" za zagon fotoaparata</string>
@@ -49,9 +51,13 @@
   <string name="touchscreen_flashlight_gesture_summary">Narišite krog za preklop svetilke</string>
   <string name="touchscreen_music_gesture_title">Glasba</string>
   <string name="touchscreen_music_gesture_summary">Uporabite poteze za nadzor predvajanja glasbe \n
-    • Potegnite dol za predvajanje/premor\n
+    • Potegnite navzdol za predvajanje/premor\n
     • Potegnite levo za prejšnjo skladbo\n
     • Potegnite desno za naslednjo skladbo</string>
+  <string name="touchscreen_swipe_up_title">Poteg navzgor</string>
+  <string name="touchscreen_swipe_right_title">Poteg desno</string>
+  <string name="touchscreen_swipe_down_title">Poteg navzdol</string>
+  <string name="touchscreen_swipe_left_title">Poteg levo</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Zaslon z zaznavanjem uporabnika</string>
   <string name="user_aware_display_summary">Ohrani zaslon vklopljen, ko je uporabnik pred zaslonom</string>

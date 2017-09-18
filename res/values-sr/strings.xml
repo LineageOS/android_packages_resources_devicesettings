@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Додатно</string>
   <string name="touchscreen_gesture_haptic_feedback">Вибрација при додиру</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Вибрирајте при препознавању покрета.</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Вибрира при препознавању покрета геста по екрану</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Гестови по екрану</string>
+  <string name="touchscreen_gesture_settings_summary">Подеси разне гестове по екрану за брзе акције</string>
   <string name="gesture_display_title">Покрети при искљученом екрану</string>
   <string name="touchscreen_c_gesture_title">Камера</string>
   <string name="touchscreen_c_gesture_summary">Нацртајте слово „C“ да бисте укључили камеру.</string>
@@ -52,6 +54,10 @@
     • Превуците надоле за репродукцију/паузу\n
     • Превуците улево за претходну нумеру\n
     • Превуците удесно за следећу нумеру</string>
+  <string name="touchscreen_swipe_up_title">Превуци на горе</string>
+  <string name="touchscreen_swipe_right_title">Превуци на десно</string>
+  <string name="touchscreen_swipe_down_title">Превуци на доле</string>
+  <string name="touchscreen_swipe_left_title">Превуци на лево</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Екран свестан корисника</string>
   <string name="user_aware_display_summary">Не закључавајте екран док је корисник пред њим.</string>

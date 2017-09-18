@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Ekstralar</string>
   <string name="touchscreen_gesture_haptic_feedback">Dokunmatik geri bildirim</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Bir hareket algılandığında titrer</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Dokunmatik ekran hareketi algılandığında titre</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Ekran hareketleri</string>
+  <string name="touchscreen_gesture_settings_summary">Hızlı işlemler için çeşitli dokunmatik ekran hareketleri gerçekleştirin</string>
   <string name="gesture_display_title">Ekran kapalı hareketleri</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>
   <string name="touchscreen_c_gesture_summary">Kamerayı etkinleştirmek için bir \"C\" çizin</string>
@@ -52,6 +54,10 @@
     • Parçayı oynatmak/durdurmak için aşağı\n
     • Önceki parçayı oynatmak için sola\n
     • Sonraki parça için sağa kaydırın</string>
+  <string name="touchscreen_swipe_up_title">Yukarı kaydır</string>
+  <string name="touchscreen_swipe_right_title">Sağa kaydır</string>
+  <string name="touchscreen_swipe_down_title">Aşağı kaydır</string>
+  <string name="touchscreen_swipe_left_title">Sola kaydır</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Etkileşimli ekran</string>
   <string name="user_aware_display_summary">Kullanıcı ekranın önündeyken ekranı açık tutar</string>

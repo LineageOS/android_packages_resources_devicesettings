@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Dodatno</string>
   <string name="touchscreen_gesture_haptic_feedback">Dodirna povratna informacija</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibracija kada se gesta prepozna</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Geste isključenog zaslona</string>
   <string name="touchscreen_c_gesture_title">Fotoaparat</string>

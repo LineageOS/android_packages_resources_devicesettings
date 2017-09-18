@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">ಹೆಚ್ಚುವರಿ</string>
   <string name="touchscreen_gesture_haptic_feedback">ಸ್ಪಾರ್ಶ ಪ್ರತಿಕ್ರಿಯೆ</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">ಸನ್ನೆ ಪತ್ತೆಯಾದಾಗ ಕಂಪಿಸು</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">ಕ್ಯಾಮರಾ</string>
   <string name="touchscreen_c_gesture_summary">ಕ್ಯಾಮೆರಾ ಸಕ್ರಿಯಗೊಳಿಸಲು ಒಂದು ವೃತ್ತವನ್ನು ಬರೆಯಿರಿ</string>

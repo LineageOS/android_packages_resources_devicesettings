@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Əlavələr</string>
   <string name="touchscreen_gesture_haptic_feedback">Sensor geri bildiriş</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Bir jest aşkarlananda titrəyər</string>
   <!-- Touchscreen gestures -->
   <!-- User-aware display -->
   <string name="user_aware_display_title">İstifadəçini xəbərdar edən ekran</string>

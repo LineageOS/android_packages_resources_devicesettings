@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">অতিরিক্ত</string>
   <string name="touchscreen_gesture_haptic_feedback">কম্পন প্রতিক্রিয়া</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">আকৃতি সনাক্ত হলে কম্পিত করুন</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">আকৃতির মাধ্যমে স্কিন বন্ধ করুন</string>
   <string name="touchscreen_c_gesture_title">ক্যামেরা</string>

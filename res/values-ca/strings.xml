@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extres</string>
   <string name="touchscreen_gesture_haptic_feedback">Resposta hàptica</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibra quan es detecti un gest</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibra quan es detecti un gest a la pantalla tàctil</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gestos a la pantalla tàctil</string>
+  <string name="touchscreen_gesture_settings_summary">Fes diversos gestos a la pantalla tàctil per fer accions ràpides</string>
   <string name="gesture_display_title">Gestos d\'apagat de pantalla</string>
   <string name="touchscreen_c_gesture_title">Càmera</string>
   <string name="touchscreen_c_gesture_summary">Dibuixa una \"C\" per activar la càmera</string>
@@ -52,6 +54,10 @@
     • Llisca avall per reproducció/pausa\n
     • Llisca a l\'esquerra per anar a la pista anterior\n
     • Llisca a la dreta per anar a la pista següent</string>
+  <string name="touchscreen_swipe_up_title">Llisca cap amunt</string>
+  <string name="touchscreen_swipe_right_title">Llisca a la dreta</string>
+  <string name="touchscreen_swipe_down_title">Llisca cap avall</string>
+  <string name="touchscreen_swipe_left_title">Lliscar a l\'esquerra</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Pantalla en presència de l\'usuari</string>
   <string name="user_aware_display_summary">Mantingues la pantalla encesa mentre l\'usuari sigui davant de la pantalla</string>

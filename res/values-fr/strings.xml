@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Retour haptique</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrer lorsqu\'un geste est détecté</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Gestes écran éteint</string>
   <string name="touchscreen_c_gesture_title">Appareil photo</string>

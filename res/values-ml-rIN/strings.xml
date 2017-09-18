@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">എക്സ്ട്രാസ്</string>
   <string name="touchscreen_gesture_haptic_feedback">ഹാപ്ടിക പ്രതികരണം</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">ആംഗ്യമുണ്ടെങ്കിൽ വൈബ്രേട്ടു ചെയ്യുക</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">ക്യാമറ</string>
   <string name="touchscreen_c_gesture_summary">ക്യാമറ സജീവമാക്കുന്നതിനായി \"C\" വരയ്ക്കുക</string>

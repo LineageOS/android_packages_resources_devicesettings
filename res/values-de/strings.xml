@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Haptisches Feedback</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrieren, wenn eine Geste erkannt wurde</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrieren, wenn eine Bildschirmgeste erkannt wurde</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Bildschirmgesten</string>
+  <string name="touchscreen_gesture_settings_summary">Führen Sie durch verschiedene Bildschirmgesten einige schnelle Aktionen aus</string>
   <string name="gesture_display_title">Bildschirm mit Gesten einschalten</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>
   <string name="touchscreen_c_gesture_summary">\"C\" zeichnen, um die Kamera zu starten</string>
@@ -52,6 +54,10 @@
 • Nach unten wischen: Play/Pause\n
 • Nach links wischen: Vorheriger Titel\n
 • Nach rechts wischen: Nächster Titel</string>
+  <string name="touchscreen_swipe_up_title">Nach oben wischen</string>
+  <string name="touchscreen_swipe_right_title">Nach rechts wischen</string>
+  <string name="touchscreen_swipe_down_title">Nach unten wischen</string>
+  <string name="touchscreen_swipe_left_title">Nach links wischen</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Benutzersensitive Anzeige</string>
   <string name="user_aware_display_summary">Den Bildschirm aktiv halten, solange sich vor ihm ein Benutzer befindet</string>

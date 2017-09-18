@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Doplnky</string>
   <string name="touchscreen_gesture_haptic_feedback">Hmatová spätná väzba</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrovať pri zistení gesta</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrovať ak je detekované gesto na dotykovej obrazovke</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gestá na dotykovej obrazovke</string>
+  <string name="touchscreen_gesture_settings_summary">Možnosť spustiť rýchlu akciu pomocou rôzných gest na obrazovce</string>
   <string name="gesture_display_title">Gestá vypnutia obrazovky</string>
   <string name="touchscreen_c_gesture_title">Fotoaparát</string>
   <string name="touchscreen_c_gesture_summary">Gestom \"C\" spustiť fotoaparát</string>
@@ -51,6 +53,10 @@
   <string name="touchscreen_music_gesture_summary">Použiť gestá pre ovládanie prehrávania hudby\n •  prejdením nadol 
 prehrávať/pozastaviť\n • prejdením doľava pre predošlú skladbu\n • prejdením 
 doprava pre daľšiu skladbu</string>
+  <string name="touchscreen_swipe_up_title">Posun nahor</string>
+  <string name="touchscreen_swipe_right_title">Posun doprava</string>
+  <string name="touchscreen_swipe_down_title">Posun nadol</string>
+  <string name="touchscreen_swipe_left_title">Posun doľava</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Sledovať používateľa</string>
   <string name="user_aware_display_summary">Ponechať obrazovku zapnutú, pokiaľ je používateľ pred displejom</string>

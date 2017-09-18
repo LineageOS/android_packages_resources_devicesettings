@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">إضافات</string>
   <string name="touchscreen_gesture_haptic_feedback">التعليقات اللمسية</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">الاهتزاز عند اكتشاف إيماءة</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">الكاميرا</string>
   <string name="touchscreen_c_gesture_summary">رسم \"C\" لتنشيط الكاميرا</string>

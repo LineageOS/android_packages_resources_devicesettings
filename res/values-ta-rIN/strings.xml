@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">உதிரிகள்</string>
   <string name="touchscreen_gesture_haptic_feedback">தீண்டும் பின்னூட்டம்</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">குறிப்புணர்வு ஒன்று கண்டுபிடிக்கப்படும்போது அதிர்</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">கேமரா</string>
   <string name="touchscreen_c_gesture_summary">கேமரா செயல்படுத்த ஒரு \"C\" வரை</string>

@@ -26,7 +26,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extraen</string>
   <string name="touchscreen_gesture_haptic_feedback">Haptesche Feedback</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibréieren, wann e Gest erkannt gëtt</string>
   <!-- Touchscreen gestures -->
   <string name="touchscreen_c_gesture_title">Fotoapparat</string>
   <string name="touchscreen_c_gesture_summary">\'C\' zeechnen, fir de Fotoapparat z\'aktivéieren</string>

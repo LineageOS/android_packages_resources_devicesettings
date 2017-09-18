@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Retorno tátil</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar quando um gesto for detectado</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Gestos com a tela desligada</string>
   <string name="touchscreen_c_gesture_title">Câmera</string>

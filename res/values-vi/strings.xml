@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Thêm</string>
   <string name="touchscreen_gesture_haptic_feedback">Phản hồi xúc giác</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Rung khi phát hiện cử chỉ</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Rung khi một cử chỉ màn hình cảm ứng được phát hiện</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Cử chỉ màn hình cảm ứng</string>
+  <string name="touchscreen_gesture_settings_summary">Thực hiện các cử chỉ màn hình cảm ứng khác nhau cho các thao tác nhanh</string>
   <string name="gesture_display_title">Cử chỉ màn hình tắt</string>
   <string name="touchscreen_c_gesture_title">Máy ảnh</string>
   <string name="touchscreen_c_gesture_summary">Vẽ \"C\" để kích hoạt máy ảnh</string>
@@ -52,6 +54,10 @@
     • Vuốt xuống để phát/tạm dừng\n
     • Vuốt sang trái  cho bài trước đó\n
     • Vuốt sang phải cho bài kế tiếp</string>
+  <string name="touchscreen_swipe_up_title">Trượt lên</string>
+  <string name="touchscreen_swipe_right_title">Trượt sang phải</string>
+  <string name="touchscreen_swipe_down_title">Trượt xuống</string>
+  <string name="touchscreen_swipe_left_title">Trượt sang trái</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Màn hình nhận biết người dùng</string>
   <string name="user_aware_display_summary">Giữ màn hình sáng khi người dùng còn nhìn vào màn hình</string>

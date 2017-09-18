@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Додатково</string>
   <string name="touchscreen_gesture_haptic_feedback">Вібро-відгук</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Вібрувати, коли виявлено жест</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Жести при вимкненому екрані</string>
   <string name="touchscreen_c_gesture_title">Камера</string>

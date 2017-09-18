@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Екстри</string>
   <string name="touchscreen_gesture_haptic_feedback">Вибрация при докосване (обратна връзка)</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Вибрирай, когато се засече жест</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Вибрира при засичане на сензорен жест</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Тъчскрийн жестове</string>
+  <string name="touchscreen_gesture_settings_summary">Изпълнява различни бързи действия чрез жестове върху сензорния екран</string>
   <string name="gesture_display_title">Изключване на екрана с жестове</string>
   <string name="touchscreen_c_gesture_title">Камера</string>
   <string name="touchscreen_c_gesture_summary">Изпишете буквата \"C\", за да активирате камерата</string>
@@ -52,6 +54,10 @@
 • Плъзнете надолу за възпроизвеждане / пауза \n 
 • Плъзнете наляво за предишната песен \n 
 • Плъзнете надясно за следващата песен</string>
+  <string name="touchscreen_swipe_up_title">Прекарайте пръст нагоре</string>
+  <string name="touchscreen_swipe_right_title">Прекарайте пръст надясно</string>
+  <string name="touchscreen_swipe_down_title">Прекарайте пръст надолу</string>
+  <string name="touchscreen_swipe_left_title">Прекарайте пръст налявно</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Потребителски дисплей</string>
   <string name="user_aware_display_summary">Задръж екрана включен, докато потребителят е пред дисплея</string>

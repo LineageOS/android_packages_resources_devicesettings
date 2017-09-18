@@ -28,7 +28,6 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extra</string>
   <string name="touchscreen_gesture_haptic_feedback">Haptisk feedback</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrera när en gest upptäcktes</string>
   <!-- Touchscreen gestures -->
   <string name="gesture_display_title">Gester för skärmavstängning</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>

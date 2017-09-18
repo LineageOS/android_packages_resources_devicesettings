@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Tambahan</string>
   <string name="touchscreen_gesture_haptic_feedback">Umpan balik haptic</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Bergetar pada saat gerakan terdeteksi</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Bergetar ketika ada gerakan layar sentuh terdeteksi</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gerakan layar sentuh</string>
+  <string name="touchscreen_gesture_settings_summary">Melakukan berbagai gerakan layar sentuh untuk tindakan cepat</string>
   <string name="gesture_display_title">Gerakan layar mati</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>
   <string name="touchscreen_c_gesture_summary">Gambar \"C\" untuk mengaktifkan kamera</string>

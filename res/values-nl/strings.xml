@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extra\'s</string>
   <string name="touchscreen_gesture_haptic_feedback">Trillen</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Trillen wanneer een gebaar wordt gedetecteerd</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Trillen wanneer een schermgebaar wordt gedetecteerd</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Schermgebaren</string>
+  <string name="touchscreen_gesture_settings_summary">Schermgebaren gebruiken voor snelle acties</string>
   <string name="gesture_display_title">Gebaren bij scherm uit</string>
   <string name="touchscreen_c_gesture_title">Camera</string>
   <string name="touchscreen_c_gesture_summary">Teken een \"C\" om camera te openen</string>
@@ -52,6 +54,10 @@
     • Veeg omlaag voor afspelen/pauzeren\n
     • Veeg naar links voor vorig nummer\n
     • Veeg naar rechts voor volgend nummer</string>
+  <string name="touchscreen_swipe_up_title">Omhoog vegen</string>
+  <string name="touchscreen_swipe_right_title">Naar rechts vegen</string>
+  <string name="touchscreen_swipe_down_title">Omlaag vegen</string>
+  <string name="touchscreen_swipe_left_title">Naar links vegen</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Gebruikersbewust scherm</string>
   <string name="user_aware_display_summary">Scherm aan houden als de gebruiker voor het scherm zit</string>

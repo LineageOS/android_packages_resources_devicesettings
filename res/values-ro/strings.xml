@@ -28,8 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Mai multe</string>
   <string name="touchscreen_gesture_haptic_feedback">Reacție tactilă</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrează când s-a detectat un gest</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrează atunci când este detectat un gest touchscreen</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gesturi touchscreen</string>
+  <string name="touchscreen_gesture_settings_summary">Efectuați diverse gesturi pe touchscreen pentru acţiuni rapide</string>
   <string name="gesture_display_title">Gesturi pentru oprirea ecranului</string>
   <string name="touchscreen_c_gesture_title">Cameră foto</string>
   <string name="touchscreen_c_gesture_summary">Desenați un \"C\" pentru a activa camera</string>
@@ -52,6 +54,10 @@
     • Glisați în jos pentru a reda/opri\n
     • Glisați stânga pentru melodia anterioară\n
     • Glisați dreapta pentru melodia următoare</string>
+  <string name="touchscreen_swipe_up_title">Glisați în sus</string>
+  <string name="touchscreen_swipe_right_title">Glisați în dreapta</string>
+  <string name="touchscreen_swipe_down_title">Glisați în jos</string>
+  <string name="touchscreen_swipe_left_title">Glisați în stânga</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Ecran reactiv la gesturi utilizator</string>
   <string name="user_aware_display_summary">Menține ecranul aprins cât timp utilizatorul este în dreptul afișajului</string>
