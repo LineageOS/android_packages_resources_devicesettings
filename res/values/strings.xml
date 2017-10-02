@@ -163,4 +163,8 @@
     <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
     <string name="fingerprint_sleep_title">Fingerprint sleep</string>
     <string name="fingerprint_sleep_summary">Press the fingerprint sensor to turn off the screen</string>
+
+    <!-- High touch sensitivity -->
+    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
+    <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
 </resources>
