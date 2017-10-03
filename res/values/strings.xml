@@ -73,6 +73,8 @@
     <string name="ambient_display_title">Ambient display</string>
     <string name="ambient_display_enable_title">Ambient display</string>
     <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_gestures_title">Ambient display gestures</string>
+    <string name="ambient_display_gestures_summary">Additional gestures to wake the screen</string>
     <string name="ambient_display_summary">Wake screen when you receive notifications</string>
     <string name="ambient_display_summary_on">Screen will wake when you receive notifications</string>
     <string name="ambient_display_summary_off">Screen will not wake when you receive notifications</string>
