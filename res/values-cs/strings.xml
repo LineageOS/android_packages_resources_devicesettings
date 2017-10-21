@@ -28,7 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Doplňky</string>
   <string name="touchscreen_gesture_haptic_feedback">Hmatová odezva</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrovat při detekci gesta na obrazovce</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gesta na obrazovce</string>
+  <string name="touchscreen_gesture_settings_summary">Možnost spustit rychlou akci pomocí různých gest na obrazovce</string>
   <string name="gesture_display_title">Gesta vypnutí obrazovky</string>
   <string name="touchscreen_c_gesture_title">Fotoaparát</string>
   <string name="touchscreen_c_gesture_summary">Gestem „C“ spustit fotoaparát</string>
@@ -51,6 +54,10 @@
     • přejetím dolů přehrávat/pozastavit\n
     • přejetím doleva pro předchozí skladbu\n
     • přejetím doprava pro další skladbu</string>
+  <string name="touchscreen_swipe_up_title">Přejetí nahoru</string>
+  <string name="touchscreen_swipe_right_title">Přejetí vpravo</string>
+  <string name="touchscreen_swipe_down_title">Přejetí dolů</string>
+  <string name="touchscreen_swipe_left_title">Přejetí doleva</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Všímat si uživatele</string>
   <string name="user_aware_display_summary">Pokud je uživatel před obrazovkou, nechat ji zapnutou</string>

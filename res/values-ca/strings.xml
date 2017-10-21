@@ -57,7 +57,7 @@
   <string name="touchscreen_swipe_up_title">Llisca cap amunt</string>
   <string name="touchscreen_swipe_right_title">Llisca a la dreta</string>
   <string name="touchscreen_swipe_down_title">Llisca cap avall</string>
-  <string name="touchscreen_swipe_left_title">Lliscar a l\'esquerra</string>
+  <string name="touchscreen_swipe_left_title">Llisca a l\'esquerra</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Pantalla en presència de l\'usuari</string>
   <string name="user_aware_display_summary">Mantingues la pantalla encesa mentre l\'usuari sigui davant de la pantalla</string>

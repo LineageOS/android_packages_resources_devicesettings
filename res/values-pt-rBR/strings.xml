@@ -28,7 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Retorno tátil</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar ao detectar um gesto na tela</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gestos na tela</string>
+  <string name="touchscreen_gesture_settings_summary">Faça vários gestos na tela para ações rápidas</string>
   <string name="gesture_display_title">Gestos com a tela desligada</string>
   <string name="touchscreen_c_gesture_title">Câmera</string>
   <string name="touchscreen_c_gesture_summary">Desenhe um \"C\" para ativar a câmera</string>
@@ -51,6 +54,10 @@
     • Deslize para baixo para tocar/pausar\n
     • Deslize para a esquerda para faixa anterior\n
     • Deslize para a direita para a próxima faixa</string>
+  <string name="touchscreen_swipe_up_title">Deslizar para cima</string>
+  <string name="touchscreen_swipe_right_title">Deslizar para direita</string>
+  <string name="touchscreen_swipe_down_title">Deslizar para baixo</string>
+  <string name="touchscreen_swipe_left_title">Deslizar para esquerda</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Tela que reconhece o usuário</string>
   <string name="user_aware_display_summary">Manter a tela ligada enquanto houver um usuário na frente dela</string>

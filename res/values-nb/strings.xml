@@ -51,6 +51,10 @@
     • sveip ned for å spille/pause\n
     • sveip venstre for forrige sang\n
     • Sveip høyre for neste sang</string>
+  <string name="touchscreen_swipe_up_title">Dra opp</string>
+  <string name="touchscreen_swipe_right_title">Dra til høyre</string>
+  <string name="touchscreen_swipe_down_title">Dra ned</string>
+  <string name="touchscreen_swipe_left_title">Dra til venstre</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Brukerbevisst skjerm</string>
   <string name="user_aware_display_summary">Hold skjermen påslått når en bruker er foran skjermen</string>
