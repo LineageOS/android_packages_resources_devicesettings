@@ -54,6 +54,10 @@
     • Usap ke bawah untuk putar/jeda\n
     • Usap ke kiri untuk trek sebelumnya\n
     • Usap ke kanan untuk trek selanjutnya</string>
+  <string name="touchscreen_swipe_up_title">Usap ke atas</string>
+  <string name="touchscreen_swipe_right_title">Usap ke kanan</string>
+  <string name="touchscreen_swipe_down_title">Usap ke bawah</string>
+  <string name="touchscreen_swipe_left_title">Usap ke kiri</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Tampilan sadar pengguna</string>
   <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
@@ -72,6 +76,7 @@
   <string name="hand_wave_gesture_title">Guncang Tangan</string>
   <string name="hand_wave_gesture_summary">Kedipakan pemberitahuan saat melambaikan tangan</string>
   <string name="hand_wave_gesture_flat_title">Orientasi deteksi</string>
+  <string name="hand_wave_gesture_flat_summary">Hanya berkedip jika ponsel menghadap ke atas di permukaan datar</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Ambil</string>
   <string name="pick_up_gesture_summary">Kedipkan pemberitahuan saat diambil</string>

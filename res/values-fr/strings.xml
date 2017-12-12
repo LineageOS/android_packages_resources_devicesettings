@@ -28,7 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extras</string>
   <string name="touchscreen_gesture_haptic_feedback">Retour haptique</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrer quand un geste tactile est détecté</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gestes tactiles</string>
+  <string name="touchscreen_gesture_settings_summary">Effectuer différents gestes tactiles pour des actions rapides</string>
   <string name="gesture_display_title">Gestes écran éteint</string>
   <string name="touchscreen_c_gesture_title">Appareil photo</string>
   <string name="touchscreen_c_gesture_summary">Dessiner un « C » pour activer l\'appareil photo</string>
@@ -51,6 +54,10 @@
     •Balayer vers le bas pour Lire ou Pause\n
     •Balayer vers la gauche pour la piste précédente\n
     •Balayer vers la droite pour la piste suivante</string>
+  <string name="touchscreen_swipe_up_title">Glisser vers le haut</string>
+  <string name="touchscreen_swipe_right_title">Glisser vers la droite</string>
+  <string name="touchscreen_swipe_down_title">Glisser vers le bas</string>
+  <string name="touchscreen_swipe_left_title">Glisser vers la gauche</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Affichage selon l\'utilisateur</string>
   <string name="user_aware_display_summary">Garder l\'écran allumé tant qu\'un utilisateur le regarde</string>
