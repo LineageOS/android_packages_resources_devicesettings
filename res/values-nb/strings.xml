@@ -28,7 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Ekstra</string>
   <string name="touchscreen_gesture_haptic_feedback">Haptisk tilbakemelding</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrer når en berøringsskjermsbevegelse oppdages</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Berøringsskjermsbevegelser</string>
+  <string name="touchscreen_gesture_settings_summary">Utfør forskjellige berøringsskjermsbevegelser for hurtighandlinger</string>
   <string name="gesture_display_title">Gester på avslått skjerm</string>
   <string name="touchscreen_c_gesture_title">Kamera</string>
   <string name="touchscreen_c_gesture_summary">Tegn en \"C\" for å aktivere kameraet</string>

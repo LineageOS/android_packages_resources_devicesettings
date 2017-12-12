@@ -28,7 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Додатково</string>
   <string name="touchscreen_gesture_haptic_feedback">Вібро-відгук</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Вібрація при розпізнаванні жесту</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Жести сенсорного екрану</string>
+  <string name="touchscreen_gesture_settings_summary">Виконувати різні жести для швидкого доступу</string>
   <string name="gesture_display_title">Жести при вимкненому екрані</string>
   <string name="touchscreen_c_gesture_title">Камера</string>
   <string name="touchscreen_c_gesture_summary">Намалюйте літеру «C», щоб активувати камеру</string>
@@ -51,6 +54,10 @@
     • Провести вниз щоб відтворити/зупинити\n
     • Провести вліво для відтворення попереднього треку\n
     • Провести вправо  для відтворення наступного треку</string>
+  <string name="touchscreen_swipe_up_title">Провести вгору</string>
+  <string name="touchscreen_swipe_right_title">Гортання праворуч</string>
+  <string name="touchscreen_swipe_down_title">Провести вниз</string>
+  <string name="touchscreen_swipe_left_title">Гортання ліворуч</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Розумний екран</string>
   <string name="user_aware_display_summary">Тримати екран увімкненим, коли користувач знаходиться перед ним</string>

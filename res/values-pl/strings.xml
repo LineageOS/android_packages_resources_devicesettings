@@ -28,7 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Dodatki</string>
   <string name="touchscreen_gesture_haptic_feedback">Wibracja przy dotknięciu</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Wibruj po wykryciu gestu ekranu dotykowego</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gesty ekranu dotykowego</string>
+  <string name="touchscreen_gesture_settings_summary">Wykonuj różne gesty na ekranie dotykowym, aby wykonać szybkie akcje</string>
   <string name="gesture_display_title">Gesty wyłączenia ekranu</string>
   <string name="touchscreen_c_gesture_title">Aparat</string>
   <string name="touchscreen_c_gesture_summary">Narysuj \"C\", aby włączyć aparat</string>
@@ -51,6 +54,10 @@
     • Przesuń w dół, aby otworzyć/pauza\n
     • Przesuń w lewo, aby przełączyć na poprzedni utwór\n
     • Przesuń w prawo, aby przełączyć na następny utwór</string>
+  <string name="touchscreen_swipe_up_title">Przesuń w górę</string>
+  <string name="touchscreen_swipe_right_title">Przesuń w prawo</string>
+  <string name="touchscreen_swipe_down_title">Przesuń w dół</string>
+  <string name="touchscreen_swipe_left_title">Przesuń w lewo</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Aktywny ekran podczas spoglądania na niego</string>
   <string name="user_aware_display_summary">Utrzymuj ekran włączony, gdy użytkownik spogląda na ekran</string>

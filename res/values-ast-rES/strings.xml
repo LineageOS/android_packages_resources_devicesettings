@@ -28,7 +28,10 @@
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Estres</string>
   <string name="touchscreen_gesture_haptic_feedback">Feedback hápticu</string>
+  <string name="touchscreen_gesture_haptic_feedback_summary">Vibra al deteutase un xestu na pantalla táutil</string>
   <!-- Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Xestos de pantalla táutil</string>
+  <string name="touchscreen_gesture_settings_summary">Fai dellos xestos táutiles p\'aiciones rápides</string>
   <string name="gesture_display_title">Xestos de pantalla apagada</string>
   <string name="touchscreen_c_gesture_title">Cámara</string>
   <string name="touchscreen_c_gesture_summary">Dibuxa una «C» p\'activar la cámara</string>
@@ -51,6 +54,10 @@
     • Esliza haza abaxo pa reproducir/posar\n
     • Esliza a la izquierda pa la pista previa\n
     • Esliza a la drecha pa la pista siguiente</string>
+  <string name="touchscreen_swipe_up_title">Eslizar p\'arriba</string>
+  <string name="touchscreen_swipe_right_title">Eslizar a drecha</string>
+  <string name="touchscreen_swipe_down_title">Eslizar p\'abaxo</string>
+  <string name="touchscreen_swipe_left_title">Eslizar a esquierda</string>
   <!-- User-aware display -->
   <string name="user_aware_display_title">Pantalla en presencia del usuariu</string>
   <string name="user_aware_display_summary">Caltién la pantalla encesa entrín heba un usuariu enfrente d\'ella</string>
