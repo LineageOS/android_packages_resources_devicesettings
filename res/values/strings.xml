@@ -175,4 +175,8 @@
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">High touch sensitivity</string>
     <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+
+    <!-- Full screen aspect ratio -->
+    <string name="full_screen_aspect_ratio_title">Full screen aspect ratio</string>
+    <string name="full_screen_aspect_ratio_summary">Force apps to use full screen aspect ratio</string>
 </resources>
