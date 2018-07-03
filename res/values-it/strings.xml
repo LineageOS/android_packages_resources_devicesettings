@@ -24,13 +24,15 @@
   <!-- Device specific settings -->
   <string name="device_settings_app_name">Impostazioni avanzate</string>
   <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Gesture</string>
+  <string name="screen_gestures_panel_title">Gesti</string>
   <!-- Touchscreen gesture haptic feedback -->
   <string name="touchscreen_gesture_extras">Extra</string>
   <string name="touchscreen_gesture_haptic_feedback">Feedback tattile</string>
   <string name="touchscreen_gesture_haptic_feedback_summary">Vibra quando viene rilevata una gesture</string>
   <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">Gesture schermo spento</string>
+  <string name="touchscreen_gesture_settings_title">Gesti Touchscreen</string>
+  <string name="touchscreen_gesture_settings_summary">Usa vari gesti per eseguire azioni veloci</string>
+  <string name="gesture_display_title">Gesti a schermo spento</string>
   <string name="touchscreen_c_gesture_title">Fotocamera</string>
   <string name="touchscreen_c_gesture_summary">Disegna una \"C\" per aprire la fotocamera</string>
   <string name="touchscreen_e_gesture_title">Email</string>
@@ -56,14 +58,18 @@
   <string name="user_aware_display_title">Visualizzazione utente</string>
   <string name="user_aware_display_summary">Tiene lo schermo accesso quando l\'utente lo guarda</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient display</string>
-  <string name="ambient_display_enable_title">Ambient display</string>
+  <string name="ambient_display_title">Display ambient</string>
+  <string name="ambient_display_enable_title">Display ambient</string>
   <string name="ambient_display_enable_summary">Attiva lo schermo quando ricevi notifiche</string>
+  <string name="ambient_display_gestures_title">Gesti Display Ambient</string>
+  <string name="ambient_display_gestures_summary">Gesti aggiuntivi per accendere lo schermo</string>
   <string name="ambient_display_summary">Accendi lo schermo quando ricevi una notifica</string>
   <string name="ambient_display_summary_on">Accende lo schermo quando ricevi una notifica</string>
   <string name="ambient_display_summary_off">Non accende lo schermo quando ricevi una notifica</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Sensore inclinazione</string>
+  <!-- Pickup sensor -->
+  <string name="pickup_sensor_title">Sensore sollevamento</string>
   <!-- Proximity sensor -->
   <string name="proximity_sensor_title">Sensore prossimità</string>
   <!-- Hand wave gesture -->
@@ -130,4 +136,7 @@
   <string name="fingerprint_pocketmode_summary">Controla il sensore di prossimità prima di risvegliare lo smartphone con le impronte digitali</string>
   <string name="fingerprint_sleep_title">Sospensione con impronte digitali</string>
   <string name="fingerprint_sleep_summary">Premi il sensore d\'impronte digitali per sospendere il dispositivo</string>
+  <!-- High touch sensitivity -->
+  <string name="high_touch_sensitivity_title">Sensibilità tocco elevata</string>
+  <string name="high_touch_sensitivity_summary">Aumenta la sensibilità del touchscreen per utilizzarlo con i guanti</string>
 </resources>
