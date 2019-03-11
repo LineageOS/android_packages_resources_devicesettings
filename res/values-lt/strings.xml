@@ -17,54 +17,27 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">Papildomi nustatymai</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Gestai</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <!-- Touchscreen gestures -->
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">Naudotoją suprantantis ekranas</string>
-  <string name="user_aware_display_summary">Išlaikyti ekraną įjungtą, kai naudotojas žiūri į jį</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient display</string>
-  <string name="ambient_display_enable_title">Ambient display</string>
-  <string name="ambient_display_enable_summary">Pažadinti ekraną, kai gaunami pranešimai</string>
-  <!-- Tilt sensor -->
-  <!-- Proximity sensor -->
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Rankos mostas</string>
-  <string name="hand_wave_gesture_summary">Pulsuoti pranešimus rankos mostu</string>
-  <!-- Pick-up gesture -->
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">Kišenė</string>
-  <string name="pocket_gesture_summary">Pulsuoti pranešimus pašalinant iš kišenės</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">Artumo pažadinimas</string>
-  <string name="proximity_wake_enable_title">Artumo pažadinimas</string>
-  <string name="proximity_wake_enable_summary">Pažadinti įrenginį rankos mostu</string>
-  <!-- Device actions -->
-  <!-- Camera gesture -->
-  <!-- Chop-chop gesture -->
-  <!-- Hand wave silencer gesture -->
-  <!-- Flip to mute gesture -->
-  <!-- Do Not Disturb access -->
-  <!-- Lift to silence gesture -->
-  <!-- Action toggles -->
-  <string name="action_none">Neleisti</string>
-  <string name="action_launch_camera">Paleisti fotoaparatą</string>
-  <string name="action_torch">Įjungti žibintuvėlį</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">Lietimo atsiliepimo intensyvumas</string>
-  <string name="feedback_intensity_summary">Dvigubo pasukimo ir „Greičiau greičiau“ veiksmų lietimo atsiliepimo stiprumas</string>
-  <string name="feedback_intensity_none">Neleidžiama</string>
-  <string name="feedback_intensity_low">Žemas</string>
-  <string name="feedback_intensity_medium">Vidutinis</string>
-  <string name="feedback_intensity_high">Aukštas</string>
-  <!-- Dialog texts -->
-  <!-- Help texts -->
-  <!-- Button settings -->
-  <!-- Fingerprint -->
+    <string name="device_settings_app_name">Papildomi nustatymai</string>
+    <string name="screen_gestures_panel_title">Gestai</string>
+    <string name="user_aware_display_title">Naudotoją suprantantis ekranas</string>
+    <string name="user_aware_display_summary">Išlaikyti ekraną įjungtą, kai naudotojas žiūri į jį</string>
+    <string name="ambient_display_title">Ambient display</string>
+    <string name="ambient_display_enable_title">Ambient display</string>
+    <string name="ambient_display_enable_summary">Pažadinti ekraną, kai gaunami pranešimai</string>
+    <string name="hand_wave_gesture_title">Rankos mostas</string>
+    <string name="hand_wave_gesture_summary">Pulsuoti pranešimus rankos mostu</string>
+    <string name="pocket_gesture_title">Kišenė</string>
+    <string name="pocket_gesture_summary">Pulsuoti pranešimus pašalinant iš kišenės</string>
+    <string name="proximity_wake_title">Artumo pažadinimas</string>
+    <string name="proximity_wake_enable_title">Artumo pažadinimas</string>
+    <string name="proximity_wake_enable_summary">Pažadinti įrenginį rankos mostu</string>
+    <string name="action_none">Neleisti</string>
+    <string name="action_launch_camera">Paleisti fotoaparatą</string>
+    <string name="action_torch">Įjungti žibintuvėlį</string>
+    <string name="feedback_intensity_title">Lietimo atsiliepimo intensyvumas</string>
+    <string name="feedback_intensity_summary">Dvigubo pasukimo ir „Greičiau greičiau“ veiksmų lietimo atsiliepimo stiprumas</string>
+    <string name="feedback_intensity_none">Neleidžiama</string>
+    <string name="feedback_intensity_low">Žemas</string>
+    <string name="feedback_intensity_medium">Vidutinis</string>
+    <string name="feedback_intensity_high">Aukštas</string>
 </resources>

@@ -17,117 +17,101 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Activé</string>
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Désactivé</string>
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">Paramètres avancés</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Gestes</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">Extras</string>
-  <string name="touchscreen_gesture_haptic_feedback">Retour haptique</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrer lorsqu\'un geste est détecté</string>
-  <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">Gestes écran éteint</string>
-  <string name="touchscreen_c_gesture_title">Appareil photo</string>
-  <string name="touchscreen_c_gesture_summary">Dessiner un « C » pour activer l\'appareil photo</string>
-  <string name="touchscreen_e_gesture_title">E-mail</string>
-  <string name="touchscreen_e_gesture_summary">Dessiner un « e » pour ouvrir l\'application email</string>
-  <string name="touchscreen_m_gesture_title">Messagerie</string>
-  <string name="touchscreen_m_gesture_summary">Dessinez un \"M\" pour ouvrir l\'application de messagerie</string>
-  <string name="touchscreen_s_gesture_title">Messagerie</string>
-  <string name="touchscreen_s_gesture_summary">Dessiner un « S » pour ouvrir l\'application messagerie</string>
-  <string name="touchscreen_v_gesture_title">Composeur</string>
-  <string name="touchscreen_v_gesture_summary">Dessiner un « V » pour ouvrir l\'application composeur</string>
-  <string name="touchscreen_w_gesture_title">Navigateur</string>
-  <string name="touchscreen_w_gesture_summary">Dessiner un « W » pour ouvrir l\'application navigateur</string>
-  <string name="touchscreen_z_gesture_title">Lampe de poche</string>
-  <string name="touchscreen_z_gesture_summary">Dessiner un « Z » pour activer/désactiver la lampe de poche</string>
-  <string name="touchscreen_flashlight_gesture_title">Lampe de poche</string>
-  <string name="touchscreen_flashlight_gesture_summary">Dessiner un cercle pour activer/désactiver la lampe de poche</string>
-  <string name="touchscreen_music_gesture_title">Musique</string>
-  <string name="touchscreen_music_gesture_summary">Utiliser des gestes pour contrôler la lecture de la musique \n
+    <string name="switch_bar_on">Activé</string>
+    <string name="switch_bar_off">Désactivé</string>
+    <string name="device_settings_app_name">Paramètres avancés</string>
+    <string name="screen_gestures_panel_title">Gestes</string>
+    <string name="touchscreen_gesture_extras">Extras</string>
+    <string name="touchscreen_gesture_haptic_feedback">Retour haptique</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrer quand un geste tactile est détecté</string>
+    <string name="touchscreen_gesture_settings_title">Gestes tactiles</string>
+    <string name="touchscreen_gesture_settings_summary">Effectuer différents gestes tactiles pour des actions rapides</string>
+    <string name="gesture_display_title">Gestes écran éteint</string>
+    <string name="touchscreen_c_gesture_title">Appareil photo</string>
+    <string name="touchscreen_c_gesture_summary">Dessiner un « C » pour activer l\'appareil photo</string>
+    <string name="touchscreen_e_gesture_title">E-mail</string>
+    <string name="touchscreen_e_gesture_summary">Dessiner un « e » pour ouvrir l\'application email</string>
+    <string name="touchscreen_m_gesture_title">Messagerie</string>
+    <string name="touchscreen_m_gesture_summary">Dessinez un \"M\" pour ouvrir l\'application de messagerie</string>
+    <string name="touchscreen_s_gesture_title">Messagerie</string>
+    <string name="touchscreen_s_gesture_summary">Dessiner un « S » pour ouvrir l\'application messagerie</string>
+    <string name="touchscreen_v_gesture_title">Composeur</string>
+    <string name="touchscreen_v_gesture_summary">Dessiner un « V » pour ouvrir l\'application Téléphone</string>
+    <string name="touchscreen_w_gesture_title">Navigateur</string>
+    <string name="touchscreen_w_gesture_summary">Dessiner un « W » pour ouvrir l\'application navigateur</string>
+    <string name="touchscreen_z_gesture_title">Lampe de poche</string>
+    <string name="touchscreen_z_gesture_summary">Dessiner un « Z » pour activer/désactiver la lampe de poche</string>
+    <string name="touchscreen_flashlight_gesture_title">Lampe de poche</string>
+    <string name="touchscreen_flashlight_gesture_summary">Dessiner un cercle pour activer/désactiver la lampe de poche</string>
+    <string name="touchscreen_music_gesture_title">Musique</string>
+    <string name="touchscreen_music_gesture_summary">Utiliser des gestes pour contrôler la lecture de la musique \n
     •Balayer vers le bas pour Lire ou Pause\n
     •Balayer vers la gauche pour la piste précédente\n
     •Balayer vers la droite pour la piste suivante</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">Affichage selon l\'utilisateur</string>
-  <string name="user_aware_display_summary">Garder l\'écran allumé tant qu\'un utilisateur le regarde</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">Affichage ambiant</string>
-  <string name="ambient_display_enable_title">Affichage ambiant</string>
-  <string name="ambient_display_enable_summary">Allume l\'écran lorsque vous recevez des notifications</string>
-  <string name="ambient_display_summary">Activer l\'écran quand vous recevez des notifications</string>
-  <string name="ambient_display_summary_on">L\'écran s\'activera quand vous recevez des notifications</string>
-  <string name="ambient_display_summary_off">L\'écran ne s\'activera pas quand vous recevez des notifications</string>
-  <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">Capteur d’inclinaison</string>
-  <!-- Proximity sensor -->
-  <string name="proximity_sensor_title">Capteur de proximité</string>
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Passage de la main</string>
-  <string name="hand_wave_gesture_summary">Le voyant des notifications clignote en passage de main</string>
-  <string name="hand_wave_gesture_flat_title">Détecter l\'orientation</string>
-  <string name="hand_wave_gesture_flat_summary">Réveiller uniquement si le téléphone est posé face vers le haut sur une surface plane</string>
-  <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Prise en main</string>
-  <string name="pick_up_gesture_summary">Afficher les notifications lors de la prise en main</string>
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">Poche</string>
-  <string name="pocket_gesture_summary">Le voyant des notifications clignote en sortie de poche</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">Activation de proximité</string>
-  <string name="proximity_wake_enable_title">Activation de proximité</string>
-  <string name="proximity_wake_enable_summary">Réveiller l\'appareil par passage de main</string>
-  <!-- Device actions -->
-  <string name="actions_title">Actions</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">Double torsion</string>
-  <string name="camera_gesture_summary">Ouvrir l\'appareil photo avec le geste de double torsion</string>
-  <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">Double tranchage</string>
-  <string name="chop_chop_gesture_summary">Activer/désactiver la lampe de poche avec le geste de double tranchage</string>
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">Secouer pour couper le son</string>
-  <string name="hand_wave_silencer_summary">Couper la sonnerie des appels entrants en passant la main sur l\'écran</string>
-  <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">Retourner pour activer \"Ne pas déranger\"</string>
-  <string name="flip_to_mute_summary">Mettez le téléphone face vers le bas pour couper le son des notifications et appels</string>
-  <!-- Do Not Disturb access -->
-  <string name="dnd_access">Veuillez donner l\'accès à \"Ne pas déranger\" à CMActions pour utiliser cette fonctionnalité.</string>
-  <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">Prendre en main pour arrêter la sonnerie</string>
-  <string name="lift_to_silence_summary">Soulever le téléphone pour couper la sonnerie des appels entrants. Fonctionne uniquement lorsque votre téléphone est posé à plat</string>
-  <!-- Action toggles -->
-  <string name="action_none">Désactiver</string>
-  <string name="action_launch_camera">Lancer l\'appareil photo</string>
-  <string name="action_torch">Basculer la torche</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">Intensité du retour haptique</string>
-  <string name="feedback_intensity_summary">Intensité du retour haptique pour la double-torsion et le double -tranchage</string>
-  <string name="feedback_intensity_none">Désactivé</string>
-  <string name="feedback_intensity_low">Faible</string>
-  <string name="feedback_intensity_medium">Moyenne</string>
-  <string name="feedback_intensity_high">Élevée</string>
-  <!-- Dialog texts -->
-  <string name="dialog_ok">OK</string>
-  <!-- Help texts -->
-  <string name="doze_settings_help_title">Aide</string>
-  <string name="doze_settings_help_text">Ces fonctionnalités utilisent des capteurs pour afficher les notifications en mode sommeil. Le capteur choisi est activé uniquement lorsque l\'appareil reçoit une notification, cela aide à réduire l\'utilisation de la batterie. Il y a également une option pour activer le capteur choisi aussitôt que l\'écran s\'éteint, mais cela causera une utilisation plus importante de la batterie.</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">Boutons supplémentaires</string>
-  <string name="button_swap_title">Permuter les boutons</string>
-  <string name="button_swap_summary">Permuter les boutons retour et récents</string>
-  <!-- Fingerprint -->
-  <string name="fingerprint_title">Empreinte digitale</string>
-  <string name="fingerprint_as_home_title">Lecteur d\'empreinte digitale comme bouton d\'accueil</string>
-  <string name="fingerprint_as_home_summary">Utiliser le capteur d’empreintes digitales comme bouton accueil</string>
-  <string name="fingerprint_wakeup_title">Réveiller l\'appareil via le lecteur d\'empreinte</string>
-  <string name="fingerprint_wakeup_summary">Permet au capteur d\'empreintes digitales de réveiller l\'appareil quand l\'écran est éteint</string>
-  <string name="fingerprint_pocketmode_title">Empêcher un réveil accidentel</string>
-  <string name="fingerprint_pocketmode_summary">Vérifier le capteur de proximité avant une sortie de veille déclenchée par le capteur d\'empreinte digitale</string>
-  <string name="fingerprint_sleep_title">Veille par empreinte digitale</string>
-  <string name="fingerprint_sleep_summary">Appuyez sur le capteur d’empreintes digitales pour éteindre l’écran</string>
+    <string name="touchscreen_swipe_up_title">Glisser vers le haut</string>
+    <string name="touchscreen_swipe_right_title">Glisser vers la droite</string>
+    <string name="touchscreen_swipe_down_title">Glisser vers le bas</string>
+    <string name="touchscreen_swipe_left_title">Glisser vers la gauche</string>
+    <string name="user_aware_display_title">Affichage selon l\'utilisateur</string>
+    <string name="user_aware_display_summary">Garder l\'écran allumé tant qu\'un utilisateur le regarde</string>
+    <string name="ambient_display_title">Affichage ambiant</string>
+    <string name="ambient_display_enable_title">Affichage ambiant</string>
+    <string name="ambient_display_enable_summary">Allume l\'écran lorsque vous recevez des notifications</string>
+    <string name="ambient_display_gestures_title">Options de l\'affichage en mode Veille</string>
+    <string name="ambient_display_gestures_summary">Gestes supplémentaires pour réveiller l’écran</string>
+    <string name="ambient_display_summary">Activer l\'écran quand vous recevez des notifications</string>
+    <string name="ambient_display_summary_on">L\'écran s\'activera quand vous recevez des notifications</string>
+    <string name="ambient_display_summary_off">L\'écran ne s\'activera pas quand vous recevez des notifications</string>
+    <string name="tilt_sensor_title">Capteur d’inclinaison</string>
+    <string name="pickup_sensor_title">Capteur de mouvements</string>
+    <string name="proximity_sensor_title">Capteur de proximité</string>
+    <string name="hand_wave_gesture_title">Passage de la main</string>
+    <string name="hand_wave_gesture_summary">Le voyant des notifications clignote en passage de main</string>
+    <string name="hand_wave_gesture_flat_title">Détecter l\'orientation</string>
+    <string name="hand_wave_gesture_flat_summary">Réveiller uniquement si le téléphone est posé face vers le haut sur une surface plane</string>
+    <string name="pick_up_gesture_title">Prise en main</string>
+    <string name="pick_up_gesture_summary">Afficher les notifications lors de la prise en main</string>
+    <string name="pocket_gesture_title">Poche</string>
+    <string name="pocket_gesture_summary">Le voyant des notifications clignote en sortie de poche</string>
+    <string name="proximity_wake_title">Activation de proximité</string>
+    <string name="proximity_wake_enable_title">Activation de proximité</string>
+    <string name="proximity_wake_enable_summary">Réveiller l\'appareil par passage de main</string>
+    <string name="actions_title">Actions</string>
+    <string name="camera_gesture_title">Double torsion</string>
+    <string name="camera_gesture_summary">Ouvrir l\'appareil photo avec le geste de double torsion</string>
+    <string name="chop_chop_gesture_title">Double tranchage</string>
+    <string name="chop_chop_gesture_summary">Activer/désactiver la lampe de poche avec le geste de double tranchage</string>
+    <string name="hand_wave_silencer_title">Secouer pour couper le son</string>
+    <string name="hand_wave_silencer_summary">Couper la sonnerie des appels entrants en passant la main sur l\'écran</string>
+    <string name="flip_to_mute_title">Retourner pour activer \"Ne pas déranger\"</string>
+    <string name="flip_to_mute_summary">Mettez le téléphone face vers le bas pour couper le son des notifications et appels</string>
+    <string name="dnd_access">Veuillez donner l\'accès à \"Ne pas déranger\" à CMActions pour utiliser cette fonctionnalité.</string>
+    <string name="lift_to_silence_title">Prendre en main pour arrêter la sonnerie</string>
+    <string name="lift_to_silence_summary">Soulever le téléphone pour couper la sonnerie des appels entrants. Fonctionne uniquement lorsque votre téléphone est posé à plat</string>
+    <string name="action_none">Désactiver</string>
+    <string name="action_launch_camera">Lancer l\'appareil photo</string>
+    <string name="action_torch">Basculer la torche</string>
+    <string name="feedback_intensity_title">Intensité du retour haptique</string>
+    <string name="feedback_intensity_summary">Intensité du retour haptique pour la double-torsion et le double -tranchage</string>
+    <string name="feedback_intensity_none">Désactivé</string>
+    <string name="feedback_intensity_low">Faible</string>
+    <string name="feedback_intensity_medium">Moyenne</string>
+    <string name="feedback_intensity_high">Élevée</string>
+    <string name="dialog_ok">OK</string>
+    <string name="doze_settings_help_title">Aide</string>
+    <string name="doze_settings_help_text">Ces fonctionnalités utilisent des capteurs pour afficher les notifications en mode sommeil. Le capteur choisi est activé uniquement lorsque l\'appareil reçoit une notification, cela aide à réduire l\'utilisation de la batterie. Il y a également une option pour activer le capteur choisi aussitôt que l\'écran s\'éteint, mais cela causera une utilisation plus importante de la batterie.</string>
+    <string name="button_panel_title">Boutons supplémentaires</string>
+    <string name="button_swap_title">Permuter les boutons</string>
+    <string name="button_swap_summary">Permuter les boutons retour et récents</string>
+    <string name="fingerprint_title">Empreinte digitale</string>
+    <string name="fingerprint_as_home_title">Lecteur d\'empreinte digitale comme bouton d\'accueil</string>
+    <string name="fingerprint_as_home_summary">Utiliser le capteur d’empreintes digitales comme bouton accueil</string>
+    <string name="fingerprint_wakeup_title">Réveiller l\'appareil via le lecteur d\'empreinte</string>
+    <string name="fingerprint_wakeup_summary">Permet au capteur d\'empreintes digitales de réveiller l\'appareil quand l\'écran est éteint</string>
+    <string name="fingerprint_pocketmode_title">Empêcher un réveil accidentel</string>
+    <string name="fingerprint_pocketmode_summary">Vérifier le capteur de proximité avant une sortie de veille déclenchée par le capteur d\'empreinte digitale</string>
+    <string name="fingerprint_sleep_title">Veille par empreinte digitale</string>
+    <string name="fingerprint_sleep_summary">Appuyez sur le capteur d’empreintes digitales pour éteindre l’écran</string>
+    <string name="high_touch_sensitivity_title">Haute sensibilité tactile</string>
+    <string name="high_touch_sensitivity_summary">Augmenter la sensibilité de l\'écran de telle sorte qu\'il puisse être utilisé avec des gants</string>
 </resources>
