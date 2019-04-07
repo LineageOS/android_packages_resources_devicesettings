@@ -17,117 +17,103 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Bật</string>
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Tắt</string>
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">Cài đặt nâng cao</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Cử chỉ</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">Thêm</string>
-  <string name="touchscreen_gesture_haptic_feedback">Phản hồi xúc giác</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Rung khi phát hiện cử chỉ</string>
-  <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">Cử chỉ màn hình tắt</string>
-  <string name="touchscreen_c_gesture_title">Máy ảnh</string>
-  <string name="touchscreen_c_gesture_summary">Vẽ \"C\" để kích hoạt máy ảnh</string>
-  <string name="touchscreen_e_gesture_title">Email</string>
-  <string name="touchscreen_e_gesture_summary">Vẽ \"e\" để mở ứng dụng email</string>
-  <string name="touchscreen_m_gesture_title">Nhắn tin</string>
-  <string name="touchscreen_m_gesture_summary">Vẽ \"M\" để mở ứng dụng nhắn tin</string>
-  <string name="touchscreen_s_gesture_title">Nhắn tin</string>
-  <string name="touchscreen_s_gesture_summary">Vẽ \"S\" để mở ứng dụng nhắn tin</string>
-  <string name="touchscreen_v_gesture_title">Trình quay số</string>
-  <string name="touchscreen_v_gesture_summary">Vẽ \"V\" để mở ứng dụng trình quay số</string>
-  <string name="touchscreen_w_gesture_title">Trình duyệt</string>
-  <string name="touchscreen_w_gesture_summary">Vẽ \"W\" để mở ứng dụng trình duyệt</string>
-  <string name="touchscreen_z_gesture_title">Đèn pin</string>
-  <string name="touchscreen_z_gesture_summary">Vẽ \'V\' để bật/tắt đèn pin</string>
-  <string name="touchscreen_flashlight_gesture_title">Đèn pin</string>
-  <string name="touchscreen_flashlight_gesture_summary">Vẽ một vòng tròn để bật/tắt đèn pin</string>
-  <string name="touchscreen_music_gesture_title">Nhạc</string>
-  <string name="touchscreen_music_gesture_summary">Sử dụng các cử chỉ để điều khiển phát lại nhạc \n
+    <string name="switch_bar_on">Bật</string>
+    <string name="switch_bar_off">Tắt</string>
+    <string name="device_settings_app_name">Cài đặt nâng cao</string>
+    <string name="screen_gestures_panel_title">Cử chỉ</string>
+    <string name="touchscreen_gesture_extras">Thêm</string>
+    <string name="touchscreen_gesture_haptic_feedback">Phản hồi xúc giác</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Rung khi một cử chỉ màn hình cảm ứng được phát hiện</string>
+    <string name="touchscreen_gesture_settings_title">Cử chỉ màn hình cảm ứng</string>
+    <string name="touchscreen_gesture_settings_summary">Thực hiện các cử chỉ màn hình cảm ứng khác nhau cho các thao tác nhanh</string>
+    <string name="gesture_display_title">Cử chỉ màn hình tắt</string>
+    <string name="touchscreen_c_gesture_title">Máy ảnh</string>
+    <string name="touchscreen_c_gesture_summary">Vẽ \"C\" để kích hoạt máy ảnh</string>
+    <string name="touchscreen_e_gesture_title">Email</string>
+    <string name="touchscreen_e_gesture_summary">Vẽ \"e\" để mở ứng dụng email</string>
+    <string name="touchscreen_m_gesture_title">Nhắn tin</string>
+    <string name="touchscreen_m_gesture_summary">Vẽ \"M\" để mở ứng dụng nhắn tin</string>
+    <string name="touchscreen_s_gesture_title">Nhắn tin</string>
+    <string name="touchscreen_s_gesture_summary">Vẽ \"S\" để mở ứng dụng nhắn tin</string>
+    <string name="touchscreen_v_gesture_title">Trình quay số</string>
+    <string name="touchscreen_v_gesture_summary">Vẽ \"V\" để mở ứng dụng trình quay số</string>
+    <string name="touchscreen_w_gesture_title">Trình duyệt</string>
+    <string name="touchscreen_w_gesture_summary">Vẽ \"W\" để mở ứng dụng trình duyệt</string>
+    <string name="touchscreen_z_gesture_title">Đèn pin</string>
+    <string name="touchscreen_z_gesture_summary">Vẽ \'V\' để bật/tắt đèn pin</string>
+    <string name="touchscreen_flashlight_gesture_title">Đèn pin</string>
+    <string name="touchscreen_flashlight_gesture_summary">Vẽ một vòng tròn để bật/tắt đèn pin</string>
+    <string name="touchscreen_music_gesture_title">Nhạc</string>
+    <string name="touchscreen_music_gesture_summary">Sử dụng các cử chỉ để điều khiển phát lại nhạc \n
     • Vuốt xuống để phát/tạm dừng\n
     • Vuốt sang trái  cho bài trước đó\n
     • Vuốt sang phải cho bài kế tiếp</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">Màn hình nhận biết người dùng</string>
-  <string name="user_aware_display_summary">Giữ màn hình sáng khi người dùng còn nhìn vào màn hình</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">Hiển thị môi trường xung quanh</string>
-  <string name="ambient_display_enable_title">Hiển thị môi trường xung quanh</string>
-  <string name="ambient_display_enable_summary">Sáng màn hình khi nhận thông báo</string>
-  <string name="ambient_display_summary">Đánh thức màn hình khi nhận thông báo</string>
-  <string name="ambient_display_summary_on">Màn hình sẽ đánh thức khi bạn nhận được thông báo</string>
-  <string name="ambient_display_summary_off">Màn hình sẽ không đánh thức khi bạn nhận thông báo</string>
-  <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">Cảm biến nghiêng</string>
-  <!-- Proximity sensor -->
-  <string name="proximity_sensor_title">Cảm biến tiệm cận</string>
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Vẫy tay</string>
-  <string name="hand_wave_gesture_summary">Kích hoạt thông báo về vẫy tay</string>
-  <string name="hand_wave_gesture_flat_title">Phát hiện định hướng</string>
-  <string name="hand_wave_gesture_flat_summary">Kích hoạt chỉ khi điện thoại nằm ngửa lên trên một mặt phẳng</string>
-  <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Nhấc lên</string>
-  <string name="pick_up_gesture_summary">Kích hoạt thông báo khi nhấc lên</string>
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">Túi</string>
-  <string name="pocket_gesture_summary">Kích hoạt thông báo về loại bỏ khỏi túi</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">Đánh thức thiết bị bằng cảm biến tiệm cận</string>
-  <string name="proximity_wake_enable_title">Đánh thức thiết bị bằng cảm biến tiệm cận</string>
-  <string name="proximity_wake_enable_summary">Đánh thức thiết bị bằng cách vẫy tay</string>
-  <!-- Device actions -->
-  <string name="actions_title">Thao tác</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">Xoay hai lần</string>
-  <string name="camera_gesture_summary">Mở máy ảnh khi sử dụng cử chỉ xoay hai lần</string>
-  <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">Lắc 2 lần</string>
-  <string name="chop_chop_gesture_summary">Bật/tắt đèn pin khi sử dụng cử chỉ lắc 2 lần</string>
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">Vẫy để im lặng</string>
-  <string name="hand_wave_silencer_summary">Ngắt tiếng cuộc gọi đến bằng cách vẫy tay qua màn hình</string>
-  <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">Lật để Không làm phiền</string>
-  <string name="flip_to_mute_summary">Đặt mặt điện thoại xuống để tắt tiếng các thông báo và cuộc gọi</string>
-  <!-- Do Not Disturb access -->
-  <string name="dnd_access">Vui lòng, truy cập vào Không làm phiền qua CMActions để sử dụng tính năng này.</string>
-  <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">Nhấc lên để tắt chuông</string>
-  <string name="lift_to_silence_summary">Nhấc điện thoại để tắt tiếng cuộc gọi đến. Nó chỉ hoạt động khi điện thoại của bạn nằm trên mặt phẳng</string>
-  <!-- Action toggles -->
-  <string name="action_none">Tắt</string>
-  <string name="action_launch_camera">Khởi động camera</string>
-  <string name="action_torch">Bật/tắt đèn pin</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">Cường độ phản hồi xúc giác</string>
-  <string name="feedback_intensity_summary">Độ mạnh của phản hồi xúc giác với thao tác xoay hai lần và lắc hai lần</string>
-  <string name="feedback_intensity_none">Đã tắt</string>
-  <string name="feedback_intensity_low">Thấp</string>
-  <string name="feedback_intensity_medium">Trung bình</string>
-  <string name="feedback_intensity_high">Cao</string>
-  <!-- Dialog texts -->
-  <string name="dialog_ok">OK</string>
-  <!-- Help texts -->
-  <string name="doze_settings_help_title">Trợ giúp</string>
-  <string name="doze_settings_help_text">Các tính năng này sử dụng các sự kiện cảm biến để khởi chạy kích hoạt một thông báo doze. Các cảm biến được chọn chỉ được kích hoạt khi thiết bị nhận một thông báo, điều này giúp giảm thiểu việc sử dụng pin. Ngoài ra còn có một tùy chọn để kích hoạt các cảm biến được chọn ngay khi màn hình tắt, điều này sẽ gây ra việc sử dụng pin cao hơn.</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">Nút bổ sung</string>
-  <string name="button_swap_title">Tráo đổi nút</string>
-  <string name="button_swap_summary">Đổi thứ tự của các nút Gần đây và Quay lại</string>
-  <!-- Fingerprint -->
-  <string name="fingerprint_title">Vân tay</string>
-  <string name="fingerprint_as_home_title">Vân tay như là trang chính</string>
-  <string name="fingerprint_as_home_summary">Sử dụng cảm biến vân tay như là một nút trang chính</string>
-  <string name="fingerprint_wakeup_title">Đánh thức bằng vân tay</string>
-  <string name="fingerprint_wakeup_summary">Cho phép cảm biến vân tay đánh thức thiết bị trong khi màn hình đang tắt</string>
-  <string name="fingerprint_pocketmode_title">Ngăn chặn tình cờ mở màn hình</string>
-  <string name="fingerprint_pocketmode_summary">Kiểm tra cảm biến tiệm cận trước khi đánh thức được kích hoạt bằng cảm biến vân tay</string>
-  <string name="fingerprint_sleep_title">Tắt màn hình bằng vân tay</string>
-  <string name="fingerprint_sleep_summary">Nhấn cảm biến vân tay để tắt màn hình</string>
+    <string name="touchscreen_swipe_up_title">Trượt lên</string>
+    <string name="touchscreen_swipe_right_title">Trượt sang phải</string>
+    <string name="touchscreen_swipe_down_title">Trượt xuống</string>
+    <string name="touchscreen_swipe_left_title">Trượt sang trái</string>
+    <string name="user_aware_display_title">Màn hình nhận biết người dùng</string>
+    <string name="user_aware_display_summary">Giữ màn hình sáng khi người dùng còn nhìn vào màn hình</string>
+    <string name="ambient_display_title">Hiển thị môi trường xung quanh</string>
+    <string name="ambient_display_enable_title">Hiển thị môi trường xung quanh</string>
+    <string name="ambient_display_enable_summary">Sáng màn hình khi nhận thông báo</string>
+    <string name="ambient_display_gestures_title">Cử chỉ màn hình hiển thị xung quanh</string>
+    <string name="ambient_display_gestures_summary">Các cử chỉ bổ sung để đánh thức màn hình</string>
+    <string name="ambient_display_summary">Đánh thức màn hình khi nhận thông báo</string>
+    <string name="ambient_display_summary_on">Màn hình sẽ đánh thức khi bạn nhận được thông báo</string>
+    <string name="ambient_display_summary_off">Màn hình sẽ không đánh thức khi bạn nhận thông báo</string>
+    <string name="ambient_display_always_on_title">Luôn bật</string>
+    <string name="ambient_display_always_on_summary">Hiển thị thời gian, biểu tượng thông báo và thông tin khác. Sử dụng pin tăng lên.</string>
+    <string name="tilt_sensor_title">Cảm biến nghiêng</string>
+    <string name="pickup_sensor_title">Cảm biến nhấc lên</string>
+    <string name="proximity_sensor_title">Cảm biến tiệm cận</string>
+    <string name="hand_wave_gesture_title">Vẫy tay</string>
+    <string name="hand_wave_gesture_summary">Kích hoạt thông báo về vẫy tay</string>
+    <string name="hand_wave_gesture_flat_title">Phát hiện định hướng</string>
+    <string name="hand_wave_gesture_flat_summary">Kích hoạt chỉ khi điện thoại nằm ngửa lên trên một mặt phẳng</string>
+    <string name="pick_up_gesture_title">Nhấc lên</string>
+    <string name="pick_up_gesture_summary">Kích hoạt thông báo khi nhấc lên</string>
+    <string name="pocket_gesture_title">Túi</string>
+    <string name="pocket_gesture_summary">Kích hoạt thông báo về loại bỏ khỏi túi</string>
+    <string name="proximity_wake_title">Đánh thức thiết bị bằng cảm biến tiệm cận</string>
+    <string name="proximity_wake_enable_title">Đánh thức thiết bị bằng cảm biến tiệm cận</string>
+    <string name="proximity_wake_enable_summary">Đánh thức thiết bị bằng cách vẫy tay</string>
+    <string name="actions_title">Thao tác</string>
+    <string name="camera_gesture_title">Xoay hai lần</string>
+    <string name="camera_gesture_summary">Mở máy ảnh khi sử dụng cử chỉ xoay hai lần</string>
+    <string name="chop_chop_gesture_title">Lắc 2 lần</string>
+    <string name="chop_chop_gesture_summary">Bật/tắt đèn pin khi sử dụng cử chỉ lắc 2 lần</string>
+    <string name="hand_wave_silencer_title">Vẫy để im lặng</string>
+    <string name="hand_wave_silencer_summary">Ngắt tiếng cuộc gọi đến bằng cách vẫy tay qua màn hình</string>
+    <string name="flip_to_mute_title">Lật để Không làm phiền</string>
+    <string name="flip_to_mute_summary">Đặt mặt điện thoại xuống để tắt tiếng các thông báo và cuộc gọi</string>
+    <string name="dnd_access">Vui lòng, truy cập vào Không làm phiền qua CMActions để sử dụng tính năng này.</string>
+    <string name="lift_to_silence_title">Nhấc lên để tắt chuông</string>
+    <string name="lift_to_silence_summary">Nhấc điện thoại để tắt tiếng cuộc gọi đến. Nó chỉ hoạt động khi điện thoại của bạn nằm trên mặt phẳng</string>
+    <string name="action_none">Tắt</string>
+    <string name="action_launch_camera">Khởi động camera</string>
+    <string name="action_torch">Bật/tắt đèn pin</string>
+    <string name="feedback_intensity_title">Cường độ phản hồi xúc giác</string>
+    <string name="feedback_intensity_summary">Độ mạnh của phản hồi xúc giác với thao tác xoay hai lần và lắc hai lần</string>
+    <string name="feedback_intensity_none">Đã tắt</string>
+    <string name="feedback_intensity_low">Thấp</string>
+    <string name="feedback_intensity_medium">Trung bình</string>
+    <string name="feedback_intensity_high">Cao</string>
+    <string name="dialog_ok">OK</string>
+    <string name="doze_settings_help_title">Trợ giúp</string>
+    <string name="doze_settings_help_text">Các tính năng này sử dụng các sự kiện cảm biến để khởi chạy kích hoạt một thông báo doze. Các cảm biến được chọn chỉ được kích hoạt khi thiết bị nhận một thông báo, điều này giúp giảm thiểu việc sử dụng pin. Ngoài ra còn có một tùy chọn để kích hoạt các cảm biến được chọn ngay khi màn hình tắt, điều này sẽ gây ra việc sử dụng pin cao hơn.</string>
+    <string name="button_panel_title">Nút bổ sung</string>
+    <string name="button_swap_title">Tráo đổi nút</string>
+    <string name="button_swap_summary">Đổi thứ tự của các nút Gần đây và Quay lại</string>
+    <string name="fingerprint_title">Vân tay</string>
+    <string name="fingerprint_as_home_title">Vân tay như là trang chính</string>
+    <string name="fingerprint_as_home_summary">Sử dụng cảm biến vân tay như là một nút trang chính</string>
+    <string name="fingerprint_wakeup_title">Đánh thức bằng vân tay</string>
+    <string name="fingerprint_wakeup_summary">Cho phép cảm biến vân tay đánh thức thiết bị trong khi màn hình đang tắt</string>
+    <string name="fingerprint_pocketmode_title">Ngăn chặn tình cờ mở màn hình</string>
+    <string name="fingerprint_pocketmode_summary">Kiểm tra cảm biến tiệm cận trước khi đánh thức được kích hoạt bằng cảm biến vân tay</string>
+    <string name="fingerprint_sleep_title">Tắt màn hình bằng vân tay</string>
+    <string name="fingerprint_sleep_summary">Nhấn cảm biến vân tay để tắt màn hình</string>
+    <string name="high_touch_sensitivity_title">Độ nhạy cảm ứng cao</string>
+    <string name="high_touch_sensitivity_summary">Tăng độ nhạy màn hình cảm ứng để nó có thể được sử dụng trong khi đeo găng tay</string>
 </resources>

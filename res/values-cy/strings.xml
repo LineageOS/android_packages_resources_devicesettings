@@ -17,31 +17,103 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Device specific settings -->
-  <!-- Device gestures panel -->
-  <!-- Touchscreen gesture haptic feedback -->
-  <!-- Touchscreen gestures -->
-  <!-- User-aware display -->
-  <!-- Ambient Display -->
-  <!-- Tilt sensor -->
-  <!-- Proximity sensor -->
-  <!-- Hand wave gesture -->
-  <!-- Pick-up gesture -->
-  <!-- Pocket gesture -->
-  <!-- Proximity wake -->
-  <!-- Device actions -->
-  <!-- Camera gesture -->
-  <!-- Chop-chop gesture -->
-  <!-- Hand wave silencer gesture -->
-  <!-- Flip to mute gesture -->
-  <!-- Do Not Disturb access -->
-  <!-- Lift to silence gesture -->
-  <!-- Action toggles -->
-  <!-- Feedback intensity -->
-  <!-- Dialog texts -->
-  <!-- Help texts -->
-  <!-- Button settings -->
-  <!-- Fingerprint -->
+    <string name="switch_bar_on">Ymlaen</string>
+    <string name="switch_bar_off">I Ffwrdd</string>
+    <string name="device_settings_app_name">Gosodiadau uwch</string>
+    <string name="screen_gestures_panel_title">Ystumiau</string>
+    <string name="touchscreen_gesture_extras">Ychwanegion</string>
+    <string name="touchscreen_gesture_haptic_feedback">Adborth habtig</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Dirgrynu pan fo ystumiad sgrin gyffwrdd yn cael ei synhwyro</string>
+    <string name="touchscreen_gesture_settings_title">Ystumiau sgrin gyffwrdd</string>
+    <string name="touchscreen_gesture_settings_summary">Perfformio ystumiau amrywiol ar y sgrin gyffwrdd am weithredoedd cyflym</string>
+    <string name="gesture_display_title">Ystumiau sgrin i ffwrdd</string>
+    <string name="touchscreen_c_gesture_title">Camera</string>
+    <string name="touchscreen_c_gesture_summary">Llunia \"C\" ar y sgrin i weithredu\'r camera.</string>
+    <string name="touchscreen_e_gesture_title">Ebost</string>
+    <string name="touchscreen_e_gesture_summary">Llunia \"e\" ar y sgrin i agor yr ap e-bost.</string>
+    <string name="touchscreen_m_gesture_title">Negeseua</string>
+    <string name="touchscreen_m_gesture_summary">Llunia \"M\" ar y sgrin i agor yr ap negeseuon.</string>
+    <string name="touchscreen_s_gesture_title">Negeseua</string>
+    <string name="touchscreen_s_gesture_summary">Llunia \"S\" ar y sgrin i agor yr ap negeseuon.</string>
+    <string name="touchscreen_v_gesture_title">Deialydd</string>
+    <string name="touchscreen_v_gesture_summary">Llunia \"V\" ar y sgrin i agor yr ap deialu.</string>
+    <string name="touchscreen_w_gesture_title">Porwr</string>
+    <string name="touchscreen_w_gesture_summary">Llunia \"W\" ar y sgrin i agor yr ap pori\'r we.</string>
+    <string name="touchscreen_z_gesture_title">Fflacholau</string>
+    <string name="touchscreen_z_gesture_summary">Llunia \"Z\" ar y sgrin i doglo\'r fflacholau.</string>
+    <string name="touchscreen_flashlight_gesture_title">Fflacholau</string>
+    <string name="touchscreen_flashlight_gesture_summary">Llunia gylch ar y sgrin i doglo\'r fflacholau.</string>
+    <string name="touchscreen_music_gesture_title">Cerddoriaeth</string>
+    <string name="touchscreen_music_gesture_summary">Defnyddio ystumiau i reoli chwarae cerddoriaeth \n
+     • Llusgo i lawr i chwarae/seibio\n
+     • Llusgo i\'r chwith am y trac blaenorol\n
+     • Llusgo i\'r dde am y trac nesaf</string>
+    <string name="touchscreen_swipe_up_title">Llusgo i fyny</string>
+    <string name="touchscreen_swipe_right_title">Llusgo i\'r dde</string>
+    <string name="touchscreen_swipe_down_title">Llusgo i lawr</string>
+    <string name="touchscreen_swipe_left_title">Llusgo i\'r chwith</string>
+    <string name="user_aware_display_title">Dangosydd ymwybodol o\'r defnyddiwr</string>
+    <string name="user_aware_display_summary">Cadw\'r sgrin ymlaen tra bod defnyddiwr o flaen y dangosydd.</string>
+    <string name="ambient_display_title">Dangosydd amgylchynol</string>
+    <string name="ambient_display_enable_title">Dangosydd amgylchynol</string>
+    <string name="ambient_display_enable_summary">Deffro\'r sgrin pan mae hysbysiadau\'n cael eu derbyn</string>
+    <string name="ambient_display_gestures_title">Ystumiau dangosydd amgylchynol</string>
+    <string name="ambient_display_gestures_summary">Ystumiau ychwanegol i ddeffro\'r sgrin</string>
+    <string name="ambient_display_summary">Deffro\'r sgrin pan mae hysbysiadau\'n cael eu derbyn</string>
+    <string name="ambient_display_summary_on">Bydd y sgrin yn deffro pan fyddi\'n derbyn hysbysiadau</string>
+    <string name="ambient_display_summary_off">Ni fydd y sgrin yn deffro pan wyt yn derbyn hysbysiadau</string>
+    <string name="ambient_display_always_on_title">Ymlaen o hyd</string>
+    <string name="ambient_display_always_on_summary">Dangos amser, eiconau hysbysiadau, a gwybodaeth arall. Mae\'n defnyddio mwy o fatri.</string>
+    <string name="tilt_sensor_title">Synhwyrydd gogwyddo</string>
+    <string name="pickup_sensor_title">Synhwyrydd codi</string>
+    <string name="proximity_sensor_title">Synhwyrydd agosrwydd</string>
+    <string name="hand_wave_gesture_title">Codi llaw</string>
+    <string name="hand_wave_gesture_summary">Hysbysiadau curiad wrth godi llaw</string>
+    <string name="hand_wave_gesture_flat_title">Synhwyro cyfeiriad</string>
+    <string name="hand_wave_gesture_flat_summary">Curiad dim ond ow yw\'r ffôn yn gorwedd yn fflat a\'i wyneb i fyny</string>
+    <string name="pick_up_gesture_title">Codi i fyny</string>
+    <string name="pick_up_gesture_summary">Hysbysiadau curiad wrth godi i fyny</string>
+    <string name="pocket_gesture_title">Poced</string>
+    <string name="pocket_gesture_summary">Hysbysiadau curiad wrth dynnu o\'r boced</string>
+    <string name="proximity_wake_title">Deffro yn ôl agosrwydd</string>
+    <string name="proximity_wake_enable_title">Deffro yn ôl agosrwydd</string>
+    <string name="proximity_wake_enable_summary">Deffro\'r ddyfais wrth godi llaw</string>
+    <string name="actions_title">Gweithredoedd</string>
+    <string name="camera_gesture_title">Twist dwbl</string>
+    <string name="camera_gesture_summary">Agor y camera gyda\'r ystum twist dwbl</string>
+    <string name="chop_chop_gesture_title">Chop-chop</string>
+    <string name="chop_chop_gesture_summary">Toglo\'r fflacholau wrth ddefnyddio\'r ystum chop-chop</string>
+    <string name="hand_wave_silencer_title">Chwifio llaw i ddistewi</string>
+    <string name="hand_wave_silencer_summary">Distewi galwadau sy\'n dod i mewn gan chwifio dy law ar draws y sgrin</string>
+    <string name="flip_to_mute_title">Fflipio am Dim Tarfu</string>
+    <string name="flip_to_mute_summary">Gosod y ffôn a\'i hwyneb i lawr i ddistewi pob hysbysiad a galwad</string>
+    <string name="dnd_access">Plîs rho i Dim Tarfu mynediad at CMActions er mwyn defnyddio\'r nodwedd hon.</string>
+    <string name="lift_to_silence_title">Codi i stopio canu</string>
+    <string name="lift_to_silence_summary">Codi\'r ffôn i ddistewi galwadau sy\'n dod i mewn. Dyw ond yn gweithio tra bod dy ffôn yn gorwedd yn fflat i ddechrau.</string>
+    <string name="action_none">Analluogi</string>
+    <string name="action_launch_camera">Agor camera</string>
+    <string name="action_torch">Toglo\'r fflacholau</string>
+    <string name="feedback_intensity_title">Dwysedd adborth habtig</string>
+    <string name="feedback_intensity_summary">Cryfder adborth habtig gweithredoedd twist dwbl a chop-chop</string>
+    <string name="feedback_intensity_none">Wedi\'i analluogi</string>
+    <string name="feedback_intensity_low">Isel</string>
+    <string name="feedback_intensity_medium">Canolig</string>
+    <string name="feedback_intensity_high">Uchel</string>
+    <string name="dialog_ok">Iawn</string>
+    <string name="doze_settings_help_title">Cymorth</string>
+    <string name="doze_settings_help_text">Mae\'r nodweddion hyn yn defnyddio digwyddiadau synhwyro i lansio curiad hysbysiadau hepian. Dyw\'r synhwyrydd a ddewisir ond wedi\'i alluogi pan mae\'r ddyfais yn derbyn hysbysiad, gan helpu lleihau defnydd o\'r batri. Mae hefyd opsiwn i alluogi\'r synhwyrydd a ddewisir yn syth pan mae\'r sgrin yn troi i ffwrdd, ond bydd hyn yn defnyddio mwy o\'r batri.</string>
+    <string name="button_panel_title">Botymau ychwanegol</string>
+    <string name="button_swap_title">Cyfnewid botymau</string>
+    <string name="button_swap_summary">Cyfnewid trefn botymau nôl a diweddar</string>
+    <string name="fingerprint_title">Ôl bys</string>
+    <string name="fingerprint_as_home_title">Ôl bys fel cartref</string>
+    <string name="fingerprint_as_home_summary">Defnyddio\'r synhwyrydd ôl bysedd fel botwm cartref</string>
+    <string name="fingerprint_wakeup_title">Ôl bys i ddeffro</string>
+    <string name="fingerprint_wakeup_summary">Caniatáu i\'r synhwyrydd olion bysedd deffro\'r ddyfais pan fydd y sgrin i ffwrdd.</string>
+    <string name="fingerprint_pocketmode_title">Rhwystro deffro trwy ddamwain</string>
+    <string name="fingerprint_pocketmode_summary">Gwirio\'r synhwyrydd agosrwydd cyn deffro wedi\'i sbarduno gan y synhwyrydd ôl bys</string>
+    <string name="fingerprint_sleep_title">Cysgu gydag ôl bys</string>
+    <string name="fingerprint_sleep_summary">Cyffwrdd y synhwyrydd ôl bys i droi\'r sgrin i ffwrdd</string>
+    <string name="high_touch_sensitivity_title">Sensitifrwydd cyffwrdd uchel</string>
+    <string name="high_touch_sensitivity_summary">Cynyddu sensitifrwydd y sgrin gyffwrdd fel y gellir ei defnyddio wrth wisgo menig</string>
 </resources>

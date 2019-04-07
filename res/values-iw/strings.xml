@@ -17,117 +17,101 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">מופעל</string>
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">כבוי</string>
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">הגדרות מתקדמות</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">מחוות</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">תוספות</string>
-  <string name="touchscreen_gesture_haptic_feedback">משוב רטט</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">רטוט כאשר מחווה מזוהה</string>
-  <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">מחוות לכיבוי המסך</string>
-  <string name="touchscreen_c_gesture_title">מצלמה</string>
-  <string name="touchscreen_c_gesture_summary">צייר \"C\" כדי להפעיל את המצלמה</string>
-  <string name="touchscreen_e_gesture_title">דוא\"ל</string>
-  <string name="touchscreen_e_gesture_summary">צייר \"e\" להפעלת יישום הדוא\"ל</string>
-  <string name="touchscreen_m_gesture_title">הודעות</string>
-  <string name="touchscreen_m_gesture_summary">צייר \"M\" לפתיחת יישום ההודעות</string>
-  <string name="touchscreen_s_gesture_title">הודעות</string>
-  <string name="touchscreen_s_gesture_summary">צייר \"S\" להפעלת יישום ההודעות</string>
-  <string name="touchscreen_v_gesture_title">חייגן</string>
-  <string name="touchscreen_v_gesture_summary">צייר \"V\" לפתיחת החייגן</string>
-  <string name="touchscreen_w_gesture_title">דפדפן</string>
-  <string name="touchscreen_w_gesture_summary">צייר \"W\" לפתיחת הדפדפן</string>
-  <string name="touchscreen_z_gesture_title">פנס</string>
-  <string name="touchscreen_z_gesture_summary">צייר \"Z\" להפעלת/כיבוי הפנס</string>
-  <string name="touchscreen_flashlight_gesture_title">פנס</string>
-  <string name="touchscreen_flashlight_gesture_summary">צייר עיגול להפעלת/כיבוי הפנס</string>
-  <string name="touchscreen_music_gesture_title">מוסיקה</string>
-  <string name="touchscreen_music_gesture_summary">השתמש במחוות כדי לשלוט בהשמעת המוזיקה\n
+    <string name="switch_bar_on">מופעל</string>
+    <string name="switch_bar_off">כבוי</string>
+    <string name="device_settings_app_name">הגדרות מתקדמות</string>
+    <string name="screen_gestures_panel_title">מחוות</string>
+    <string name="touchscreen_gesture_extras">תוספות</string>
+    <string name="touchscreen_gesture_haptic_feedback">משוב רטט</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">רטוט כאשר מזוהה מחווה</string>
+    <string name="touchscreen_gesture_settings_title">מחוות מגע</string>
+    <string name="touchscreen_gesture_settings_summary">השתמש במחוות מגע שונות לפעולות מהירות</string>
+    <string name="gesture_display_title">מחוות לכיבוי המסך</string>
+    <string name="touchscreen_c_gesture_title">מצלמה</string>
+    <string name="touchscreen_c_gesture_summary">צייר \"C\" כדי להפעיל את המצלמה</string>
+    <string name="touchscreen_e_gesture_title">דוא\"ל</string>
+    <string name="touchscreen_e_gesture_summary">צייר \"e\" להפעלת יישום הדוא\"ל</string>
+    <string name="touchscreen_m_gesture_title">הודעות</string>
+    <string name="touchscreen_m_gesture_summary">צייר \"M\" לפתיחת יישום ההודעות</string>
+    <string name="touchscreen_s_gesture_title">הודעות</string>
+    <string name="touchscreen_s_gesture_summary">צייר \"S\" להפעלת יישום ההודעות</string>
+    <string name="touchscreen_v_gesture_title">חייגן</string>
+    <string name="touchscreen_v_gesture_summary">צייר \"V\" לפתיחת החייגן</string>
+    <string name="touchscreen_w_gesture_title">דפדפן</string>
+    <string name="touchscreen_w_gesture_summary">צייר \"W\" לפתיחת הדפדפן</string>
+    <string name="touchscreen_z_gesture_title">פנס</string>
+    <string name="touchscreen_z_gesture_summary">צייר \"Z\" להפעלת/כיבוי הפנס</string>
+    <string name="touchscreen_flashlight_gesture_title">פנס</string>
+    <string name="touchscreen_flashlight_gesture_summary">צייר עיגול להפעלת/כיבוי הפנס</string>
+    <string name="touchscreen_music_gesture_title">מוסיקה</string>
+    <string name="touchscreen_music_gesture_summary">השתמש במחוות כדי לשלוט בהשמעת המוזיקה\n
     • החלקה למטה להפעלה\השהייה\n
     • החלקה שמאלה לחזרה לרצועה הקודמת\n
     • החלקה ימינה למעבר לרצועה הבאה</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">תצוגה מודעת-משתמש</string>
-  <string name="user_aware_display_summary">השאר את המסך פעיל כאשר המשתמש נמצא מולו</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">תצוגת התראות עמומה</string>
-  <string name="ambient_display_enable_title">תצוגת התראות עמומה</string>
-  <string name="ambient_display_enable_summary">הפעל את המסך בעת קבלת התראות</string>
-  <string name="ambient_display_summary">הפעל את המסך כשמתקבלות התראות</string>
-  <string name="ambient_display_summary_on">המסך יופעל כשמתקבלות התראות</string>
-  <string name="ambient_display_summary_off">המסך לא יופעל כשמתקבלות התראות</string>
-  <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">חיישן הטיה</string>
-  <!-- Proximity sensor -->
-  <string name="proximity_sensor_title">חיישן קרבה</string>
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">נפנוף יד</string>
-  <string name="hand_wave_gesture_summary">הצג התראות בנפנוף יד</string>
-  <string name="hand_wave_gesture_flat_title">זהה כיוון</string>
-  <string name="hand_wave_gesture_flat_summary">הצג התראות רק אם המכשיר שוכב עם הפנים כלפי מעלה על משטח שטוח</string>
-  <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">הרמה</string>
-  <string name="pick_up_gesture_summary">הצג התראות בעת הרמה</string>
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">כיס</string>
-  <string name="pocket_gesture_summary">הצג התראות בהוצאה מהכיס</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">הפעלה בקירוב</string>
-  <string name="proximity_wake_enable_title">הפעלה בקירוב</string>
-  <string name="proximity_wake_enable_summary">הער את המכשיר בנפנוף יד</string>
-  <!-- Device actions -->
-  <string name="actions_title">פעולות</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">סיבוב כפול</string>
-  <string name="camera_gesture_summary">פתח מצלמה בעת השימוש במחוות הסיבוב הכפול</string>
-  <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">ניעור כפול</string>
-  <string name="chop_chop_gesture_summary">הפעל/כבה פנס בעת השימוש במחוות הניעור הכפול</string>
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">נפנוף להשתקה</string>
-  <string name="hand_wave_silencer_summary">השתק שיחות נכנסות בנפנוף יד מול המסך</string>
-  <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">הפוך להפעלת מצב \"נא לא להפריע\"</string>
-  <string name="flip_to_mute_summary">הנח את המכשיר על פניו על מנת להשתיק התראות ושיחות</string>
-  <!-- Do Not Disturb access -->
-  <string name="dnd_access">אנא תן ל\"נא לא להפריע\" גישה ל-CMActions על מנת להשתמש באפשרות זו.</string>
-  <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">הרם להפסקת הצלצול</string>
-  <string name="lift_to_silence_summary">הרם את המכשיר כדי להשתיק שיחות נכנסות. אפשרות זו עובדת רק כאשר הטלפון הונח תחילה</string>
-  <!-- Action toggles -->
-  <string name="action_none">השבתה</string>
-  <string name="action_launch_camera">הפעל מצלמה</string>
-  <string name="action_torch">הפעלת/כיבוי פנס</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">עוצמת משוב רטט</string>
-  <string name="feedback_intensity_summary">עוצמת רטט המשוב בעת השימוש בפעולות \'סיבוב כפול\' או \'ניעור כפול\'</string>
-  <string name="feedback_intensity_none">מושבת</string>
-  <string name="feedback_intensity_low">חלש</string>
-  <string name="feedback_intensity_medium">בינוני</string>
-  <string name="feedback_intensity_high">חזק</string>
-  <!-- Dialog texts -->
-  <string name="dialog_ok">אישור</string>
-  <!-- Help texts -->
-  <string name="doze_settings_help_title">עזרה</string>
-  <string name="doze_settings_help_text">התכונות נעזרות בחיישנים כדי להפעיל את נורית ההתראות עם Doze. החיישן הנבחר מופעל רק כאשר המכשיר מקבל התראה, מה שעוזר להקטין את השימוש בסוללה. בנוסף, ישנה אפשרות להפעיל את החיישן הנבחר ברגע שהמסך נכבה, מה שעלול לגרום לשימוש רב יותר בסוללה.</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">מקשים נוספים</string>
-  <string name="button_swap_title">החלף בין מקשים</string>
-  <string name="button_swap_summary">החלף בין המקש \"חזור\" ל\"אחרונים\"</string>
-  <!-- Fingerprint -->
-  <string name="fingerprint_title">טביעת אצבע</string>
-  <string name="fingerprint_as_home_title">טביעת אצבע כמקש הבית</string>
-  <string name="fingerprint_as_home_summary">השתמש בטביעת האצבע כמקש הבית</string>
-  <string name="fingerprint_wakeup_title">טביעת אצבע מעירה את המסך</string>
-  <string name="fingerprint_wakeup_summary">אפשר לחיישן טביעת האצבע להפעיל את המכשיר כשהמסך כבוי</string>
-  <string name="fingerprint_pocketmode_title">מנע התעוררות מקרית</string>
-  <string name="fingerprint_pocketmode_summary">בדוק את חיישן הקירבה לפני הערת המכשיר על ידי טביעת האצבע</string>
-  <string name="fingerprint_sleep_title">טביעת אצבע לשינה</string>
-  <string name="fingerprint_sleep_summary">לחץ על חיישן טביעת האצבע כדי לכבות את המסך</string>
+    <string name="touchscreen_swipe_up_title">החלקה למעלה</string>
+    <string name="touchscreen_swipe_right_title">החלקה ימינה</string>
+    <string name="touchscreen_swipe_down_title">החלקה למטה</string>
+    <string name="touchscreen_swipe_left_title">החלקה שמאלה</string>
+    <string name="user_aware_display_title">תצוגה מודעת-משתמש</string>
+    <string name="user_aware_display_summary">השאר את המסך פעיל כאשר המשתמש נמצא מולו</string>
+    <string name="ambient_display_title">תצוגת התראות עמומה</string>
+    <string name="ambient_display_enable_title">תצוגת התראות עמומה</string>
+    <string name="ambient_display_enable_summary">הפעל את המסך בעת קבלת התראות</string>
+    <string name="ambient_display_gestures_title">מחוות תצוגת התראות עמומה</string>
+    <string name="ambient_display_gestures_summary">מחוות נוספות כדי להעיר את המסך</string>
+    <string name="ambient_display_summary">הפעל את המסך כשמתקבלות התראות</string>
+    <string name="ambient_display_summary_on">המסך יופעל כשמתקבלות התראות</string>
+    <string name="ambient_display_summary_off">המסך לא יופעל כשמתקבלות התראות</string>
+    <string name="tilt_sensor_title">חיישן הטיה</string>
+    <string name="pickup_sensor_title">חיישן הרמה</string>
+    <string name="proximity_sensor_title">חיישן קרבה</string>
+    <string name="hand_wave_gesture_title">נפנוף יד</string>
+    <string name="hand_wave_gesture_summary">הצג התראות בנפנוף יד</string>
+    <string name="hand_wave_gesture_flat_title">זהה כיוון</string>
+    <string name="hand_wave_gesture_flat_summary">הצג התראות רק אם המכשיר שוכב עם הפנים כלפי מעלה על משטח שטוח</string>
+    <string name="pick_up_gesture_title">הרמה</string>
+    <string name="pick_up_gesture_summary">הצג התראות בעת הרמה</string>
+    <string name="pocket_gesture_title">כיס</string>
+    <string name="pocket_gesture_summary">הצג התראות בהוצאה מהכיס</string>
+    <string name="proximity_wake_title">הפעלה בקירוב</string>
+    <string name="proximity_wake_enable_title">הפעלה בקירוב</string>
+    <string name="proximity_wake_enable_summary">הער את המכשיר בנפנוף יד</string>
+    <string name="actions_title">פעולות</string>
+    <string name="camera_gesture_title">סיבוב כפול</string>
+    <string name="camera_gesture_summary">פתח מצלמה בעת השימוש במחוות הסיבוב הכפול</string>
+    <string name="chop_chop_gesture_title">ניעור כפול</string>
+    <string name="chop_chop_gesture_summary">הפעל/כבה פנס בעת השימוש במחוות הניעור הכפול</string>
+    <string name="hand_wave_silencer_title">נפנוף להשתקה</string>
+    <string name="hand_wave_silencer_summary">השתק שיחות נכנסות בנפנוף יד מול המסך</string>
+    <string name="flip_to_mute_title">הפוך להפעלת מצב \"נא לא להפריע\"</string>
+    <string name="flip_to_mute_summary">הנח את המכשיר על פניו על מנת להשתיק התראות ושיחות</string>
+    <string name="dnd_access">אנא תן ל\"נא לא להפריע\" גישה ל-CMActions על מנת להשתמש באפשרות זו.</string>
+    <string name="lift_to_silence_title">הרם להפסקת הצלצול</string>
+    <string name="lift_to_silence_summary">הרם את המכשיר כדי להשתיק שיחות נכנסות. אפשרות זו עובדת רק כאשר הטלפון הונח תחילה</string>
+    <string name="action_none">השבתה</string>
+    <string name="action_launch_camera">הפעל מצלמה</string>
+    <string name="action_torch">הפעלת/כיבוי פנס</string>
+    <string name="feedback_intensity_title">עוצמת משוב רטט</string>
+    <string name="feedback_intensity_summary">עוצמת רטט המשוב בעת השימוש בפעולות \'סיבוב כפול\' או \'ניעור כפול\'</string>
+    <string name="feedback_intensity_none">מושבת</string>
+    <string name="feedback_intensity_low">חלש</string>
+    <string name="feedback_intensity_medium">בינוני</string>
+    <string name="feedback_intensity_high">חזק</string>
+    <string name="dialog_ok">אישור</string>
+    <string name="doze_settings_help_title">עזרה</string>
+    <string name="doze_settings_help_text">התכונות נעזרות בחיישנים כדי להפעיל את נורית ההתראות עם Doze. החיישן הנבחר מופעל רק כאשר המכשיר מקבל התראה, מה שעוזר להקטין את השימוש בסוללה. בנוסף, ישנה אפשרות להפעיל את החיישן הנבחר ברגע שהמסך נכבה, מה שעלול לגרום לשימוש רב יותר בסוללה.</string>
+    <string name="button_panel_title">מקשים נוספים</string>
+    <string name="button_swap_title">החלף בין מקשים</string>
+    <string name="button_swap_summary">החלף בין המקש \"חזור\" ל\"אחרונים\"</string>
+    <string name="fingerprint_title">טביעת אצבע</string>
+    <string name="fingerprint_as_home_title">טביעת אצבע כמקש הבית</string>
+    <string name="fingerprint_as_home_summary">השתמש בטביעת האצבע כמקש הבית</string>
+    <string name="fingerprint_wakeup_title">טביעת אצבע מעירה את המסך</string>
+    <string name="fingerprint_wakeup_summary">אפשר לחיישן טביעת האצבע להפעיל את המכשיר כשהמסך כבוי</string>
+    <string name="fingerprint_pocketmode_title">מנע התעוררות מקרית</string>
+    <string name="fingerprint_pocketmode_summary">בדוק את חיישן הקירבה לפני הערת המכשיר על ידי טביעת האצבע</string>
+    <string name="fingerprint_sleep_title">טביעת אצבע לשינה</string>
+    <string name="fingerprint_sleep_summary">לחץ על חיישן טביעת האצבע כדי לכבות את המסך</string>
+    <string name="high_touch_sensitivity_title">רגישות גבוהה למגע</string>
+    <string name="high_touch_sensitivity_summary">הגבר את רגישות מסך המגע כך שיהיה ניתן לשימוש בעת לבישת כפפות</string>
 </resources>

@@ -17,117 +17,103 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">开</string>
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">关</string>
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">高级设置</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">手势</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">附加功能</string>
-  <string name="touchscreen_gesture_haptic_feedback">触觉反馈</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">检测到手势时振动</string>
-  <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">关屏手势</string>
-  <string name="touchscreen_c_gesture_title">相机</string>
-  <string name="touchscreen_c_gesture_summary">绘制一个“C”来激活相机</string>
-  <string name="touchscreen_e_gesture_title">电子邮件</string>
-  <string name="touchscreen_e_gesture_summary">绘制一个“e”来打开电子邮件应用</string>
-  <string name="touchscreen_m_gesture_title">信息</string>
-  <string name="touchscreen_m_gesture_summary">绘制一个“M”以打开消息应用</string>
-  <string name="touchscreen_s_gesture_title">信息</string>
-  <string name="touchscreen_s_gesture_summary">绘制一个“S”以打开消息应用</string>
-  <string name="touchscreen_v_gesture_title">拨号</string>
-  <string name="touchscreen_v_gesture_summary">绘制一个“V”以打开拨号应用</string>
-  <string name="touchscreen_w_gesture_title">浏览器</string>
-  <string name="touchscreen_w_gesture_summary">绘制一个“W”来打开浏览器应用</string>
-  <string name="touchscreen_z_gesture_title">手电筒</string>
-  <string name="touchscreen_z_gesture_summary">绘制一个“Z”来切换手电筒</string>
-  <string name="touchscreen_flashlight_gesture_title">手电筒</string>
-  <string name="touchscreen_flashlight_gesture_summary">画一个圈来切换手电筒</string>
-  <string name="touchscreen_music_gesture_title">音乐</string>
-  <string name="touchscreen_music_gesture_summary">使用手势控制音乐播放 \n
+    <string name="switch_bar_on">开</string>
+    <string name="switch_bar_off">关</string>
+    <string name="device_settings_app_name">高级设置</string>
+    <string name="screen_gestures_panel_title">手势</string>
+    <string name="touchscreen_gesture_extras">附加功能</string>
+    <string name="touchscreen_gesture_haptic_feedback">触觉反馈</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">检测到一个触摸屏手势时振动</string>
+    <string name="touchscreen_gesture_settings_title">触摸屏手势</string>
+    <string name="touchscreen_gesture_settings_summary">为快捷操作采用各种触摸屏手势</string>
+    <string name="gesture_display_title">关屏手势</string>
+    <string name="touchscreen_c_gesture_title">相机</string>
+    <string name="touchscreen_c_gesture_summary">绘制一个“C”来激活相机</string>
+    <string name="touchscreen_e_gesture_title">电子邮件</string>
+    <string name="touchscreen_e_gesture_summary">绘制一个“e”来打开电子邮件应用</string>
+    <string name="touchscreen_m_gesture_title">信息</string>
+    <string name="touchscreen_m_gesture_summary">绘制一个“M”以打开消息应用</string>
+    <string name="touchscreen_s_gesture_title">信息</string>
+    <string name="touchscreen_s_gesture_summary">绘制一个“S”以打开消息应用</string>
+    <string name="touchscreen_v_gesture_title">拨号</string>
+    <string name="touchscreen_v_gesture_summary">绘制一个“V”以打开拨号应用</string>
+    <string name="touchscreen_w_gesture_title">浏览器</string>
+    <string name="touchscreen_w_gesture_summary">绘制一个“W”来打开浏览器应用</string>
+    <string name="touchscreen_z_gesture_title">手电筒</string>
+    <string name="touchscreen_z_gesture_summary">绘制一个“Z”来切换手电筒</string>
+    <string name="touchscreen_flashlight_gesture_title">手电筒</string>
+    <string name="touchscreen_flashlight_gesture_summary">画一个圈来切换手电筒</string>
+    <string name="touchscreen_music_gesture_title">音乐</string>
+    <string name="touchscreen_music_gesture_summary">使用手势控制音乐播放 \n
     • 双指垂直滑动来播放/暂停\n
     • 向左滑动切换到上一首\n
     • 向右滑动切换到下一首</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">用户感知显示</string>
-  <string name="user_aware_display_summary">当使用者在屏幕前时保持屏幕开启</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">环境显示</string>
-  <string name="ambient_display_enable_title">环境显示</string>
-  <string name="ambient_display_enable_summary">当接收到通知时唤醒屏幕</string>
-  <string name="ambient_display_summary">当接收到通知时唤醒屏幕</string>
-  <string name="ambient_display_summary_on">当接收到通知时将唤醒屏幕</string>
-  <string name="ambient_display_summary_off">当接收到通知时将不会唤醒屏幕</string>
-  <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">倾斜传感器</string>
-  <!-- Proximity sensor -->
-  <string name="proximity_sensor_title">距离传感器</string>
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">挥手</string>
-  <string name="hand_wave_gesture_summary">挥手时唤醒屏幕</string>
-  <string name="hand_wave_gesture_flat_title">检测方向</string>
-  <string name="hand_wave_gesture_flat_summary">仅当手机屏幕朝上且放置于平坦表面时点亮屏幕</string>
-  <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">拿起</string>
-  <string name="pick_up_gesture_summary">拿起时唤醒屏幕</string>
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">口袋</string>
-  <string name="pocket_gesture_summary">从口袋中拿出时唤醒屏幕</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">距离传感器唤醒</string>
-  <string name="proximity_wake_enable_title">距离传感器唤醒</string>
-  <string name="proximity_wake_enable_summary">挥手时唤醒设备</string>
-  <!-- Device actions -->
-  <string name="actions_title">操作</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">扭动两次</string>
-  <string name="camera_gesture_summary">当扭动两次时打开相机</string>
-  <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">劈砍两次</string>
-  <string name="chop_chop_gesture_summary">使用劈砍两次手势时切换手电筒</string>
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">挥动以静音</string>
-  <string name="hand_wave_silencer_summary">来电时用手挥过屏幕以静音</string>
-  <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">翻转以请勿打扰</string>
-  <string name="flip_to_mute_summary">将手机朝下放置以静音通知和来电</string>
-  <!-- Do Not Disturb access -->
-  <string name="dnd_access">请为 CMActions 授予“请勿打扰”访问权限以使用此功能。</string>
-  <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">拿起以停止响铃</string>
-  <string name="lift_to_silence_summary">拿起电话时静音来电。只有当您的手机平放时此功能才会生效</string>
-  <!-- Action toggles -->
-  <string name="action_none">禁用</string>
-  <string name="action_launch_camera">启动相机</string>
-  <string name="action_torch">开关手电筒</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">触觉反馈强度</string>
-  <string name="feedback_intensity_summary">“劈砍”两次和“扭动”两次动作时的触觉反馈强度</string>
-  <string name="feedback_intensity_none">已禁用</string>
-  <string name="feedback_intensity_low">低</string>
-  <string name="feedback_intensity_medium">中</string>
-  <string name="feedback_intensity_high">高</string>
-  <!-- Dialog texts -->
-  <string name="dialog_ok">确定</string>
-  <!-- Help texts -->
-  <string name="doze_settings_help_title">帮助</string>
-  <string name="doze_settings_help_text">这些功能使用传感器事件来启用打盹通知指示灯。所选的传感器仅在设备收到通知时启用，这有助于降低电池消耗。还有一个选项是在屏幕关闭后马上启用所选的传感器，这会消耗更多的电量。</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">更多按键</string>
-  <string name="button_swap_title">交换按钮</string>
-  <string name="button_swap_summary">交换最近使用与后退按钮的顺序</string>
-  <!-- Fingerprint -->
-  <string name="fingerprint_title">指纹</string>
-  <string name="fingerprint_as_home_title">将指纹作为 Home 键</string>
-  <string name="fingerprint_as_home_summary">将指纹传感器作为 Home 键使用</string>
-  <string name="fingerprint_wakeup_title">指纹唤醒</string>
-  <string name="fingerprint_wakeup_summary">屏幕关闭时允许指纹传感器唤醒设备</string>
-  <string name="fingerprint_pocketmode_title">防止意外唤醒</string>
-  <string name="fingerprint_pocketmode_summary">经由指纹唤醒前先检查距离传感器</string>
-  <string name="fingerprint_sleep_title">指纹关屏</string>
-  <string name="fingerprint_sleep_summary">按下指纹传感器来关闭屏幕</string>
+    <string name="touchscreen_swipe_up_title">向上滑动</string>
+    <string name="touchscreen_swipe_right_title">向右滑动</string>
+    <string name="touchscreen_swipe_down_title">向下滑动</string>
+    <string name="touchscreen_swipe_left_title">向左滑动</string>
+    <string name="user_aware_display_title">用户感知显示</string>
+    <string name="user_aware_display_summary">当使用者在屏幕前时保持屏幕开启</string>
+    <string name="ambient_display_title">环境显示</string>
+    <string name="ambient_display_enable_title">环境显示</string>
+    <string name="ambient_display_enable_summary">当接收到通知时唤醒屏幕</string>
+    <string name="ambient_display_gestures_title">环境显示手势</string>
+    <string name="ambient_display_gestures_summary">唤醒屏幕的附加手势</string>
+    <string name="ambient_display_summary">当接收到通知时唤醒屏幕</string>
+    <string name="ambient_display_summary_on">当接收到通知时将唤醒屏幕</string>
+    <string name="ambient_display_summary_off">当接收到通知时将不会唤醒屏幕</string>
+    <string name="ambient_display_always_on_title">始终开启</string>
+    <string name="ambient_display_always_on_summary">显示时间、通知图标和其他信息。这会增加电池使用量。</string>
+    <string name="tilt_sensor_title">倾斜传感器</string>
+    <string name="pickup_sensor_title">拾取传感器</string>
+    <string name="proximity_sensor_title">距离传感器</string>
+    <string name="hand_wave_gesture_title">挥手</string>
+    <string name="hand_wave_gesture_summary">挥手时唤醒屏幕</string>
+    <string name="hand_wave_gesture_flat_title">检测方向</string>
+    <string name="hand_wave_gesture_flat_summary">仅当手机屏幕朝上且放置于平坦表面时点亮屏幕</string>
+    <string name="pick_up_gesture_title">拿起</string>
+    <string name="pick_up_gesture_summary">拿起时唤醒屏幕</string>
+    <string name="pocket_gesture_title">口袋</string>
+    <string name="pocket_gesture_summary">从口袋中拿出时唤醒屏幕</string>
+    <string name="proximity_wake_title">距离传感器唤醒</string>
+    <string name="proximity_wake_enable_title">距离传感器唤醒</string>
+    <string name="proximity_wake_enable_summary">挥手时唤醒设备</string>
+    <string name="actions_title">操作</string>
+    <string name="camera_gesture_title">扭动两次</string>
+    <string name="camera_gesture_summary">当扭动两次时打开相机</string>
+    <string name="chop_chop_gesture_title">摇动两次</string>
+    <string name="chop_chop_gesture_summary">当左右摇动时切换手电筒</string>
+    <string name="hand_wave_silencer_title">挥动以静音</string>
+    <string name="hand_wave_silencer_summary">来电时用手挥过屏幕以静音</string>
+    <string name="flip_to_mute_title">翻转开启请勿打扰</string>
+    <string name="flip_to_mute_summary">将手机朝下放置以静音通知和来电</string>
+    <string name="dnd_access">请为 CMActions 授予“勿扰”访问权限以使用此功能。</string>
+    <string name="lift_to_silence_title">拿起以停止响铃</string>
+    <string name="lift_to_silence_summary">拿起电话时静音来电。只有当您的手机平放时此功能才会生效</string>
+    <string name="action_none">禁用</string>
+    <string name="action_launch_camera">启动相机</string>
+    <string name="action_torch">开关手电筒</string>
+    <string name="feedback_intensity_title">触觉反馈强度</string>
+    <string name="feedback_intensity_summary">摇动两次和“赶快”动作时的触觉反馈强度</string>
+    <string name="feedback_intensity_none">已禁用</string>
+    <string name="feedback_intensity_low">低</string>
+    <string name="feedback_intensity_medium">中</string>
+    <string name="feedback_intensity_high">高</string>
+    <string name="dialog_ok">确定</string>
+    <string name="doze_settings_help_title">帮助</string>
+    <string name="doze_settings_help_text">这些功能使用传感器事件来启用打盹通知指示灯。所选的传感器仅在设备收到通知时启用，这有助于降低电池消耗。还有一个选项是在屏幕关闭后马上启用所选的传感器，这会消耗更多的电量。</string>
+    <string name="button_panel_title">更多按键</string>
+    <string name="button_swap_title">交换按钮</string>
+    <string name="button_swap_summary">交换最近使用与后退按钮的顺序</string>
+    <string name="fingerprint_title">指纹</string>
+    <string name="fingerprint_as_home_title">将指纹作为 Home 键</string>
+    <string name="fingerprint_as_home_summary">将指纹传感器作为 Home 键使用</string>
+    <string name="fingerprint_wakeup_title">指纹唤醒</string>
+    <string name="fingerprint_wakeup_summary">屏幕关闭时允许指纹传感器唤醒设备</string>
+    <string name="fingerprint_pocketmode_title">防止意外唤醒</string>
+    <string name="fingerprint_pocketmode_summary">经由指纹唤醒前先检查距离传感器</string>
+    <string name="fingerprint_sleep_title">指纹关屏</string>
+    <string name="fingerprint_sleep_summary">按下指纹传感器来关闭屏幕</string>
+    <string name="high_touch_sensitivity_title">触摸屏高灵敏度</string>
+    <string name="high_touch_sensitivity_summary">增加触摸屏的灵敏度，以便在戴手套时使用</string>
 </resources>

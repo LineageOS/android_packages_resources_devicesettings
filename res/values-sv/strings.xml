@@ -17,89 +17,73 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">På</string>
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Av</string>
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">Avancerade inställningar</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Gester</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">Extra</string>
-  <string name="touchscreen_gesture_haptic_feedback">Haptisk feedback</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Vibrera när en gest upptäcktes</string>
-  <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">Gester för skärmavstängning</string>
-  <string name="touchscreen_c_gesture_title">Kamera</string>
-  <string name="touchscreen_c_gesture_summary">Rita ett \"C\" för att aktivera kameran</string>
-  <string name="touchscreen_e_gesture_title">E-post</string>
-  <string name="touchscreen_e_gesture_summary">Rita ett \"e\" för att öppna epost-appen</string>
-  <string name="touchscreen_m_gesture_title">Meddelanden</string>
-  <string name="touchscreen_m_gesture_summary">Rita ett \"M\" för att öppna meddelandeappen</string>
-  <string name="touchscreen_s_gesture_title">Meddelanden</string>
-  <string name="touchscreen_s_gesture_summary">Rita ett \"S\" för att öppna meddelandeappen</string>
-  <string name="touchscreen_v_gesture_title">Uppringare</string>
-  <string name="touchscreen_v_gesture_summary">Rita ett \"V\" för att öppna ringappen</string>
-  <string name="touchscreen_w_gesture_title">Webbläsare</string>
-  <string name="touchscreen_w_gesture_summary">Rita ett \"W\" för att öppna webbläsaren</string>
-  <string name="touchscreen_z_gesture_title">Ficklampa</string>
-  <string name="touchscreen_z_gesture_summary">Rita ett \'Z\' för att slå på ficklampa</string>
-  <string name="touchscreen_flashlight_gesture_title">Ficklampa</string>
-  <string name="touchscreen_music_gesture_title">Musik</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">Användarmedveten display</string>
-  <string name="user_aware_display_summary">Håll skärmen på medan en användare är framför displayen</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient display</string>
-  <string name="ambient_display_enable_title">Ambient display</string>
-  <string name="ambient_display_enable_summary">Väck skärmen när du tar emot aviseringar</string>
-  <!-- Tilt sensor -->
-  <!-- Proximity sensor -->
-  <string name="proximity_sensor_title">Närhetscensor</string>
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Handrörelse</string>
-  <string name="hand_wave_gesture_summary">Pulsera aviseringar vid handrörelse</string>
-  <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Plocka upp</string>
-  <string name="pick_up_gesture_summary">Pulsera aviseringarna när enheten plockas upp</string>
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">Ficka</string>
-  <string name="pocket_gesture_summary">Pulsera aviseringar när du tar upp enheten ur fickan</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">Vakna vid närhet</string>
-  <string name="proximity_wake_enable_title">Vakna vid närhet</string>
-  <string name="proximity_wake_enable_summary">Väck enheten vid handrörelse</string>
-  <!-- Device actions -->
-  <string name="actions_title">Åtgärder</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">Dubbel vridning</string>
-  <!-- Chop-chop gesture -->
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">Vifta för att tysta</string>
-  <string name="hand_wave_silencer_summary">Tysta samtal genom att vifta med handen över skärmen</string>
-  <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">Vänd för Stör ej</string>
-  <!-- Do Not Disturb access -->
-  <!-- Lift to silence gesture -->
-  <!-- Action toggles -->
-  <string name="action_none">Inaktivera</string>
-  <string name="action_launch_camera">Starta kamera</string>
-  <string name="action_torch">Växla ficklampa</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">Intensitet på haptisk feedback</string>
-  <string name="feedback_intensity_summary">Styrkan i den haptiska feedbacken för dubbel vridning och hacka-hacka åtgärder</string>
-  <string name="feedback_intensity_none">Inaktiverad</string>
-  <string name="feedback_intensity_low">Låg</string>
-  <string name="feedback_intensity_medium">Medel</string>
-  <string name="feedback_intensity_high">Hög</string>
-  <!-- Dialog texts -->
-  <string name="dialog_ok">OK</string>
-  <!-- Help texts -->
-  <string name="doze_settings_help_title">Hjälp</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">Ytterligare knappar</string>
-  <string name="button_swap_title">Växla knappar</string>
-  <!-- Fingerprint -->
-  <string name="fingerprint_title">Fingeravtryck</string>
+    <string name="switch_bar_on">På</string>
+    <string name="switch_bar_off">Av</string>
+    <string name="device_settings_app_name">Avancerade inställningar</string>
+    <string name="screen_gestures_panel_title">Gester</string>
+    <string name="touchscreen_gesture_extras">Extra</string>
+    <string name="touchscreen_gesture_haptic_feedback">Haptisk feedback</string>
+    <string name="touchscreen_gesture_settings_title">Skärmgester</string>
+    <string name="gesture_display_title">Gester för skärmavstängning</string>
+    <string name="touchscreen_c_gesture_title">Kamera</string>
+    <string name="touchscreen_c_gesture_summary">Rita ett \"C\" för att aktivera kameran</string>
+    <string name="touchscreen_e_gesture_title">E-post</string>
+    <string name="touchscreen_e_gesture_summary">Rita ett \"e\" för att öppna epost-appen</string>
+    <string name="touchscreen_m_gesture_title">Meddelanden</string>
+    <string name="touchscreen_m_gesture_summary">Rita ett \"M\" för att öppna meddelandeappen</string>
+    <string name="touchscreen_s_gesture_title">Meddelanden</string>
+    <string name="touchscreen_s_gesture_summary">Rita ett \"S\" för att öppna meddelandeappen</string>
+    <string name="touchscreen_v_gesture_title">Uppringare</string>
+    <string name="touchscreen_v_gesture_summary">Rita ett \"V\" för att öppna ringappen</string>
+    <string name="touchscreen_w_gesture_title">Webbläsare</string>
+    <string name="touchscreen_w_gesture_summary">Rita ett \"W\" för att öppna webbläsaren</string>
+    <string name="touchscreen_z_gesture_title">Ficklampa</string>
+    <string name="touchscreen_z_gesture_summary">Rita ett \'Z\' för att slå på ficklampa</string>
+    <string name="touchscreen_flashlight_gesture_title">Ficklampa</string>
+    <string name="touchscreen_flashlight_gesture_summary">Rita en cirkel för att aktivera ficklampan</string>
+    <string name="touchscreen_music_gesture_title">Musik</string>
+    <string name="touchscreen_swipe_up_title">Svep uppåt</string>
+    <string name="touchscreen_swipe_right_title">Svep till höger</string>
+    <string name="touchscreen_swipe_down_title">Svep nedåt</string>
+    <string name="touchscreen_swipe_left_title">Svep till vänster</string>
+    <string name="user_aware_display_title">Användarmedveten display</string>
+    <string name="user_aware_display_summary">Håll skärmen på medan en användare är framför displayen</string>
+    <string name="ambient_display_title">Ambient display</string>
+    <string name="ambient_display_enable_title">Ambient display</string>
+    <string name="ambient_display_enable_summary">Väck skärmen när du tar emot aviseringar</string>
+    <string name="ambient_display_always_on_title">Alltid på</string>
+    <string name="ambient_display_always_on_summary">Visa tid, aviseringsikoner och annan info. Ökad batterianvändning.</string>
+    <string name="tilt_sensor_title">Lutningssensor</string>
+    <string name="proximity_sensor_title">Närhetscensor</string>
+    <string name="hand_wave_gesture_title">Handrörelse</string>
+    <string name="hand_wave_gesture_summary">Pulsera aviseringar vid handrörelse</string>
+    <string name="hand_wave_gesture_flat_title">Upptäck skärmrotation</string>
+    <string name="pick_up_gesture_title">Plocka upp</string>
+    <string name="pick_up_gesture_summary">Pulsera aviseringarna när enheten plockas upp</string>
+    <string name="pocket_gesture_title">Ficka</string>
+    <string name="pocket_gesture_summary">Pulsera aviseringar när du tar upp enheten ur fickan</string>
+    <string name="proximity_wake_title">Vakna vid närhet</string>
+    <string name="proximity_wake_enable_title">Vakna vid närhet</string>
+    <string name="proximity_wake_enable_summary">Väck enheten vid handrörelse</string>
+    <string name="actions_title">Åtgärder</string>
+    <string name="camera_gesture_title">Dubbel vridning</string>
+    <string name="hand_wave_silencer_title">Vifta för att tysta</string>
+    <string name="hand_wave_silencer_summary">Tysta samtal genom att vifta med handen över skärmen</string>
+    <string name="flip_to_mute_title">Vänd för Stör ej</string>
+    <string name="action_none">Inaktivera</string>
+    <string name="action_launch_camera">Starta kamera</string>
+    <string name="action_torch">Växla ficklampa</string>
+    <string name="feedback_intensity_title">Intensitet på haptisk feedback</string>
+    <string name="feedback_intensity_summary">Styrkan i den haptiska feedbacken för dubbel vridning och hacka-hacka åtgärder</string>
+    <string name="feedback_intensity_none">Inaktiverad</string>
+    <string name="feedback_intensity_low">Låg</string>
+    <string name="feedback_intensity_medium">Medel</string>
+    <string name="feedback_intensity_high">Hög</string>
+    <string name="dialog_ok">OK</string>
+    <string name="doze_settings_help_title">Hjälp</string>
+    <string name="button_panel_title">Ytterligare knappar</string>
+    <string name="button_swap_title">Växla knappar</string>
+    <string name="fingerprint_title">Fingeravtryck</string>
+    <string name="high_touch_sensitivity_title">Hög tryckkänslighet</string>
+    <string name="high_touch_sensitivity_summary">Öka skärmens tryckkänslighet så att den kan användas med handskar</string>
 </resources>

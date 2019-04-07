@@ -17,116 +17,101 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Hidup</string>
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Mati</string>
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">Pengaturan lanjut</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Gerakan</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">Tambahan</string>
-  <string name="touchscreen_gesture_haptic_feedback">Umpan balik haptic</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Bergetar pada saat gerakan terdeteksi</string>
-  <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">Gerakan layar mati</string>
-  <string name="touchscreen_c_gesture_title">Kamera</string>
-  <string name="touchscreen_c_gesture_summary">Gambar \"C\" untuk mengaktifkan kamera</string>
-  <string name="touchscreen_e_gesture_title">Surel</string>
-  <string name="touchscreen_e_gesture_summary">Gambar \"e\" untuk membuka aplikasi surel</string>
-  <string name="touchscreen_m_gesture_title">Pesan</string>
-  <string name="touchscreen_m_gesture_summary">Gambar \"M\" untuk membuka aplikasi pesan</string>
-  <string name="touchscreen_s_gesture_title">Pesan</string>
-  <string name="touchscreen_s_gesture_summary">Gambar \"S\" untuk membuka aplikasi pesan</string>
-  <string name="touchscreen_v_gesture_title">Pendial</string>
-  <string name="touchscreen_v_gesture_summary">Gambar \"V\" untuk membuka aplikasi pendial</string>
-  <string name="touchscreen_w_gesture_title">Peramban</string>
-  <string name="touchscreen_w_gesture_summary">Gambar \"W\" untuk membuka aplikasi peramban</string>
-  <string name="touchscreen_z_gesture_title">Senter</string>
-  <string name="touchscreen_z_gesture_summary">Gambar \"Z\" untuk mengaktifkan/menonaktifkan senter</string>
-  <string name="touchscreen_flashlight_gesture_title">Senter</string>
-  <string name="touchscreen_flashlight_gesture_summary">Gambar sebuah lingkaran untuk menyalakan lampu senter</string>
-  <string name="touchscreen_music_gesture_title">Musik</string>
-  <string name="touchscreen_music_gesture_summary">Gunakan gerakan untuk mengontrol pemutaran musik \n
+    <string name="switch_bar_on">Hidup</string>
+    <string name="switch_bar_off">Mati</string>
+    <string name="device_settings_app_name">Setelan lanjutan</string>
+    <string name="screen_gestures_panel_title">Gerakan</string>
+    <string name="touchscreen_gesture_extras">Tambahan</string>
+    <string name="touchscreen_gesture_haptic_feedback">Umpan balik haptic</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Bergetar ketika ada gerakan layar sentuh terdeteksi</string>
+    <string name="touchscreen_gesture_settings_title">Gerakan layar sentuh</string>
+    <string name="touchscreen_gesture_settings_summary">Melakukan berbagai gerakan layar sentuh untuk tindakan cepat</string>
+    <string name="gesture_display_title">Gerakan layar mati</string>
+    <string name="touchscreen_c_gesture_title">Kamera</string>
+    <string name="touchscreen_c_gesture_summary">Gambar \"C\" untuk mengaktifkan kamera</string>
+    <string name="touchscreen_e_gesture_title">Surel</string>
+    <string name="touchscreen_e_gesture_summary">Gambar \"e\" untuk membuka aplikasi surel</string>
+    <string name="touchscreen_m_gesture_title">Pesan</string>
+    <string name="touchscreen_m_gesture_summary">Gambar \"M\" untuk membuka aplikasi pesan</string>
+    <string name="touchscreen_s_gesture_title">Pesan</string>
+    <string name="touchscreen_s_gesture_summary">Gambar \"S\" untuk membuka aplikasi pesan</string>
+    <string name="touchscreen_v_gesture_title">Pendial</string>
+    <string name="touchscreen_v_gesture_summary">Gambar \"V\" untuk membuka aplikasi pendial</string>
+    <string name="touchscreen_w_gesture_title">Peramban</string>
+    <string name="touchscreen_w_gesture_summary">Gambar \"W\" untuk membuka aplikasi peramban</string>
+    <string name="touchscreen_z_gesture_title">Senter</string>
+    <string name="touchscreen_z_gesture_summary">Gambar \"Z\" untuk mengaktifkan/menonaktifkan senter</string>
+    <string name="touchscreen_flashlight_gesture_title">Senter</string>
+    <string name="touchscreen_flashlight_gesture_summary">Gambar sebuah lingkaran untuk menyalakan lampu senter</string>
+    <string name="touchscreen_music_gesture_title">Musik</string>
+    <string name="touchscreen_music_gesture_summary">Gunakan gerakan untuk mengontrol pemutaran musik \n
     • Usap ke bawah untuk putar/jeda\n
     • Usap ke kiri untuk trek sebelumnya\n
     • Usap ke kanan untuk trek selanjutnya</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">Tampilan sadar pengguna</string>
-  <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">Tampilan ambien</string>
-  <string name="ambient_display_enable_title">Tampilan ambien</string>
-  <string name="ambient_display_enable_summary">Bangunkan layar saat Anda menerima Pemberitahuan</string>
-  <string name="ambient_display_summary">Hidupkan layar saat Anda menerima pemberitahuan</string>
-  <string name="ambient_display_summary_on">Layar akan hidup ketika menerima pemberitahuan</string>
-  <string name="ambient_display_summary_off">Layar tidak akan hidup ketika menerima pemberitahuan</string>
-  <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">Sensor kemiringan</string>
-  <!-- Proximity sensor -->
-  <string name="proximity_sensor_title">Sensor jarak</string>
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Guncang Tangan</string>
-  <string name="hand_wave_gesture_summary">Kedipakan pemberitahuan saat melambaikan tangan</string>
-  <string name="hand_wave_gesture_flat_title">Orientasi deteksi</string>
-  <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Ambil</string>
-  <string name="pick_up_gesture_summary">Kedipkan pemberitahuan saat diambil</string>
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">Saku</string>
-  <string name="pocket_gesture_summary">Pemberitahuan berkedip pada saat keluar dari saku</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">Bangunkan saat dekat</string>
-  <string name="proximity_wake_enable_title">Bangunkan saat dekat</string>
-  <string name="proximity_wake_enable_summary">Bangunkan perangkat dengan guncang tangan</string>
-  <!-- Device actions -->
-  <string name="actions_title">Tindakan</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">Dua kali putar</string>
-  <string name="camera_gesture_summary">Buka Kamera ketika melakukan gerakan dwiputar</string>
-  <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">Dwiguncang</string>
-  <string name="chop_chop_gesture_summary">Aktifkan/nonaktifkan senter ketika menggunakan gerakan dwiguncang</string>
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">Lambai untuk senyap</string>
-  <string name="hand_wave_silencer_summary">Senyapkan panggilan masuk dengan melambaikan tangan di depan layar</string>
-  <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">Membalik untuk Jangan Ganggu</string>
-  <string name="flip_to_mute_summary">Balik layar telepon ke bawah untuk mengabaikan notifikasi dan panggilan</string>
-  <!-- Do Not Disturb access -->
-  <string name="dnd_access">Silahkan berikan akses Jangan Ganggu ke CMActions untuk menggunakan fitur ini.</string>
-  <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">Angkat untuk menghentikan dering</string>
-  <string name="lift_to_silence_summary">Mengangkat telepon untuk menghentikan nada panggilan masuk. Ini hanya bekerja saat telepon dalam posisi datar</string>
-  <!-- Action toggles -->
-  <string name="action_none">Nonaktifkan</string>
-  <string name="action_launch_camera">Buka kamera</string>
-  <string name="action_torch">Hidup/matikan senter</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">Intensitas tanggapan sentuhan</string>
-  <string name="feedback_intensity_summary">Kekuatan tanggapan sentuhan untuk tindakan dwiputar dan dwiguncang</string>
-  <string name="feedback_intensity_none">Dinonaktifkan</string>
-  <string name="feedback_intensity_low">Lemah</string>
-  <string name="feedback_intensity_medium">Sedang</string>
-  <string name="feedback_intensity_high">Kuat</string>
-  <!-- Dialog texts -->
-  <string name="dialog_ok">Oke</string>
-  <!-- Help texts -->
-  <string name="doze_settings_help_title">Bantuan</string>
-  <string name="doze_settings_help_text">Fitur-fitur ini menggunakan aktivitas sensor untuk meluncurkan pulse pemberitahuan tertidur. sensor yang dipilih hanya diaktifkan bila perangkat menerima pemberitahuan, ini membantu mengurangi penggunaan baterai. Ada juga pilihan untuk mengaktifkan sensor yang dipilih secepat layar mati, ini akan menyebabkan penggunaan baterai yang lebih tinggi.</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">Tombol tambahan</string>
-  <string name="button_swap_title">Tukar tombol</string>
-  <string name="button_swap_summary">Tukar urutan tombol terkini dan kembali</string>
-  <!-- Fingerprint -->
-  <string name="fingerprint_title">Sidik jari</string>
-  <string name="fingerprint_as_home_title">Sidik jari sebagai Home</string>
-  <string name="fingerprint_as_home_summary">Gunakan sensor sidik jari sebagai tombol Home</string>
-  <string name="fingerprint_wakeup_title">Sidik jari untuk membangunkan layar</string>
-  <string name="fingerprint_wakeup_summary">Izinkan sensor sidik jari untuk membangunkan perangkat saat layar mati</string>
-  <string name="fingerprint_pocketmode_title">Mencegah bangun yang tidak disengaja</string>
-  <string name="fingerprint_pocketmode_summary">Periksa sensor kedekatan sebelum memicu sensor sidik jari</string>
-  <string name="fingerprint_sleep_title">Sidik jari layar mati</string>
-  <string name="fingerprint_sleep_summary">Tekan sensor sidik jari untuk mematikan layar</string>
+    <string name="touchscreen_swipe_up_title">Usap ke atas</string>
+    <string name="touchscreen_swipe_right_title">Usap ke kanan</string>
+    <string name="touchscreen_swipe_down_title">Usap ke bawah</string>
+    <string name="touchscreen_swipe_left_title">Usap ke kiri</string>
+    <string name="user_aware_display_title">Tampilan sadar pengguna</string>
+    <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
+    <string name="ambient_display_title">Tampilan ambien</string>
+    <string name="ambient_display_enable_title">Tampilan ambien</string>
+    <string name="ambient_display_enable_summary">Hidupkan layar saat Anda menerima pemberitahuan</string>
+    <string name="ambient_display_gestures_title">Gerakan tampilan ambien</string>
+    <string name="ambient_display_gestures_summary">Tambahan gerakan untuk membangunkan layar</string>
+    <string name="ambient_display_summary">Hidupkan layar saat Anda menerima pemberitahuan</string>
+    <string name="ambient_display_summary_on">Layar akan hidup ketika Anda menerima pemberitahuan</string>
+    <string name="ambient_display_summary_off">Layar tidak akan hidup ketika Anda menerima pemberitahuan</string>
+    <string name="tilt_sensor_title">Sensor kemiringan</string>
+    <string name="pickup_sensor_title">Sensor pengambilan</string>
+    <string name="proximity_sensor_title">Sensor jarak</string>
+    <string name="hand_wave_gesture_title">Lambaian tangan</string>
+    <string name="hand_wave_gesture_summary">Pemberitahuan berkedip pada saat ada lambaian tangan</string>
+    <string name="hand_wave_gesture_flat_title">Orientasi deteksi</string>
+    <string name="hand_wave_gesture_flat_summary">Hanya berkedip jika ponsel menghadap ke atas di permukaan datar</string>
+    <string name="pick_up_gesture_title">Ambil</string>
+    <string name="pick_up_gesture_summary">Pemberitahuan berkedip pada saat diambil</string>
+    <string name="pocket_gesture_title">Saku</string>
+    <string name="pocket_gesture_summary">Pemberitahuan berkedip pada saat keluar dari saku</string>
+    <string name="proximity_wake_title">Bangunkan saat dekat</string>
+    <string name="proximity_wake_enable_title">Bangunkan saat dekat</string>
+    <string name="proximity_wake_enable_summary">Bangunkan perangkat pada saat ada lambaian tangan</string>
+    <string name="actions_title">Tindakan</string>
+    <string name="camera_gesture_title">Dua kali putar</string>
+    <string name="camera_gesture_summary">Buka kamera ketika melakukan gerakan dua kali putar</string>
+    <string name="chop_chop_gesture_title">Guncang dua kali</string>
+    <string name="chop_chop_gesture_summary">Aktifkan/nonaktifkan senter ketika menggunakan gerakan putar dua kali</string>
+    <string name="hand_wave_silencer_title">Lambaian untuk senyap</string>
+    <string name="hand_wave_silencer_summary">Senyapkan panggilan masuk dengan melambaikan tangan di depan layar</string>
+    <string name="flip_to_mute_title">Membalik untuk Jangan Ganggu</string>
+    <string name="flip_to_mute_summary">Balik layar telepon ke bawah untuk mengabaikan notifikasi dan panggilan</string>
+    <string name="dnd_access">Silakan berikan akses Jangan Ganggu ke CMActions untuk menggunakan fitur ini.</string>
+    <string name="lift_to_silence_title">Angkat untuk menghentikan dering</string>
+    <string name="lift_to_silence_summary">Mengangkat telepon untuk menghentikan nada panggilan masuk. Ini hanya bekerja saat telepon dalam posisi datar</string>
+    <string name="action_none">Nonaktifkan</string>
+    <string name="action_launch_camera">Buka kamera</string>
+    <string name="action_torch">Hidup/matikan senter</string>
+    <string name="feedback_intensity_title">Intensitas tanggapan sentuhan</string>
+    <string name="feedback_intensity_summary">Kekuatan tanggapan sentuhan untuk tindakan putar dua kali dan guncang dua kali</string>
+    <string name="feedback_intensity_none">Dinonaktifkan</string>
+    <string name="feedback_intensity_low">Lemah</string>
+    <string name="feedback_intensity_medium">Sedang</string>
+    <string name="feedback_intensity_high">Kuat</string>
+    <string name="dialog_ok">OK</string>
+    <string name="doze_settings_help_title">Bantuan</string>
+    <string name="doze_settings_help_text">Fitur-fitur ini menggunakan aktivitas sensor untuk meluncurkan pulse pemberitahuan tertidur. sensor yang dipilih hanya diaktifkan bila perangkat menerima pemberitahuan, ini membantu mengurangi penggunaan baterai. Ada juga pilihan untuk mengaktifkan sensor yang dipilih secepat layar mati, ini akan menyebabkan penggunaan baterai yang lebih tinggi.</string>
+    <string name="button_panel_title">Tombol tambahan</string>
+    <string name="button_swap_title">Tombol tukar</string>
+    <string name="button_swap_summary">Tukar urutan tombol terkini dan kembali</string>
+    <string name="fingerprint_title">Sidik jari</string>
+    <string name="fingerprint_as_home_title">Sidik jari sebagai layar utama</string>
+    <string name="fingerprint_as_home_summary">Gunakan sensor sidik jari sebagai tombol layar utama</string>
+    <string name="fingerprint_wakeup_title">Sidik jari untuk membangunkan layar</string>
+    <string name="fingerprint_wakeup_summary">Izinkan sensor sidik jari untuk membangunkan perangkat saat layar mati</string>
+    <string name="fingerprint_pocketmode_title">Mencegah bangun yang tidak disengaja</string>
+    <string name="fingerprint_pocketmode_summary">Periksa sensor kedekatan sebelum memicu sensor sidik jari</string>
+    <string name="fingerprint_sleep_title">Sidik jari layar mati</string>
+    <string name="fingerprint_sleep_summary">Tekan sensor sidik jari untuk mematikan layar</string>
+    <string name="high_touch_sensitivity_title">Kepekaan sentuh tinggi</string>
+    <string name="high_touch_sensitivity_summary">Meningkatkan kepekaan layar sentuh sehingga dapat digunakan saat mengenakan sarung tangan</string>
 </resources>

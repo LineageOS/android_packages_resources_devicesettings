@@ -17,117 +17,103 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Включване</string>
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Изключване</string>
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">Допълнителни настройки</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Жестове</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">Екстри</string>
-  <string name="touchscreen_gesture_haptic_feedback">Вибрация при докосване (обратна връзка)</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">Вибрирай, когато се засече жест</string>
-  <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">Изключване на екрана с жестове</string>
-  <string name="touchscreen_c_gesture_title">Камера</string>
-  <string name="touchscreen_c_gesture_summary">Изпишете буквата \"C\", за да активирате камерата</string>
-  <string name="touchscreen_e_gesture_title">Имейл</string>
-  <string name="touchscreen_e_gesture_summary">Изпишете буквата \"e\", за да отворите приложението за електронна поща</string>
-  <string name="touchscreen_m_gesture_title">Съобщения</string>
-  <string name="touchscreen_m_gesture_summary">Изпишете буквата \"M\", за да отворите приложението за съобщения</string>
-  <string name="touchscreen_s_gesture_title">Съобщения</string>
-  <string name="touchscreen_s_gesture_summary">Изпишете буквата \"S\", за да отворите приложението за съобщения</string>
-  <string name="touchscreen_v_gesture_title">Телефон</string>
-  <string name="touchscreen_v_gesture_summary">Изпишете буквата \"V\", за да отворите приложението за набиране</string>
-  <string name="touchscreen_w_gesture_title">Браузър</string>
-  <string name="touchscreen_w_gesture_summary">Изпишете буквата \"W\", за да отворите браузъра</string>
-  <string name="touchscreen_z_gesture_title">Фенерче</string>
-  <string name="touchscreen_z_gesture_summary">Изпишете буквата \"Z\", за превключване на фенерчето</string>
-  <string name="touchscreen_flashlight_gesture_title">Фенерче</string>
-  <string name="touchscreen_flashlight_gesture_summary">Начертайте кръг за превключване на фенерчето</string>
-  <string name="touchscreen_music_gesture_title">Музика</string>
-  <string name="touchscreen_music_gesture_summary">Използвайте жестове за контрол на музикалния плеър \n 
+    <string name="switch_bar_on">Включване</string>
+    <string name="switch_bar_off">Изключване</string>
+    <string name="device_settings_app_name">Допълнителни настройки</string>
+    <string name="screen_gestures_panel_title">Жестове</string>
+    <string name="touchscreen_gesture_extras">Екстри</string>
+    <string name="touchscreen_gesture_haptic_feedback">Вибрация при докосване (обратна връзка)</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Вибрира при засичане на сензорен жест</string>
+    <string name="touchscreen_gesture_settings_title">Тъчскрийн жестове</string>
+    <string name="touchscreen_gesture_settings_summary">Изпълнява различни бързи действия чрез жестове върху сензорния екран</string>
+    <string name="gesture_display_title">Изключване на екрана с жестове</string>
+    <string name="touchscreen_c_gesture_title">Камера</string>
+    <string name="touchscreen_c_gesture_summary">Изпишете буквата \"C\", за да активирате камерата</string>
+    <string name="touchscreen_e_gesture_title">Имейл</string>
+    <string name="touchscreen_e_gesture_summary">Изпишете буквата \"e\", за да отворите приложението за електронна поща</string>
+    <string name="touchscreen_m_gesture_title">Съобщения</string>
+    <string name="touchscreen_m_gesture_summary">Изпишете буквата \"M\", за да отворите приложението за съобщения</string>
+    <string name="touchscreen_s_gesture_title">Съобщения</string>
+    <string name="touchscreen_s_gesture_summary">Изпишете буквата \"S\", за да отворите приложението за съобщения</string>
+    <string name="touchscreen_v_gesture_title">Телефон</string>
+    <string name="touchscreen_v_gesture_summary">Изпишете буквата \"V\", за да отворите приложението за набиране</string>
+    <string name="touchscreen_w_gesture_title">Браузър</string>
+    <string name="touchscreen_w_gesture_summary">Изпишете буквата \"W\", за да отворите браузъра</string>
+    <string name="touchscreen_z_gesture_title">Фенерче</string>
+    <string name="touchscreen_z_gesture_summary">Изпишете буквата \"Z\", за превключване на фенерчето</string>
+    <string name="touchscreen_flashlight_gesture_title">Фенерче</string>
+    <string name="touchscreen_flashlight_gesture_summary">Начертайте кръг за превключване на фенерчето</string>
+    <string name="touchscreen_music_gesture_title">Музика</string>
+    <string name="touchscreen_music_gesture_summary">Използвайте жестове за контрол на музикалния плеър \n 
 • Плъзнете надолу за възпроизвеждане / пауза \n 
 • Плъзнете наляво за предишната песен \n 
 • Плъзнете надясно за следващата песен</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">Потребителски дисплей</string>
-  <string name="user_aware_display_summary">Задръж екрана включен, докато потребителят е пред дисплея</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">Активен дисплей</string>
-  <string name="ambient_display_enable_title">Активен дисплей</string>
-  <string name="ambient_display_enable_summary">Събужда екрана при получаване на известие</string>
-  <string name="ambient_display_summary">Събужда екрана при получаване на известие</string>
-  <string name="ambient_display_summary_on">Екрана ще се събуди, когато получавате уведомления</string>
-  <string name="ambient_display_summary_off">Екрана няма да се събуди, когато получавате уведомления</string>
-  <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">Сензор за наклон</string>
-  <!-- Proximity sensor -->
-  <string name="proximity_sensor_title">Сензор за близост</string>
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Махане с ръка</string>
-  <string name="hand_wave_gesture_summary">Показва известията при прекарване на ръка над екрана</string>
-  <string name="hand_wave_gesture_flat_title">Определяне на ориентацията</string>
-  <string name="hand_wave_gesture_flat_summary">Светлинни индикации, само когато телефонът лежи върху равна повърхност с дисплея нагоре</string>
-  <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Повдигане</string>
-  <string name="pick_up_gesture_summary">Показва известията при повдигане на устройството</string>
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">Джоб</string>
-  <string name="pocket_gesture_summary">Показва известията, когато извадите устройството от джоба си</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">Събуждане при засичане на близки устройства</string>
-  <string name="proximity_wake_enable_title">Събуждане при засичане на близки устройства</string>
-  <string name="proximity_wake_enable_summary">Събуди устройство с махане с ръка</string>
-  <!-- Device actions -->
-  <string name="actions_title">Действия</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">Двойно завъртане</string>
-  <string name="camera_gesture_summary">Стартирай камерата при двукратно-завъртане</string>
-  <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">Двукратно тръскане</string>
-  <string name="chop_chop_gesture_summary">Активиране на фенерчето с разтърсване нагоре-надолу</string>
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">Размахване за преминаване в тих режим</string>
-  <string name="hand_wave_silencer_summary">Спри звука на входящо повикване, помахвайки с ръка над екрана</string>
-  <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">Завъртете за режим \"Не ме безпокойте\"</string>
-  <string name="flip_to_mute_summary">Обърнете телефона с екрана надолу, за спиране на звука на уведомления и обаждания</string>
-  <!-- Do Not Disturb access -->
-  <string name="dnd_access">За да използвате тази функция, осигурете достъп на COMActions до функциите \"Не ме безпокойте\".</string>
-  <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">Повдигнете за да спре да звъни</string>
-  <string name="lift_to_silence_summary">Вдигнете телефона, за да заглушите входящи повиквания. Тази фуннкция работи само когато телефонът е в хоризонтално положение</string>
-  <!-- Action toggles -->
-  <string name="action_none">Деактивиране</string>
-  <string name="action_launch_camera">Стартиране на камерата</string>
-  <string name="action_torch">Фенерче</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">Мощност на вибрация</string>
-  <string name="feedback_intensity_summary">Сила на вибрацията при използване на жестовете, двойно-завъртане или тръскане</string>
-  <string name="feedback_intensity_none">Изключена</string>
-  <string name="feedback_intensity_low">Ниско</string>
-  <string name="feedback_intensity_medium">Средно</string>
-  <string name="feedback_intensity_high">Високо</string>
-  <!-- Dialog texts -->
-  <string name="dialog_ok">ОK</string>
-  <!-- Help texts -->
-  <string name="doze_settings_help_title">Помощ</string>
-  <string name="doze_settings_help_text">Тези функции използват сензорни събития да показват известия, когато устройството е в състояние на покой. Избраният сензор се активира само когато устройството получава уведомление, което помага за намаляване на използването на батерията. Има и опция за активиране на избрания сензор, така че екранът се изключва, което ще доведе до увеличаване на използването на батерията.</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">Допълнителни бутони</string>
-  <string name="button_swap_title">Промени местата на бутоните</string>
-  <string name="button_swap_summary">Разменени бутонити \"Последни\" и \"Назад\"</string>
-  <!-- Fingerprint -->
-  <string name="fingerprint_title">Пръстови отпечатъци</string>
-  <string name="fingerprint_as_home_title">Сензор за пръстови отпечатъци, както бутон Начало</string>
-  <string name="fingerprint_as_home_summary">Използвай сензора за пръстови отпечанъци, като бутон Начало</string>
-  <string name="fingerprint_wakeup_title">Събуждане с пръстов отпечатък</string>
-  <string name="fingerprint_wakeup_summary">Позволи на сензора за пръстови отпечатъци да се събуди на устройството, докато екрана е изключен</string>
-  <string name="fingerprint_pocketmode_title">Предотвратяване на случайно събуждане</string>
-  <string name="fingerprint_pocketmode_summary">Проверете сензора за близост за събуждане с помощта на четец на пръстови отпечатъци</string>
-  <string name="fingerprint_sleep_title">Изключване на дисплея чрез пръстов отпечатък</string>
-  <string name="fingerprint_sleep_summary">Докоснете сензора за пръстови отпечатъци, за да изключите дисплея</string>
+    <string name="touchscreen_swipe_up_title">Прекарайте пръст нагоре</string>
+    <string name="touchscreen_swipe_right_title">Прекарайте пръст надясно</string>
+    <string name="touchscreen_swipe_down_title">Прекарайте пръст надолу</string>
+    <string name="touchscreen_swipe_left_title">Прекарайте пръст налявно</string>
+    <string name="user_aware_display_title">Потребителски дисплей</string>
+    <string name="user_aware_display_summary">Задръж екрана включен, докато потребителят е пред дисплея</string>
+    <string name="ambient_display_title">Активен дисплей</string>
+    <string name="ambient_display_enable_title">Активен дисплей</string>
+    <string name="ambient_display_enable_summary">Събужда екрана при получаване на известие</string>
+    <string name="ambient_display_gestures_title">Активен дисплей жестове</string>
+    <string name="ambient_display_gestures_summary">Допълнителни жестове за събуждане на екрана</string>
+    <string name="ambient_display_summary">Събужда екрана при получаване на известие</string>
+    <string name="ambient_display_summary_on">Екрана ще се събуди, когато получавате уведомления</string>
+    <string name="ambient_display_summary_off">Екрана няма да се събуди, когато получавате уведомления</string>
+    <string name="ambient_display_always_on_title">Винаги включен</string>
+    <string name="ambient_display_always_on_summary">Показваа времето, икони на уведомления и друга информация. С увеличено използване на батерията.</string>
+    <string name="tilt_sensor_title">Сензор за наклон</string>
+    <string name="pickup_sensor_title">Сензор за движение</string>
+    <string name="proximity_sensor_title">Сензор за близост</string>
+    <string name="hand_wave_gesture_title">Махане с ръка</string>
+    <string name="hand_wave_gesture_summary">Показва известията при прекарване на ръка над екрана</string>
+    <string name="hand_wave_gesture_flat_title">Определяне на ориентацията</string>
+    <string name="hand_wave_gesture_flat_summary">Светлинни индикации, само когато телефонът лежи върху равна повърхност с дисплея нагоре</string>
+    <string name="pick_up_gesture_title">Повдигане</string>
+    <string name="pick_up_gesture_summary">Показва известията при повдигане на устройството</string>
+    <string name="pocket_gesture_title">Джоб</string>
+    <string name="pocket_gesture_summary">Показва известията, когато извадите устройството от джоба си</string>
+    <string name="proximity_wake_title">Събуждане при засичане на близки устройства</string>
+    <string name="proximity_wake_enable_title">Събуждане при засичане на близки устройства</string>
+    <string name="proximity_wake_enable_summary">Събуди устройство с махане с ръка</string>
+    <string name="actions_title">Действия</string>
+    <string name="camera_gesture_title">Двойно завъртане</string>
+    <string name="camera_gesture_summary">Стартирай камерата при двукратно-завъртане</string>
+    <string name="chop_chop_gesture_title">Двукратно тръскане</string>
+    <string name="chop_chop_gesture_summary">Активиране на фенерчето с разтърсване нагоре-надолу</string>
+    <string name="hand_wave_silencer_title">Размахване за преминаване в тих режим</string>
+    <string name="hand_wave_silencer_summary">Спри звука на входящо повикване, помахвайки с ръка над екрана</string>
+    <string name="flip_to_mute_title">Завъртете за режим \"Не ме безпокойте\"</string>
+    <string name="flip_to_mute_summary">Обърнете телефона с екрана надолу, за спиране на звука на уведомления и обаждания</string>
+    <string name="dnd_access">За да използвате тази функция, осигурете достъп на COMActions до функциите \"Не ме безпокойте\".</string>
+    <string name="lift_to_silence_title">Повдигнете за да спре да звъни</string>
+    <string name="lift_to_silence_summary">Вдигнете телефона, за да заглушите входящи повиквания. Тази фуннкция работи само когато телефонът е в хоризонтално положение</string>
+    <string name="action_none">Деактивиране</string>
+    <string name="action_launch_camera">Стартиране на камерата</string>
+    <string name="action_torch">Фенерче</string>
+    <string name="feedback_intensity_title">Мощност на вибрация</string>
+    <string name="feedback_intensity_summary">Сила на вибрацията при използване на жестовете, двойно-завъртане или тръскане</string>
+    <string name="feedback_intensity_none">Изключена</string>
+    <string name="feedback_intensity_low">Ниско</string>
+    <string name="feedback_intensity_medium">Средно</string>
+    <string name="feedback_intensity_high">Високо</string>
+    <string name="dialog_ok">ОK</string>
+    <string name="doze_settings_help_title">Помощ</string>
+    <string name="doze_settings_help_text">Тези функции използват сензорни събития да показват известия, когато устройството е в състояние на покой. Избраният сензор се активира само когато устройството получава уведомление, което помага за намаляване на използването на батерията. Има и опция за активиране на избрания сензор, така че екранът се изключва, което ще доведе до увеличаване на използването на батерията.</string>
+    <string name="button_panel_title">Допълнителни бутони</string>
+    <string name="button_swap_title">Промени местата на бутоните</string>
+    <string name="button_swap_summary">Разменени бутонити \"Последни\" и \"Назад\"</string>
+    <string name="fingerprint_title">Пръстови отпечатъци</string>
+    <string name="fingerprint_as_home_title">Сензор за пръстови отпечатъци, както бутон Начало</string>
+    <string name="fingerprint_as_home_summary">Използвай сензора за пръстови отпечанъци, като бутон Начало</string>
+    <string name="fingerprint_wakeup_title">Събуждане с пръстов отпечатък</string>
+    <string name="fingerprint_wakeup_summary">Позволи на сензора за пръстови отпечатъци да се събуди на устройството, докато екрана е изключен</string>
+    <string name="fingerprint_pocketmode_title">Предотвратяване на случайно събуждане</string>
+    <string name="fingerprint_pocketmode_summary">Проверете сензора за близост за събуждане с помощта на четец на пръстови отпечатъци</string>
+    <string name="fingerprint_sleep_title">Изключване на дисплея чрез пръстов отпечатък</string>
+    <string name="fingerprint_sleep_summary">Докоснете сензора за пръстови отпечатъци, за да изключите дисплея</string>
+    <string name="high_touch_sensitivity_title">Висока чувствителност на допир</string>
+    <string name="high_touch_sensitivity_summary">Увеличи сензорната чувствителност, така че може да се използва докато носите ръкавици</string>
 </resources>

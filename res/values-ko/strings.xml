@@ -17,117 +17,103 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">켜짐</string>
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">꺼짐</string>
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">고급 설정</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">제스처</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">추가 기능</string>
-  <string name="touchscreen_gesture_haptic_feedback">햅틱 반응</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">제스처를 감지하면 진동 울림</string>
-  <!-- Touchscreen gestures -->
-  <string name="gesture_display_title">화면 끄기 제스처</string>
-  <string name="touchscreen_c_gesture_title">카메라</string>
-  <string name="touchscreen_c_gesture_summary">\"C\"를 그려 카메라 열기</string>
-  <string name="touchscreen_e_gesture_title">이메일</string>
-  <string name="touchscreen_e_gesture_summary">\"e\"를 그려 이메일 앱 열기</string>
-  <string name="touchscreen_m_gesture_title">메시지</string>
-  <string name="touchscreen_m_gesture_summary">\"M\"를 그려 메시지 앱 열기</string>
-  <string name="touchscreen_s_gesture_title">메시지</string>
-  <string name="touchscreen_s_gesture_summary">\"S\"를 그려 메시지 앱 열기</string>
-  <string name="touchscreen_v_gesture_title">전화 걸기</string>
-  <string name="touchscreen_v_gesture_summary">\"V\"를 그려 전화 앱 열기</string>
-  <string name="touchscreen_w_gesture_title">브라우저</string>
-  <string name="touchscreen_w_gesture_summary">\"W\"를 그려 브라우저 앱 열기</string>
-  <string name="touchscreen_z_gesture_title">손전등</string>
-  <string name="touchscreen_z_gesture_summary">\"Z\"를 그려 손전등 켜고 끄기</string>
-  <string name="touchscreen_flashlight_gesture_title">손전등</string>
-  <string name="touchscreen_flashlight_gesture_summary">원를 그려 손전등 켜고 끄기</string>
-  <string name="touchscreen_music_gesture_title">음악</string>
-  <string name="touchscreen_music_gesture_summary">제스처를 사용하여 음악 재생 조작 \n
+    <string name="switch_bar_on">켜짐</string>
+    <string name="switch_bar_off">꺼짐</string>
+    <string name="device_settings_app_name">고급 설정</string>
+    <string name="screen_gestures_panel_title">제스처</string>
+    <string name="touchscreen_gesture_extras">추가 기능</string>
+    <string name="touchscreen_gesture_haptic_feedback">햅틱 반응</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">터치스크린 제스처를 감지하면 진동 울림</string>
+    <string name="touchscreen_gesture_settings_title">터치스크린 제스처</string>
+    <string name="touchscreen_gesture_settings_summary">다양한 터치스크린 제스처를 사용하여 빠른 작업 실행</string>
+    <string name="gesture_display_title">화면 끄기 제스처</string>
+    <string name="touchscreen_c_gesture_title">카메라</string>
+    <string name="touchscreen_c_gesture_summary">\"C\"를 그려 카메라 열기</string>
+    <string name="touchscreen_e_gesture_title">이메일</string>
+    <string name="touchscreen_e_gesture_summary">\"e\"를 그려 이메일 앱 열기</string>
+    <string name="touchscreen_m_gesture_title">메시지</string>
+    <string name="touchscreen_m_gesture_summary">\"M\"를 그려 메시지 앱 열기</string>
+    <string name="touchscreen_s_gesture_title">메시지</string>
+    <string name="touchscreen_s_gesture_summary">\"S\"를 그려 메시지 앱 열기</string>
+    <string name="touchscreen_v_gesture_title">전화 걸기</string>
+    <string name="touchscreen_v_gesture_summary">\"V\"를 그려 전화 앱 열기</string>
+    <string name="touchscreen_w_gesture_title">브라우저</string>
+    <string name="touchscreen_w_gesture_summary">\"W\"를 그려 브라우저 앱 열기</string>
+    <string name="touchscreen_z_gesture_title">손전등</string>
+    <string name="touchscreen_z_gesture_summary">\"Z\"를 그려 손전등 켜고 끄기</string>
+    <string name="touchscreen_flashlight_gesture_title">손전등</string>
+    <string name="touchscreen_flashlight_gesture_summary">원를 그려 손전등 켜고 끄기</string>
+    <string name="touchscreen_music_gesture_title">음악</string>
+    <string name="touchscreen_music_gesture_summary">제스처를 사용하여 음악 재생 조작 \n
     • 아래로 밀어 재생/일시정지\n
     • 왼쪽으로 밀어 이전 트랙\n
     • 오른쪽으로 밀어 다음 트랙</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">사용자 인식 화면</string>
-  <string name="user_aware_display_summary">사용자가 화면 앞에 있는 동안 화면 켜기</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">절전 모드 자동 해제</string>
-  <string name="ambient_display_enable_title">절전 모드 자동 해제</string>
-  <string name="ambient_display_enable_summary">알림을 받았을 때 화면이 켜짐</string>
-  <string name="ambient_display_summary">알림을 받으면 화면 켜기</string>
-  <string name="ambient_display_summary_on">알림을 받았을 때 화면이 켜짐</string>
-  <string name="ambient_display_summary_off">알림을 받아도 화면이 켜지지 않음</string>
-  <!-- Tilt sensor -->
-  <string name="tilt_sensor_title">기울기 센서</string>
-  <!-- Proximity sensor -->
-  <string name="proximity_sensor_title">근접 센서</string>
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">손 흔들기</string>
-  <string name="hand_wave_gesture_summary">손을 좌우로 흔들면 알림 표시</string>
-  <string name="hand_wave_gesture_flat_title">회전 감지</string>
-  <string name="hand_wave_gesture_flat_summary">휴대전화를 평평한 곳에 앞면으로 두었을 때만 알림 표시</string>
-  <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">기기 들기</string>
-  <string name="pick_up_gesture_summary">기기를 들면 알림 표시</string>
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">주머니</string>
-  <string name="pocket_gesture_summary">주머니에서 꺼내면 알림 표시</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">근접 깨우기</string>
-  <string name="proximity_wake_enable_title">근접 깨우기</string>
-  <string name="proximity_wake_enable_summary">손을 좌우로 흔들어 기기 깨우기</string>
-  <!-- Device actions -->
-  <string name="actions_title">동작</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">두 번 비틀기</string>
-  <string name="camera_gesture_summary">두 번 비틀기 제스처를 사용할 때 카메라 실행</string>
-  <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">위 아래로 흔들기</string>
-  <string name="chop_chop_gesture_summary">위 아래로 흔들기 제스처를 사용할 때 손전등 토글</string>
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">손 흔들어서 음소거</string>
-  <string name="hand_wave_silencer_summary">화면 위에서 손을 흔들어 전화 벨소리 끄기</string>
-  <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">뒤집어서 알림 일시중지</string>
-  <string name="flip_to_mute_summary">휴대전화의 화면을 아래로 향하게 들어 알림 및 벨소리를 조용하게 함</string>
-  <!-- Do Not Disturb access -->
-  <string name="dnd_access">이 기능을 사용하려면 CMActions에 알림 일시중지 접근 권한을 허용해 주세요.</string>
-  <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">기기를 들면 벨소리 멈춤</string>
-  <string name="lift_to_silence_summary">휴대전화를 들면 수신 벨소리가 들리지 않도록 합니다. 평평한 곳에 두었을 경우에만 작동합니다</string>
-  <!-- Action toggles -->
-  <string name="action_none">사용 안 함</string>
-  <string name="action_launch_camera">카메라 실행</string>
-  <string name="action_torch">전등 켜기/끄기</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">진동 세기</string>
-  <string name="feedback_intensity_summary">두 번 비틀기 동작과 위 아래로 흔들기 동작을 할 때 진동 피드백의 세기</string>
-  <string name="feedback_intensity_none">끄기</string>
-  <string name="feedback_intensity_low">낮게</string>
-  <string name="feedback_intensity_medium">중간</string>
-  <string name="feedback_intensity_high">높게</string>
-  <!-- Dialog texts -->
-  <string name="dialog_ok">확인</string>
-  <!-- Help texts -->
-  <string name="doze_settings_help_title">도움말</string>
-  <string name="doze_settings_help_text">해당 기능은 잠자기 모드 알림 깜빡임을 시작하기 위해 센서 이벤트를 사용합니다. 선택된 센서는 알림을 받았을 때만 작동하며, 이는 배터리 사용량을 줄이는 데 도움이 됩니다. 화면이 꺼지면 선택된 센서를 활성화시키는 옵션도 있으며, 이는 배터리 사용량 증가의 원인이 될 수 있습니다.</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">기타 버튼</string>
-  <string name="button_swap_title">버튼 바꾸기</string>
-  <string name="button_swap_summary">최근 앱 버튼과 뒤로 버튼의 위치를 바꾸기</string>
-  <!-- Fingerprint -->
-  <string name="fingerprint_title">지문</string>
-  <string name="fingerprint_as_home_title">지문 인식을 홈 버튼으로</string>
-  <string name="fingerprint_as_home_summary">지문 인식 센서를 홈 버튼으로 사용</string>
-  <string name="fingerprint_wakeup_title">지문으로 깨우기</string>
-  <string name="fingerprint_wakeup_summary">화면이 꺼져 있을 때 지문 인식 센서가 기기를 깨우는 것을 허용</string>
-  <string name="fingerprint_pocketmode_title">실수로 화면 켜기 방지</string>
-  <string name="fingerprint_pocketmode_summary">지문 인식 센서에 의해 깨워지기 전에 근접 센서 확인</string>
-  <string name="fingerprint_sleep_title">지문으로 재우기</string>
-  <string name="fingerprint_sleep_summary">지문 인식 센서를 눌러 화면 끄기</string>
+    <string name="touchscreen_swipe_up_title">쓸어 올리기</string>
+    <string name="touchscreen_swipe_right_title">오른쪽으로 밀기</string>
+    <string name="touchscreen_swipe_down_title">쓸어 내리기</string>
+    <string name="touchscreen_swipe_left_title">왼쪽으로 밀기</string>
+    <string name="user_aware_display_title">사용자 인식 화면</string>
+    <string name="user_aware_display_summary">사용자가 화면 앞에 있는 동안 화면 켜기</string>
+    <string name="ambient_display_title">절전 모드 자동 해제</string>
+    <string name="ambient_display_enable_title">절전 모드 자동 해제</string>
+    <string name="ambient_display_enable_summary">알림을 받았을 때 화면이 켜짐</string>
+    <string name="ambient_display_gestures_title">절전 모드 자동 해제 제스처</string>
+    <string name="ambient_display_gestures_summary">기기를 깨우는 데 사용할 추가 제스처</string>
+    <string name="ambient_display_summary">알림을 받으면 화면 켜기</string>
+    <string name="ambient_display_summary_on">알림을 받았을 때 화면이 켜짐</string>
+    <string name="ambient_display_summary_off">알림을 받아도 화면이 켜지지 않음</string>
+    <string name="ambient_display_always_on_title">항상 켬</string>
+    <string name="ambient_display_always_on_summary">시간, 알림 아이콘 및 기타 정보를 표시합니다. 배터리 사용량이 증가합니다.</string>
+    <string name="tilt_sensor_title">기울기 센서</string>
+    <string name="pickup_sensor_title">들어올림 센서</string>
+    <string name="proximity_sensor_title">근접 센서</string>
+    <string name="hand_wave_gesture_title">손 흔들기</string>
+    <string name="hand_wave_gesture_summary">손을 좌우로 흔들면 알림 표시</string>
+    <string name="hand_wave_gesture_flat_title">회전 감지</string>
+    <string name="hand_wave_gesture_flat_summary">휴대전화를 평평한 곳에 앞면으로 두었을 때만 알림 표시</string>
+    <string name="pick_up_gesture_title">기기 들기</string>
+    <string name="pick_up_gesture_summary">기기를 들면 알림 표시</string>
+    <string name="pocket_gesture_title">주머니</string>
+    <string name="pocket_gesture_summary">주머니에서 꺼내면 알림 표시</string>
+    <string name="proximity_wake_title">근접 깨우기</string>
+    <string name="proximity_wake_enable_title">근접 깨우기</string>
+    <string name="proximity_wake_enable_summary">손을 좌우로 흔들어 기기 깨우기</string>
+    <string name="actions_title">동작</string>
+    <string name="camera_gesture_title">두 번 비틀기</string>
+    <string name="camera_gesture_summary">두 번 비틀기 제스처를 사용할 때 카메라 실행</string>
+    <string name="chop_chop_gesture_title">위 아래로 흔들기</string>
+    <string name="chop_chop_gesture_summary">위 아래로 흔들기 제스처를 사용할 때 손전등 토글</string>
+    <string name="hand_wave_silencer_title">손 흔들어서 음소거</string>
+    <string name="hand_wave_silencer_summary">화면 위에서 손을 흔들어 전화 벨소리 끄기</string>
+    <string name="flip_to_mute_title">뒤집어서 알림 일시중지</string>
+    <string name="flip_to_mute_summary">휴대전화의 화면을 아래로 향하게 들어 알림 및 벨소리를 조용하게 함</string>
+    <string name="dnd_access">이 기능을 사용하려면 CMActions에 알림 일시중지 접근 권한을 허용해 주세요.</string>
+    <string name="lift_to_silence_title">기기를 들면 벨소리 멈춤</string>
+    <string name="lift_to_silence_summary">휴대전화를 들면 수신 벨소리가 들리지 않도록 합니다. 평평한 곳에 두었을 경우에만 작동합니다</string>
+    <string name="action_none">사용 안 함</string>
+    <string name="action_launch_camera">카메라 실행</string>
+    <string name="action_torch">전등 켜기/끄기</string>
+    <string name="feedback_intensity_title">진동 세기</string>
+    <string name="feedback_intensity_summary">두 번 비틀기 동작과 위 아래로 흔들기 동작을 할 때 진동 피드백의 세기</string>
+    <string name="feedback_intensity_none">끄기</string>
+    <string name="feedback_intensity_low">낮게</string>
+    <string name="feedback_intensity_medium">중간</string>
+    <string name="feedback_intensity_high">높게</string>
+    <string name="dialog_ok">확인</string>
+    <string name="doze_settings_help_title">도움말</string>
+    <string name="doze_settings_help_text">해당 기능은 잠자기 모드 알림 깜빡임을 시작하기 위해 센서 이벤트를 사용합니다. 선택된 센서는 알림을 받았을 때만 작동하며, 이는 배터리 사용량을 줄이는 데 도움이 됩니다. 화면이 꺼지면 선택된 센서를 활성화시키는 옵션도 있으며, 이는 배터리 사용량 증가의 원인이 될 수 있습니다.</string>
+    <string name="button_panel_title">기타 버튼</string>
+    <string name="button_swap_title">버튼 바꾸기</string>
+    <string name="button_swap_summary">최근 앱 버튼과 뒤로 버튼의 위치를 바꾸기</string>
+    <string name="fingerprint_title">지문</string>
+    <string name="fingerprint_as_home_title">지문 인식을 홈 버튼으로</string>
+    <string name="fingerprint_as_home_summary">지문 인식 센서를 홈 버튼으로 사용</string>
+    <string name="fingerprint_wakeup_title">지문으로 깨우기</string>
+    <string name="fingerprint_wakeup_summary">화면이 꺼져 있을 때 지문 인식 센서가 기기를 깨우는 것을 허용</string>
+    <string name="fingerprint_pocketmode_title">실수로 화면 켜기 방지</string>
+    <string name="fingerprint_pocketmode_summary">지문 인식 센서에 의해 깨워지기 전에 근접 센서 확인</string>
+    <string name="fingerprint_sleep_title">지문으로 재우기</string>
+    <string name="fingerprint_sleep_summary">지문 인식 센서를 눌러 화면 끄기</string>
+    <string name="high_touch_sensitivity_title">터치 감도 높이기</string>
+    <string name="high_touch_sensitivity_summary">장갑을 착용해도 터치할 수 있도록 터치스크린 감도를 향상</string>
 </resources>

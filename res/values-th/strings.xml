@@ -17,76 +17,79 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">การตั้งค่าขั้นสูง</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">ท่าทาง</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <string name="touchscreen_gesture_extras">พิเศษ</string>
-  <string name="touchscreen_gesture_haptic_feedback">สั่นเมื่อแตะ</string>
-  <string name="touchscreen_gesture_haptic_feedback_summary">สั่นเมื่อพบการเคลื่อนไหว</string>
-  <!-- Touchscreen gestures -->
-  <string name="touchscreen_c_gesture_title">กล้องถ่ายรูป</string>
-  <string name="touchscreen_c_gesture_summary">วาด \"C\" เพื่อเปิดกล้อง</string>
-  <string name="touchscreen_e_gesture_title">อีเมล</string>
-  <string name="touchscreen_e_gesture_summary">วาดตัว \"e\" เพื่อเปิดแอปอีเมล</string>
-  <string name="touchscreen_s_gesture_title">ส่งข้อความ</string>
-  <string name="touchscreen_s_gesture_summary">วาดตัว \"S\" เพื่อเปิดแอปสำหรับส่งข้อความ</string>
-  <string name="touchscreen_v_gesture_title">โทรออก</string>
-  <string name="touchscreen_v_gesture_summary">วาดตัว \"V\" เพื่อเปิดแอปสำหรับโทรออก</string>
-  <string name="touchscreen_w_gesture_title">เบราว์เซอร์</string>
-  <string name="touchscreen_w_gesture_summary">วาดตัว \"W\" เพื่อเปิดแอปเบราว์เซอร์</string>
-  <string name="touchscreen_z_gesture_title">ไฟฉาย</string>
-  <string name="touchscreen_z_gesture_summary">วาดตัว \"Z\" เพื่อสลับไฟฉาย</string>
-  <!-- User-aware display -->
-  <string name="user_aware_display_title">ผู้ใช้อยู่หน้าจอ</string>
-  <string name="user_aware_display_summary">เปิดจอค้างไว้เมื่อผู้ใช้อยู่หน้าจอ</string>
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">หน้าจอแวดล้อม</string>
-  <string name="ambient_display_enable_title">หน้าจอแวดล้อม</string>
-  <string name="ambient_display_enable_summary">เปิดหน้าจอเมื่อมีการแจ้งเตือน</string>
-  <!-- Tilt sensor -->
-  <!-- Proximity sensor -->
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">การเคลื่อนไหวด้วยมือ</string>
-  <string name="hand_wave_gesture_summary">เช็คการแจ้งเตือนเมื่อมีการโบกมือ</string>
-  <!-- Pick-up gesture -->
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">กระเป๋า</string>
-  <string name="pocket_gesture_summary">เช็คการแจ้งเตือนเมื่อนำออกจากกระเป๋า</string>
-  <!-- Proximity wake -->
-  <string name="proximity_wake_title">การปลุกระยะใกล้เคียง</string>
-  <string name="proximity_wake_enable_title">การปลุกระยะใกล้เคียง</string>
-  <string name="proximity_wake_enable_summary">ปลุกอุปกรณ์เมื่อโบกแกว่งมือ</string>
-  <!-- Device actions -->
-  <string name="actions_title">การกระทำ</string>
-  <!-- Camera gesture -->
-  <string name="camera_gesture_title">บิดสองครั้ง</string>
-  <string name="camera_gesture_summary">เปิดกล้องเมื่อบิดสองครั้ง</string>
-  <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">เลื่อนจากบนลงล่างอย่างเร็วสองครั้ง</string>
-  <string name="chop_chop_gesture_summary">เปิดไฟฉายเมื่อเลื่อนจากบนลงล่างอย่างเร็วสองครั้ง</string>
-  <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">แกว่งเพื่อปิดเสียง</string>
-  <string name="hand_wave_silencer_summary">ปิดเสียงเรียกเข้าโดยการแกว่งมือผ่านหน้าจอ</string>
-  <!-- Flip to mute gesture -->
-  <!-- Do Not Disturb access -->
-  <!-- Lift to silence gesture -->
-  <!-- Action toggles -->
-  <string name="action_none">ปิด</string>
-  <string name="action_launch_camera">เปิดกล้อง</string>
-  <string name="action_torch">เปิดปิดไฟฉาย</string>
-  <!-- Feedback intensity -->
-  <string name="feedback_intensity_title">ความรุนแรงการสั่น</string>
-  <string name="feedback_intensity_summary">ความรุนแรงในการสั่นของการบิดสองครั้งและการเลื่อนแบบรวดเร็ว</string>
-  <string name="feedback_intensity_none">ปิด</string>
-  <string name="feedback_intensity_low">ต่ำ</string>
-  <string name="feedback_intensity_medium">ปานกลาง</string>
-  <string name="feedback_intensity_high">สูง</string>
-  <!-- Dialog texts -->
-  <!-- Help texts -->
-  <!-- Button settings -->
-  <!-- Fingerprint -->
+    <string name="switch_bar_on">เปิด</string>
+    <string name="switch_bar_off">ปิด</string>
+    <string name="device_settings_app_name">การตั้งค่าขั้นสูง</string>
+    <string name="screen_gestures_panel_title">ท่าทาง</string>
+    <string name="touchscreen_gesture_extras">พิเศษ</string>
+    <string name="touchscreen_gesture_haptic_feedback">สั่นเมื่อแตะ</string>
+    <string name="touchscreen_c_gesture_title">กล้องถ่ายรูป</string>
+    <string name="touchscreen_c_gesture_summary">วาด \"C\" เพื่อเปิดกล้อง</string>
+    <string name="touchscreen_e_gesture_title">อีเมล</string>
+    <string name="touchscreen_e_gesture_summary">วาดตัว \"e\" เพื่อเปิดแอปอีเมล</string>
+    <string name="touchscreen_m_gesture_summary">วาด \"M\" เพื่อเปิดแอปส่งข้อความ</string>
+    <string name="touchscreen_s_gesture_title">ส่งข้อความ</string>
+    <string name="touchscreen_s_gesture_summary">วาดตัว \"S\" เพื่อเปิดแอปสำหรับส่งข้อความ</string>
+    <string name="touchscreen_v_gesture_title">โทรออก</string>
+    <string name="touchscreen_v_gesture_summary">วาดตัว \"V\" เพื่อเปิดแอปสำหรับโทรออก</string>
+    <string name="touchscreen_w_gesture_title">เบราว์เซอร์</string>
+    <string name="touchscreen_w_gesture_summary">วาดตัว \"W\" เพื่อเปิดแอปเบราว์เซอร์</string>
+    <string name="touchscreen_z_gesture_title">ไฟฉาย</string>
+    <string name="touchscreen_z_gesture_summary">วาดตัว \"Z\" เพื่อสลับไฟฉาย</string>
+    <string name="touchscreen_flashlight_gesture_title">ไฟฉาย</string>
+    <string name="touchscreen_swipe_up_title">ปัดขึ้น</string>
+    <string name="touchscreen_swipe_right_title">ปัดไปทางขวา</string>
+    <string name="touchscreen_swipe_down_title">ปัดลง</string>
+    <string name="touchscreen_swipe_left_title">ปัดไปทางซ้าย</string>
+    <string name="user_aware_display_title">ผู้ใช้อยู่หน้าจอ</string>
+    <string name="user_aware_display_summary">เปิดจอค้างไว้เมื่อผู้ใช้อยู่หน้าจอ</string>
+    <string name="ambient_display_title">หน้าจอแวดล้อม</string>
+    <string name="ambient_display_enable_title">หน้าจอแวดล้อม</string>
+    <string name="ambient_display_enable_summary">เปิดหน้าจอเมื่อมีการแจ้งเตือน</string>
+    <string name="ambient_display_gestures_title">ท่าทางการแสดงผลแอมเบียนต์</string>
+    <string name="ambient_display_gestures_summary">ท่าทางเพิ่มเติมเพื่อปลุกหน้าจอ</string>
+    <string name="ambient_display_always_on_title">เปิดตลอด</string>
+    <string name="ambient_display_always_on_summary">แสดงเวลา ไอคอนแจ้งเตือน และข้อมูลอื่น ๆ แต่การใช้งานแบตเตอรี่จะเพิ่มขึ้น</string>
+    <string name="tilt_sensor_title">เซ็นเซอร์วัดความเอียง</string>
+    <string name="pickup_sensor_title">เซ็นเซอร์หยิบจับ</string>
+    <string name="proximity_sensor_title">เซนเซอร์วัดความไกล</string>
+    <string name="hand_wave_gesture_title">การเคลื่อนไหวด้วยมือ</string>
+    <string name="hand_wave_gesture_summary">เช็คการแจ้งเตือนเมื่อมีการโบกมือ</string>
+    <string name="hand_wave_gesture_flat_title">ตรวจหาทิศทาง</string>
+    <string name="pick_up_gesture_title">หยิบขึ้น</string>
+    <string name="pocket_gesture_title">กระเป๋า</string>
+    <string name="pocket_gesture_summary">เช็คการแจ้งเตือนเมื่อนำออกจากกระเป๋า</string>
+    <string name="proximity_wake_title">การปลุกระยะใกล้เคียง</string>
+    <string name="proximity_wake_enable_title">การปลุกระยะใกล้เคียง</string>
+    <string name="proximity_wake_enable_summary">ปลุกอุปกรณ์เมื่อโบกแกว่งมือ</string>
+    <string name="actions_title">การกระทำ</string>
+    <string name="camera_gesture_title">บิดสองครั้ง</string>
+    <string name="camera_gesture_summary">เปิดกล้องเมื่อบิดสองครั้ง</string>
+    <string name="chop_chop_gesture_title">เลื่อนจากบนลงล่างอย่างเร็วสองครั้ง</string>
+    <string name="chop_chop_gesture_summary">เปิดไฟฉายเมื่อเลื่อนจากบนลงล่างอย่างเร็วสองครั้ง</string>
+    <string name="hand_wave_silencer_title">แกว่งเพื่อปิดเสียง</string>
+    <string name="hand_wave_silencer_summary">ปิดเสียงเรียกเข้าโดยการแกว่งมือผ่านหน้าจอ</string>
+    <string name="lift_to_silence_title">ยกโทรศัพท์ขึ้น เพื่อหยุดเสียงโทรศัพท์เรียกเข้า</string>
+    <string name="action_none">ปิด</string>
+    <string name="action_launch_camera">เปิดกล้อง</string>
+    <string name="action_torch">เปิดปิดไฟฉาย</string>
+    <string name="feedback_intensity_title">ความรุนแรงการสั่น</string>
+    <string name="feedback_intensity_summary">ความรุนแรงในการสั่นของการบิดสองครั้งและการเลื่อนแบบรวดเร็ว</string>
+    <string name="feedback_intensity_none">ปิด</string>
+    <string name="feedback_intensity_low">ต่ำ</string>
+    <string name="feedback_intensity_medium">ปานกลาง</string>
+    <string name="feedback_intensity_high">สูง</string>
+    <string name="dialog_ok">ตกลง</string>
+    <string name="doze_settings_help_title">ช่วยเหลือ</string>
+    <string name="button_panel_title">ปุ่มเพิ่มเติม</string>
+    <string name="button_swap_title">สลับปุ่ม</string>
+    <string name="button_swap_summary">สลับตำแหน่งของปุ่มรายการล่าสุดและปุ่มย้อนกลับ</string>
+    <string name="fingerprint_title">สแกนลายนิ้วมือ</string>
+    <string name="fingerprint_wakeup_title">สแกนนิ้วมือเพื่อปลุก</string>
+    <string name="fingerprint_wakeup_summary">ทำให้เซ็นเซอร์ลายนิ้วมือปลุกอุปกรณ์ในขณะหน้าจอดับอยู่</string>
+    <string name="fingerprint_pocketmode_title">ป้องกันการเปิดหน้าจอโดยไม่เจตนา</string>
+    <string name="fingerprint_pocketmode_summary">ตรวจสอบเซ็นเซอร์ความใกล้ชิดก่อนปลุกโดยเซ็นเซอร์ลายนิ้วมือ</string>
+    <string name="fingerprint_sleep_summary">กดเซ็นเซอร์ลายนิ้วมือเพื่อปิดหน้าจอ</string>
+    <string name="high_touch_sensitivity_title">ความไวต่อสัมผัสสูง</string>
+    <string name="high_touch_sensitivity_summary">เพิ่มความไวของหน้าจอสัมผัสเพื่อที่จะสามารถใช้ขณะสวมถุงมือ</string>
 </resources>
