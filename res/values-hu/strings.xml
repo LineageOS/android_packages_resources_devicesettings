@@ -23,6 +23,9 @@
     <string name="screen_gestures_panel_title">Kézmozdulatok</string>
     <string name="touchscreen_gesture_extras">Extrák</string>
     <string name="touchscreen_gesture_haptic_feedback">Érintési visszajelzés</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Képernyő-mozdulatvezérlés észlelésekor rezeg</string>
+    <string name="touchscreen_gesture_settings_title">Érintőképernyő-mozdulatvezérlés</string>
+    <string name="touchscreen_gesture_settings_summary">Különböző képernyő-mozdulatvezérlések végrehajtása a gyorsműveletekhez</string>
     <string name="gesture_display_title">Képernyő-kikapcsoló gesztusok</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_c_gesture_summary">Rajzoljon egy \"C\" betűt a kamera indításához</string>
@@ -45,19 +48,27 @@
     • Csúsztassa lefelé a lejátszáshoz/szüneteltetéshez\n
     • Csúsztassa balra az előző számra ugráshoz\n
     • Csúsztassa jobbra a következő számra ugráshoz</string>
+    <string name="touchscreen_swipe_up_title">Felfelé csúsztatás</string>
+    <string name="touchscreen_swipe_right_title">Jobbra csúsztatás</string>
+    <string name="touchscreen_swipe_down_title">Lefelé csúsztatás</string>
+    <string name="touchscreen_swipe_left_title">Balra csúsztatás</string>
     <string name="user_aware_display_title">Felhasználó-érzékelő kijelző</string>
     <string name="user_aware_display_summary">Tartsa bekapcsolva a képernyőt, míg a felhasználó a kijelző előtt van</string>
     <string name="ambient_display_title">Környezeti kijelző</string>
     <string name="ambient_display_enable_title">Környezeti kijelző</string>
     <string name="ambient_display_enable_summary">Képernyő ébresztése értesítések fogadásakor</string>
+    <string name="ambient_display_gestures_title">Környezeti kijelzőhöz kapcsolódó mozdulatok</string>
+    <string name="ambient_display_gestures_summary">További mozdulat-vezélőgesztusok a kijelző felébresztéséhez</string>
     <string name="ambient_display_summary">Képernyő felébresztése értesítések fogadásakor</string>
     <string name="ambient_display_summary_on">Képernyő ébresztése értesítések fogadásakor</string>
     <string name="ambient_display_summary_off">Képernyő nem ébred értesítések fogadásakor</string>
     <string name="tilt_sensor_title">Dőlés érzékelő</string>
+    <string name="pickup_sensor_title">Felemelés-érzékelő</string>
     <string name="proximity_sensor_title">Közelség érzékelő</string>
     <string name="hand_wave_gesture_title">Lebegő simítás</string>
     <string name="hand_wave_gesture_summary">Értesítések felvillantása lebegő simításnál</string>
     <string name="hand_wave_gesture_flat_title">Tájolás érzékelése</string>
+    <string name="hand_wave_gesture_flat_summary">Értesítések felvillantása csak akkor, ha a telefon kijelzővel felfelé fekszik sima felületen</string>
     <string name="pick_up_gesture_title">Kézbevétel</string>
     <string name="pick_up_gesture_summary">Értesítések felvillantása kézbevételkor</string>
     <string name="pocket_gesture_title">Zseb</string>
@@ -101,4 +112,6 @@
     <string name="fingerprint_pocketmode_summary">Ellenőrizze a közelségérzékelőt az ujjlenyomatszenzor által kiváltott ébresztések előtt</string>
     <string name="fingerprint_sleep_title">Zárolás ujjlenyomat érintéssel</string>
     <string name="fingerprint_sleep_summary">Nyomja meg az ujjlenyomat-érzékelőt a képernyő kikapcsolásához</string>
+    <string name="high_touch_sensitivity_title">Magas érintési érzékenység</string>
+    <string name="high_touch_sensitivity_summary">Érintőképernyő érzékenységének növelése, így kesztyű viselése esetén is használható</string>
 </resources>
