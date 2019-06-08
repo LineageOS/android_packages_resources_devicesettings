@@ -62,6 +62,8 @@
     <string name="ambient_display_summary">Wybudź ekran po odebraniu powiadomienia</string>
     <string name="ambient_display_summary_on">Ekran się wybudzi, po otrzymaniu powiadomienia</string>
     <string name="ambient_display_summary_off">Ekran nie wybudzi się po otrzymaniu powiadomienia</string>
+    <string name="ambient_display_always_on_title">Zawsze włączony</string>
+    <string name="ambient_display_always_on_summary">Pokaż godzinę, powiadomienia i inne informacje. Zwiększy to użycie baterii.</string>
     <string name="tilt_sensor_title">Czujnik pochylenia</string>
     <string name="pickup_sensor_title">Czujnik ruchu</string>
     <string name="proximity_sensor_title">Czujnik zbliżeniowy</string>

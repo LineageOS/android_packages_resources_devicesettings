@@ -62,6 +62,8 @@
     <string name="ambient_display_summary">Ligar tela ao receber notificações</string>
     <string name="ambient_display_summary_on">A tela ligará ao receber notificações</string>
     <string name="ambient_display_summary_off">A tela não ligará ao receber notificações</string>
+    <string name="ambient_display_always_on_title">Sempre ligada</string>
+    <string name="ambient_display_always_on_summary">Mostrar hora, ícones de notificação e outras informações. Aumenta o uso de bateria.</string>
     <string name="tilt_sensor_title">Sensor de inclinação</string>
     <string name="pickup_sensor_title">Sensor de movimento</string>
     <string name="proximity_sensor_title">Sensor de proximidade</string>
