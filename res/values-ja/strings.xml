@@ -62,6 +62,8 @@
     <string name="ambient_display_summary">通知を受信したときに画面を点灯する</string>
     <string name="ambient_display_summary_on">通知を受信したときに画面を点灯する</string>
     <string name="ambient_display_summary_off">通知を受信したときに画面を点灯しない</string>
+    <string name="ambient_display_always_on_title">常に表示</string>
+    <string name="ambient_display_always_on_summary">時間、通知アイコン、その他の情報を表示します。バッテリー使用量が増加します。</string>
     <string name="tilt_sensor_title">傾きセンサー</string>
     <string name="pickup_sensor_title">ピックアップセンサー</string>
     <string name="proximity_sensor_title">接近センサー</string>
