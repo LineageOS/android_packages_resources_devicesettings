@@ -17,40 +17,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Device specific settings -->
-  <string name="device_settings_app_name">Papildu iestatījumi</string>
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Žesti</string>
-  <!-- Touchscreen gesture haptic feedback -->
-  <!-- Touchscreen gestures -->
-  <!-- User-aware display -->
-  <!-- Ambient Display -->
-  <string name="ambient_display_title">Aptverošais displejs</string>
-  <string name="ambient_display_enable_title">Aptverošais displejs</string>
-  <string name="ambient_display_enable_summary">Saņemot ziņojumus, ieslēgt ekrānu</string>
-  <!-- Tilt sensor -->
-  <!-- Proximity sensor -->
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Mājiens ar roku</string>
-  <string name="hand_wave_gesture_summary">Rādīt paziņojumus, pamājot ar roku</string>
-  <!-- Pick-up gesture -->
-  <!-- Pocket gesture -->
-  <string name="pocket_gesture_title">Kabata</string>
-  <string name="pocket_gesture_summary">Izņemot no kabatas, rādīt paziņojumus </string>
-  <!-- Proximity wake -->
-  <!-- Device actions -->
-  <!-- Camera gesture -->
-  <!-- Chop-chop gesture -->
-  <!-- Hand wave silencer gesture -->
-  <!-- Flip to mute gesture -->
-  <!-- Do Not Disturb access -->
-  <!-- Lift to silence gesture -->
-  <!-- Action toggles -->
-  <!-- Feedback intensity -->
-  <!-- Dialog texts -->
-  <!-- Help texts -->
-  <!-- Button settings -->
-  <!-- Fingerprint -->
+    <string name="device_settings_app_name">Papildu iestatījumi</string>
+    <string name="screen_gestures_panel_title">Žesti</string>
+    <string name="ambient_display_title">Aptverošais displejs</string>
+    <string name="ambient_display_enable_title">Aptverošais displejs</string>
+    <string name="ambient_display_enable_summary">Saņemot ziņojumus, ieslēgt ekrānu</string>
+    <string name="hand_wave_gesture_title">Mājiens ar roku</string>
+    <string name="hand_wave_gesture_summary">Rādīt paziņojumus, pamājot ar roku</string>
+    <string name="pocket_gesture_title">Kabata</string>
+    <string name="pocket_gesture_summary">Izņemot no kabatas, rādīt paziņojumus </string>
 </resources>
