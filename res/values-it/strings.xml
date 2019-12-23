@@ -47,7 +47,7 @@
     <string name="touchscreen_music_gesture_summary">Usa le gesture per controllare la riproduzione musicale\n
 • Scorri verso il basso per play/pausa\n
 • Scorri verso sinistra per la traccia precedente\n
-• Scorri verso destre per la traccia sucessiva</string>
+• Scorri verso destra per la traccia successiva</string>
     <string name="touchscreen_swipe_up_title">Scorri verso l\'alto</string>
     <string name="touchscreen_swipe_right_title">Scorri a destra</string>
     <string name="touchscreen_swipe_down_title">Scorri verso il basso</string>
@@ -70,9 +70,9 @@
     <string name="hand_wave_gesture_title">Movimento della mano</string>
     <string name="hand_wave_gesture_summary">Mostra notifiche al passaggio della mano</string>
     <string name="hand_wave_gesture_flat_title">Rileva orientamento</string>
-    <string name="hand_wave_gesture_flat_summary">Visualizza solo se il telefono é appoggiato orizzontalmente su una superficie piatta</string>
+    <string name="hand_wave_gesture_flat_summary">Visualizza solo se il telefono è appoggiato orizzontalmente su una superficie piatta</string>
     <string name="pick_up_gesture_title">Sollevamento</string>
-    <string name="pick_up_gesture_summary">Mostra notifiche al sollavamento</string>
+    <string name="pick_up_gesture_summary">Mostra notifiche al sollevamento</string>
     <string name="pocket_gesture_title">Tasca</string>
     <string name="pocket_gesture_summary">Mostra notifiche quando togli dalla tasca</string>
     <string name="proximity_wake_title">Risveglio prossimità</string>
@@ -84,7 +84,7 @@
     <string name="chop_chop_gesture_title">Chop-chop</string>
     <string name="chop_chop_gesture_summary">Accendi la torcia quando utilizzi la gesture chop-chop</string>
     <string name="hand_wave_silencer_title">Muovi la mano per silenziare</string>
-    <string name="hand_wave_silencer_summary">Silenza le chiamate in arrivo passando la mano sopra lo schermo</string>
+    <string name="hand_wave_silencer_summary">Silenzia le chiamate in arrivo passando la mano sopra lo schermo</string>
     <string name="flip_to_mute_title">Capovolgi per non disturbare</string>
     <string name="flip_to_mute_summary">Metti a faccia in giù il telefono per silenziare le notifiche e chiamate</string>
     <string name="dnd_access">Consenti il permesso di accedere a Non disturbare a CMActions per utilizzare questa funzione.</string>
@@ -108,10 +108,10 @@
     <string name="fingerprint_title">Impronte digitali</string>
     <string name="fingerprint_as_home_title">Impronte digitali come home</string>
     <string name="fingerprint_as_home_summary">Utilizza lettore impronte digitali come pulsante home</string>
-    <string name="fingerprint_wakeup_title">Risveglo impronte digitali</string>
+    <string name="fingerprint_wakeup_title">Risveglio con impronte digitali</string>
     <string name="fingerprint_wakeup_summary">Consenti al sensore d\'impronte digitali di risvegliare il dispositivo quando lo schermo è spento</string>
     <string name="fingerprint_pocketmode_title">Previeni risvegli accidentali</string>
-    <string name="fingerprint_pocketmode_summary">Controla il sensore di prossimità prima di risvegliare lo smartphone con le impronte digitali</string>
+    <string name="fingerprint_pocketmode_summary">Controlla il sensore di prossimità prima di risvegliare lo smartphone con le impronte digitali</string>
     <string name="fingerprint_sleep_title">Sospensione con impronte digitali</string>
     <string name="fingerprint_sleep_summary">Premi il sensore d\'impronte digitali per sospendere il dispositivo</string>
     <string name="high_touch_sensitivity_title">Alta sensibilità al tocco</string>
