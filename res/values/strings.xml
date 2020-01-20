@@ -181,4 +181,8 @@
     <!-- Quick charge toggle -->
     <string name="quick_charge_title">Quick charge</string>
     <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
+
+    <!-- Camera focus fix toggle -->
+    <string name="camera_focus_fix_title">Camera focus fix</string>
+    <string name="camera_focus_fix_summary">Enable if you have issues with the camera not focusing</string>
 </resources>
