@@ -177,4 +177,8 @@
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">High touch sensitivity</string>
     <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+
+    <!-- Quick charge toggle -->
+    <string name="quick_charge_title">Quick charge</string>
+    <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
 </resources>
