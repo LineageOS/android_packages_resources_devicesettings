@@ -63,14 +63,14 @@
     <string name="ambient_display_summary_on">Ekran się wybudzi, po otrzymaniu powiadomienia</string>
     <string name="ambient_display_summary_off">Ekran nie wybudzi się po otrzymaniu powiadomienia</string>
     <string name="ambient_display_always_on_title">Zawsze włączony</string>
-    <string name="ambient_display_always_on_summary">Pokaż godzinę, powiadomienia i inne informacje. Zwiększy to użycie baterii.</string>
+    <string name="ambient_display_always_on_summary">Pokazuj godzinę, ikony powiadomień oraz inne informacje. Zwiększy to użycie baterii.</string>
     <string name="tilt_sensor_title">Czujnik pochylenia</string>
     <string name="pickup_sensor_title">Czujnik ruchu</string>
     <string name="proximity_sensor_title">Czujnik zbliżeniowy</string>
     <string name="hand_wave_gesture_title">Machnij ręką</string>
     <string name="hand_wave_gesture_summary">Pulsujące powiadomienia po machnięciu ręką</string>
     <string name="hand_wave_gesture_flat_title">Wykrywanie orientacji</string>
-    <string name="hand_wave_gesture_flat_summary">Pulsuj tylko wtedy, gdy telefon jest w pozycji ekranem do góry</string>
+    <string name="hand_wave_gesture_flat_summary">Pokaż tylko wtedy, gdy telefon leży ekranem do góry na płaskiej powierzchni</string>
     <string name="pick_up_gesture_title">Podnieś</string>
     <string name="pick_up_gesture_summary">Pulsujące powiadomienia podczas podnoszenia</string>
     <string name="pocket_gesture_title">Kieszeń</string>
