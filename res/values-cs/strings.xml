@@ -115,4 +115,8 @@
     <string name="fingerprint_sleep_summary">Stisknutím snímače otisků prstů vypnete obrazovku</string>
     <string name="high_touch_sensitivity_title">Vysoká citlivost dotyku</string>
     <string name="high_touch_sensitivity_summary">Zvýšení citlivosti dotykové vrstvy, což umožňuje použít rukavice</string>
+    <string name="quick_charge_title">Rychlé nabíjení</string>
+    <string name="quick_charge_summary">Přepnout rychlé nabíjení. Po změně tohoto nastavení odpojte nabíječku a poté ji znovu připojte</string>
+    <string name="camera_focus_fix_title">Oprava zaostření fotoaparátu</string>
+    <string name="camera_focus_fix_summary">Povolte, pokud má fotoaparát potíže se zaostřováním</string>
 </resources>

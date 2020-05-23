@@ -22,10 +22,13 @@
     <string name="screen_gestures_panel_title">ท่าทาง</string>
     <string name="touchscreen_gesture_extras">พิเศษ</string>
     <string name="touchscreen_gesture_haptic_feedback">สั่นเมื่อแตะ</string>
+    <string name="touchscreen_gesture_settings_title">ท่าทางสัมผัสบนหน้าจอ</string>
+    <string name="gesture_display_title">ท่าทางการสัมผัสเมื่อหน้าจอปิด</string>
     <string name="touchscreen_c_gesture_title">กล้องถ่ายรูป</string>
     <string name="touchscreen_c_gesture_summary">วาด \"C\" เพื่อเปิดกล้อง</string>
     <string name="touchscreen_e_gesture_title">อีเมล</string>
     <string name="touchscreen_e_gesture_summary">วาดตัว \"e\" เพื่อเปิดแอปอีเมล</string>
+    <string name="touchscreen_m_gesture_title">ส่งข้อความ</string>
     <string name="touchscreen_m_gesture_summary">วาด \"M\" เพื่อเปิดแอปส่งข้อความ</string>
     <string name="touchscreen_s_gesture_title">ส่งข้อความ</string>
     <string name="touchscreen_s_gesture_summary">วาดตัว \"S\" เพื่อเปิดแอปสำหรับส่งข้อความ</string>
@@ -36,6 +39,8 @@
     <string name="touchscreen_z_gesture_title">ไฟฉาย</string>
     <string name="touchscreen_z_gesture_summary">วาดตัว \"Z\" เพื่อสลับไฟฉาย</string>
     <string name="touchscreen_flashlight_gesture_title">ไฟฉาย</string>
+    <string name="touchscreen_flashlight_gesture_summary">วาดวงกลมเพื่อเปิดไฟฉาย</string>
+    <string name="touchscreen_music_gesture_title">เพลง</string>
     <string name="touchscreen_swipe_up_title">ปัดขึ้น</string>
     <string name="touchscreen_swipe_right_title">ปัดไปทางขวา</string>
     <string name="touchscreen_swipe_down_title">ปัดลง</string>
@@ -47,6 +52,9 @@
     <string name="ambient_display_enable_summary">เปิดหน้าจอเมื่อมีการแจ้งเตือน</string>
     <string name="ambient_display_gestures_title">ท่าทางการแสดงผลแอมเบียนต์</string>
     <string name="ambient_display_gestures_summary">ท่าทางเพิ่มเติมเพื่อปลุกหน้าจอ</string>
+    <string name="ambient_display_summary">เปิดหน้าจอเมื่อได้รับการแจ้งเตือน</string>
+    <string name="ambient_display_summary_on">หน้าจอจะตื่นขึ้นเมื่อคุณได้รับการแจ้งเตือน</string>
+    <string name="ambient_display_summary_off">หน้าจอจะไม่ตื่นขึ้นเมื่อคุณได้รับการแจ้งเตือน</string>
     <string name="ambient_display_always_on_title">เปิดตลอด</string>
     <string name="ambient_display_always_on_summary">แสดงเวลา ไอคอนแจ้งเตือน และข้อมูลอื่น ๆ แต่การใช้งานแบตเตอรี่จะเพิ่มขึ้น</string>
     <string name="tilt_sensor_title">เซ็นเซอร์วัดความเอียง</string>

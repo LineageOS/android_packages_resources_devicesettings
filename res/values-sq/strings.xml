@@ -112,4 +112,8 @@
     <string name="fingerprint_sleep_summary">Shtypni tek sensori i shënjës së gishtit për të fikur ekranin</string>
     <string name="high_touch_sensitivity_title">Ndjesi e lartë e prekjes</string>
     <string name="high_touch_sensitivity_summary">Rrit ndjeshmërinë e prekjes kështu që mund të përdoret kur keni dorashka</string>
+    <string name="quick_charge_title">Karikim i shpejtë</string>
+    <string name="quick_charge_summary">Çelsi për karikim të shpejtë. Hiqni dhe vendosni sërish karikuesin pasi të ndryshoni këtë cilësim</string>
+    <string name="camera_focus_fix_title">Rregullim i fokusit të kamerës</string>
+    <string name="camera_focus_fix_summary">Mundësoje nëse ke probleme me fokusimin e kamerës</string>
 </resources>
