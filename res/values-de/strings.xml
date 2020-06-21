@@ -115,5 +115,8 @@
     <string name="fingerprint_sleep_summary">Fingerabdrucksensor berühren, um das Display auszuschalten</string>
     <string name="high_touch_sensitivity_title">Hohe Berührempfindlichkeit</string>
     <string name="high_touch_sensitivity_summary">Berührmpfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
+    <string name="quick_charge_title">Schnellladung</string>
+    <string name="quick_charge_summary">Schnellladung umschalten. Bitte anschließend das Ladegerät aus- und wieder einstecken</string>
+    <string name="camera_focus_fix_title">Fester Kamerafokus</string>
     <string name="camera_focus_fix_summary">Aktivieren Sie diese Option, wenn Sie Probleme mit der Scharfstellung der Kamera haben</string>
 </resources>

@@ -41,6 +41,10 @@
     <string name="touchscreen_flashlight_gesture_title">ไฟฉาย</string>
     <string name="touchscreen_flashlight_gesture_summary">วาดวงกลมเพื่อเปิดไฟฉาย</string>
     <string name="touchscreen_music_gesture_title">เพลง</string>
+    <string name="touchscreen_music_gesture_summary">ใช้ท่าทางเพื่อควบคุมการเล่นเพลง \n
+    • ปัดนิ้วลงเพื่อเล่น / หยุดชั่วคราว\n
+    • ปัดนิ้วไปทางซ้ายเพื่อเล่นแทร็กก่อนหน้า\n
+    • ปัดนิ้วไปทางขวาเพื่อเล่นแทร็กถัดไป</string>
     <string name="touchscreen_swipe_up_title">ปัดขึ้น</string>
     <string name="touchscreen_swipe_right_title">ปัดไปทางขวา</string>
     <string name="touchscreen_swipe_down_title">ปัดลง</string>
@@ -76,6 +80,7 @@
     <string name="chop_chop_gesture_summary">เปิดไฟฉายเมื่อเลื่อนจากบนลงล่างอย่างเร็วสองครั้ง</string>
     <string name="hand_wave_silencer_title">แกว่งเพื่อปิดเสียง</string>
     <string name="hand_wave_silencer_summary">ปิดเสียงเรียกเข้าโดยการแกว่งมือผ่านหน้าจอ</string>
+    <string name="flip_to_mute_title">พลิกสำหรับห้ามรบกวน</string>
     <string name="lift_to_silence_title">ยกโทรศัพท์ขึ้น เพื่อหยุดเสียงโทรศัพท์เรียกเข้า</string>
     <string name="action_none">ปิด</string>
     <string name="action_launch_camera">เปิดกล้อง</string>
