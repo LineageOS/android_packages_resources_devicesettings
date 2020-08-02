@@ -115,4 +115,8 @@
     <string name="fingerprint_sleep_summary">지문 인식 센서를 눌러 화면 끄기</string>
     <string name="high_touch_sensitivity_title">터치 감도 높이기</string>
     <string name="high_touch_sensitivity_summary">장갑을 착용해도 터치할 수 있도록 터치스크린 감도를 향상</string>
+    <string name="quick_charge_title">빠른 충전</string>
+    <string name="quick_charge_summary">빠른 충전 모드를 변경합니다. 설정 변경 후 충전기를 다시 연결하세요.</string>
+    <string name="camera_focus_fix_title">카메라 초점 수정</string>
+    <string name="camera_focus_fix_summary">카메라 초점에 문제가 있는 경우 활성화하세요.</string>
 </resources>

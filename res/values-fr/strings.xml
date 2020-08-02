@@ -115,4 +115,5 @@
     <string name="fingerprint_sleep_summary">Appuyez sur le capteur d’empreintes digitales pour éteindre l’écran</string>
     <string name="high_touch_sensitivity_title">Haute sensibilité tactile</string>
     <string name="high_touch_sensitivity_summary">Augmenter la sensibilité de l\'écran de telle sorte qu\'il puisse être utilisé avec des gants</string>
+    <string name="quick_charge_title">Charge rapide</string>
 </resources>

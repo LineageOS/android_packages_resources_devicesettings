@@ -68,6 +68,7 @@
     <string name="hand_wave_gesture_summary">เช็คการแจ้งเตือนเมื่อมีการโบกมือ</string>
     <string name="hand_wave_gesture_flat_title">ตรวจหาทิศทาง</string>
     <string name="pick_up_gesture_title">หยิบขึ้น</string>
+    <string name="pick_up_gesture_summary">แสดงการแจ้งเตือนเมื่อหยิบอุปกรณ์ขึ้น</string>
     <string name="pocket_gesture_title">กระเป๋า</string>
     <string name="pocket_gesture_summary">เช็คการแจ้งเตือนเมื่อนำออกจากกระเป๋า</string>
     <string name="proximity_wake_title">การปลุกระยะใกล้เคียง</string>
@@ -97,10 +98,12 @@
     <string name="button_swap_title">สลับปุ่ม</string>
     <string name="button_swap_summary">สลับตำแหน่งของปุ่มรายการล่าสุดและปุ่มย้อนกลับ</string>
     <string name="fingerprint_title">สแกนลายนิ้วมือ</string>
+    <string name="fingerprint_as_home_summary">ใช้เซ็นเซอร์ลายนิ้วมือเป็นปุ่มโฮม</string>
     <string name="fingerprint_wakeup_title">สแกนนิ้วมือเพื่อปลุก</string>
     <string name="fingerprint_wakeup_summary">ทำให้เซ็นเซอร์ลายนิ้วมือปลุกอุปกรณ์ในขณะหน้าจอดับอยู่</string>
     <string name="fingerprint_pocketmode_title">ป้องกันการเปิดหน้าจอโดยไม่เจตนา</string>
     <string name="fingerprint_pocketmode_summary">ตรวจสอบเซ็นเซอร์ความใกล้ชิดก่อนปลุกโดยเซ็นเซอร์ลายนิ้วมือ</string>
+    <string name="fingerprint_sleep_title">สแกนนิ้วมือเพื่อปิดหน้าจอ</string>
     <string name="fingerprint_sleep_summary">กดเซ็นเซอร์ลายนิ้วมือเพื่อปิดหน้าจอ</string>
     <string name="high_touch_sensitivity_title">ความไวต่อสัมผัสสูง</string>
     <string name="high_touch_sensitivity_summary">เพิ่มความไวของหน้าจอสัมผัสเพื่อที่จะสามารถใช้ขณะสวมถุงมือ</string>
