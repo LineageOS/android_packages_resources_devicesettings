@@ -16,8 +16,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ambient_display_title">ურთიერთქმედი ეკრანი</string>
+    <string name="ambient_display_enable_title">ურთიერთქმედი ეკრანი</string>
+    <string name="ambient_display_enable_summary">ეკრანის გაღვიძება შეტყობინების მიღებისას</string>
+    <string name="ambient_display_gestures_title">ურთიერთქმედი ეკრანის ჟესტები</string>
+    <string name="ambient_display_gestures_summary">დამატებითი ჟესტები ეკრანის გამოსაღვიძებლად</string>
+    <string name="ambient_display_summary">ეკრანის გაღვიძება შეტყობინების მიღებისას</string>
+    <string name="ambient_display_summary_on">ეკრანი გამოიღვიძებს, შეტყობინებების მიღებისას</string>
+    <string name="ambient_display_summary_off">ეკრანი არ გამოიღვიძებს, შეტყობინებების მიღებისას</string>
+    <string name="ambient_display_always_on_title">მუდმივად ჩართული</string>
+    <string name="ambient_display_always_on_summary">დროის, შეტყობინებების, ხატულებისა და სხვა მონაცემების ჩვენება. ზრდის ბატარეის მოხმარებას.</string>
+    <string name="proximity_wake_title">სიახლოვით გაღვიძება</string>
+    <string name="proximity_wake_enable_title">სიახლოვით გაღვიძება</string>
+    <string name="proximity_wake_enable_summary">გამოღვიძება ხელის გამოძრავებისას</string>
     <string name="flip_to_mute_title">შეტრიალებით ჩაირთოს  „არ შემაწუხოთ“</string>
     <string name="flip_to_mute_summary">გადაატრიალეთ ქვევით ტელეფონი შეტყობინებებისა და ზარების დასადუმებლად</string>
+    <string name="fingerprint_wakeup_title">თითის ანაბეჭდით გამოღვიძება</string>
+    <string name="fingerprint_wakeup_summary">თითის ანაბეჭდის აღმქმელით ეკრანის გამოღვიძება, როცა ჩამქრალია</string>
+    <string name="fingerprint_pocketmode_title">შემთხვევით გამოღვიძების არიდება</string>
+    <string name="fingerprint_pocketmode_summary">სიახლოვის აღმქმელის შემოწმება, ეკრანის თითის ანაბეჭდით გამოღვიძებამდე</string>
     <string name="quick_charge_title">სწრაფი დამუხტვა</string>
     <string name="quick_charge_summary">სწრაფი დამუხტვის გადართვა. გამოაერთეთ და შეაერთეთ დამტენი, ამ პარამეტრის ცვლილების შემდგომ.</string>
     <string name="camera_focus_fix_title">კამერის ფოკუსის გასწორება</string>
