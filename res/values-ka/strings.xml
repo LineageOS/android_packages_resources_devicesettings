@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+               (C) 2017 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ambient_display_title">ურთიერთქმედი ეკრანი</string>
+    <string name="ambient_display_enable_title">ურთიერთქმედი ეკრანი</string>
+    <string name="ambient_display_enable_summary">ეკრანის გაღვიძება შეტყობინების მიღებისას</string>
+    <string name="ambient_display_gestures_title">ურთიერთქმედი ეკრანის ჟესტები</string>
+    <string name="ambient_display_gestures_summary">დამატებითი ჟესტები ეკრანის გამოსაღვიძებლად</string>
+    <string name="ambient_display_summary">ეკრანის გაღვიძება შეტყობინების მიღებისას</string>
+    <string name="ambient_display_summary_on">ეკრანი გამოიღვიძებს, შეტყობინებების მიღებისას</string>
+    <string name="ambient_display_summary_off">ეკრანი არ გამოიღვიძებს, შეტყობინებების მიღებისას</string>
+    <string name="ambient_display_always_on_title">მუდმივად ჩართული</string>
+    <string name="ambient_display_always_on_summary">დროის, შეტყობინებების, ხატულებისა და სხვა მონაცემების ჩვენება. ზრდის ბატარეის მოხმარებას.</string>
+    <string name="proximity_wake_title">სიახლოვით გაღვიძება</string>
+    <string name="proximity_wake_enable_title">სიახლოვით გაღვიძება</string>
+    <string name="proximity_wake_enable_summary">გამოღვიძება ხელის გამოძრავებისას</string>
+    <string name="flip_to_mute_title">შეტრიალებით ჩაირთოს  „არ შემაწუხოთ“</string>
+    <string name="flip_to_mute_summary">გადაატრიალეთ ქვევით ტელეფონი შეტყობინებებისა და ზარების დასადუმებლად</string>
+    <string name="fingerprint_wakeup_title">თითის ანაბეჭდით გამოღვიძება</string>
+    <string name="fingerprint_wakeup_summary">თითის ანაბეჭდის აღმქმელით ეკრანის გამოღვიძება, როცა ჩამქრალია</string>
+    <string name="fingerprint_pocketmode_title">შემთხვევით გამოღვიძების არიდება</string>
+    <string name="fingerprint_pocketmode_summary">სიახლოვის აღმქმელის შემოწმება, ეკრანის თითის ანაბეჭდით გამოღვიძებამდე</string>
+</resources>
