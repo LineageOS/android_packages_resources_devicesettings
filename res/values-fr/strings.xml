@@ -116,4 +116,7 @@
     <string name="high_touch_sensitivity_title">Haute sensibilité tactile</string>
     <string name="high_touch_sensitivity_summary">Augmenter la sensibilité de l\'écran de telle sorte qu\'il puisse être utilisé avec des gants</string>
     <string name="quick_charge_title">Charge rapide</string>
+    <string name="quick_charge_summary">Activer/désactiver la charge rapide. Débranchez et rebranchez le chargeur après avoir changé ce paramètre</string>
+    <string name="camera_focus_fix_title">Correction de la mise au point de l\'appareil photo</string>
+    <string name="camera_focus_fix_summary">Activez si l\'appareil photo n\'effectue pas la mise au point</string>
 </resources>
