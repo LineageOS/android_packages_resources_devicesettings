@@ -116,5 +116,7 @@
     <string name="high_touch_sensitivity_title">Висока чувствителност на допир</string>
     <string name="high_touch_sensitivity_summary">Увеличи сензорната чувствителност, така че може да се използва докато носите ръкавици</string>
     <string name="quick_charge_title">Бързо зареждане</string>
+    <string name="quick_charge_summary">Активирай режим бързо зареждане. Извади и отново сложи кабела за зареждане след промяна на тази настройка</string>
+    <string name="camera_focus_fix_title">Поправка фокуса на камерата</string>
     <string name="camera_focus_fix_summary">Активирай, при проблеми с фокусирането на камерата </string>
 </resources>
