@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Ativar/desativar o carregamento rápido. Desconecte e reconecte o carregador após alterar esta configuração</string>
     <string name="camera_focus_fix_title">Correção do foco da câmara</string>
     <string name="camera_focus_fix_summary">Ative se tiver problemas com a focagem da câmara</string>
+    <string name="wake_on_gesture_title">Acordar com gestos</string>
+    <string name="wake_on_gesture_summary">Acordar o dispositivo em vez de mostrar as notificações ao usar os gestos</string>
 </resources>
