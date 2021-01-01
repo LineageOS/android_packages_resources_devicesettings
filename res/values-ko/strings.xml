@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">빠른 충전 모드를 변경합니다. 설정 변경 후 충전기를 다시 연결하세요.</string>
     <string name="camera_focus_fix_title">카메라 초점 수정</string>
     <string name="camera_focus_fix_summary">카메라 초점에 문제가 있는 경우 활성화하세요.</string>
+    <string name="wake_on_gesture_title">제스처 사용 시 깨우기</string>
+    <string name="wake_on_gesture_summary">제스처 사용 시 알림 표시 대신 기기 깨우기</string>
 </resources>
