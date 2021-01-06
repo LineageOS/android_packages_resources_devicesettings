@@ -51,6 +51,7 @@
 
     <style name="Theme.Main.PreferenceTheme" parent="@style/PreferenceThemeOverlay.SettingsBase">
         <item name="preferenceCategoryTitleTextAppearance">@style/Theme.Main.TextAppearance.CategoryTitle</item>
+        <item name="preferenceCategoryTitleTextColor">?android:attr/textColorSecondary</item>
     </style>
 
     <style name="Theme.Main.SwitchPreferenceStyle" parent="@style/Theme.Main.PreferenceStyle">
