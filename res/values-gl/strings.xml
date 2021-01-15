@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Trocar a carga rápida. Desconecta e volve conectar o cargador logo de trocar este axuste</string>
     <string name="camera_focus_fix_title">Corrección do enfoque da cámara</string>
     <string name="camera_focus_fix_summary">Activar se hai problemas co enfoque da cámara</string>
+    <string name="wake_on_gesture_title">Acender mediante xestos</string>
+    <string name="wake_on_gesture_summary">Acender o dispositivo no canto de amosar notificacións ao realizar xestos</string>
 </resources>

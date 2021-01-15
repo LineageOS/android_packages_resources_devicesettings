@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Activer/désactiver la charge rapide. Débranchez et rebranchez le chargeur après avoir changé ce paramètre</string>
     <string name="camera_focus_fix_title">Correction de la mise au point de l\'appareil photo</string>
     <string name="camera_focus_fix_summary">Activez si l\'appareil photo n\'effectue pas la mise au point</string>
+    <string name="wake_on_gesture_title">Réveiller par gestes</string>
+    <string name="wake_on_gesture_summary">Réveiller l\'appareil au lieu de notifier lors d\'événements gestuels</string>
 </resources>
