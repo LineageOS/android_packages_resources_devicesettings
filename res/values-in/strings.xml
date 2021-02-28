@@ -115,4 +115,6 @@
     <string name="fingerprint_sleep_summary">Tekan sensor sidik jari untuk mematikan layar</string>
     <string name="high_touch_sensitivity_title">Kepekaan sentuh tinggi</string>
     <string name="high_touch_sensitivity_summary">Meningkatkan kepekaan layar sentuh sehingga dapat digunakan saat mengenakan sarung tangan</string>
+    <string name="quick_charge_title">Pengisian cepat</string>
+    <string name="quick_charge_summary">Aktifkan/nonaktifkan pengisian cepat. Cabut dan pasang kembali pengisi daya setelah mengubah setelan ini</string>
 </resources>

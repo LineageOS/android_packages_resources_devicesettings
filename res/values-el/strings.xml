@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Εναλλαγή γρήγορης φόρτισης. Αφαιρέστε και τοποθετήστε ξανά το φορτιστή μετά από αυτή τη ρύθμιση</string>
     <string name="camera_focus_fix_title">Διόρθωση αυτόματης εστίασης</string>
     <string name="camera_focus_fix_summary">Ενεργοποιήστε εάν έχετε προβλήματα εστίασης με τη φωτογραφική μηχανή</string>
+    <string name="wake_on_gesture_title">Αφύπνιση με χειρονομίες</string>
+    <string name="wake_on_gesture_summary">Αφύπνιση της συσκευής αντί για παλμό ειδοποιήσεων όταν ανιχνεύονται χειρονομίες</string>
 </resources>

@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Attiva o disattiva la ricarica rapida. Scollega e ricollega il caricabatterie dopo aver modificato questa impostazione</string>
     <string name="camera_focus_fix_title">Fissa fuoco fotocamera</string>
     <string name="camera_focus_fix_summary">Attiva se stai avendo problemi con la messa a fuoco della fotocamera</string>
+    <string name="wake_on_gesture_title">Gesture di risveglio</string>
+    <string name="wake_on_gesture_summary">Risveglia il dispositivo invece di mostrare le notifiche quando si effettuano delle gesture</string>
 </resources>

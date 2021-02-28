@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Commuta la càrrega ràpida. Desconnecteu i torneu a connectar el carregador després de canviar aquesta configuració</string>
     <string name="camera_focus_fix_title">Correcció del focus de la càmera</string>
     <string name="camera_focus_fix_summary">Activeu-lo si teniu problemes amb la focalització de la càmera</string>
+    <string name="wake_on_gesture_title">Desperta amb gestos</string>
+    <string name="wake_on_gesture_summary">Desperta el dispositiu en lloc de mostrar notificacions en realitzar gestos</string>
 </resources>

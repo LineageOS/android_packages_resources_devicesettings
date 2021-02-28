@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Активирай режим бързо зареждане. Извади и отново сложи кабела за зареждане след промяна на тази настройка</string>
     <string name="camera_focus_fix_title">Поправка фокуса на камерата</string>
     <string name="camera_focus_fix_summary">Активирай, при проблеми с фокусирането на камерата </string>
+    <string name="wake_on_gesture_title">Събуждане със жестове</string>
+    <string name="wake_on_gesture_summary">Събуждане на устройството, вместо показване на пулсиращи известия за събития с жестове</string>
 </resources>

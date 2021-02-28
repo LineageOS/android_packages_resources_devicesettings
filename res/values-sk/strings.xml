@@ -115,4 +115,10 @@ položený na plocho</string>
     <string name="fingerprint_sleep_summary">Stlačením snímača odtlačkov prstov vypnete obrazovku</string>
     <string name="high_touch_sensitivity_title">Vysoká citlivosť na dotyky</string>
     <string name="high_touch_sensitivity_summary">Zvýšiť citlivosť dotykovej obrazovky, takže ju bude možné používať pri nosení rukavíc</string>
+    <string name="quick_charge_title">Rýchle nabíjanie.</string>
+    <string name="quick_charge_summary">Prepnúť rýchle nabíjanie. Odpojte a znovu zapojte nabíjačku po zmene tohto nastavenia.</string>
+    <string name="camera_focus_fix_title">Oprava zaostrenia fotoaparátu</string>
+    <string name="camera_focus_fix_summary">Zapnite, ak máte problém so zaostrením fotoaparátu.</string>
+    <string name="wake_on_gesture_title">Prebudenie pomocou gest</string>
+    <string name="wake_on_gesture_summary">Pri gestách prebudiť zariadenie namiesto zobrazenia pulzujúcich upozornení</string>
 </resources>

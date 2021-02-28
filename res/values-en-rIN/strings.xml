@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
     <string name="camera_focus_fix_title">Camera focus fix</string>
     <string name="camera_focus_fix_summary">Enable if you have issues with the camera not focusing</string>
+    <string name="wake_on_gesture_title">Wake up on gestures</string>
+    <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
 </resources>

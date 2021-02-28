@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Toglo gwefru\'n gyflym. Datgysyllta ac ail-gysylltu\'r gwefrydd ar ôl newid y gosodiad hwn.</string>
     <string name="camera_focus_fix_title">Trwsio ffocws camera</string>
     <string name="camera_focus_fix_summary">Galluogi os oes gennyt anhawster gyda\'r camera dim yn ffocysu</string>
+    <string name="wake_on_gesture_title">Deffro gydag ystumiau</string>
+    <string name="wake_on_gesture_summary">Deffro\'r ddyfais yn hytrach na churiad hysbysiadau ar ddigwyddiadau ystumiau</string>
 </resources>

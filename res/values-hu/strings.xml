@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">A gyorstöltés kapcsolója. Ha megváltoztatta ezt a beállítást, utána csatlakoztassa le, majd újra fel a készüléket</string>
     <string name="camera_focus_fix_title">Fókuszrögzítő</string>
     <string name="camera_focus_fix_summary">Akkor engedélyezze ezt, ha a készülék kamerája nem képes fókuszálni</string>
+    <string name="wake_on_gesture_title">Felébresztés kézmozdulatokkal</string>
+    <string name="wake_on_gesture_summary">A mozdulatérzékelő impulzus-értesítések helyett ébressze fel a készüléket</string>
 </resources>

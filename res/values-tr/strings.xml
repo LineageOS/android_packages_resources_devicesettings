@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Hızlı şarjı etkinleştirin veya devre dışı bırakın. Bu ayarı değiştirdikten sonra şarj aletini çıkarıp yeniden takın</string>
     <string name="camera_focus_fix_title">Kamera odak düzeltmesi</string>
     <string name="camera_focus_fix_summary">Kamera odaklanmasıyla ilgili sorunlar yaşıyorsanız bunu etkinleştirin </string>
+    <string name="wake_on_gesture_title">Hareketle uyandırın</string>
+    <string name="wake_on_gesture_summary">Hareket olaylarında titreşimli bildirimler yerine cihazı uyandırın</string>
 </resources>

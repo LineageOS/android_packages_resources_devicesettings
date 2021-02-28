@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">切换快速充电，更改此设置后，请拔出并重新插入充电器</string>
     <string name="camera_focus_fix_title">修复相机对焦</string>
     <string name="camera_focus_fix_summary">如果您的相机对焦有问题，请启用此项</string>
+    <string name="wake_on_gesture_title">手势唤醒</string>
+    <string name="wake_on_gesture_summary">通过手势事件唤醒设备而不是推送通知</string>
 </resources>

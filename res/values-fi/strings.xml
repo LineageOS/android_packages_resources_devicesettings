@@ -115,4 +115,10 @@
     <string name="fingerprint_sleep_summary">Sammuta näyttö sormenjälkitunnistimella</string>
     <string name="high_touch_sensitivity_title">Korkea kosketusherkkyys</string>
     <string name="high_touch_sensitivity_summary">Lisää kosketusnäytön herkkyyttä käyttääksesi laitetta käsineiden kanssa</string>
+    <string name="quick_charge_title">Nopea lataus</string>
+    <string name="quick_charge_summary">Ota nopea lataus käyttöön. Irrota ja liitä laturi uudeelleen tämän asetuksen muuttamisen jälkeen</string>
+    <string name="camera_focus_fix_title">Kameran tarkennuksen korjaus</string>
+    <string name="camera_focus_fix_summary">Ota tämä käyttöön, jos sinulla on ongelmia kameran tarkennuksen kanssa</string>
+    <string name="wake_on_gesture_title">Herätä eleissä</string>
+    <string name="wake_on_gesture_summary">Herätä laite ilmoitusten vilkuttamisen sijaan käytettäessä eleitä</string>
 </resources>
