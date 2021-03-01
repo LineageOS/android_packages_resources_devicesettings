@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Přepnout rychlé nabíjení. Po změně tohoto nastavení odpojte nabíječku a poté ji znovu připojte</string>
     <string name="camera_focus_fix_title">Oprava zaostření fotoaparátu</string>
     <string name="camera_focus_fix_summary">Povolte, pokud má fotoaparát potíže se zaostřováním</string>
+    <string name="wake_on_gesture_title">Probuzení gesty</string>
+    <string name="wake_on_gesture_summary">Při gestech zařízení probudit místo zobrazení pulzujících oznámení</string>
 </resources>
