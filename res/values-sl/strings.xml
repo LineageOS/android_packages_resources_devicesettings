@@ -62,7 +62,7 @@
     <string name="ambient_display_summary_on">Zaslon se bo vklopil, ko prejmete obvestila</string>
     <string name="ambient_display_summary_off">Zaslon se ne bo vklopil, ko prejmete obvestila</string>
     <string name="ambient_display_always_on_title">Vedno vklopljen</string>
-    <string name="ambient_display_always_on_summary">Prikaži čas, ikone obvestil in druge podatke. Povečana poraba akumulatorja.</string>
+    <string name="ambient_display_always_on_summary">Prikaži čas, ikone obvestil in druge podatke. Povečana poraba baterije.</string>
     <string name="tilt_sensor_title">Tipalo nagiba</string>
     <string name="pickup_sensor_title">Dvižno tipalo</string>
     <string name="proximity_sensor_title">Tipalo bližine</string>
@@ -100,7 +100,7 @@
     <string name="feedback_intensity_high">Visoka</string>
     <string name="dialog_ok">V redu</string>
     <string name="doze_settings_help_title">Pomoč</string>
-    <string name="doze_settings_help_text">Te značilnosti uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo energije akumulatorja. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo energije.</string>
+    <string name="doze_settings_help_text">Te značilnosti uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
     <string name="button_panel_title">Dodatni gumbi</string>
     <string name="button_swap_title">Zamenjaj gumbe</string>
     <string name="button_swap_summary">Zamenjaj vrstni red gumbov Nedavno in Nazaj</string>
