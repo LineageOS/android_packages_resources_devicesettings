@@ -116,4 +116,6 @@
     <string name="quick_charge_summary">Çelsi për karikim të shpejtë. Hiqni dhe vendosni sërish karikuesin pasi të ndryshoni këtë cilësim</string>
     <string name="camera_focus_fix_title">Rregullim i fokusit të kamerës</string>
     <string name="camera_focus_fix_summary">Mundësoje nëse ke probleme me fokusimin e kamerës</string>
+    <string name="wake_on_gesture_title">Zgjohuni me gjeste</string>
+    <string name="wake_on_gesture_summary">Zgjojeni pajisjen në vend që të pulsoni njoftime për ngjarjet e gjestit</string>
 </resources>
