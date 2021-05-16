@@ -102,6 +102,7 @@
     <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Pick-up</string>
     <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
+    <string name="pick_up_wake_gesture_summary">Wake device on pick-up</string>
 
     <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Pocket</string>
@@ -153,6 +154,9 @@
 
     <!-- Dialog texts -->
     <string name="dialog_ok">OK</string>
+
+    <!-- Generic texts -->
+    <string name="disabled">Disabled</string>
 
     <!-- Help texts -->
     <string name="doze_settings_help_title">Help</string>
