@@ -97,6 +97,7 @@
     <string name="feedback_intensity_medium">Середня</string>
     <string name="feedback_intensity_high">Висока</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Вимкнено</string>
     <string name="doze_settings_help_title">Допомога</string>
     <string name="doze_settings_help_text">Ці функції використовують події датчиків для показу сповіщень. Датчик перевіряється лише під час надходження нової події, що дозволяє економити заряд батареї. Можна активувати датчики одразу після вимкнення екрану пристрою, але це призведе до прискореного розряду батареї.</string>
     <string name="button_panel_title">Додаткові кнопки</string>

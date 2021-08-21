@@ -97,6 +97,7 @@
     <string name="feedback_intensity_medium">בינוני</string>
     <string name="feedback_intensity_high">חזק</string>
     <string name="dialog_ok">אישור</string>
+    <string name="disabled">מושבת</string>
     <string name="doze_settings_help_title">עזרה</string>
     <string name="doze_settings_help_text">התכונות נעזרות בחיישנים כדי להפעיל את נורית ההתראות עם Doze. החיישן הנבחר מופעל רק כאשר המכשיר מקבל התראה, מה שעוזר להקטין את השימוש בסוללה. בנוסף, ישנה אפשרות להפעיל את החיישן הנבחר ברגע שהמסך נכבה, מה שעלול לגרום לשימוש רב יותר בסוללה.</string>
     <string name="button_panel_title">מקשים נוספים</string>

@@ -99,6 +99,7 @@
     <string name="feedback_intensity_medium">Canolig</string>
     <string name="feedback_intensity_high">Uchel</string>
     <string name="dialog_ok">Iawn</string>
+    <string name="disabled">Wedi\'i analluogi</string>
     <string name="doze_settings_help_title">Cymorth</string>
     <string name="doze_settings_help_text">Mae\'r nodweddion hyn yn defnyddio digwyddiadau synhwyro i lansio curiad hysbysiadau hepian. Dyw\'r synhwyrydd a ddewisir ond wedi\'i alluogi pan mae\'r ddyfais yn derbyn hysbysiad, gan helpu lleihau defnydd o\'r batri. Mae hefyd opsiwn i alluogi\'r synhwyrydd a ddewisir yn syth pan mae\'r sgrin yn troi i ffwrdd, ond bydd hyn yn defnyddio mwy o\'r batri.</string>
     <string name="button_panel_title">Botymau ychwanegol</string>

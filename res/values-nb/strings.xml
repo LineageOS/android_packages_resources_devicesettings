@@ -94,6 +94,7 @@
     <string name="feedback_intensity_medium">Middels</string>
     <string name="feedback_intensity_high">Høy</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Deaktivert</string>
     <string name="doze_settings_help_title">Hjelp</string>
     <string name="doze_settings_help_text">Disse funksjonene bruker sensor aktiviteter for å starte en doze pulsering av varsler. Den valgte sensoren er bare slått på når du har fått et varsel, for å spare batteriet. Du kan også slå på slik at sensoren slår seg på når skjermen slår seg av, som vill tappe mer strøm.</string>
     <string name="button_panel_title">Flere knapper</string>

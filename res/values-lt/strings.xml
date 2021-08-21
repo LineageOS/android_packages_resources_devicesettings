@@ -39,4 +39,5 @@
     <string name="feedback_intensity_low">Žemas</string>
     <string name="feedback_intensity_medium">Vidutinis</string>
     <string name="feedback_intensity_high">Aukštas</string>
+    <string name="disabled">Neleidžiama</string>
 </resources>

@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Показывать уведомления только тогда, когда телефон лежит на плоской поверхности экраном вверх</string>
     <string name="pick_up_gesture_title">Поднять</string>
     <string name="pick_up_gesture_summary">Отображать уведомления при поднятии устройства</string>
+    <string name="pick_up_wake_gesture_summary">Пробуждать устройство при поднятии</string>
     <string name="pocket_gesture_title">Карман</string>
     <string name="pocket_gesture_summary">Отображать уведомления при извлечении устройства из кармана</string>
     <string name="proximity_wake_title">Включение по датчикам</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Средняя</string>
     <string name="feedback_intensity_high">Высокая</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Выключен</string>
     <string name="doze_settings_help_title">Информация</string>
     <string name="doze_settings_help_text">Эти функции используют события датчиков для отображения уведомлений. Датчик проверяется только при поступлении нового уведомления, что помогает сэкономить заряд батареи. Можно активировать включение датчика сразу при отключении экрана устройства, однако это может ускорить разряд батареи.</string>
     <string name="button_panel_title">Дополнительные кнопки</string>

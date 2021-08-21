@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Hanya berkedip jika ponsel menghadap ke atas di permukaan datar</string>
     <string name="pick_up_gesture_title">Ambil</string>
     <string name="pick_up_gesture_summary">Pemberitahuan berkedip pada saat diambil</string>
+    <string name="pick_up_wake_gesture_summary">Bangunkan perangkat saat diambil</string>
     <string name="pocket_gesture_title">Saku</string>
     <string name="pocket_gesture_summary">Pemberitahuan berkedip pada saat keluar dari saku</string>
     <string name="proximity_wake_title">Bangunkan saat dekat</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Sedang</string>
     <string name="feedback_intensity_high">Kuat</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Dinonaktifkan</string>
     <string name="doze_settings_help_title">Bantuan</string>
     <string name="doze_settings_help_text">Fitur-fitur ini menggunakan aktivitas sensor untuk meluncurkan pulse pemberitahuan tertidur. sensor yang dipilih hanya diaktifkan bila perangkat menerima pemberitahuan, ini membantu mengurangi penggunaan baterai. Ada juga pilihan untuk mengaktifkan sensor yang dipilih secepat layar mati, ini akan menyebabkan penggunaan baterai yang lebih tinggi.</string>
     <string name="button_panel_title">Tombol tambahan</string>

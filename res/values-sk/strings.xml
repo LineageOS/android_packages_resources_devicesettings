@@ -71,6 +71,7 @@ doprava pre daľšiu skladbu</string>
     <string name="hand_wave_gesture_flat_summary">Blikať iba v prípade, keď telefón leží na rovnej ploche položený obrazovkou nahor</string>
     <string name="pick_up_gesture_title">Zdvihnutie</string>
     <string name="pick_up_gesture_summary">Upozorniť blikaním pri zdvihnutí</string>
+    <string name="pick_up_wake_gesture_summary">Prebudiť zariadenie po zodvihnutí</string>
     <string name="pocket_gesture_title">Vrecko</string>
     <string name="pocket_gesture_summary">Upozorniť blikaním po vybratí z vrecka</string>
     <string name="proximity_wake_title">Prebudiť priblížením</string>
@@ -99,6 +100,7 @@ položený na plocho</string>
     <string name="feedback_intensity_medium">Stredná</string>
     <string name="feedback_intensity_high">Vysoká</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Zakázaná</string>
     <string name="doze_settings_help_title">Uživateľská príručka</string>
     <string name="doze_settings_help_text">Tieto funkcie používajú udalosti senzorov pre spustenie upozorňovania blikaním. Vybraný senzor je zapnutý iba v prípade prijatia upozornenia, čo vedie k úspore batérie. Je tu aj možnosť zapnúť daný senzor ihneď po vypnutí obrazovky, ale dochádza k vyššej spotrebe batérie.</string>
     <string name="button_panel_title">Ďalšie tlačidlá</string>

@@ -53,4 +53,5 @@
     <string name="feedback_intensity_low">କମ୍</string>
     <string name="feedback_intensity_medium">ମଧ୍ୟମ</string>
     <string name="feedback_intensity_high">ଉଚ୍ଚ</string>
+    <string name="disabled">ଅକ୍ଷମ ହୋଇଛି</string>
 </resources>

@@ -60,4 +60,5 @@
     <string name="feedback_intensity_low">Niddreg</string>
     <string name="feedback_intensity_medium">Mëttel</string>
     <string name="feedback_intensity_high">Héich</string>
+    <string name="disabled">Desaktivéiert</string>
 </resources>

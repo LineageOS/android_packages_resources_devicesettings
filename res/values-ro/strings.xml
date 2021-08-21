@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Pulsează numai dacă telefonul stă cu fața în jos pe o suprafață plată</string>
     <string name="pick_up_gesture_title">Ridicare</string>
     <string name="pick_up_gesture_summary">Pulsează notificările la ridicare</string>
+    <string name="pick_up_wake_gesture_summary">Trezește dispozitivul la ridicare</string>
     <string name="pocket_gesture_title">Buzunar</string>
     <string name="pocket_gesture_summary">Pulsează notificările la scoaterea din buzunar</string>
     <string name="proximity_wake_title">Trezire prin proximitate</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Medie</string>
     <string name="feedback_intensity_high">Ridicată</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Dezactivat</string>
     <string name="doze_settings_help_title">Ajutor</string>
     <string name="doze_settings_help_text">Aceste caracteristici utilizează evenimentele senzorilor pentru a lansa pulsul notificărilor doze. Senzorul ales este pornit numai când dispozitivul a primit o notificare, asta ajutând la reducerea utilizării bateriei. De asemenea, există o opțiune pentru a activa senzorul ales de îndată ce ecranul se stinge, asta cauzând o utilizare a bateriei mai mare.</string>
     <string name="button_panel_title">Butoane suplimentare</string>

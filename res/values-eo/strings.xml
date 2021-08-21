@@ -31,4 +31,5 @@
     <string name="feedback_intensity_low">Preskaŭ malplena</string>
     <string name="feedback_intensity_medium">Meza</string>
     <string name="feedback_intensity_high">Alta</string>
+    <string name="disabled">Malŝaltita</string>
 </resources>

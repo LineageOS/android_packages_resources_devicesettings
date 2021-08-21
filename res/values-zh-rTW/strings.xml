@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">僅在手機平放於平坦表面時閃爍呼吸燈</string>
     <string name="pick_up_gesture_title">拿起</string>
     <string name="pick_up_gesture_summary">拿起時閃爍呼吸燈</string>
+    <string name="pick_up_wake_gesture_summary">拿起時喚醒裝置</string>
     <string name="pocket_gesture_title">口袋</string>
     <string name="pocket_gesture_summary">從口袋中取出時閃爍呼吸燈</string>
     <string name="proximity_wake_title">距離喚醒</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">中</string>
     <string name="feedback_intensity_high">高</string>
     <string name="dialog_ok">確定</string>
+    <string name="disabled">已停用</string>
     <string name="doze_settings_help_title">說明</string>
     <string name="doze_settings_help_text">這些功能使用各種感應器來感測即可觸發休眠閃爍呼吸燈，所選的感應器僅在裝置收到通知時才被啟動，達致減低耗電量。此外還有一個選項可以在每當螢幕關閉時馬上啟動感應器，當然這會消耗更多的電量。</string>
     <string name="button_panel_title">更多按鍵</string>
@@ -115,4 +117,10 @@
     <string name="fingerprint_sleep_summary">按下指紋感應器來關閉螢幕</string>
     <string name="high_touch_sensitivity_title">高觸控靈敏度</string>
     <string name="high_touch_sensitivity_summary">增加觸控螢幕的靈敏度，因此戴著手套也可以使用手機</string>
+    <string name="quick_charge_title">快速充電</string>
+    <string name="quick_charge_summary">切換快速充電。更改此設定後，請拔下充電器並重新插入</string>
+    <string name="camera_focus_fix_title">相機對焦修復</string>
+    <string name="camera_focus_fix_summary">如果您的相機有對焦問題，請啟用此選項</string>
+    <string name="wake_on_gesture_title">以手勢喚醒裝置</string>
+    <string name="wake_on_gesture_summary">手勢事件喚醒裝置而非顯示通知</string>
 </resources>

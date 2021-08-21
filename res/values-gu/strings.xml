@@ -58,4 +58,5 @@
     <string name="feedback_intensity_low">નિમ્ન</string>
     <string name="feedback_intensity_medium">મધ્યમ</string>
     <string name="feedback_intensity_high">ઉચ્ચ</string>
+    <string name="disabled">અક્ષમ</string>
 </resources>

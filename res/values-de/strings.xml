@@ -24,7 +24,7 @@
     <string name="touchscreen_gesture_haptic_feedback">Haptisches Feedback</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibrieren, wenn eine Bildschirmgeste erkannt wurde</string>
     <string name="touchscreen_gesture_settings_title">Bildschirmgesten</string>
-    <string name="touchscreen_gesture_settings_summary">Führen Sie durch verschiedene Bildschirmgesten einige schnelle Aktionen aus</string>
+    <string name="touchscreen_gesture_settings_summary">Führe durch verschiedene Bildschirmgesten einige schnelle Aktionen aus</string>
     <string name="gesture_display_title">Bildschirm mit Gesten einschalten</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_c_gesture_summary">\"C\" zeichnen, um die Kamera zu starten</string>
@@ -55,12 +55,12 @@
     <string name="user_aware_display_summary">Den Bildschirm aktiv halten, solange sich vor ihm ein Benutzer befindet</string>
     <string name="ambient_display_title">Inaktivitätsdisplay</string>
     <string name="ambient_display_enable_title">Inaktivitätsdisplay</string>
-    <string name="ambient_display_enable_summary">Bildschirm aktivieren, wenn Sie Benachrichtigungen erhalten</string>
+    <string name="ambient_display_enable_summary">Bildschirm aktivieren, wenn du Benachrichtigungen erhältst</string>
     <string name="ambient_display_gestures_title">Inaktivitätsdisplay-Gesten</string>
     <string name="ambient_display_gestures_summary">Zusätzliche Gesten zum Aufwecken des Displays</string>
-    <string name="ambient_display_summary">Bildschirm einschalten, wenn Sie Benachrichtigungen erhalten</string>
-    <string name="ambient_display_summary_on">Bildschirm wird eingeschalten, wenn Sie Benachrichtigungen erhalten</string>
-    <string name="ambient_display_summary_off">Bildschirm wird nicht eingeschalten, wenn Sie Benachrichtigungen erhalten</string>
+    <string name="ambient_display_summary">Bildschirm einschalten, wenn du Benachrichtigungen erhältst</string>
+    <string name="ambient_display_summary_on">Bildschirm wird eingeschaltet, wenn du Benachrichtigungen erhältst</string>
+    <string name="ambient_display_summary_off">Bildschirm wird nicht eingeschaltet, wenn du Benachrichtigungen erhältst</string>
     <string name="ambient_display_always_on_title">Immer aktiviert</string>
     <string name="ambient_display_always_on_summary">Uhrzeit, Benachrichtigungssymbole und weitere Informationen anzeigen. Erhöht den Akkuverbrauch.</string>
     <string name="tilt_sensor_title">Neigungssensor</string>
@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Nur pulsieren, wenn das Telefon mit dem Display nach oben auf einer ebenen Fläche liegt</string>
     <string name="pick_up_gesture_title">Aufheben</string>
     <string name="pick_up_gesture_summary">Benachrichtigungen kurz einblenden, wenn das Gerät aufgehoben wird</string>
+    <string name="pick_up_wake_gesture_summary">Gerät beim Anheben aufwecken</string>
     <string name="pocket_gesture_title">Tasche</string>
     <string name="pocket_gesture_summary">Benachrichtigungen kurz einblenden, wenn das Gerät aus der Tasche genommen wird</string>
     <string name="proximity_wake_title">Aufwecken bei Annäherung</string>
@@ -86,9 +87,9 @@
     <string name="hand_wave_silencer_summary">Eingehende Anrufe durch Winken über den Bildschirm stummschalten</string>
     <string name="flip_to_mute_title">Umdrehen für \"Nicht Stören\"</string>
     <string name="flip_to_mute_summary">Das Telefon mit dem Display nach unten ablegen, um Benachrichtigungen und Anrufe stumm zu schalten</string>
-    <string name="dnd_access">Bitte geben Sie CMActions Zugriff auf \"Nicht Stören\", um diese Funktion zu nutzen.</string>
+    <string name="dnd_access">Bitte gib CMActions Zugriff auf \"Nicht Stören\", um diese Funktion zu nutzen.</string>
     <string name="lift_to_silence_title">Aufheben, um das Klingeln zu beenden</string>
-    <string name="lift_to_silence_summary">Eingehende Anrufe durch das Aufheben des Telefons stummschalten. Funktioniert nur, wenn Ihr Telefon zuvor flach auflag</string>
+    <string name="lift_to_silence_summary">Eingehende Anrufe durch das Aufheben des Telefons stummschalten. Funktioniert nur, wenn dein Telefon zuvor flach auflag</string>
     <string name="action_none">Deaktivieren</string>
     <string name="action_launch_camera">Kamera starten</string>
     <string name="action_torch">Taschenlampe</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Normal</string>
     <string name="feedback_intensity_high">Stark</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Deaktiviert</string>
     <string name="doze_settings_help_title">Hilfe</string>
     <string name="doze_settings_help_text">Diese Features verwenden Sensoren, um im Standby kurz Benachrichtigungen einzublenden. Der gewählte Sensor wird nur bei Eingang einer Benachrichtigung aktiviert. Dies hilft dabei, den Stromverbrauch zu reduzieren. Alternativ kann der Sensor sofort beim Abschalten des Bildschirms aktiviert werden, wodurch sich jedoch der Stromverbrauch erhöht.</string>
     <string name="button_panel_title">Weitere Tasten</string>

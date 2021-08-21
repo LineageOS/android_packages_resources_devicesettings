@@ -69,6 +69,7 @@
     <string name="hand_wave_gesture_flat_summary">Pulso vetëm nëse telefoni ështe vendosur përballe, në një sipërfaqe të sheshtë</string>
     <string name="pick_up_gesture_title">Ngritja</string>
     <string name="pick_up_gesture_summary">Shfaq njoftimet kur e ngre</string>
+    <string name="pick_up_wake_gesture_summary">Zgjo telefonin kur të preket</string>
     <string name="pocket_gesture_title">Xhepi</string>
     <string name="pocket_gesture_summary">Shfaq njoftimet kur e nxjerr nga xhepi</string>
     <string name="proximity_wake_title">Aktivizimi prej afërsisë</string>
@@ -96,6 +97,7 @@
     <string name="feedback_intensity_medium">Mesatar</string>
     <string name="feedback_intensity_high">I lartë</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">I çaktivizuar</string>
     <string name="doze_settings_help_title">Ndihmë</string>
     <string name="doze_settings_help_text">Këto funksione përdorin sensorin për të shfaqur njoftimet në modalitetin Doze. Sensori i zgjedhur aktivizohet vetëm kur pajisja merr një njoftim, dhe kjo ndihmon në reduktimin e përdorimit të baterisë. Ka edhe një opsion për të aktivizuar sensorin e zgjedhur menjëherë pasi ekrani të fiket. Ky opsion do të bëjë që bateria të përdoret më shumë.</string>
     <string name="button_panel_title">Butona të tjerë</string>
@@ -116,4 +118,6 @@
     <string name="quick_charge_summary">Çelsi për karikim të shpejtë. Hiqni dhe vendosni sërish karikuesin pasi të ndryshoni këtë cilësim</string>
     <string name="camera_focus_fix_title">Rregullim i fokusit të kamerës</string>
     <string name="camera_focus_fix_summary">Mundësoje nëse ke probleme me fokusimin e kamerës</string>
+    <string name="wake_on_gesture_title">Zgjohuni me gjeste</string>
+    <string name="wake_on_gesture_summary">Zgjojeni pajisjen në vend që të pulsoni njoftime për ngjarjet e gjestit</string>
 </resources>

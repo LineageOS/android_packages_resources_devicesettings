@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Értesítések felvillantása csak akkor, ha a telefon kijelzővel felfelé fekszik sima felületen</string>
     <string name="pick_up_gesture_title">Kézbevétel</string>
     <string name="pick_up_gesture_summary">Értesítések felvillantása kézbevételkor</string>
+    <string name="pick_up_wake_gesture_summary">Készülékébresztés felemeléskor</string>
     <string name="pocket_gesture_title">Zseb</string>
     <string name="pocket_gesture_summary">Értesítések felvillantása zsebből való kivételkor</string>
     <string name="proximity_wake_title">Közelség ébresztés</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Közepes</string>
     <string name="feedback_intensity_high">Magas</string>
     <string name="dialog_ok">Rendben</string>
+    <string name="disabled">Letiltva</string>
     <string name="doze_settings_help_title">Súgó</string>
     <string name="doze_settings_help_text">Ezen funkció az érzékelő eseményeket használja a környezeti kijelző értesítési impulzusaihoz. A választott érzékelő csak akkor engedélyezett, ha a készülék értesítést kap, ez segít csökkenteni az akkumulátor használatát. Lehetőség van a választott érzékelő engedélyezésére is, amint a képernyő kikapcsol, de ez nagyobb akkumulátor használatot jelent.</string>
     <string name="button_panel_title">További gombok</string>

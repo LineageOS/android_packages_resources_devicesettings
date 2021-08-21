@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Sadece telefonun ekranı yukarı bakacak şekilde düz bir yüzeyde duruyor ise uyansın</string>
     <string name="pick_up_gesture_title">Telefonu kaldır</string>
     <string name="pick_up_gesture_summary">Telefonu kaldırınca bildirimleri göster</string>
+    <string name="pick_up_wake_gesture_summary">Cihazı alırken uyandır</string>
     <string name="pocket_gesture_title">Cep</string>
     <string name="pocket_gesture_summary">Cepten çıkarınca bildirimleri göster</string>
     <string name="proximity_wake_title">Harekette uyandır</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Orta</string>
     <string name="feedback_intensity_high">Yüksek</string>
     <string name="dialog_ok">Tamam</string>
+    <string name="disabled">Devre dışı</string>
     <string name="doze_settings_help_title">Yardım</string>
     <string name="doze_settings_help_text">Bu özellik bildirim ekranını başlatmak için sensörleri kullanır. Seçilen sensör sadece cihaz bildirim aldığında etkinleştirilir, pil kullanımını azaltmaya yardımcı olur. Ekran kapandığında seçilen sensörü etkinleştirmek için bir seçenek de vardır, fakat bu daha yüksek pil kullanımına neden olur.</string>
     <string name="button_panel_title">Ek tuşlar</string>

@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Utripaj samo, če telefon leži na ravni površini obrnjen navzgor</string>
     <string name="pick_up_gesture_title">Dvig</string>
     <string name="pick_up_gesture_summary">Utripajoča obvestila ob dvigu</string>
+    <string name="pick_up_wake_gesture_summary">Zbudi napravo ob dvigu</string>
     <string name="pocket_gesture_title">Žep</string>
     <string name="pocket_gesture_summary">Utripajoča obvestila ob odstranitvi iz žepa</string>
     <string name="proximity_wake_title">Bujenje ob bližini</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Srednja</string>
     <string name="feedback_intensity_high">Visoka</string>
     <string name="dialog_ok">V redu</string>
+    <string name="disabled">Onemogočeno</string>
     <string name="doze_settings_help_title">Pomoč</string>
     <string name="doze_settings_help_text">Te značilnosti uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
     <string name="button_panel_title">Dodatni gumbi</string>

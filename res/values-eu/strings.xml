@@ -99,6 +99,7 @@
     <string name="feedback_intensity_medium">Ertaina</string>
     <string name="feedback_intensity_high">Altua</string>
     <string name="dialog_ok">Ados</string>
+    <string name="disabled">Ezgaituta</string>
     <string name="doze_settings_help_title">Laguntza</string>
     <string name="doze_settings_help_text">Ezaugarri hauek sentsoreen gertakizunak erabiltzen dituzte jakinarazpen argi bat pizteko. Sentsorea jakinarazpen bat jasotzean gaituko da, honi esker bateria erabilera murrizten da. Badago ere pantaila itzali eta berehala sentsorea pizteko aukera, honek bateria gehiago erabiliko du.</string>
     <string name="button_panel_title">Botoi gehigarriak</string>

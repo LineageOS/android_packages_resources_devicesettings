@@ -53,4 +53,5 @@
     <string name="feedback_intensity_low">കുറഞ്ഞ</string>
     <string name="feedback_intensity_medium">മിതമായ</string>
     <string name="feedback_intensity_high">വലിയ</string>
+    <string name="disabled">ഇല്ലാതാകി</string>
 </resources>

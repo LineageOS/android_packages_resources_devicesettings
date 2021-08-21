@@ -57,6 +57,7 @@
     <string name="feedback_intensity_low">ಕಡಿಮೆ</string>
     <string name="feedback_intensity_medium">ಮಾಧ್ಯಮ</string>
     <string name="feedback_intensity_high">ಅಧಿಕ</string>
+    <string name="disabled">ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ</string>
     <string name="high_touch_sensitivity_title">ಅಧಿಕ ಸ್ಪರ್ಶ ಸಂವೇದನೆ</string>
     <string name="high_touch_sensitivity_summary">ಸ್ಪರ್ಶಪರದೆ ಸಂವೇದನೆ ವೃದ್ಧಿಸಿದರೆ ಕೈಗವಸ ಧರಿಸಿಯೂ ಬಳಸಬಹುದು</string>
 </resources>

@@ -26,5 +26,6 @@
     <string name="feedback_intensity_medium">Mèdia</string>
     <string name="feedback_intensity_high">Arta</string>
     <string name="dialog_ok">AB</string>
+    <string name="disabled">Disabilitadu</string>
     <string name="doze_settings_help_title">Agiudu</string>
 </resources>

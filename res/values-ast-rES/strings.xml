@@ -99,6 +99,7 @@
     <string name="feedback_intensity_medium">Media</string>
     <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">ACEUTAR</string>
+    <string name="disabled">Deshabilitada</string>
     <string name="doze_settings_help_title">Ayuda</string>
     <string name="doze_settings_help_text">Estes carauterístiques usen los eventos del sensor pa llanzar un avisu doze. El sensor esbilláu namái s\'habilita cuando\'l preséu recibe un avisu, esto ayuda a amenorgar l\'usu de batería. Tamién hai una opción p\'habilitar el sensor escoyíu namái s\'apague la pantalla, esto causará un usu más altu de batería.</string>
     <string name="button_panel_title">Botones adicionales</string>

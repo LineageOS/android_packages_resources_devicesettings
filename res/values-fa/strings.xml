@@ -41,4 +41,5 @@
     <string name="feedback_intensity_low">کم</string>
     <string name="feedback_intensity_medium">متوسط</string>
     <string name="feedback_intensity_high">زیاد</string>
+    <string name="disabled">غیرفعال</string>
 </resources>

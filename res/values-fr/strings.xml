@@ -99,6 +99,7 @@
     <string name="feedback_intensity_medium">Moyenne</string>
     <string name="feedback_intensity_high">Élevée</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Désactivé</string>
     <string name="doze_settings_help_title">Aide</string>
     <string name="doze_settings_help_text">Ces fonctionnalités utilisent des capteurs pour afficher les notifications en mode sommeil. Le capteur choisi est activé uniquement lorsque l\'appareil reçoit une notification, cela aide à réduire l\'utilisation de la batterie. Il y a également une option pour activer le capteur choisi aussitôt que l\'écran s\'éteint, mais cela causera une utilisation plus importante de la batterie.</string>
     <string name="button_panel_title">Boutons supplémentaires</string>

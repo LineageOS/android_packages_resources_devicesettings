@@ -99,6 +99,7 @@
     <string name="feedback_intensity_medium">Średnia</string>
     <string name="feedback_intensity_high">Wysoka</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Wyłączona</string>
     <string name="doze_settings_help_title">Pomoc</string>
     <string name="doze_settings_help_text">Te funkcje używają czujników, aby pokazywać powiadomienia tylko w odpowiednim momencie. Czujniki są wykorzystywane, kiedy telefon odbierze powiadomienie. Pozwala to w oszczędzaniu baterii. Istnieje również możliwość, aby włączyć wybrany czujnik zaraz po wyłączeniu ekranu, spowoduje to większe zużycie baterii.</string>
     <string name="button_panel_title">Dodatkowe przyciski</string>

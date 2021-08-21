@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">휴대전화를 평평한 곳에 앞면으로 두었을 때만 알림 표시</string>
     <string name="pick_up_gesture_title">기기 들기</string>
     <string name="pick_up_gesture_summary">기기를 들면 알림 표시</string>
+    <string name="pick_up_wake_gesture_summary">기기를 들어 깨우기</string>
     <string name="pocket_gesture_title">주머니</string>
     <string name="pocket_gesture_summary">주머니에서 꺼내면 알림 표시</string>
     <string name="proximity_wake_title">근접 깨우기</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">중간</string>
     <string name="feedback_intensity_high">높게</string>
     <string name="dialog_ok">확인</string>
+    <string name="disabled">끄기</string>
     <string name="doze_settings_help_title">도움말</string>
     <string name="doze_settings_help_text">해당 기능은 잠자기 모드 알림 깜빡임을 시작하기 위해 센서 이벤트를 사용합니다. 선택된 센서는 알림을 받았을 때만 작동하며, 이는 배터리 사용량을 줄이는 데 도움이 됩니다. 화면이 꺼지면 선택된 센서를 활성화시키는 옵션도 있으며, 이는 배터리 사용량 증가의 원인이 될 수 있습니다.</string>
     <string name="button_panel_title">기타 버튼</string>

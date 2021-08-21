@@ -60,4 +60,5 @@
     <string name="feedback_intensity_low">تۆۋەن</string>
     <string name="feedback_intensity_medium">ئوتتۇرا</string>
     <string name="feedback_intensity_high">يۇقىرى</string>
+    <string name="disabled">چەكلەنگەن</string>
 </resources>

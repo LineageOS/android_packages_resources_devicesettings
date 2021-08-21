@@ -23,8 +23,8 @@
     <string name="touchscreen_gesture_extras">Nithean a bharrachd</string>
     <string name="touchscreen_gesture_haptic_feedback">Freagairt suathaidh</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Dèan crith nuair a thèid mothachadh air gluasad sgrìn-shuathaidh</string>
-    <string name="touchscreen_gesture_settings_title">Gluasadan na sgrìn-suathaidh</string>
-    <string name="touchscreen_gesture_settings_summary">Cleachd gluasadan sgrìn-suathaidh airson gnìomhan luatha</string>
+    <string name="touchscreen_gesture_settings_title">Gluasadan na sgrìn-shuathaidh</string>
+    <string name="touchscreen_gesture_settings_summary">Cleachd gluasadan sgrìn-shuathaidh airson gnìomhan luatha</string>
     <string name="gesture_display_title">Gluasadan le sgrìn dheth</string>
     <string name="touchscreen_c_gesture_title">Camara</string>
     <string name="touchscreen_c_gesture_summary">Tarraing “C” a dh’fhosgladh a’ chamara</string>
@@ -45,12 +45,12 @@
     <string name="touchscreen_music_gesture_title">Ceòl</string>
     <string name="touchscreen_music_gesture_summary">Cleachd gluasadan airson cluich a’ chiùil a stiùireadh \n
     • Grad-shlaighd sìos airson cluich/cur ’na stad\n
-    • Grad-shlaighd gun taobh chlì airson an traca roimhe\n
-    • Grad-shlaighd gun taobh deas airson an t-ath-traca</string>
+    • Grad-shlaighd gu clì airson an traca roimhe\n
+    • Grad-shlaighd gu deas airson an t-ath-traca</string>
     <string name="touchscreen_swipe_up_title">Grad-shlaighd suas</string>
-    <string name="touchscreen_swipe_right_title">Grad-shlaighd gun taobh deas</string>
+    <string name="touchscreen_swipe_right_title">Grad-shlaighd gu deas</string>
     <string name="touchscreen_swipe_down_title">Grad-shlaighd sìos</string>
-    <string name="touchscreen_swipe_left_title">Grad-shlaighd gun taobh chlì</string>
+    <string name="touchscreen_swipe_left_title">Grad-shlaighd gu clì</string>
     <string name="user_aware_display_title">Sgrìn a mhothaicheas dhan chleachdaiche</string>
     <string name="user_aware_display_summary">Cùm an sgìn air fhad ’s a bhios cleachdaiche air a beulaibh</string>
     <string name="ambient_display_title">Taisbeanadh cuairteach</string>
@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Na dèan frith-bhualadh ach nuair a bhios am fòn ’na laighe air uachdair rèidh le aghaidh os a chionn</string>
     <string name="pick_up_gesture_title">Togail</string>
     <string name="pick_up_gesture_summary">Dèan frith-bhualadh nam brathan nuair a thèid a thogail</string>
+    <string name="pick_up_wake_gesture_summary">Dùisg an t-uidheam nuair a thogar e</string>
     <string name="pocket_gesture_title">Pòcaid</string>
     <string name="pocket_gesture_summary">Brathan crith nuair a bheirear às a’ phòcaid e</string>
     <string name="proximity_wake_title">Dùsgadh fagasachd</string>
@@ -99,11 +100,12 @@
     <string name="feedback_intensity_medium">Meadhanach</string>
     <string name="feedback_intensity_high">Àrd</string>
     <string name="dialog_ok">Ceart ma-thà</string>
+    <string name="disabled">À comas</string>
     <string name="doze_settings_help_title">Cobhair</string>
     <string name="doze_settings_help_text">Cleachdaidh na gleusan seo tachartasan mhothaichearan airson frith-bhualadh brath cadail. Cha bhi am mothaichear a thagh thu an comas ach nuair a gheibh an t-uidheam brath; cuidichidh seo le caomhnadh a’ bhataraidh. Tha roghainn ann cuideachd a chuireas am mothaichear a thagh thu an comas mu thràth nuair a thèid an sgrìn a chur dheth agus thèid barrachd dhen bhataraidh a chaitheamh le sin.</string>
     <string name="button_panel_title">Barrachd phutan</string>
     <string name="button_swap_title">Dèan iomlaid phutanan</string>
-    <string name="button_swap_summary">Cuir am putan “O chionn ghoirid” ’s am putan “Air ais” an àite càch a chèile</string>
+    <string name="button_swap_summary">Cuir am putan “O chionn goirid” ’s am putan “Air ais” an àite càch a chèile</string>
     <string name="fingerprint_title">Lorg-mheòir</string>
     <string name="fingerprint_as_home_title">Lorg-mheòir ’na dhachaigh</string>
     <string name="fingerprint_as_home_summary">Cleachd mothaichear nan lorgan-meòir ’na phutan “Dhachaigh”</string>
@@ -114,5 +116,11 @@
     <string name="fingerprint_sleep_title">Cadal luirg-mheòir</string>
     <string name="fingerprint_sleep_summary">Brùth air mothaichear nan lorgan-meòir gus an sgrìn a chur dheth</string>
     <string name="high_touch_sensitivity_title">Mothalachd àrd air an t-suathadh</string>
-    <string name="high_touch_sensitivity_summary">Meudaich mothalachd na sgrìn-suathaidh ach an gabh a cleachdadh le miotagan</string>
+    <string name="high_touch_sensitivity_summary">Meudaich mothalachd na sgrìn-shuathaidh ach an gabh a cleachdadh le miotagan</string>
+    <string name="quick_charge_title">Teàirrdseadh luath</string>
+    <string name="quick_charge_summary">Toglaich an teàirrdseadh luath. Thoir a-mach is cuir a-steach an t-inneal-teàirrdsidh às dèidh an roghainn seo atharrachadh</string>
+    <string name="camera_focus_fix_title">Càraich fòcas a’ chamara</string>
+    <string name="camera_focus_fix_summary">Cuir seo an comas ma tha duilgheadasan le fòcas a’ chamara ann</string>
+    <string name="wake_on_gesture_title">Dùisg le gluasadan</string>
+    <string name="wake_on_gesture_summary">Dùisg an t-uidheam seach brathan boillsgidh nuair a bhios tachartas gluasaid ann</string>
 </resources>

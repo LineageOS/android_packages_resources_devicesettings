@@ -33,4 +33,5 @@
     <string name="feedback_intensity_low">低</string>
     <string name="feedback_intensity_medium">中</string>
     <string name="feedback_intensity_high">高</string>
+    <string name="disabled">已停用</string>
 </resources>

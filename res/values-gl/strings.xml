@@ -99,6 +99,7 @@
     <string name="feedback_intensity_medium">Media</string>
     <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">ACEPTAR</string>
+    <string name="disabled">Desactivado</string>
     <string name="doze_settings_help_title">Axuda</string>
     <string name="doze_settings_help_text">Estas características usan eventos do sensor para amosar unha notificación latente. O sensor seleccionado habilitarase só cando reciba unha notificación axudando a reducir o consumo da batería. Tamén existe unha opción para activar o sensor así que se apague a pantalla, pero isto causará un maior uso da batería.</string>
     <string name="button_panel_title">Botóns adicionais</string>

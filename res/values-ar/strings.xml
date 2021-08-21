@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">النبض فقط إذا كان الهاتف وجهه لأعلى وعلى سطح مستوي</string>
     <string name="pick_up_gesture_title">الإلتقاط</string>
     <string name="pick_up_gesture_summary">إشعارات نبضية عند التقاط الهاتف</string>
+    <string name="pick_up_wake_gesture_summary">إيقاظ الجهاز عند الالتقاط</string>
     <string name="pocket_gesture_title">الجيب</string>
     <string name="pocket_gesture_summary">إخطارات انبثاقية عند الإخراج من الجيب</string>
     <string name="proximity_wake_title">ايقاظ تقريبي</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">متوسطة</string>
     <string name="feedback_intensity_high">عالية</string>
     <string name="dialog_ok">موافق</string>
+    <string name="disabled">تعطيل</string>
     <string name="doze_settings_help_title">مساعدة</string>
     <string name="doze_settings_help_text">هذه المزايا تستخدم أحداث الحساس لبدء إشعار نبضي للسبات. حيث يتم تفعيل الحساس المختار فقط عند استلام إشعار، وهذا يساعد على تقليل استخدام البطارية. ويوجد أيضًا خيار لتفعيل الحساس المختار حالما تغلق الشاشة، ولكن هذا سيزيد من استخدام البطارية.</string>
     <string name="button_panel_title">أزرار إضافية</string>
@@ -115,4 +117,10 @@
     <string name="fingerprint_sleep_summary">اضغط على حساس بصمة الأصبع لإيقاف تشغيل الشاشة</string>
     <string name="high_touch_sensitivity_title">حساسية عالية للمس الشاشة</string>
     <string name="high_touch_sensitivity_summary">زيادة حساسية شاشة اللمس حتى يمكن استخدامها أثناء ارتداء القفازات</string>
+    <string name="quick_charge_title">الشحن السريع</string>
+    <string name="quick_charge_summary">تبديل وضع الشحن السريع. قم بإعادة توصيل الشاحن بعد تغيير هذا الإعداد</string>
+    <string name="camera_focus_fix_title">تثبيت تركيز الكاميرا</string>
+    <string name="camera_focus_fix_summary">فعلها إن كانت هناك مشاكل في تركيز الكاميرا</string>
+    <string name="wake_on_gesture_title">إيقاظ عند الإيماءات</string>
+    <string name="wake_on_gesture_summary">إيقاظ الجهاز بدلاً من نبض الإشعارات على أحداث الإيماءات</string>
 </resources>

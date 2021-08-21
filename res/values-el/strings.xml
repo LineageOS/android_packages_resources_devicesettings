@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Παλμός μόνο εάν το τηλέφωνο είναι ξαπλωμένο σε επίπεδη επιφάνεια</string>
     <string name="pick_up_gesture_title">Σήκωμα συσκευής</string>
     <string name="pick_up_gesture_summary">Παλμός ειδοποιήσεων κατά το σήκωμα της συσκευής</string>
+    <string name="pick_up_wake_gesture_summary">Αφύπνιση της συσκευής κατά το σήκωμα</string>
     <string name="pocket_gesture_title">Τσέπη</string>
     <string name="pocket_gesture_summary">Παλμός ειδοποιήσεων κατά την έξοδο από την τσέπη</string>
     <string name="proximity_wake_title">Αφύπνιση εγγύτητας</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Μέτρια</string>
     <string name="feedback_intensity_high">Υψηλή</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Ανενεργή</string>
     <string name="doze_settings_help_title">Βοήθεια</string>
     <string name="doze_settings_help_text">Αυτά τα χαρακτηριστικά χρησιμοποιούν τον αισθητήρα για να εκκινήσουν ένα παλμό ειδοποίησης. Ο επιλεγμένος αισθητήρας είναι ενεργός μόνο όταν η συσκευή λαμβάνει μία ειδοποίηση, αυτό βοηθάει στη μείωση χρήσης μπαταρίας. Υπάρχει επίσης μία επιλογή για ενεργοποίηση του επιλεγμένου αισθητήρα με το που απενεργοποιείται η οθόνη, αυτό θα επιφέρει μεγαλύτερη χρήση μπαταρίας.</string>
     <string name="button_panel_title">Πρόσθετα πλήκτρα</string>

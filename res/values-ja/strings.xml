@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">端末が平らな面で上向きになっているときだけ点滅表示します</string>
     <string name="pick_up_gesture_title">持ち上げ</string>
     <string name="pick_up_gesture_summary">端末を持ち上げたときに通知を点滅表示する</string>
+    <string name="pick_up_wake_gesture_summary">持ち上げた時に端末をスリープ解除する</string>
     <string name="pocket_gesture_title">ポケット</string>
     <string name="pocket_gesture_summary">ポケットから取り出したときに通知を点滅表示する</string>
     <string name="proximity_wake_title">接近スリープ解除</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">標準</string>
     <string name="feedback_intensity_high">強い</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">無効</string>
     <string name="doze_settings_help_title">ヘルプ</string>
     <string name="doze_settings_help_text">これらの機能は、Doze通知点滅表示を起動するためにセンサーイベントを使用します。電池の使用量を削減するために、端末が通知を受信した時にのみ選択したセンサーが有効になります。画面を消灯した直後から選択したセンサーを有効にするオプションもありますが、電池の使用量が多くなります。</string>
     <string name="button_panel_title">追加のボタン</string>
@@ -115,4 +117,10 @@
     <string name="fingerprint_sleep_summary">指紋センサーを押すと画面を消灯します</string>
     <string name="high_touch_sensitivity_title">高感度タッチ</string>
     <string name="high_touch_sensitivity_summary">手袋を着けたまま使用できるようにタッチ画面の感度を向上させます</string>
+    <string name="quick_charge_title">急速充電</string>
+    <string name="quick_charge_summary">急速充電を切り替えます。この設定の変更後は充電器を抜き差しして下さい。</string>
+    <string name="camera_focus_fix_title">カメラフォーカス時の問題を修正する</string>
+    <string name="camera_focus_fix_summary">カメラのフォーカスに問題がある場合は有効にしてください</string>
+    <string name="wake_on_gesture_title">ジェスチャーでスリープを解除する</string>
+    <string name="wake_on_gesture_summary">ジェスチャー動作によって通知を点滅表示させる代わりに端末を復帰させます</string>
 </resources>

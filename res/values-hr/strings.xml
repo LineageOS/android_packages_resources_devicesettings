@@ -61,6 +61,7 @@
     <string name="ambient_display_summary">Probudi zaslon kada primite obavijesti</string>
     <string name="ambient_display_summary_on">Zaslon će se probuditi kad primite obavijesti</string>
     <string name="ambient_display_summary_off">Zaslon se neće probuditi kad primite obavijesti</string>
+    <string name="ambient_display_always_on_title">Always On</string>
     <string name="tilt_sensor_title">Senzor nagiba</string>
     <string name="pickup_sensor_title">Senzor podizanja</string>
     <string name="proximity_sensor_title">Senzor blizine</string>
@@ -70,6 +71,7 @@
     <string name="hand_wave_gesture_flat_summary">Pulsiraj samo ako telefon leži licem prema gore na ravnoj površini</string>
     <string name="pick_up_gesture_title">Podizanje</string>
     <string name="pick_up_gesture_summary">Prikaz obavijesti kod podizanja</string>
+    <string name="pick_up_wake_gesture_summary">Probudi uređaj kod podizanja</string>
     <string name="pocket_gesture_title">Džep</string>
     <string name="pocket_gesture_summary">Prikaz obavijesti kada izvadite uređaj iz džepa</string>
     <string name="proximity_wake_title">Probudi zaslon na blizinu</string>
@@ -97,6 +99,7 @@
     <string name="feedback_intensity_medium">Srednje</string>
     <string name="feedback_intensity_high">Visoka</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Onemogućeno</string>
     <string name="doze_settings_help_title">Pomoć</string>
     <string name="doze_settings_help_text">Te značajke koriste događaje senzora za pokretanje pulsiranja obavijesti. Odabrani senzor je omogućen jedino kada uređaj primi obavijest, to pomaže smanjenju potrošnje baterije. Tu je i opcija omogućenja odabranog senzora čim se zaslon isključi, to će uzrokovati veću potrošnju baterije.</string>
     <string name="button_panel_title">Dodatne tipke</string>

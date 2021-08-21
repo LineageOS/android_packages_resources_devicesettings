@@ -97,6 +97,7 @@
     <string name="feedback_intensity_medium">Средњи</string>
     <string name="feedback_intensity_high">Висок</string>
     <string name="dialog_ok">У реду</string>
+    <string name="disabled">Онемогућен</string>
     <string name="doze_settings_help_title">Помоћ</string>
     <string name="doze_settings_help_text">Ова функција користи активирање сензора да покрене пулсно обавештење. Изабрани сензор је омогућен једино када уређај прима обавештење, то помаже смањењу потрожње батерије. Ту је и опција омогућења изабраног сензора чим се екран искључи, то ће узроковати већој потрожњи батерије.</string>
     <string name="button_panel_title">Додатна дугмад</string>

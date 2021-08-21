@@ -47,6 +47,7 @@
     <string name="hand_wave_gesture_summary">Näita teavitust käe viibutusele</string>
     <string name="pick_up_gesture_title">Tõsta üles</string>
     <string name="pick_up_gesture_summary">Kuva teavitusi seadme tõstmisel</string>
+    <string name="pick_up_wake_gesture_summary">Ärata seade ülestõstuga</string>
     <string name="pocket_gesture_title">Tasku</string>
     <string name="pocket_gesture_summary">Näita teavitusi taskust välja võtmisel</string>
     <string name="proximity_wake_title">Läheduse äratus</string>
@@ -61,6 +62,7 @@
     <string name="feedback_intensity_low">Madal</string>
     <string name="feedback_intensity_medium">Keskmine</string>
     <string name="feedback_intensity_high">Kõrge</string>
+    <string name="disabled">Keelatud</string>
     <string name="high_touch_sensitivity_title">Kõrge puutetundlikus</string>
     <string name="high_touch_sensitivity_summary">Ekraani puutetundlikkuse suurendamine, et kasutada ekraani kinnastega</string>
     <string name="quick_charge_title">Kiirlaadimine</string>

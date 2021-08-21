@@ -53,4 +53,5 @@
     <string name="feedback_intensity_low">తక్కువ</string>
     <string name="feedback_intensity_medium">మధ్యరకం</string>
     <string name="feedback_intensity_high">ఎక్కువ</string>
+    <string name="disabled">డిసేబల్ద్</string>
 </resources>

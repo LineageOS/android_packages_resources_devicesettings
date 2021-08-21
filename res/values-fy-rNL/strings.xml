@@ -99,6 +99,7 @@
     <string name="feedback_intensity_medium">Gemiddeld</string>
     <string name="feedback_intensity_high">Heech</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Utskeakele</string>
     <string name="doze_settings_help_title">Help</string>
     <string name="doze_settings_help_text">Dizze funksjes brûke sensoaren om in Doze-puls te ferstjoeren. De keazen sensor is allinnich ynskeakele as it apparaat in melding ûntfangt. Dit helpt it batterijgebrûk te ferminderjen. Der is ek in opsje om de sensor te aktivearjen sa gau as it skerm útskeakelet, mar dit sil liede ta heger batterijgebrûk.</string>
     <string name="button_panel_title">Ekstra knoppen</string>

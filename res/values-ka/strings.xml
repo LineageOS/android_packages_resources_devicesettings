@@ -26,6 +26,7 @@
     <string name="ambient_display_summary_off">ეკრანი არ გამოიღვიძებს, შეტყობინებების მიღებისას</string>
     <string name="ambient_display_always_on_title">მუდმივად ჩართული</string>
     <string name="ambient_display_always_on_summary">დროის, შეტყობინებების, ხატულებისა და სხვა მონაცემების ჩვენება. ზრდის ბატარეის მოხმარებას.</string>
+    <string name="pick_up_wake_gesture_summary">მოწყობილობის გამოღვიძება აღებისას</string>
     <string name="proximity_wake_title">სიახლოვით გაღვიძება</string>
     <string name="proximity_wake_enable_title">სიახლოვით გაღვიძება</string>
     <string name="proximity_wake_enable_summary">გამოღვიძება ხელის გამოძრავებისას</string>

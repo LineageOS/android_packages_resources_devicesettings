@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Näytä ilmoitukset vain jos puhelin on näyttö ylöspäin tasaisella alustalla</string>
     <string name="pick_up_gesture_title">Nosto</string>
     <string name="pick_up_gesture_summary">Näytä ilmoitukset nostaessa laitetta</string>
+    <string name="pick_up_wake_gesture_summary">Herätä laite nostettaessa</string>
     <string name="pocket_gesture_title">Tasku</string>
     <string name="pocket_gesture_summary">Näytä ilmoitukset kun laite otetaan taskusta</string>
     <string name="proximity_wake_title">Läheisyysanturin herätys</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Keskitaso</string>
     <string name="feedback_intensity_high">Korkea</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Pois käytöstä</string>
     <string name="doze_settings_help_title">Apua</string>
     <string name="doze_settings_help_text">Ominaisuudet käyttää sensorin tapahtumia näyttääkseen ilmoituksia. Valittu sensori on vain käytössä kun laite saa ilmoituksen, tämä auttaa vähentämään akun kulutusta. Voit myös ottaa sensorit käyttöön kun näyttö on suljettu, mutta tämä kasvattaa akun kulutusta.</string>
     <string name="button_panel_title">Lisänäppäimet</string>

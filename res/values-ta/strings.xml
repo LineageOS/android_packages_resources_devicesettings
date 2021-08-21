@@ -53,4 +53,5 @@
     <string name="feedback_intensity_low">குறைந்த தரம்</string>
     <string name="feedback_intensity_medium">நடுத்தரம்</string>
     <string name="feedback_intensity_high">உயர்தரம்</string>
+    <string name="disabled">முடக்கப்பட்டது</string>
 </resources>

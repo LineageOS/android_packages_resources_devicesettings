@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Telefon yalnız düz bir səthdə üzü yuxarı dayanıbsa oyansın</string>
     <string name="pick_up_gesture_title">Telefonu götür</string>
     <string name="pick_up_gesture_summary">Telefonu götürəndə bildirişləri göstər</string>
+    <string name="pick_up_wake_gesture_summary">Cihazı götürəndə oyandır</string>
     <string name="pocket_gesture_title">Cib</string>
     <string name="pocket_gesture_summary">Cibdən çıxaranda bildirişləri at</string>
     <string name="proximity_wake_title">Hərəkətdə oyandır</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Orta</string>
     <string name="feedback_intensity_high">Yüksək</string>
     <string name="dialog_ok">Oldu</string>
+    <string name="disabled">Sıradan çıxarıldı</string>
     <string name="doze_settings_help_title">Kömək</string>
     <string name="doze_settings_help_text">Bu özəllik bildiriş ekranını başlatmaq üçün sensorlardan istifadə edir. Seçilmiş sensor yalnız cihaz bildiriş alanda fəallaşır, batereya istifadəsini azaltmağa kömək edər. Ekran sönəndə seçilmiş sensoru fəal etmək üçün bir seçim də var, ancaq bu daha çox batereya istifadəsinə səbəb ola bilər.</string>
     <string name="button_panel_title">Əlavə düymələr</string>
