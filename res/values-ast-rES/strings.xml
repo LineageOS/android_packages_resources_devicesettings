@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Amosar notificaciones sólo si\'l teléfonu ta enriba d\'una superficie plana</string>
     <string name="pick_up_gesture_title">Coyer</string>
     <string name="pick_up_gesture_summary">Avisos llatentes al coyer</string>
+    <string name="pick_up_wake_gesture_summary">Esconsoña\'l preséu al coyelu</string>
     <string name="pocket_gesture_title">Bolsiellu</string>
     <string name="pocket_gesture_summary">Avisos llatentes al sacar del bolsiellu</string>
     <string name="proximity_wake_title">Esconsueñu per proximidá</string>

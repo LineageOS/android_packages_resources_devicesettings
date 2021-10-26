@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Réveiller uniquement si le téléphone est posé face vers le haut sur une surface plane</string>
     <string name="pick_up_gesture_title">Prise en main</string>
     <string name="pick_up_gesture_summary">Afficher les notifications lors de la prise en main</string>
+    <string name="pick_up_wake_gesture_summary">Réveiller l’appareil à la prise en main</string>
     <string name="pocket_gesture_title">Poche</string>
     <string name="pocket_gesture_summary">Le voyant des notifications clignote en sortie de poche</string>
     <string name="proximity_wake_title">Activation de proximité</string>
