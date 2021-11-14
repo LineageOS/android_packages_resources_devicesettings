@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4afbb3c3_b9a52808",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2021-11-14T13:01:23Z",
+      "side": 1,
+      "message": "This is also used in AOSP settings for example: https://github.com/LineageOS/android_packages_apps_Settings/commit/5a298fbde0d9e889f987a7f328f1f38ae3dbd020",
+      "revId": "b2534d9126fc2f1382ddb885b405f9cfee3ff746",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
