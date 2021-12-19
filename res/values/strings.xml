@@ -73,6 +73,7 @@
     <string name="user_aware_display_summary">Keep the screen on while a user is in front of the display</string>
 
     <!-- Ambient Display -->
+    <string name="ambient_enable">Use ambient display</string>
     <string name="ambient_display_title">Ambient display</string>
     <string name="ambient_display_enable_title">Ambient display</string>
     <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
