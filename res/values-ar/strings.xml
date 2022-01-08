@@ -115,4 +115,10 @@
     <string name="fingerprint_sleep_summary">اضغط على حساس بصمة الأصبع لإيقاف تشغيل الشاشة</string>
     <string name="high_touch_sensitivity_title">حساسية عالية للمس الشاشة</string>
     <string name="high_touch_sensitivity_summary">زيادة حساسية شاشة اللمس حتى يمكن استخدامها أثناء ارتداء القفازات</string>
+    <string name="quick_charge_title">الشحن السريع</string>
+    <string name="quick_charge_summary">تبديل وضع الشحن السريع. قم بإعادة توصيل الشاحن بعد تغيير هذا الإعداد</string>
+    <string name="camera_focus_fix_title">تثبيت تركيز الكاميرا</string>
+    <string name="camera_focus_fix_summary">فعلها إن كانت هناك مشاكل في تركيز الكاميرا</string>
+    <string name="wake_on_gesture_title">إيقاظ عند الإيماءات</string>
+    <string name="wake_on_gesture_summary">إيقاظ الجهاز بدلاً من نبض الإشعارات على أحداث الإيماءات</string>
 </resources>

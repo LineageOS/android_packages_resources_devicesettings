@@ -115,4 +115,10 @@
     <string name="fingerprint_sleep_summary">指紋センサーを押すと画面を消灯します</string>
     <string name="high_touch_sensitivity_title">高感度タッチ</string>
     <string name="high_touch_sensitivity_summary">手袋を着けたまま使用できるようにタッチ画面の感度を向上させます</string>
+    <string name="quick_charge_title">急速充電</string>
+    <string name="quick_charge_summary">急速充電を切り替えます。この設定の変更後は充電器を抜き差しして下さい。</string>
+    <string name="camera_focus_fix_title">カメラフォーカス時の問題を修正する</string>
+    <string name="camera_focus_fix_summary">カメラのフォーカスに問題がある場合は有効にしてください</string>
+    <string name="wake_on_gesture_title">ジェスチャーでスリープを解除する</string>
+    <string name="wake_on_gesture_summary">ジェスチャー動作によって通知を点滅表示させる代わりに端末を復帰させます</string>
 </resources>
