@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Air</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Dheth</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Roghainnean adhartach</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gluasadan</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Nithean a bharrachd</string>
     <string name="touchscreen_gesture_haptic_feedback">Freagairt suathaidh</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Dèan crith nuair a thèid mothachadh air gluasad sgrìn-shuathaidh</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gluasadan na sgrìn-shuathaidh</string>
     <string name="touchscreen_gesture_settings_summary">Cleachd gluasadan sgrìn-shuathaidh airson gnìomhan luatha</string>
     <string name="gesture_display_title">Gluasadan le sgrìn dheth</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">Grad-shlaighd gu deas</string>
     <string name="touchscreen_swipe_down_title">Grad-shlaighd sìos</string>
     <string name="touchscreen_swipe_left_title">Grad-shlaighd gu clì</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Sgrìn a mhothaicheas dhan chleachdaiche</string>
     <string name="user_aware_display_summary">Cùm an sgìn air fhad ’s a bhios cleachdaiche air a beulaibh</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Taisbeanadh cuairteach</string>
     <string name="ambient_display_enable_title">Taisbeanadh cuairteach</string>
     <string name="ambient_display_enable_summary">Dùisg an sgrìn nuair a gheibh thu brath</string>
@@ -63,49 +72,70 @@
     <string name="ambient_display_summary_off">Cha dùisg an sgrìn nuair a gheibh thu brath</string>
     <string name="ambient_display_always_on_title">Air an-còmhnaidh</string>
     <string name="ambient_display_always_on_summary">Seall an t-àm, ìomhaigheagan nam brathan agus fiosrachadh eile. Thèid barrachd dhen bhataraidh a chaitheamh.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Mothaichear claonaidh</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Mothaichear togail</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Mothaichear fagasachd</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Smèideadh làimhe</string>
     <string name="hand_wave_gesture_summary">Brathan crith an cois smèideadh làimhe</string>
     <string name="hand_wave_gesture_flat_title">Mothaich dhan chomhair</string>
     <string name="hand_wave_gesture_flat_summary">Na dèan frith-bhualadh ach nuair a bhios am fòn ’na laighe air uachdair rèidh le aghaidh os a chionn</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Togail</string>
     <string name="pick_up_gesture_summary">Dèan frith-bhualadh nam brathan nuair a thèid a thogail</string>
     <string name="pick_up_wake_gesture_summary">Dùisg an t-uidheam nuair a thogar e</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Pòcaid</string>
     <string name="pocket_gesture_summary">Brathan crith nuair a bheirear às a’ phòcaid e</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Dùsgadh fagasachd</string>
     <string name="proximity_wake_enable_title">Dùsgadh fagasachd</string>
     <string name="proximity_wake_enable_summary">Dùisg an t-uidheam nuair a nithear smèideadh làimhe</string>
+    <!-- Device actions -->
     <string name="actions_title">Gnìomhan</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Car dùbailte</string>
     <string name="camera_gesture_summary">Fosgail an camara le gluasad a’ chuir dhùbailte</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Sgud-sgud</string>
     <string name="chop_chop_gesture_summary">Toglaich an leus le gluasad sgud-sgud</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Smèid airson tost</string>
     <string name="hand_wave_silencer_summary">Cuir gairmean a-steach ’nan tost le smèideadh làimhe thar na sgrìn</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Thoir flip airson “Na bris a-steach orm”</string>
     <string name="flip_to_mute_summary">Cuir am fòn beul fodha airson brathan is gairmean a chur ’nan tost</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">Thoir cead inntrigidh air CMActions dha “Na bris a-steach orm” airson an gleus seo a chleachdadh.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Tog airson sgur dhen t-seirm</string>
     <string name="lift_to_silence_summary">Tog am fòn a chur nan gairmean a-steach ’nan tost. Chan obraich seo ach nuair a bhios am fòn agad rèidh aig an toiseach</string>
+    <!-- Action toggles -->
     <string name="action_none">Cuir à comas</string>
     <string name="action_launch_camera">Cuir gu dol an camara</string>
     <string name="action_torch">Toglaich an leus</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Dèine na freagairt suathaidh</string>
     <string name="feedback_intensity_summary">De cho làidir ’s a tha an fhreagairt suathaidh do ghnìomhan a’ chuir dhùbailte is sgud-sgud</string>
     <string name="feedback_intensity_none">À comas</string>
     <string name="feedback_intensity_low">Ìosal</string>
     <string name="feedback_intensity_medium">Meadhanach</string>
     <string name="feedback_intensity_high">Àrd</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">Ceart ma-thà</string>
+    <!-- Generic texts -->
     <string name="disabled">À comas</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Cobhair</string>
     <string name="doze_settings_help_text">Cleachdaidh na gleusan seo tachartasan mhothaichearan airson frith-bhualadh brath cadail. Cha bhi am mothaichear a thagh thu an comas ach nuair a gheibh an t-uidheam brath; cuidichidh seo le caomhnadh a’ bhataraidh. Tha roghainn ann cuideachd a chuireas am mothaichear a thagh thu an comas mu thràth nuair a thèid an sgrìn a chur dheth agus thèid barrachd dhen bhataraidh a chaitheamh le sin.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Barrachd phutan</string>
     <string name="button_swap_title">Dèan iomlaid phutanan</string>
     <string name="button_swap_summary">Cuir am putan “O chionn goirid” ’s am putan “Air ais” an àite càch a chèile</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Lorg-mheòir</string>
     <string name="fingerprint_as_home_title">Lorg-mheòir ’na dhachaigh</string>
     <string name="fingerprint_as_home_summary">Cleachd mothaichear nan lorgan-meòir ’na phutan “Dhachaigh”</string>
@@ -115,12 +145,16 @@
     <string name="fingerprint_pocketmode_summary">Dearbhaich le mothaichear na fagasachd mus dùisg an t-uidheam le mothaichear nan lorgan-meòir</string>
     <string name="fingerprint_sleep_title">Cadal luirg-mheòir</string>
     <string name="fingerprint_sleep_summary">Brùth air mothaichear nan lorgan-meòir gus an sgrìn a chur dheth</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Mothalachd àrd air an t-suathadh</string>
     <string name="high_touch_sensitivity_summary">Meudaich mothalachd na sgrìn-shuathaidh ach an gabh a cleachdadh le miotagan</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Teàirrdseadh luath</string>
     <string name="quick_charge_summary">Toglaich an teàirrdseadh luath. Thoir a-mach is cuir a-steach an t-inneal-teàirrdsidh às dèidh an roghainn seo atharrachadh</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Càraich fòcas a’ chamara</string>
     <string name="camera_focus_fix_summary">Cuir seo an comas ma tha duilgheadasan le fòcas a’ chamara ann</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Dùisg le gluasadan</string>
     <string name="wake_on_gesture_summary">Dùisg an t-uidheam seach brathan boillsgidh nuair a bhios tachartas gluasaid ann</string>
 </resources>

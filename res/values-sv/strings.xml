@@ -16,12 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">På</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Av</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Avancerade inställningar</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gester</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extra</string>
     <string name="touchscreen_gesture_haptic_feedback">Haptisk feedback</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Skärmgester</string>
     <string name="gesture_display_title">Gester för skärmavstängning</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
@@ -45,45 +52,72 @@
     <string name="touchscreen_swipe_right_title">Svep till höger</string>
     <string name="touchscreen_swipe_down_title">Svep nedåt</string>
     <string name="touchscreen_swipe_left_title">Svep till vänster</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Användarmedveten display</string>
     <string name="user_aware_display_summary">Håll skärmen på medan en användare är framför displayen</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Ambient display</string>
     <string name="ambient_display_enable_title">Ambient display</string>
     <string name="ambient_display_enable_summary">Väck skärmen när du tar emot aviseringar</string>
     <string name="ambient_display_always_on_title">Alltid på</string>
     <string name="ambient_display_always_on_summary">Visa tid, aviseringsikoner och annan info. Ökad batterianvändning.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Lutningssensor</string>
+    <!-- Pickup sensor -->
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Närhetscensor</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Handrörelse</string>
     <string name="hand_wave_gesture_summary">Pulsera aviseringar vid handrörelse</string>
     <string name="hand_wave_gesture_flat_title">Upptäck skärmrotation</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Plocka upp</string>
     <string name="pick_up_gesture_summary">Pulsera aviseringarna när enheten plockas upp</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Ficka</string>
     <string name="pocket_gesture_summary">Pulsera aviseringar när du tar upp enheten ur fickan</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Vakna vid närhet</string>
     <string name="proximity_wake_enable_title">Vakna vid närhet</string>
     <string name="proximity_wake_enable_summary">Väck enheten vid handrörelse</string>
+    <!-- Device actions -->
     <string name="actions_title">Åtgärder</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Dubbel vridning</string>
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Vifta för att tysta</string>
     <string name="hand_wave_silencer_summary">Tysta samtal genom att vifta med handen över skärmen</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Vänd för Stör ej</string>
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
     <string name="action_none">Inaktivera</string>
     <string name="action_launch_camera">Starta kamera</string>
     <string name="action_torch">Växla ficklampa</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Intensitet på haptisk feedback</string>
     <string name="feedback_intensity_summary">Styrkan i den haptiska feedbacken för dubbel vridning och hacka-hacka åtgärder</string>
     <string name="feedback_intensity_none">Inaktiverad</string>
     <string name="feedback_intensity_low">Låg</string>
     <string name="feedback_intensity_medium">Medel</string>
     <string name="feedback_intensity_high">Hög</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">OK</string>
+    <!-- Generic texts -->
     <string name="disabled">Inaktiverad</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Hjälp</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Ytterligare knappar</string>
     <string name="button_swap_title">Växla knappar</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Fingeravtryck</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Hög tryckkänslighet</string>
     <string name="high_touch_sensitivity_summary">Öka skärmens tryckkänslighet så att den kan användas med handskar</string>
+    <!-- Quick charge toggle -->
+    <!-- Camera focus fix toggle -->
+    <!-- Wake on gesture -->
 </resources>

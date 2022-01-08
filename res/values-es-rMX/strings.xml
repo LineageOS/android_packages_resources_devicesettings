@@ -16,10 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Ajustes avanzados</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gestos</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extras</string>
     <string name="touchscreen_gesture_haptic_feedback">Respuesta háptica</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_c_gesture_title">Cámara</string>
     <string name="touchscreen_c_gesture_summary">Dibuja una \"C\" para activar la cámara</string>
     <string name="touchscreen_e_gesture_title">Correo electrónico</string>
@@ -32,6 +39,33 @@
     <string name="touchscreen_w_gesture_summary">Dibuja una \"W\" para abrir la aplicación del navegador</string>
     <string name="touchscreen_z_gesture_title">Linterna</string>
     <string name="touchscreen_z_gesture_summary">Dibuja una \"Z\" para conmutar la linterna</string>
+    <!-- User-aware display -->
+    <!-- Ambient Display -->
     <string name="ambient_display_always_on_title">Siempre encendida</string>
     <string name="ambient_display_always_on_summary">Mostrar la hora, los iconos de notificación y otra información. Aumenta el uso de batería.</string>
+    <!-- Tilt sensor -->
+    <!-- Pickup sensor -->
+    <!-- Proximity sensor -->
+    <!-- Hand wave gesture -->
+    <!-- Pick-up gesture -->
+    <!-- Pocket gesture -->
+    <!-- Proximity wake -->
+    <!-- Device actions -->
+    <!-- Camera gesture -->
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
+    <!-- Flip to mute gesture -->
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
+    <!-- Feedback intensity -->
+    <!-- Dialog texts -->
+    <!-- Generic texts -->
+    <!-- Help texts -->
+    <!-- Button settings -->
+    <!-- Fingerprint -->
+    <!-- High touch sensitivity -->
+    <!-- Quick charge toggle -->
+    <!-- Camera focus fix toggle -->
+    <!-- Wake on gesture -->
 </resources>

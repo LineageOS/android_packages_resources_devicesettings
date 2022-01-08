@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Açık</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Kapalı</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Gelişmiş ayarlar</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Hareketler</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Ekstralar</string>
     <string name="touchscreen_gesture_haptic_feedback">Dokunmatik geri bildirim</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Dokunmatik ekran hareketi algılandığında titre</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Ekran hareketleri</string>
     <string name="touchscreen_gesture_settings_summary">Hızlı işlemler için çeşitli dokunmatik ekran hareketleri gerçekleştirin</string>
     <string name="gesture_display_title">Ekran kapalı hareketleri</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">Sağa kaydır</string>
     <string name="touchscreen_swipe_down_title">Aşağı kaydır</string>
     <string name="touchscreen_swipe_left_title">Sola kaydır</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Etkileşimli ekran</string>
     <string name="user_aware_display_summary">Kullanıcı ekranın önündeyken ekranı açık tutar</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Bildirim ekranı</string>
     <string name="ambient_display_enable_title">Bildirim ekranı</string>
     <string name="ambient_display_enable_summary">Bildirim aldığınızda ekran uyanır</string>
@@ -63,49 +72,70 @@
     <string name="ambient_display_summary_off">Bildirimler aldığınızda ekran uyanmayacak</string>
     <string name="ambient_display_always_on_title">Her zaman açık</string>
     <string name="ambient_display_always_on_summary">Saati, bildirim simgelerini ve diğer bilgileri gösterir. Pil kullanımını artırır.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Eğrilik sensörü</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Ele alma sensörü</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Yakınlık sensörü</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">El sallama</string>
     <string name="hand_wave_gesture_summary">El sallayınca bildirimleri at</string>
     <string name="hand_wave_gesture_flat_title">Yönü algıla</string>
     <string name="hand_wave_gesture_flat_summary">Sadece telefonun ekranı yukarı bakacak şekilde düz bir yüzeyde duruyor ise uyansın</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Telefonu kaldır</string>
     <string name="pick_up_gesture_summary">Telefonu kaldırınca bildirimleri göster</string>
     <string name="pick_up_wake_gesture_summary">Cihazı alırken uyandır</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Cep</string>
     <string name="pocket_gesture_summary">Cepten çıkarınca bildirimleri göster</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Harekette uyandır</string>
     <string name="proximity_wake_enable_title">Harekette uyandır</string>
     <string name="proximity_wake_enable_summary">El sallamasında cihazı uyandır</string>
+    <!-- Device actions -->
     <string name="actions_title">Eylemler</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Çift sallama</string>
     <string name="camera_gesture_summary">Çift sallama hareketi kullanıldığında kamerayı aç</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Tak-tak</string>
     <string name="chop_chop_gesture_summary">Tak-tak hareketi kullanıldığında flaşı aç/kapat</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Sessize almak için sallayın</string>
     <string name="hand_wave_silencer_summary">Elinizi ekranın üstünde sallayarak gelen aramaları sessize alın</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Rahatsız Etmeyin Modu için döndür</string>
     <string name="flip_to_mute_summary">Bildirimleri ve aramaları sessize almak için telefonun ön yüzünü ters çevirin</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">Lütfen, bu özelliği kullanmak için CMActions\'a Rahatsız Etme erişimi izni verin.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Zil sesini susturmak için cihazı kaldır</string>
     <string name="lift_to_silence_summary">Gelen aramaları susturmak için telefonu kaldır. Sadece telefonunuz düz olduğunda çalışır</string>
+    <!-- Action toggles -->
     <string name="action_none">Devre dışı</string>
     <string name="action_launch_camera">Kamerayı başlat</string>
     <string name="action_torch">El fenerini aç/kapat</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Dokunmatik geri bildirim yoğunluğu</string>
     <string name="feedback_intensity_summary">Çift sallama ve tak tak işlemleri için dokunmatik geri bildirim gücü</string>
     <string name="feedback_intensity_none">Devre dışı</string>
     <string name="feedback_intensity_low">Düşük</string>
     <string name="feedback_intensity_medium">Orta</string>
     <string name="feedback_intensity_high">Yüksek</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">Tamam</string>
+    <!-- Generic texts -->
     <string name="disabled">Devre dışı</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Yardım</string>
     <string name="doze_settings_help_text">Bu özellik bildirim ekranını başlatmak için sensörleri kullanır. Seçilen sensör sadece cihaz bildirim aldığında etkinleştirilir, pil kullanımını azaltmaya yardımcı olur. Ekran kapandığında seçilen sensörü etkinleştirmek için bir seçenek de vardır, fakat bu daha yüksek pil kullanımına neden olur.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Ek tuşlar</string>
     <string name="button_swap_title">Tuşları değiştir</string>
     <string name="button_swap_summary">Son kullanılanlar ve geri tuşlarının yerini değiştirin</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Parmak İzi</string>
     <string name="fingerprint_as_home_title">Ana ekran için parmak izi</string>
     <string name="fingerprint_as_home_summary">Parmak izi sensörünü ana ekran tuşu olarak kullanın</string>
@@ -115,12 +145,16 @@
     <string name="fingerprint_pocketmode_summary">Parmak izi sensörü tarafından tetiklenen uyandırma durumlarından önce yakınlık sensörünü kontrol edin</string>
     <string name="fingerprint_sleep_title">Parmak izi ile uyut</string>
     <string name="fingerprint_sleep_summary">Ekranı kapatmak için parmak izi sensörüne dokunun</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Yüksek dokunmatik hassasiyet</string>
     <string name="high_touch_sensitivity_summary">Dokunmatik ekran hassasiyetini artırır, böylece eldiven giyerken kullanılabilir</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Hızlı şarj</string>
     <string name="quick_charge_summary">Hızlı şarjı etkinleştirin veya devre dışı bırakın. Bu ayarı değiştirdikten sonra şarj aletini çıkarıp yeniden takın</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Kamera odak düzeltmesi</string>
     <string name="camera_focus_fix_summary">Kamera odaklanmasıyla ilgili sorunlar yaşıyorsanız bunu etkinleştirin </string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Hareketle uyandırın</string>
     <string name="wake_on_gesture_summary">Hareket olaylarında titreşimli bildirimler yerine cihazı uyandırın</string>
 </resources>

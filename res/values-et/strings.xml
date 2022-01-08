@@ -16,10 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Täpsemad seaded</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Žestid</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Lisad</string>
     <string name="touchscreen_gesture_haptic_feedback">Haptiline tagasiside</string>
+    <!-- Touchscreen gestures -->
     <string name="gesture_display_title">Väljalülitatud ekraani žestid</string>
     <string name="touchscreen_c_gesture_title">Kaamera</string>
     <string name="touchscreen_c_gesture_summary">Joonista \"C\" täht, et aktiveerida kaamera</string>
@@ -33,8 +40,10 @@
     <string name="touchscreen_w_gesture_summary">Joonista \"W\" täht, et avada veebilehitseja rakendus</string>
     <string name="touchscreen_z_gesture_title">Taskulamp</string>
     <string name="touchscreen_z_gesture_summary">Joonista \"Z\" täht, et aktiveerida taskulamp</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Kasutaja teadlik ekraan</string>
     <string name="user_aware_display_summary">Hoia ekraan sees, kui kasutaja on ekraani ees</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Ambient ekraan</string>
     <string name="ambient_display_enable_title">Säästlik ekraan</string>
     <string name="ambient_display_enable_summary">Ärata ekraan teavituste saabumisel</string>
@@ -42,33 +51,58 @@
     <string name="ambient_display_gestures_summary">Täiendavad žestid ekraani äratamiseks</string>
     <string name="ambient_display_always_on_title">Alati sees</string>
     <string name="ambient_display_always_on_summary">Näita aega, teadete ikoone ja muud teavet. Suurendab akukasutust.</string>
+    <!-- Tilt sensor -->
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Seadme kättevõtmise andur</string>
+    <!-- Proximity sensor -->
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Käe viibutus</string>
     <string name="hand_wave_gesture_summary">Näita teavitust käe viibutusele</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Tõsta üles</string>
     <string name="pick_up_gesture_summary">Kuva teavitusi seadme tõstmisel</string>
     <string name="pick_up_wake_gesture_summary">Ärata seade ülestõstuga</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Tasku</string>
     <string name="pocket_gesture_summary">Näita teavitusi taskust välja võtmisel</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Läheduse äratus</string>
     <string name="proximity_wake_enable_title">Läheduse äratus</string>
     <string name="proximity_wake_enable_summary">Ärata seade käe viibutusele</string>
+    <!-- Device actions -->
+    <!-- Camera gesture -->
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
+    <!-- Flip to mute gesture -->
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
     <string name="action_none">Keela</string>
     <string name="action_launch_camera">Käivita kaamera</string>
     <string name="action_torch">Lülita taskulamp</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Puutetagasiside intensiivsus</string>
     <string name="feedback_intensity_summary">Topelt-vääne ja ruttu-tuttu toimingute puutetagasiside tugevus</string>
     <string name="feedback_intensity_none">Keelatud</string>
     <string name="feedback_intensity_low">Madal</string>
     <string name="feedback_intensity_medium">Keskmine</string>
     <string name="feedback_intensity_high">Kõrge</string>
+    <!-- Dialog texts -->
+    <!-- Generic texts -->
     <string name="disabled">Keelatud</string>
+    <!-- Help texts -->
+    <!-- Button settings -->
+    <!-- Fingerprint -->
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Kõrge puutetundlikus</string>
     <string name="high_touch_sensitivity_summary">Ekraani puutetundlikkuse suurendamine, et kasutada ekraani kinnastega</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Kiirlaadimine</string>
     <string name="quick_charge_summary">Lülita kiirlaadimist. Pärast selle sätte muutmist ühendage laadija lahti ja ühendage uuesti vooluvõrku</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Kaamera fookuse parandus</string>
     <string name="camera_focus_fix_summary">Lubage, kui teil on probleeme kaamera mittefookustamisega</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Ärka viibete peale</string>
     <string name="wake_on_gesture_summary">Viipetoimingute korral ärata seade teavituste pulseerimise asemel</string>
 </resources>

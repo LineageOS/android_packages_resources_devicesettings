@@ -16,16 +16,23 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Ndiz</string>
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">Ndezur</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Fikur</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Parametra të përparuar</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gjestet</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Ekstra</string>
     <string name="touchscreen_gesture_haptic_feedback">Reagimi haptik</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Dridhu kur kapet një gjest me prekje ekrani</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gjestet me prekje ekrani</string>
     <string name="touchscreen_gesture_settings_summary">Kryej gjeste të ndryshme duke prekur ekranin për veprime të shpejta</string>
-    <string name="gesture_display_title">Gjestet me ekran të mbyllur</string>
+    <string name="gesture_display_title">Gjestet me ekran të fikur</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_c_gesture_summary">Vizato një \"C\" për të aktivizuar kamerën</string>
     <string name="touchscreen_e_gesture_title">Email</string>
@@ -48,8 +55,10 @@
     <string name="touchscreen_swipe_right_title">Rrëshqit djathtas</string>
     <string name="touchscreen_swipe_down_title">Rrëshqit poshtë</string>
     <string name="touchscreen_swipe_left_title">Rrëshqit majtas</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Funksionimi i ekranit në bazë të pranisë së përdoruesit</string>
     <string name="user_aware_display_summary">Mbaj ekranin ndezur gjatë kohës kur përdoruesi është përpara ekranit</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Drita e ekranit sipas ambientit</string>
     <string name="ambient_display_enable_title">Drita e ekranit sipas ambientit</string>
     <string name="ambient_display_enable_summary">Ndiz ekranin kur të vijnë njoftime</string>
@@ -60,49 +69,70 @@
     <string name="ambient_display_summary_off">Ekrani nuk do të ndizet kur të vijnë njoftime</string>
     <string name="ambient_display_always_on_title">Gjithmonë e ndezur</string>
     <string name="ambient_display_always_on_summary">Trego kohen, njoftimet e ikonave, dhe informacione të tjera. Përdorim më të lartë të baterisë.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Sensori i pjerrësisë</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Sensori i marrjes</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Sensori i afërsisë</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Kalimi sipër i dorës</string>
     <string name="hand_wave_gesture_summary">Shfaq njoftimet kur i kalon dorën sipër</string>
     <string name="hand_wave_gesture_flat_title">Zbulo orientimin</string>
     <string name="hand_wave_gesture_flat_summary">Pulso vetëm nëse telefoni ështe vendosur përballe, në një sipërfaqe të sheshtë</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Ngritja</string>
     <string name="pick_up_gesture_summary">Shfaq njoftimet kur e ngre</string>
     <string name="pick_up_wake_gesture_summary">Zgjo telefonin kur të preket</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Xhepi</string>
     <string name="pocket_gesture_summary">Shfaq njoftimet kur e nxjerr nga xhepi</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Aktivizimi prej afërsisë</string>
     <string name="proximity_wake_enable_title">Aktivizimi prej afërsisë</string>
     <string name="proximity_wake_enable_summary">Ndiz pajisjen kur i kalon dorën sipër</string>
+    <!-- Device actions -->
     <string name="actions_title">Veprime</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Kthim i dyfishtë</string>
     <string name="camera_gesture_summary">Hap kamerën kur bën gjestin e kthimit të dyfishtë</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Chop-chop</string>
     <string name="chop_chop_gesture_summary">Ndiz/fik elektrikun e dorës kur përdor gjestin \"chop-chop\"</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Kalo dorën sipër për ta heshtur</string>
     <string name="hand_wave_silencer_summary">Hesht thirrjet hyrëse duke kaluar dorën mbi ekran</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Ktheje përmbys për të aktivizuar \"Mos më shqetëso\"</string>
     <string name="flip_to_mute_summary">Ktheje telefonin përmbys për të heshtur njoftimet dhe zilet</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">Jepi opsionit \"Mos më shtetëso\" akses të CMActions që të mund të përdorësh këtë funksion.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Ngrije për të ndaluar zilen</string>
     <string name="lift_to_silence_summary">Ngri telefonin për të heshtur thirrjet hyrëse. Kjo punon vetëm kur telefoni ndodhet në një sipërfaqe të sheshtë</string>
+    <!-- Action toggles -->
     <string name="action_none">Çaktivizo</string>
     <string name="action_launch_camera">Hap kamerën</string>
     <string name="action_torch">Ndiz/fik elektrikun e dorës</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Itensiteti i reagimit haptik</string>
     <string name="feedback_intensity_summary">Intensiteti i reagimit haptik për veprimet \"kthim i dyfishtë\" dhe \"chop-chop\"</string>
     <string name="feedback_intensity_none">I çaktivizuar</string>
     <string name="feedback_intensity_low">I ulët</string>
     <string name="feedback_intensity_medium">Mesatar</string>
     <string name="feedback_intensity_high">I lartë</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">OK</string>
+    <!-- Generic texts -->
     <string name="disabled">I çaktivizuar</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Ndihmë</string>
     <string name="doze_settings_help_text">Këto funksione përdorin sensorin për të shfaqur njoftimet në modalitetin Doze. Sensori i zgjedhur aktivizohet vetëm kur pajisja merr një njoftim, dhe kjo ndihmon në reduktimin e përdorimit të baterisë. Ka edhe një opsion për të aktivizuar sensorin e zgjedhur menjëherë pasi ekrani të fiket. Ky opsion do të bëjë që bateria të përdoret më shumë.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Butona të tjerë</string>
     <string name="button_swap_title">Shkëmbe butonat</string>
     <string name="button_swap_summary">Shkëmbe rendin e butonave \"Të fundit\" dhe \"Prapa\"</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Shenjat e gishtave</string>
     <string name="fingerprint_as_home_title">Sensori i shenjave të gishtave si butoni Home</string>
     <string name="fingerprint_as_home_summary">Përdor sensorin e shenjave të gishtave si butoni Home</string>
@@ -112,12 +142,16 @@
     <string name="fingerprint_pocketmode_summary">Kontrollo sensorin e afërsisë përpara zgjimeve të shkaktuara nga sensori i shenjave të gishtave</string>
     <string name="fingerprint_sleep_title">Fik me shënjë gishti</string>
     <string name="fingerprint_sleep_summary">Shtypni tek sensori i shënjës së gishtit për të fikur ekranin</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Ndjesi e lartë e prekjes</string>
     <string name="high_touch_sensitivity_summary">Rrit ndjeshmërinë e prekjes kështu që mund të përdoret kur keni dorashka</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Karikim i shpejtë</string>
     <string name="quick_charge_summary">Çelsi për karikim të shpejtë. Hiqni dhe vendosni sërish karikuesin pasi të ndryshoni këtë cilësim</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Rregullim i fokusit të kamerës</string>
     <string name="camera_focus_fix_summary">Mundësoje nëse ke probleme me fokusimin e kamerës</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Zgjohuni me gjeste</string>
     <string name="wake_on_gesture_summary">Zgjojeni pajisjen në vend që të pulsoni njoftime për ngjarjet e gjestit</string>
 </resources>

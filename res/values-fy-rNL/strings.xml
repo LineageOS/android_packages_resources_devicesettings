@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Oan</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Ut</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Avansearre ynstellingen</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gebearen</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Ekstra\'s</string>
     <string name="touchscreen_gesture_haptic_feedback">Trille</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Trille wannear in skermgebear detektearre wurdt</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Skermgebearen</string>
     <string name="touchscreen_gesture_settings_summary">Skermgebearen brûke foar flugge aksjes</string>
     <string name="gesture_display_title">Gebearen by skerm út</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">Nei rjochts feie</string>
     <string name="touchscreen_swipe_down_title">Omleech feie</string>
     <string name="touchscreen_swipe_left_title">Nei links feie</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Brûkersbewust skerm</string>
     <string name="user_aware_display_summary">Skerm oan hâlde as de brûker foar it skerm sit</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Omjouwingsdisplay</string>
     <string name="ambient_display_enable_title">Omjouwingsdisplay</string>
     <string name="ambient_display_enable_summary">Skerm oan by it ûntfangen fan meldingen</string>
@@ -63,48 +72,69 @@
     <string name="ambient_display_summary_off">Skerm giet net oan by it ûntfangen fan meldingen</string>
     <string name="ambient_display_always_on_title">Altyd oan</string>
     <string name="ambient_display_always_on_summary">Tiid, meldingspiktogrammen en oare ynformaasje toane. Heger batterijferbrûk.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Hellingssensor</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Bewegingssensor</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Tichtebysensor</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Hângebeart</string>
     <string name="hand_wave_gesture_summary">Meldingen knipperje litte by hângebeart</string>
     <string name="hand_wave_gesture_flat_title">Oriïntaasje detektearje</string>
     <string name="hand_wave_gesture_flat_summary">Allinnich knipperje as de telefoan mei it skerm nei boppe leit op in plat opperflak</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Oppakke</string>
     <string name="pick_up_gesture_summary">Meldingen knipperje litte by oppakken</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Bûse</string>
     <string name="pocket_gesture_summary">Meldingen knipperje litte by fuortheljen út bûse</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Wekker wurde by tichteby</string>
     <string name="proximity_wake_enable_title">Wekker wurde by tichteby</string>
     <string name="proximity_wake_enable_summary">Apparaat wekker wurde by hângebeart</string>
+    <!-- Device actions -->
     <string name="actions_title">Aksjes</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Dûbeld draaie</string>
     <string name="camera_gesture_summary">Kamera iepenje by gebrûk fan it dûbeld-draaie-gebear</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Hakke</string>
     <string name="chop_chop_gesture_summary">Bûslampe oan-/útsette by gebrûk fan it hak-gebear</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Hângebeart foar stil</string>
     <string name="hand_wave_silencer_summary">Ynkommende oproppen dôvje mei hângebeart oer it skerm</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Omdraaie foar ‘Net steure’</string>
     <string name="flip_to_mute_summary">Pleats de telefoan mei skerm nei ûnder om meldingen en oproppen te dôvjen</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">Jou CMAksjes tagong ta ‘Net steure’ om dizze funksje te brûken.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Oppakke om te stopjen mei rinkeljen</string>
     <string name="lift_to_silence_summary">Til de telefoan op om ynkommende oproppen te dôvjen. Wurket allinnich as de telefoan al plat leit</string>
+    <!-- Action toggles -->
     <string name="action_none">Utskeakelje</string>
     <string name="action_launch_camera">Kamera starte</string>
     <string name="action_torch">Bûslampe oan/út</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Trilyntinsiteit</string>
     <string name="feedback_intensity_summary">Trilyntinsiteit foar de aksjes ‘dûbeld-draaie’ en ‘hakke’</string>
     <string name="feedback_intensity_none">Utskeakele</string>
     <string name="feedback_intensity_low">Leech</string>
     <string name="feedback_intensity_medium">Gemiddeld</string>
     <string name="feedback_intensity_high">Heech</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">OK</string>
+    <!-- Generic texts -->
     <string name="disabled">Utskeakele</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Help</string>
     <string name="doze_settings_help_text">Dizze funksjes brûke sensoaren om in Doze-puls te ferstjoeren. De keazen sensor is allinnich ynskeakele as it apparaat in melding ûntfangt. Dit helpt it batterijgebrûk te ferminderjen. Der is ek in opsje om de sensor te aktivearjen sa gau as it skerm útskeakelet, mar dit sil liede ta heger batterijgebrûk.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Ekstra knoppen</string>
     <string name="button_swap_title">Knoppen omwikselje</string>
     <string name="button_swap_summary">Resinte apps- en Tebekknop omwikselje</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Fingerôfdruk</string>
     <string name="fingerprint_as_home_title">Fingerôfdruk as thúsknop</string>
     <string name="fingerprint_as_home_summary">Fingerôfdruksensor brûke as thúsknop</string>
@@ -114,10 +144,14 @@
     <string name="fingerprint_pocketmode_summary">Tichtebysensor brûke foarôfgeand oan wekker meitsjen troch de fingerôfdruksensor</string>
     <string name="fingerprint_sleep_title">Sliepstân fia fingerôfdruk</string>
     <string name="fingerprint_sleep_summary">Fingerôfdruksensor brûke om skerm út te setten</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Hege gefoelichheid oanreitsjen</string>
     <string name="high_touch_sensitivity_summary">Gefoelichheid fan it skerm ferheegje, sadat it betsjinne wurde kin mei wanten</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Fluchlade</string>
     <string name="quick_charge_summary">Fluchlade yn-/útskeakelje en de lader opnij keppelje nei it wizigjen fan dizze ynstelling</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Kamerafokus fix</string>
     <string name="camera_focus_fix_summary">Ynskeakelje as jo problemen hawwe mei it skerpstellen fan de kamera</string>
+    <!-- Wake on gesture -->
 </resources>

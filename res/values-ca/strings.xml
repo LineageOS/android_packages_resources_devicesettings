@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Sí</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">No</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Configuració avançada</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gestos</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extres</string>
     <string name="touchscreen_gesture_haptic_feedback">Resposta hàptica</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibra quan es detecti un gest a la pantalla tàctil</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gestos a la pantalla tàctil</string>
     <string name="touchscreen_gesture_settings_summary">Fes diversos gestos a la pantalla tàctil per fer accions ràpides</string>
     <string name="gesture_display_title">Gestos d\'apagat de pantalla</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">Llisca a la dreta</string>
     <string name="touchscreen_swipe_down_title">Llisca cap avall</string>
     <string name="touchscreen_swipe_left_title">Llisca a l\'esquerra</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Pantalla en presència de l\'usuari</string>
     <string name="user_aware_display_summary">Mantingues la pantalla encesa mentre l\'usuari sigui davant de la pantalla</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Pantalla ambient</string>
     <string name="ambient_display_enable_title">Pantalla ambient</string>
     <string name="ambient_display_enable_summary">Encen la pantalla quan rebis notificacions</string>
@@ -63,49 +72,70 @@
     <string name="ambient_display_summary_off">La pantalla no s\'encendrà quan rebis notificacions</string>
     <string name="ambient_display_always_on_title">Sempre encès</string>
     <string name="ambient_display_always_on_summary">Mostra l\'hora, les icones de notificació i altra informació. S\'utilitzarà més bateria.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Sensor d\'inclinació</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Sensor de recollida</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Sensor de proximitat</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Passa la mà</string>
     <string name="hand_wave_gesture_summary">Mostra notificacions quan es passi la mà</string>
     <string name="hand_wave_gesture_flat_title">Detecta l\'orientació</string>
     <string name="hand_wave_gesture_flat_summary">Prem només si el telèfon està cara amunt sobre una superfície plana</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Contesta</string>
     <string name="pick_up_gesture_summary">Mostra notificacions en contestar</string>
     <string name="pick_up_wake_gesture_summary">Activa el dispositiu en recollir-lo</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Butxaca</string>
     <string name="pocket_gesture_summary">Mostra notificacions quan te\'l treguis de la butxaca</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Desperta en apropar-se</string>
     <string name="proximity_wake_enable_title">Desperta en apropar-se</string>
     <string name="proximity_wake_enable_summary">Desperta el dispositiu en passar la mà</string>
+    <!-- Device actions -->
     <string name="actions_title">Accions</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Doble gir</string>
     <string name="camera_gesture_summary">Obre la càmera quan s\'utilitzi el gest de doble gir</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Doble sacsejada</string>
     <string name="chop_chop_gesture_summary">Commuta la llanterna quan es faci el gest de doble sacsejada</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Passa la mà per silenciar</string>
     <string name="hand_wave_silencer_summary">Silencia les trucades entrants en passar la mà per la pantalla</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Gira per no molestar</string>
     <string name="flip_to_mute_summary">Col·loca el telèfon cap per avall per silenciar les notificacions i trucades</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">Si us plau, permet l\'accés a CMActions per utilitzar aquesta funció.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Deixa de sonar a l\'agafar-lo</string>
     <string name="lift_to_silence_summary">Aixeca el telèfon per silenciar les trucades entrants. Això només funcionarà quan el teu telèfon estigui sobre una superfície plana</string>
+    <!-- Action toggles -->
     <string name="action_none">Desactiva</string>
     <string name="action_launch_camera">Obre la càmera</string>
     <string name="action_torch">Torxa</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Intensitat de la resposta hàptica</string>
     <string name="feedback_intensity_summary">Intensitat de la resposta hàptica per a les accions de doble-gir i doble sacsejada</string>
     <string name="feedback_intensity_none">Desactivat</string>
     <string name="feedback_intensity_low">Baixa</string>
     <string name="feedback_intensity_medium">Mitja</string>
     <string name="feedback_intensity_high">Alta</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">D\'ACORD</string>
+    <!-- Generic texts -->
     <string name="disabled">Desactivat</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Ajuda</string>
     <string name="doze_settings_help_text">Aquestes característiques utilitzen esdeveniments dels sensors per llançar una notificació latent. El sensor escollit només serà habilitat quan el dispositiu rebi una notificació, això ajuda a reduir l\'ús de la bateria. També hi ha una opció per habilitar el sensor escollit tan aviat com s\'apagui la pantalla, això causarà un major ús de la bateria.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Botons addicionals</string>
     <string name="button_swap_title">Intercanvia els botons</string>
     <string name="button_swap_summary">Intercanvia l\'ordre dels botons recent i enrera</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Empremta digital</string>
     <string name="fingerprint_as_home_title">Empremta digital com a inici</string>
     <string name="fingerprint_as_home_summary">Utilitza el sensor d\'empremta digital com si fos un botó d\'inici</string>
@@ -115,12 +145,16 @@
     <string name="fingerprint_pocketmode_summary">Comprova el sensor de proximitat abans d\'encendre\'s a través del lector d\'empremtes</string>
     <string name="fingerprint_sleep_title">Repòs amb empremta digital</string>
     <string name="fingerprint_sleep_summary">Prem el sensor d\'empremta digital per apagar la pantalla</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Sensibilitat al tacte alta</string>
     <string name="high_touch_sensitivity_summary">Incrementa la sensibilitat de la pantalla tàctil de manera que pugui utilitzar-se si es porten guants</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Càrrega ràpida</string>
     <string name="quick_charge_summary">Commuta la càrrega ràpida. Desconnecteu i torneu a connectar el carregador després de canviar aquesta configuració</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Correcció del focus de la càmera</string>
     <string name="camera_focus_fix_summary">Activeu-lo si teniu problemes amb la focalització de la càmera</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Desperta amb gestos</string>
     <string name="wake_on_gesture_summary">Desperta el dispositiu en lloc de mostrar notificacions en realitzar gestos</string>
 </resources>

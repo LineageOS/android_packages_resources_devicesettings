@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Açıq</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Bağlı</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Qabaqcıl tənzimləmələr</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Jestlər</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Əlavələr</string>
     <string name="touchscreen_gesture_haptic_feedback">Toxunuş əks əlaqəsi</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Toxunaqlı ekran jestləri aşkarlananda titrət</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Toxunaqlı ekran jestləri</string>
     <string name="touchscreen_gesture_settings_summary">Cəld hərəkətlər üçün cürbəcür toxunaqlı ekran jestlərini həyata keçirin</string>
     <string name="gesture_display_title">Sönülü ekran jestləri</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">Sağa sürüşdür</string>
     <string name="touchscreen_swipe_down_title">Aşağı sürüşdür</string>
     <string name="touchscreen_swipe_left_title">Sola sürüşdür</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Qarşılıqlı təsir ekranı</string>
     <string name="user_aware_display_summary">İstifadəçi ekranın qarşısında olanda ekranı açıq saxlayar</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Bildiriş ekranı</string>
     <string name="ambient_display_enable_title">Bildiriş ekranı</string>
     <string name="ambient_display_enable_summary">Bildiriş gələndə ekranı oyandırar</string>
@@ -63,49 +72,70 @@
     <string name="ambient_display_summary_off">Bildiriş gələndə ekran oyanmayacaq</string>
     <string name="ambient_display_always_on_title">Həmişə açıq</string>
     <string name="ambient_display_always_on_summary">Saatı, bildiriş nişanlarını və digər məlumatları göstərər. Batereya istifadəsini artırar.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Meyl sensoru</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Əlinə götürmə sensoru</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Yaxınlıq sensoru</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Əl yellə</string>
     <string name="hand_wave_gesture_summary">Əl yelləyəndə bildirişləri at</string>
     <string name="hand_wave_gesture_flat_title">İstiqaməti aşkar et</string>
     <string name="hand_wave_gesture_flat_summary">Telefon yalnız düz bir səthdə üzü yuxarı dayanıbsa oyansın</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Telefonu götür</string>
     <string name="pick_up_gesture_summary">Telefonu götürəndə bildirişləri göstər</string>
     <string name="pick_up_wake_gesture_summary">Cihazı götürəndə oyandır</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Cib</string>
     <string name="pocket_gesture_summary">Cibdən çıxaranda bildirişləri at</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Hərəkətdə oyandır</string>
     <string name="proximity_wake_enable_title">Hərəkətdə oyandır</string>
     <string name="proximity_wake_enable_summary">Əl yelləyəndə cihazı oyandır</string>
+    <!-- Device actions -->
     <string name="actions_title">Hərəkətlər</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Cüt yelləmə</string>
     <string name="camera_gesture_summary">Cüt yelləmə jesti istifadə ediləndə kamera açılsın</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Silkələ</string>
     <string name="chop_chop_gesture_summary">Silkələyən zaman fənəri yandır/söndür</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Səssizə almaq üçün yelləyin</string>
     <string name="hand_wave_silencer_summary">Ekranın üstündə əlinizi yelləyərək gələn zəngləri səssizə alın</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Narahat Etmə rejimi üçün döndər</string>
     <string name="flip_to_mute_summary">Zəngləri və bildirişləri səssizə almaq üçün telefonu üzüaşağı çevir</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">Bu funksiyanın istifadəsi üçün, CMActions-a \"Narahat Etmə\" müraciət icazəsi verin.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Zəng səsini dayandırmaq üçün cihazı götür</string>
     <string name="lift_to_silence_summary">Gələn zəngləri susdurmaq üçün telefonu götür. Telefon yalnız düz olanda işləyər</string>
+    <!-- Action toggles -->
     <string name="action_none">Sıradan çıxart</string>
     <string name="action_launch_camera">Kameranı başlat</string>
     <string name="action_torch">Fənəri aç/bağla</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Toxunuş əks əlaqə gərginliyi</string>
     <string name="feedback_intensity_summary">Cüt yelləmə və doğrama hərəkətləri üçün toxunuş əks əlaqə gücü</string>
     <string name="feedback_intensity_none">Sıradan çıxarıldı</string>
     <string name="feedback_intensity_low">Aşağı</string>
     <string name="feedback_intensity_medium">Orta</string>
     <string name="feedback_intensity_high">Yüksək</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">Oldu</string>
+    <!-- Generic texts -->
     <string name="disabled">Sıradan çıxarıldı</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Kömək</string>
     <string name="doze_settings_help_text">Bu özəllik bildiriş ekranını başlatmaq üçün sensorlardan istifadə edir. Seçilmiş sensor yalnız cihaz bildiriş alanda fəallaşır, batereya istifadəsini azaltmağa kömək edər. Ekran sönəndə seçilmiş sensoru fəal etmək üçün bir seçim də var, ancaq bu daha çox batereya istifadəsinə səbəb ola bilər.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Əlavə düymələr</string>
     <string name="button_swap_title">Düymələri dəyişdir</string>
     <string name="button_swap_summary">Ən son tətbiqlər və geri düymələrinin yerini dəyişdir</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Barmaq izi</string>
     <string name="fingerprint_as_home_title">Əsas ekran üçün barmaq izi</string>
     <string name="fingerprint_as_home_summary">Barmaq izi sensorunu əsas ekran düyməsi kimi istifadə edin</string>
@@ -115,12 +145,16 @@
     <string name="fingerprint_pocketmode_summary">Barmaq izi sensoru tərəfindən tətiklənən oyanışlardan əvvəl yaxınlıq sensorunu yoxlayın</string>
     <string name="fingerprint_sleep_title">Barmaq izi ilə yuxlat</string>
     <string name="fingerprint_sleep_summary">Ekranı söndürmək üçün barmaq izi sensoruna basın</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Yüksək toxunuş həssaslığı</string>
     <string name="high_touch_sensitivity_summary">Toxunuş həssaslığını artıraraq əlcəklə istifadəni mümkün edər</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Sürətli enerji</string>
     <string name="quick_charge_summary">Sürətli enerjini aç/bağla. Bu tənzimləməni dəyişdirdikdən sonra enerji yığma cihazını çıxarıb yenidən taxın.</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Kamera fokus düzəltməsi</string>
     <string name="camera_focus_fix_summary">Kameranın fokuslanması ilə bağlı problem yaşayırsınızsa bunu fəallaşdırın</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Jestlərlə oyandırın</string>
     <string name="wake_on_gesture_summary">Jest tədbirlərində titrəyən bildirişlər əvəzinə cihazı oynadırın</string>
 </resources>

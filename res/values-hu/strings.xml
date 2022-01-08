@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Be</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Ki</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Speciális beállítások</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Kézmozdulatok</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extrák</string>
     <string name="touchscreen_gesture_haptic_feedback">Érintési visszajelzés</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Képernyő-mozdulatvezérlés észlelésekor rezeg</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Érintőképernyő-mozdulatvezérlés</string>
     <string name="touchscreen_gesture_settings_summary">Különböző képernyő-mozdulatvezérlések végrehajtása a gyorsműveletekhez</string>
     <string name="gesture_display_title">Képernyő-kikapcsoló gesztusok</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">Jobbra csúsztatás</string>
     <string name="touchscreen_swipe_down_title">Lefelé csúsztatás</string>
     <string name="touchscreen_swipe_left_title">Balra csúsztatás</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Felhasználó-érzékelő kijelző</string>
     <string name="user_aware_display_summary">Tartsa bekapcsolva a képernyőt, míg a felhasználó a kijelző előtt van</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Környezeti kijelző</string>
     <string name="ambient_display_enable_title">Környezeti kijelző</string>
     <string name="ambient_display_enable_summary">Képernyő ébresztése értesítések fogadásakor</string>
@@ -63,49 +72,70 @@
     <string name="ambient_display_summary_off">Képernyő nem ébred értesítések fogadásakor</string>
     <string name="ambient_display_always_on_title">Mindig bekapcsolva</string>
     <string name="ambient_display_always_on_summary">Az idő, az értesítési ikonok és egyéb információk megjelenítése. Növeli az akkuhasználatot.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Dőlés érzékelő</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Felemelés-érzékelő</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Közelség érzékelő</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Lebegő simítás</string>
     <string name="hand_wave_gesture_summary">Értesítések felvillantása lebegő simításnál</string>
     <string name="hand_wave_gesture_flat_title">Tájolás érzékelése</string>
     <string name="hand_wave_gesture_flat_summary">Értesítések felvillantása csak akkor, ha a telefon kijelzővel felfelé fekszik sima felületen</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Kézbevétel</string>
     <string name="pick_up_gesture_summary">Értesítések felvillantása kézbevételkor</string>
     <string name="pick_up_wake_gesture_summary">Készülékébresztés felemeléskor</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Zseb</string>
     <string name="pocket_gesture_summary">Értesítések felvillantása zsebből való kivételkor</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Közelség ébresztés</string>
     <string name="proximity_wake_enable_title">Közelség ébresztés</string>
     <string name="proximity_wake_enable_summary">Készülék ébresztése lebegő simításra</string>
+    <!-- Device actions -->
     <string name="actions_title">Műveletek</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Dupla megforgatás</string>
     <string name="camera_gesture_summary">Kamera megnyitása dupla megforgatási mozdulatra</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Tak-tak</string>
     <string name="chop_chop_gesture_summary">Zseblámpa váltása a tak-tak mozdulat használatakor</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Némítás simítással</string>
     <string name="hand_wave_silencer_summary">Bejövő hívás némítása a képernyőn való végigsimítással</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Fordítsa fel a \"Ne zavarj\" bekapcsolásához</string>
     <string name="flip_to_mute_summary">Helyezze a telefont kijelzővel lefelé az értesítések és a hívások némításához</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">A funkció használatához adjon \"Ne zavarjon\" hozzáférést a CMActions részére.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Vegye fel a csengetés befejezéséhez</string>
     <string name="lift_to_silence_summary">Emelje fel a telefont a bejövő hívások némításához. Ez csak akkor működik, ha a telefon vízszintes helyzetben volt</string>
+    <!-- Action toggles -->
     <string name="action_none">Letiltva</string>
     <string name="action_launch_camera">Kamera indítása</string>
     <string name="action_torch">Zseblámpa</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Érintési visszajelzés intenzitása</string>
     <string name="feedback_intensity_summary">Érintési visszajelzés erőssége a dupla megforgatás és a tak-tak műveletekhez</string>
     <string name="feedback_intensity_none">Letiltva</string>
     <string name="feedback_intensity_low">Alacsony</string>
     <string name="feedback_intensity_medium">Közepes</string>
     <string name="feedback_intensity_high">Magas</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">Rendben</string>
+    <!-- Generic texts -->
     <string name="disabled">Letiltva</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Súgó</string>
     <string name="doze_settings_help_text">Ezen funkció az érzékelő eseményeket használja a környezeti kijelző értesítési impulzusaihoz. A választott érzékelő csak akkor engedélyezett, ha a készülék értesítést kap, ez segít csökkenteni az akkumulátor használatát. Lehetőség van a választott érzékelő engedélyezésére is, amint a képernyő kikapcsol, de ez nagyobb akkumulátor használatot jelent.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">További gombok</string>
     <string name="button_swap_title">Gombok felcserélése</string>
     <string name="button_swap_summary">Előzmények és a vissza gomb sorrendjének felcserélése</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Ujjlenyomat</string>
     <string name="fingerprint_as_home_title">Ujjlenyomat kezdőlap gombként</string>
     <string name="fingerprint_as_home_summary">Ujjlenyomat érzékelő használata kezdőlap gombként</string>
@@ -115,12 +145,16 @@
     <string name="fingerprint_pocketmode_summary">Ellenőrizze a közelségérzékelőt az ujjlenyomatszenzor által kiváltott ébresztések előtt</string>
     <string name="fingerprint_sleep_title">Zárolás ujjlenyomat érintéssel</string>
     <string name="fingerprint_sleep_summary">Nyomja meg az ujjlenyomat-érzékelőt a képernyő kikapcsolásához</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Magas érintési érzékenység</string>
     <string name="high_touch_sensitivity_summary">Érintőképernyő érzékenységének növelése, így kesztyű viselése esetén is használható</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Gyorstöltés</string>
     <string name="quick_charge_summary">A gyorstöltés kapcsolója. Ha megváltoztatta ezt a beállítást, utána csatlakoztassa le, majd újra fel a készüléket</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Fókuszrögzítő</string>
     <string name="camera_focus_fix_summary">Akkor engedélyezze ezt, ha a készülék kamerája nem képes fókuszálni</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Felébresztés kézmozdulatokkal</string>
     <string name="wake_on_gesture_summary">A mozdulatérzékelő impulzus-értesítések helyett ébressze fel a készüléket</string>
 </resources>

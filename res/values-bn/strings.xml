@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">চালু করুন</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">বন্ধ করুন</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">অ্যাডভান্সড সেটিংস</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">আকৃতি</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">অতিরিক্ত</string>
     <string name="touchscreen_gesture_haptic_feedback">কম্পন প্রতিক্রিয়া</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">স্ক্রিনে জেসচার করা হলে ডিভাইসটি কম্পিত হবে</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">টাচস্ক্রিনের জেসচারসমূহ</string>
     <string name="touchscreen_gesture_settings_summary">দ্রুত কাজ করতে বিভিন্ন টাচস্ক্রিন জেসচার ব্যবহার করো</string>
     <string name="gesture_display_title">আকৃতির মাধ্যমে স্কিন বন্ধ করুন</string>
@@ -47,8 +54,10 @@
     <string name="touchscreen_swipe_right_title">ডানে সোয়াইপ</string>
     <string name="touchscreen_swipe_down_title">নিচে সোয়াইপ</string>
     <string name="touchscreen_swipe_left_title">বামে সোয়াইপ</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">ব্যাবহারকারী সচেতন বার্তা</string>
     <string name="user_aware_display_summary">ব্যাবহারকারী সামনে থাকলে স্ক্রীন চালু থাকবে</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">অবস্থানির্ভর প্রদর্শন</string>
     <string name="ambient_display_enable_title">অবস্থানির্ভর প্রদর্শন</string>
     <string name="ambient_display_enable_summary">বিজ্ঞপ্তি প্রাপ্ত হলে পর্দা সক্রিয় হবে</string>
@@ -57,22 +66,47 @@
     <string name="ambient_display_summary_off">আপনি কোনো বিজ্ঞপ্তি পেলেও স্ক্রিন চালু হবে না</string>
     <string name="ambient_display_always_on_title">সর্বদা সচল</string>
     <string name="ambient_display_always_on_summary">সময়, বিজ্ঞপ্তি ও অন্যান্য তথ্য দেখাও। তবে এতে ব্যাটারি বেশি খরচ হবে।</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">সেন্সর কাত করুন</string>
+    <!-- Pickup sensor -->
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">প্রক্সিমিটি সেন্সর</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">হাত নাড়ানো</string>
     <string name="hand_wave_gesture_summary">হাত নাড়ালে বিজ্ঞপ্তি স্পন্দিত হবে</string>
     <string name="hand_wave_gesture_flat_title">অভিমুখ শনাক্তকরণ</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">পিক-আপ</string>
     <string name="pick_up_gesture_summary">ফোনে উঠালে বিজ্ঞপ্তি প্রদর্শিত হবে</string>
     <string name="pick_up_wake_gesture_summary">ফোন উঠালে ডিভাইসের স্ক্রিন চালু করো</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">পকেট</string>
     <string name="pocket_gesture_summary">পকেট থেকে বের করলে বিজ্ঞপ্তি স্পন্দিত হবে</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_enable_summary">হাত নারালে ডিভাইস জেগে ঊঠবে</string>
+    <!-- Device actions -->
     <string name="actions_title">অ্যাকশন</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">ডাবল-টুইস্ট</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">চপ-চপ</string>
+    <!-- Hand wave silencer gesture -->
+    <!-- Flip to mute gesture -->
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
     <string name="action_launch_camera">ক্যামেরা চালু করুন</string>
     <string name="action_torch">টর্চ চালু বা বন্ধ করুন</string>
+    <!-- Feedback intensity -->
+    <!-- Dialog texts -->
+    <!-- Generic texts -->
+    <!-- Help texts -->
+    <!-- Button settings -->
+    <!-- Fingerprint -->
     <string name="fingerprint_title">আঙ্গুলের ছাপ</string>
     <string name="fingerprint_pocketmode_title">ভুলে স্ক্রিন চালু করা প্রতিহত করুন</string>
+    <!-- High touch sensitivity -->
+    <!-- Quick charge toggle -->
+    <!-- Camera focus fix toggle -->
+    <!-- Wake on gesture -->
 </resources>

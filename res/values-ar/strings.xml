@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">مفعل</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">مغلق</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">الإعدادات المتقدمة</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">الإيماءت</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">إضافات</string>
     <string name="touchscreen_gesture_haptic_feedback">التعليقات اللمسية</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">الاهتزاز عند التعرف على إيماءة لمسية</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">الإيماءات اللمسية</string>
     <string name="touchscreen_gesture_settings_summary">عمل إيماءات لمسية متعددة لإجراءات سريعة</string>
     <string name="gesture_display_title">إيماءات الشاشة المقفلة</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">التمرير لليمين</string>
     <string name="touchscreen_swipe_down_title">التمرير لأسفل</string>
     <string name="touchscreen_swipe_left_title">التمرير لليسار</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">شاشة تراعي المستخدم</string>
     <string name="user_aware_display_summary">تظل الشاشة تعمل طالما ظل المستخدم أمامها</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">العرض المحيطي</string>
     <string name="ambient_display_enable_title">العرض المحيطي</string>
     <string name="ambient_display_enable_summary">نشّط الشاشة عند تلقي إخطارات</string>
@@ -63,49 +72,70 @@
     <string name="ambient_display_summary_off">لن يتم إيقاظ الشاشة عندما تستلم إشعارات</string>
     <string name="ambient_display_always_on_title">يعمل دائماً</string>
     <string name="ambient_display_always_on_summary">إظهار الوقت، رموز الإشعارات ومعلومات أخرى. يزيد إستخدام البطارية.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">حساس الإمالة</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">مستشعر الالتقاط</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">حساس القرب</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">التلويح باليد</string>
     <string name="hand_wave_gesture_summary">إخطارات انبثاقية عند التلويح باليد</string>
     <string name="hand_wave_gesture_flat_title">التعرف على الاتجاه</string>
     <string name="hand_wave_gesture_flat_summary">النبض فقط إذا كان الهاتف وجهه لأعلى وعلى سطح مستوي</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">الإلتقاط</string>
     <string name="pick_up_gesture_summary">إشعارات نبضية عند التقاط الهاتف</string>
     <string name="pick_up_wake_gesture_summary">إيقاظ الجهاز عند الالتقاط</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">الجيب</string>
     <string name="pocket_gesture_summary">إخطارات انبثاقية عند الإخراج من الجيب</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">ايقاظ تقريبي</string>
     <string name="proximity_wake_enable_title">ايقاظ تقريبي</string>
     <string name="proximity_wake_enable_summary">ايقاظ الجهاز عند التلويح باليد</string>
+    <!-- Device actions -->
     <string name="actions_title">الإجراءات</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">التواء-مزدوج</string>
     <string name="camera_gesture_summary">فتح الكاميرا عند استخدام إيماءة الالتواء المزدوج</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">تشوب تشوب</string>
     <string name="chop_chop_gesture_summary">تبديل ضوء الفلاش عند استخدام إيماءة تشوب تشوب</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">قم بالتلويح للإسكات</string>
     <string name="hand_wave_silencer_summary">إسكات المكالمات الواردة بالتلويح بيدك أمام الشاشة</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">قلب الهاتف لتفعيل وضع عدم الإزعاج</string>
     <string name="flip_to_mute_summary">ضع وجه الهاتف للأسفل لتمكين وضع الصامت للإشعارات والمكالمات</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">رجاءً امنح وضع عدم الإزعاج القدرة للوصول إلى إجراءات CM لاستخدام هذه الميزة.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">الالتقاط لإيقاف الرنين</string>
     <string name="lift_to_silence_summary">ارفع الهاتف لإسكات المكالمات الواردة. تعمل فقط عندما يكون هاتفك في وضع معتدل</string>
+    <!-- Action toggles -->
     <string name="action_none">تعطيل</string>
     <string name="action_launch_camera">تشغيل الكاميرا</string>
     <string name="action_torch">تبديل الشعلة</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">شدة الاستجابة اللمسية</string>
     <string name="feedback_intensity_summary">شدة الاستجابة اللمسية في حالتي التدوير المزدوج والتقطيع</string>
     <string name="feedback_intensity_none">تعطيل</string>
     <string name="feedback_intensity_low">منخفضة</string>
     <string name="feedback_intensity_medium">متوسطة</string>
     <string name="feedback_intensity_high">عالية</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">موافق</string>
+    <!-- Generic texts -->
     <string name="disabled">تعطيل</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">مساعدة</string>
     <string name="doze_settings_help_text">هذه المزايا تستخدم أحداث الحساس لبدء إشعار نبضي للسبات. حيث يتم تفعيل الحساس المختار فقط عند استلام إشعار، وهذا يساعد على تقليل استخدام البطارية. ويوجد أيضًا خيار لتفعيل الحساس المختار حالما تغلق الشاشة، ولكن هذا سيزيد من استخدام البطارية.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">أزرار إضافية</string>
     <string name="button_swap_title">تبديل الأزرار</string>
     <string name="button_swap_summary">تبديل ترتيب أزرار الحديثة و الرجوع</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">بصمة الاصبع</string>
     <string name="fingerprint_as_home_title">البصمة كزر الرئيسية</string>
     <string name="fingerprint_as_home_summary">استخدام مستشعر بصمة الأصبع كزر الصفحة الرئيسية</string>
@@ -115,12 +145,16 @@
     <string name="fingerprint_pocketmode_summary">التحقق من حساس الاقتراب قبل الإيقاظات المُشغلة بحساس بصمة الأصبع</string>
     <string name="fingerprint_sleep_title">الإطفاء ببصمة الأصبع</string>
     <string name="fingerprint_sleep_summary">اضغط على حساس بصمة الأصبع لإيقاف تشغيل الشاشة</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">حساسية عالية للمس الشاشة</string>
     <string name="high_touch_sensitivity_summary">زيادة حساسية شاشة اللمس حتى يمكن استخدامها أثناء ارتداء القفازات</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">الشحن السريع</string>
     <string name="quick_charge_summary">تبديل وضع الشحن السريع. قم بإعادة توصيل الشاحن بعد تغيير هذا الإعداد</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">تثبيت تركيز الكاميرا</string>
     <string name="camera_focus_fix_summary">فعلها إن كانت هناك مشاكل في تركيز الكاميرا</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">إيقاظ عند الإيماءات</string>
     <string name="wake_on_gesture_summary">إيقاظ الجهاز بدلاً من نبض الإشعارات على أحداث الإيماءات</string>
 </resources>

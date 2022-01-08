@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Vklopljeno</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Izklopljeno</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Napredne nastavitve</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Poteze</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Dodatki</string>
     <string name="touchscreen_gesture_haptic_feedback">Haptično zaznavanje</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibriraj, ko je zaznana poteza na zaslonu na dotik</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Poteze na zaslonu na dotik</string>
     <string name="touchscreen_gesture_settings_summary">Za hitra dejanja na zaslonu na dotik izvedite različne poteze</string>
     <string name="gesture_display_title">Poteze za izklop zaslona</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">Poteg desno</string>
     <string name="touchscreen_swipe_down_title">Poteg navzdol</string>
     <string name="touchscreen_swipe_left_title">Poteg levo</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Zaslon z zaznavanjem uporabnika</string>
     <string name="user_aware_display_summary">Ohrani zaslon vklopljen, ko je uporabnik pred zaslonom</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Okoliški zaslon</string>
     <string name="ambient_display_enable_title">Okoliški zaslon</string>
     <string name="ambient_display_enable_summary">Zbudi zaslon, ko prejmem obvestila</string>
@@ -63,49 +72,70 @@
     <string name="ambient_display_summary_off">Zaslon se ne bo vklopil, ko prejmete obvestila</string>
     <string name="ambient_display_always_on_title">Vedno vklopljen</string>
     <string name="ambient_display_always_on_summary">Prikaži čas, ikone obvestil in druge podatke. Povečana poraba baterije.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Tipalo nagiba</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Dvižno tipalo</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Tipalo bližine</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Mahanje z roko</string>
     <string name="hand_wave_gesture_summary">Utripajoča obvestila ob mahanju z roko</string>
     <string name="hand_wave_gesture_flat_title">Zaznaj usmerjenost</string>
     <string name="hand_wave_gesture_flat_summary">Utripaj samo, če telefon leži na ravni površini obrnjen navzgor</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Dvig</string>
     <string name="pick_up_gesture_summary">Utripajoča obvestila ob dvigu</string>
     <string name="pick_up_wake_gesture_summary">Zbudi napravo ob dvigu</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Žep</string>
     <string name="pocket_gesture_summary">Utripajoča obvestila ob odstranitvi iz žepa</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Bujenje ob bližini</string>
     <string name="proximity_wake_enable_title">Bujenje ob bližini</string>
     <string name="proximity_wake_enable_summary">Zbudi napravo ob mahanju z roko</string>
+    <!-- Device actions -->
     <string name="actions_title">Dejanja</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Dvojno zvijanje</string>
     <string name="camera_gesture_summary">Odpri fotoaparat ob potezi dvojnega zvijanja</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Dvakratno navpično tresenje</string>
     <string name="chop_chop_gesture_summary">Preklopi svetilko ob potezi dvakratno navpičnega tresenja</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Mahaj za utišanje</string>
     <string name="hand_wave_silencer_summary">Utišaj dohodne klice z mahanjem roke preko zaslona</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Obračanje za \'Ne moti\'</string>
     <string name="flip_to_mute_summary">Obrnite telefon s sprednjo stranjo navzdol za utišanje obvestil in klicev</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">Odobrite dostop »Ne moti« za CMActions, da mu dovolite uporabo te značilnosti.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Dvig za utišanje zvonjenja</string>
     <string name="lift_to_silence_summary">Dvignite telefon za utišanje dohodnih klicev. Deluje samo, ko je telefon v vodoravnem položaju.</string>
+    <!-- Action toggles -->
     <string name="action_none">Onemogoči</string>
     <string name="action_launch_camera">Zaženi fotoaparat</string>
     <string name="action_torch">Preklopi svetilko</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Jakost haptičnega zaznavanja</string>
     <string name="feedback_intensity_summary">Moč haptičnega zaznavanja za dejanji dvojnega zvijanja in pokončnega tresenja</string>
     <string name="feedback_intensity_none">Onemogočeno</string>
     <string name="feedback_intensity_low">Nizka</string>
     <string name="feedback_intensity_medium">Srednja</string>
     <string name="feedback_intensity_high">Visoka</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">V redu</string>
+    <!-- Generic texts -->
     <string name="disabled">Onemogočeno</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Pomoč</string>
     <string name="doze_settings_help_text">Te značilnosti uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Dodatni gumbi</string>
     <string name="button_swap_title">Zamenjaj gumbe</string>
     <string name="button_swap_summary">Zamenjaj vrstni red gumbov Nedavno in Nazaj</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Prstni odtis</string>
     <string name="fingerprint_as_home_title">Prstni odtis kot Domov</string>
     <string name="fingerprint_as_home_summary">Uporabi čitalec prstnih odtisov kot gumb Domov</string>
@@ -115,12 +145,16 @@
     <string name="fingerprint_pocketmode_summary">Pred bujenjem s čitalcem prstnih odtisov preveri tipalo bližine</string>
     <string name="fingerprint_sleep_title">Spanje s prstnim odtisom</string>
     <string name="fingerprint_sleep_summary">Za izklop zaslona pritisnite čitalec prstnih odtisov</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Visoka občutljivost dotika</string>
     <string name="high_touch_sensitivity_summary">Povečaj občutljivost dotika tako, da ga lahko uporabite, ko nosite rokavice</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Hitro polnjenje</string>
     <string name="quick_charge_summary">Preklopi hitro polnjenje. Odklopite in ponovno vlopite polnilec po spremembi te nastavitve</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Popravek ostrenja fotoaparata</string>
     <string name="camera_focus_fix_summary">Omogočite, če imate težave z ostrenjem fotoaparata</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Zbudi ob potezah</string>
     <string name="wake_on_gesture_summary">Zbudi napravo namesto utripajočih obvestil ob dogodkih potez</string>
 </resources>

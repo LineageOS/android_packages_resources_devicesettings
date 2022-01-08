@@ -16,16 +16,50 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Allutu</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Istudadu</string>
+    <!-- Device specific settings -->
+    <!-- Device gestures panel -->
+    <!-- Touchscreen gesture haptic feedback -->
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_c_gesture_title">Fotocàmera</string>
     <string name="touchscreen_music_gesture_title">Mùsica</string>
+    <!-- User-aware display -->
+    <!-- Ambient Display -->
+    <!-- Tilt sensor -->
+    <!-- Pickup sensor -->
+    <!-- Proximity sensor -->
+    <!-- Hand wave gesture -->
+    <!-- Pick-up gesture -->
+    <!-- Pocket gesture -->
+    <!-- Proximity wake -->
+    <!-- Device actions -->
+    <!-- Camera gesture -->
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
+    <!-- Flip to mute gesture -->
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
     <string name="action_none">Disabìlita</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_none">Disabilitadu</string>
     <string name="feedback_intensity_low">Bassa</string>
     <string name="feedback_intensity_medium">Mèdia</string>
     <string name="feedback_intensity_high">Arta</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">AB</string>
+    <!-- Generic texts -->
     <string name="disabled">Disabilitadu</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Agiudu</string>
+    <!-- Button settings -->
+    <!-- Fingerprint -->
+    <!-- High touch sensitivity -->
+    <!-- Quick charge toggle -->
+    <!-- Camera focus fix toggle -->
+    <!-- Wake on gesture -->
 </resources>

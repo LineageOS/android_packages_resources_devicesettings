@@ -16,10 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">ئالىي تەڭشەكلەر</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">قول ئىشارەت</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">قوشۇمچە ئىقتىدار</string>
     <string name="touchscreen_gesture_haptic_feedback">تېگىش ئىنكاسى</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_c_gesture_title">كامېرا</string>
     <string name="touchscreen_c_gesture_summary">ئاپاراتنى قوزغىتىش ئۈچۈن \"C\" شەكلىنى سىزىڭ</string>
     <string name="touchscreen_e_gesture_title">ئېلخەت</string>
@@ -32,33 +39,60 @@
     <string name="touchscreen_w_gesture_summary">تور كۆرگۈچنى قوزغىتىش ئۈچۈن \"W\" شەكلىنى سىزىڭ</string>
     <string name="touchscreen_z_gesture_title">قول چىراغ</string>
     <string name="touchscreen_z_gesture_summary">قول چىراقنى قوزغىتىش ئۈچۈن \"Z\" شەكلىنى سىزىڭ</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">ئابونت سەزگۈ كۆرسىتىش</string>
     <string name="user_aware_display_summary">ئىشلەتكۈچى ئېكران ئالدىغا كەلگەندە ئېكران ئوچۇق تۇرسۇن</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">تەشەببۇسكارلىق بىلەن كۆرسىتىدۇ</string>
     <string name="ambient_display_enable_title">تەشەببۇسكارلىق بىلەن كۆرسىتىدۇ</string>
     <string name="ambient_display_enable_summary">ئۇقتۇرۇش كەلگەندە ئېكراننى ئويغىتىدۇ</string>
+    <!-- Tilt sensor -->
+    <!-- Pickup sensor -->
+    <!-- Proximity sensor -->
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">قول پۇلاڭلىتىش</string>
     <string name="hand_wave_gesture_summary">قولنى پۇلاڭلاتقاندا ئۇقتۇرۇش چىرىغىنى چاقنىتىدۇ</string>
+    <!-- Pick-up gesture -->
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">يانچۇق</string>
     <string name="pocket_gesture_summary">يانچۇقتىن چىقارغاندا ئۇقتۇرۇش چىرىغىنى چاقنىتىدۇ</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">ئارلىق سېنزور ئويغاندى</string>
     <string name="proximity_wake_enable_title">ئارلىق سېنزور ئويغاندى</string>
     <string name="proximity_wake_enable_summary">قولنى پولاڭلىتىپ ئۈسكىنىنى ئويغىتىش</string>
+    <!-- Device actions -->
     <string name="actions_title">ھەرىكەت</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">ئىككى قېتىم تەۋرىتىش</string>
     <string name="camera_gesture_summary">ئىككى قېتىم تەۋرەتكەندە كامېرا قوزىغىلىدۇ</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">دەرھال</string>
     <string name="chop_chop_gesture_summary">ئوڭ سولغا تەۋرەتكەندە قول چىراق يورۇيدۇ</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">تەۋرىتىپ ئاۋازسىز قىلىش</string>
     <string name="hand_wave_silencer_summary">تېلېفون كەلگەندە قولنى پولاڭلىتىپ ئاۋازىنى ئۆچىرىش</string>
+    <!-- Flip to mute gesture -->
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
     <string name="action_none">چەكلەش</string>
     <string name="action_launch_camera">كامېرانى قوزغىتىڭ</string>
     <string name="action_torch">قول چىراغ ئۈزچات</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">تېگىش سېزىمى رىفلىكىسنىڭ كۈچلۈكلىكى</string>
     <string name="feedback_intensity_summary">ئىككى قېتىم تەۋرەتكەندە ۋە \"دەرھال\" ھەرىكەت قىلغاندىكى تېگىش سېزىمى رىفلىكىسنىڭ كۈچلۈكلىكى</string>
     <string name="feedback_intensity_none">چەكلەنگەن</string>
     <string name="feedback_intensity_low">تۆۋەن</string>
     <string name="feedback_intensity_medium">ئوتتۇرا</string>
     <string name="feedback_intensity_high">يۇقىرى</string>
+    <!-- Dialog texts -->
+    <!-- Generic texts -->
     <string name="disabled">چەكلەنگەن</string>
+    <!-- Help texts -->
+    <!-- Button settings -->
+    <!-- Fingerprint -->
+    <!-- High touch sensitivity -->
+    <!-- Quick charge toggle -->
+    <!-- Camera focus fix toggle -->
+    <!-- Wake on gesture -->
 </resources>

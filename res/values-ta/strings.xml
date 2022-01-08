@@ -16,10 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">மேம்பட்ட அமைப்புகள்</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">சைகைகள்</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">உதிரிகள்</string>
     <string name="touchscreen_gesture_haptic_feedback">தீண்டும் பின்னூட்டம்</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_c_gesture_title">கேமரா</string>
     <string name="touchscreen_c_gesture_summary">கேமரா செயல்படுத்த ஒரு \"C\" வரை</string>
     <string name="touchscreen_e_gesture_title">மின்னஞ்சல்</string>
@@ -32,26 +39,53 @@
     <string name="touchscreen_w_gesture_summary">உலாவி பயன்பாட்டை திறக்க ஒரு \"W\" வரை</string>
     <string name="touchscreen_z_gesture_title">ஃபிளாஷ்லைட்</string>
     <string name="touchscreen_z_gesture_summary">ஃப்ளாஷ்லைட் நிலைமாறுவதற்கு ஒரு \"Z\" வரை</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">பயனர்-அறிந்த காட்சி</string>
     <string name="user_aware_display_summary">பயனர் காட்சிக்கு முன் இருக்கும்போது திரையை ஆன்-இல் வைக்கவும்</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">தன்னிச்சையான திரைஒளிர்வமைப்பு</string>
     <string name="ambient_display_enable_title">தன்னிச்சையான திரைஒளிர்வமைப்பு</string>
     <string name="ambient_display_enable_summary">செய்திகள் பெறுகையில் திரையை இயக்கு</string>
+    <!-- Tilt sensor -->
+    <!-- Pickup sensor -->
+    <!-- Proximity sensor -->
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">கை அசைவு</string>
     <string name="hand_wave_gesture_summary">கை அசைவில் துடிப்பு அறிவிப்பை இயக்கு</string>
+    <!-- Pick-up gesture -->
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">பை</string>
     <string name="pocket_gesture_summary">பையிலிருந்து எடுக்கும்போது துடிப்பு அறிவிப்பை இயக்கு</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">அண்மை விழிப்பூட்டல்</string>
     <string name="proximity_wake_enable_title">அண்மை விழிப்பூட்டல்</string>
     <string name="proximity_wake_enable_summary">கை அசைவில் சாதனத்தை விழிப்பூட்டு</string>
+    <!-- Device actions -->
+    <!-- Camera gesture -->
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
+    <!-- Flip to mute gesture -->
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
     <string name="action_none">முடக்கு</string>
     <string name="action_launch_camera">கேமராவை தொடங்கு</string>
     <string name="action_torch">டார்ச்சை நிலைமாற்று</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">தீண்டும் பின்னூட்டம் இன்டென்சிட்டி</string>
     <string name="feedback_intensity_summary">இரு-திருப்பம் மற்றும் சாப்-சாப் செயல்களுக்கான தீண்டும் பின்னூட்டத்தின் வலிமை</string>
     <string name="feedback_intensity_none">முடக்கப்பட்டது</string>
     <string name="feedback_intensity_low">குறைந்த தரம்</string>
     <string name="feedback_intensity_medium">நடுத்தரம்</string>
     <string name="feedback_intensity_high">உயர்தரம்</string>
+    <!-- Dialog texts -->
+    <!-- Generic texts -->
     <string name="disabled">முடக்கப்பட்டது</string>
+    <!-- Help texts -->
+    <!-- Button settings -->
+    <!-- Fingerprint -->
+    <!-- High touch sensitivity -->
+    <!-- Quick charge toggle -->
+    <!-- Camera focus fix toggle -->
+    <!-- Wake on gesture -->
 </resources>

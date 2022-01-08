@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">On</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Off</string>
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">Impostazioni avanzate</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gesture</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extra</string>
     <string name="touchscreen_gesture_haptic_feedback">Feedback tattile</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibra quando viene rilevata una gesture</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gesture sullo schermo</string>
     <string name="touchscreen_gesture_settings_summary">Esegui vari movimenti sul touchscreen per azioni rapide</string>
     <string name="gesture_display_title">Gesture schermo spento</string>
@@ -51,8 +58,10 @@
     <string name="touchscreen_swipe_right_title">Scorri a destra</string>
     <string name="touchscreen_swipe_down_title">Scorri verso il basso</string>
     <string name="touchscreen_swipe_left_title">Scorri a sinistra</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">Visualizzazione utente</string>
     <string name="user_aware_display_summary">Tiene lo schermo accesso quando l\'utente lo guarda</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">Ambient display</string>
     <string name="ambient_display_enable_title">Ambient display</string>
     <string name="ambient_display_enable_summary">Attiva lo schermo quando ricevi notifiche</string>
@@ -63,49 +72,70 @@
     <string name="ambient_display_summary_off">Non accende lo schermo quando ricevi una notifica</string>
     <string name="ambient_display_always_on_title">Sempre accesso</string>
     <string name="ambient_display_always_on_summary">Mostra orario, icone di notifica e altre informazioni. Maggior consumo della batteria.</string>
+    <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Sensore inclinazione</string>
+    <!-- Pickup sensor -->
     <string name="pickup_sensor_title">Sensore pickup</string>
+    <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Sensore prossimità</string>
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Movimento della mano</string>
     <string name="hand_wave_gesture_summary">Mostra notifiche al passaggio della mano</string>
     <string name="hand_wave_gesture_flat_title">Rileva orientamento</string>
     <string name="hand_wave_gesture_flat_summary">Visualizza solo se il telefono é appoggiato orizzontalmente su una superficie piatta</string>
+    <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Sollevamento</string>
     <string name="pick_up_gesture_summary">Mostra notifiche al sollevamento</string>
     <string name="pick_up_wake_gesture_summary">Risveglia il dispositivo alzandolo</string>
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Tasca</string>
     <string name="pocket_gesture_summary">Mostra notifiche quando togli dalla tasca</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">Risveglio prossimità</string>
     <string name="proximity_wake_enable_title">Risveglio prossimità</string>
     <string name="proximity_wake_enable_summary">Risveglia il dispositivo al passaggio della mano</string>
+    <!-- Device actions -->
     <string name="actions_title">Azioni</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">Doppio scuotimento</string>
     <string name="camera_gesture_summary">Apri la fotocamera quando scuoti due volte</string>
+    <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Chop-chop</string>
     <string name="chop_chop_gesture_summary">Accendi la torcia quando utilizzi la gesture chop-chop</string>
+    <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Muovi la mano per silenziare</string>
     <string name="hand_wave_silencer_summary">Silenza le chiamate in arrivo passando la mano sopra lo schermo</string>
+    <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Capovolgi per non disturbare</string>
     <string name="flip_to_mute_summary">Metti a faccia in giù il telefono per silenziare le notifiche e chiamate</string>
+    <!-- Do Not Disturb access -->
     <string name="dnd_access">Consenti il permesso di accedere a Non disturbare a CMActions per utilizzare questa funzione.</string>
+    <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Prendi in mano per silenziare</string>
     <string name="lift_to_silence_summary">Solleva il telefono per silenziare le chiamate in arrivo. Funziona solo se il telefono era su una superficie piatta</string>
+    <!-- Action toggles -->
     <string name="action_none">Disattiva</string>
     <string name="action_launch_camera">Avvia Fotocamera</string>
     <string name="action_torch">Torcia</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Intensità feedback tattile</string>
     <string name="feedback_intensity_summary">Forza del feedback tattile per le azioni doppio scuotimento e chop-chop</string>
     <string name="feedback_intensity_none">Disattivato</string>
     <string name="feedback_intensity_low">Bassa</string>
     <string name="feedback_intensity_medium">Media</string>
     <string name="feedback_intensity_high">Alta</string>
+    <!-- Dialog texts -->
     <string name="dialog_ok">OK</string>
+    <!-- Generic texts -->
     <string name="disabled">Disattivato</string>
+    <!-- Help texts -->
     <string name="doze_settings_help_title">Guida</string>
     <string name="doze_settings_help_text">Queste funzioni utilizzano i sensori per mostrare le notifiche. Il sensore selezionato verrà attivato solo quando il dispositivo riceve una notifica, questo consentirà di ridurre l\'utilizzo della batteria. È anche possibile attivare il sensore selezionato appena lo schermo si spegne, ma ciò comporterà ad un utilizzo maggiore della batteria.</string>
+    <!-- Button settings -->
     <string name="button_panel_title">Pulsanti aggiuntivi</string>
     <string name="button_swap_title">Inverti pulsanti</string>
     <string name="button_swap_summary">Inverti la posizione dei tasti indietro e panoramica</string>
+    <!-- Fingerprint -->
     <string name="fingerprint_title">Impronte digitali</string>
     <string name="fingerprint_as_home_title">Impronte digitali come home</string>
     <string name="fingerprint_as_home_summary">Utilizza lettore impronte digitali come pulsante home</string>
@@ -115,12 +145,16 @@
     <string name="fingerprint_pocketmode_summary">Controla il sensore di prossimità prima di risvegliare lo smartphone con le impronte digitali</string>
     <string name="fingerprint_sleep_title">Sospensione con impronte digitali</string>
     <string name="fingerprint_sleep_summary">Premi il sensore d\'impronte digitali per sospendere il dispositivo</string>
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Alta sensibilità al tocco</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilità del touchscreen per l\'utilizzo con i guanti</string>
+    <!-- Quick charge toggle -->
     <string name="quick_charge_title">Ricarica rapida</string>
     <string name="quick_charge_summary">Attiva o disattiva la ricarica rapida. Scollega e ricollega il caricabatterie dopo aver modificato questa impostazione</string>
+    <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Fissa fuoco fotocamera</string>
     <string name="camera_focus_fix_summary">Attiva se stai avendo problemi con la messa a fuoco della fotocamera</string>
+    <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Gesture di risveglio</string>
     <string name="wake_on_gesture_summary">Risveglia il dispositivo invece di mostrare le notifiche quando si effettuano delle gesture</string>
 </resources>

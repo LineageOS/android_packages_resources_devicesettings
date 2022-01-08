@@ -16,7 +16,41 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Device specific settings -->
+    <!-- Device gestures panel -->
+    <!-- Touchscreen gesture haptic feedback -->
+    <!-- Touchscreen gestures -->
+    <!-- User-aware display -->
+    <!-- Ambient Display -->
     <string name="ambient_display_always_on_title">Uvijek uključeno</string>
     <string name="ambient_display_always_on_summary">Prikazuj vrijeme, ikone obavijesti, i ostale informacije. Povećava potrošnju baterije.</string>
+    <!-- Tilt sensor -->
+    <!-- Pickup sensor -->
+    <!-- Proximity sensor -->
+    <!-- Hand wave gesture -->
+    <!-- Pick-up gesture -->
+    <!-- Pocket gesture -->
+    <!-- Proximity wake -->
+    <!-- Device actions -->
+    <!-- Camera gesture -->
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
+    <!-- Flip to mute gesture -->
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
+    <!-- Feedback intensity -->
+    <!-- Dialog texts -->
+    <!-- Generic texts -->
+    <!-- Help texts -->
+    <!-- Button settings -->
+    <!-- Fingerprint -->
+    <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_summary">Pojačaj osjetljivost ekrana da se može koristiti i sa rukavicama</string>
+    <!-- Quick charge toggle -->
+    <!-- Camera focus fix toggle -->
+    <!-- Wake on gesture -->
 </resources>

@@ -16,10 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Device specific settings -->
     <string name="device_settings_app_name">ବିକଶିତ ସେଟିଙ୍ଗ୍ସ</string>
+    <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">ଅଙ୍ଗଭଙ୍ଗୀ</string>
+    <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">ବୃହତ୍ତର</string>
     <string name="touchscreen_gesture_haptic_feedback">ହାପ୍ଟିକ୍ ଫିଡବ୍ୟାକ୍</string>
+    <!-- Touchscreen gestures -->
     <string name="touchscreen_c_gesture_title">କ୍ୟାମେରା</string>
     <string name="touchscreen_c_gesture_summary">କ୍ୟାମେରା ସକ୍ରିୟ କରିବା ପାଇଁ ଏକ \"C\" ଆଙ୍କନ୍ତୁ</string>
     <string name="touchscreen_e_gesture_title">ଇମେଲ୍</string>
@@ -32,26 +39,53 @@
     <string name="touchscreen_w_gesture_summary">ବ୍ରାଉଜର୍ ଆପ୍ ଖୋଲିବା ପାଇଁ ଏକ \"W\" ଆଙ୍କନ୍ତୁ</string>
     <string name="touchscreen_z_gesture_title">ଫ୍ଲାସଲାଇଟ୍</string>
     <string name="touchscreen_z_gesture_summary">ଫ୍ଲାସ୍‍ଲାଇଟ୍‍ ଟୋଗଲ୍‍ କରିବା ପାଇଁ ଏକ \"Z\" ଆଙ୍କନ୍ତୁ</string>
+    <!-- User-aware display -->
     <string name="user_aware_display_title">ଉପଭୋକ୍ତା-ସଚେତନ ଡିସ୍‍ପ୍ଲେ</string>
     <string name="user_aware_display_summary">ଡିସ୍‍ପ୍ଲେର ସାମନାରେ ଜଣେ ଉପଭୋକ୍ତା ଥିବା ସମୟରେ ସ୍କ୍ରିନ୍‍କୁ ଅନ୍‍ ରଖନ୍ତୁ</string>
+    <!-- Ambient Display -->
     <string name="ambient_display_title">ଏମ୍ବିଏଣ୍ଟ ପ୍ରଦର୍ଶନ</string>
     <string name="ambient_display_enable_title">ଏମ୍ବିଏଣ୍ଟ ପ୍ରଦର୍ଶନ</string>
     <string name="ambient_display_enable_summary">ଆପଣ ସୂଚନାବଳି ପ୍ରାପ୍ତ କରିବା ସମୟରେ ସ୍କ୍ରିନ୍‍କୁ ଉଠାନ୍ତୁ</string>
+    <!-- Tilt sensor -->
+    <!-- Pickup sensor -->
+    <!-- Proximity sensor -->
+    <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">ହ୍ୟାଣ୍ଡ ୱେଭ୍‍</string>
     <string name="hand_wave_gesture_summary">ହ୍ୟାଣ୍ଡ ୱେଭ୍‍ରେ ପଲ୍ସ ସୂଚନାବଳି</string>
+    <!-- Pick-up gesture -->
+    <!-- Pocket gesture -->
     <string name="pocket_gesture_title">ପକେଟ୍‍</string>
     <string name="pocket_gesture_summary">ପକେଟ୍‍ରୁ ଅପସାରଣ ସମୟରେ ପଲ୍ସ ସୂଚନାବଳି</string>
+    <!-- Proximity wake -->
     <string name="proximity_wake_title">ପ୍ରକ୍ସିମିଟି ୱେକ୍‍</string>
     <string name="proximity_wake_enable_title">ପ୍ରକ୍ସିମିଟି ୱେକ୍‍</string>
     <string name="proximity_wake_enable_summary">ହ୍ୟାଣ୍ଡ ୱେଭ୍‍ରେ ଡିଭାଇସ୍‍ ଉଠାନ୍ତୁ</string>
+    <!-- Device actions -->
+    <!-- Camera gesture -->
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
+    <!-- Flip to mute gesture -->
+    <!-- Do Not Disturb access -->
+    <!-- Lift to silence gesture -->
+    <!-- Action toggles -->
     <string name="action_none">ଅକ୍ଷମ</string>
     <string name="action_launch_camera">କ୍ୟାମେରା ଉନ୍ମୋଚନ୍ଚ କରନ୍ତୁ</string>
     <string name="action_torch">ଟୋଗଲ୍‍ ଟର୍ଚ୍ଚ</string>
+    <!-- Feedback intensity -->
     <string name="feedback_intensity_title">ହାପ୍‍ଟିକ୍‍ ମତାମତ ପ୍ରଭାବ</string>
     <string name="feedback_intensity_summary">ଡବଲ୍‍-ଟ୍ୱିଷ୍ଟ ଓ ଚପ୍‍-ଚପ୍‍ ସଂଚାଳନ ପାଇଁ ହାପ୍‍ଟିକ୍‍ ମତାମତର କ୍ଷମତା</string>
     <string name="feedback_intensity_none">ଅକ୍ଷମ ହୋଇଛି</string>
     <string name="feedback_intensity_low">କମ୍</string>
     <string name="feedback_intensity_medium">ମଧ୍ୟମ</string>
     <string name="feedback_intensity_high">ଉଚ୍ଚ</string>
+    <!-- Dialog texts -->
+    <!-- Generic texts -->
     <string name="disabled">ଅକ୍ଷମ ହୋଇଛି</string>
+    <!-- Help texts -->
+    <!-- Button settings -->
+    <!-- Fingerprint -->
+    <!-- High touch sensitivity -->
+    <!-- Quick charge toggle -->
+    <!-- Camera focus fix toggle -->
+    <!-- Wake on gesture -->
 </resources>
