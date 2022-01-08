@@ -114,4 +114,5 @@
     <string name="fingerprint_sleep_summary">Pulse el sensor de huella dactilar para apagar la pantalla</string>
     <string name="high_touch_sensitivity_title">Alta sensibilidad al tacto</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilidad de la pantalla para que pueda usarse con guantes</string>
+    <string name="quick_charge_title">Carga rápida</string>
 </resources>
