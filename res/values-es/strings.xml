@@ -114,4 +114,10 @@
     <string name="fingerprint_sleep_summary">Pulse el sensor de huella dactilar para apagar la pantalla</string>
     <string name="high_touch_sensitivity_title">Alta sensibilidad al tacto</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilidad de la pantalla para que pueda usarse con guantes</string>
+    <string name="quick_charge_title">Carga rápida</string>
+    <string name="quick_charge_summary">Activa la carga rápida. Desconecta y reconecta el cargador tras cambiar esta opción</string>
+    <string name="camera_focus_fix_title">Arreglo de enfoque de cámara</string>
+    <string name="camera_focus_fix_summary">Activar si tiene problemas al enfocar la cámara</string>
+    <string name="wake_on_gesture_title">Despertar con gestos</string>
+    <string name="wake_on_gesture_summary">Despierta el dispositivo en lugar de mostrar notificaciones al realizar gestos</string>
 </resources>

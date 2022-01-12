@@ -56,15 +56,14 @@
     <string name="ambient_display_title">Pantalla ambiente</string>
     <string name="ambient_display_enable_title">Pantalla ambiente</string>
     <string name="ambient_display_enable_summary">Esconsueña la pantalla al recibir avisos</string>
-    <string name="ambient_display_gestures_title">Xestos de pantalla ambiente</string>
+    <string name="ambient_display_gestures_title">Xestos de la pantalla ambiente</string>
     <string name="ambient_display_gestures_summary">Xestos adicionales pa esconsoñar la pantalla</string>
     <string name="ambient_display_summary">Esconsueña la pantalla al recibir avisos</string>
     <string name="ambient_display_summary_on">La pantalla esconsoñará al recibir avisos</string>
     <string name="ambient_display_summary_off">La pantalla nun esconsoñará al recibir avisos</string>
-    <string name="ambient_display_always_on_title">Siempre activáu</string>
-    <string name="ambient_display_always_on_summary">Amosar hora, iconos de notificación, y otra información. Mayor usu de la batería.</string>
+    <string name="ambient_display_always_on_summary">Amuesa la hora, los iconos d\'avisu y otra información. L\'usu de la batería va aumentar.</string>
     <string name="tilt_sensor_title">Sensor d\'inclinación</string>
-    <string name="pickup_sensor_title">Sensor de coyida</string>
+    <string name="pickup_sensor_title">Sensor de recoyida</string>
     <string name="proximity_sensor_title">Sensor de proximidá</string>
     <string name="hand_wave_gesture_title">Pasar la mano</string>
     <string name="hand_wave_gesture_summary">Avisos llatentes al pasar la mano</string>
@@ -72,6 +71,7 @@
     <string name="hand_wave_gesture_flat_summary">Amosar notificaciones sólo si\'l teléfonu ta enriba d\'una superficie plana</string>
     <string name="pick_up_gesture_title">Coyer</string>
     <string name="pick_up_gesture_summary">Avisos llatentes al coyer</string>
+    <string name="pick_up_wake_gesture_summary">Esconsoña\'l preséu al coyelu</string>
     <string name="pocket_gesture_title">Bolsiellu</string>
     <string name="pocket_gesture_summary">Avisos llatentes al sacar del bolsiellu</string>
     <string name="proximity_wake_title">Esconsueñu per proximidá</string>
@@ -114,6 +114,12 @@
     <string name="fingerprint_pocketmode_summary">Comprueba\'l sensor de proximidá enantes d\'esconsoñar el preséu cola buelga</string>
     <string name="fingerprint_sleep_title">Reposu cola buelga</string>
     <string name="fingerprint_sleep_summary">Pimi\'l sensor de buelgues p\'apagar la pantalla</string>
-    <string name="high_touch_sensitivity_title">Sensibilidá táutil alta</string>
-    <string name="high_touch_sensitivity_summary">Aumenta la sensibilidá de la pantalla táutil pa que puea usase mentanto lleves guantes</string>
+    <string name="high_touch_sensitivity_title">Sensibilidá táctil alta</string>
+    <string name="high_touch_sensitivity_summary">Aumenta la sensibilidá de la pantalla táctil pa que puedas usala mentanto lleves guantes</string>
+    <string name="quick_charge_title">Carga rápida</string>
+    <string name="quick_charge_summary">Alterna la carga rápida. Has volver conectar el cargador dempués de camudar esti axuste</string>
+    <string name="camera_focus_fix_title">Igua del enfoque de la cámara</string>
+    <string name="camera_focus_fix_summary">Activa esta opción si tienes problemes col enfoque de la cámara</string>
+    <string name="wake_on_gesture_title">Esconsoñar al facer xestos</string>
+    <string name="wake_on_gesture_summary">Esconsoña\'l preséu en cuentes d\'amosar avisos al facer xestos</string>
 </resources>

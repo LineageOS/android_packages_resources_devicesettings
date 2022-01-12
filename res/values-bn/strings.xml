@@ -45,10 +45,15 @@
     <string name="ambient_display_title">অবস্থানির্ভর প্রদর্শন</string>
     <string name="ambient_display_enable_title">অবস্থানির্ভর প্রদর্শন</string>
     <string name="ambient_display_enable_summary">বিজ্ঞপ্তি প্রাপ্ত হলে পর্দা সক্রিয় হবে</string>
+    <string name="ambient_display_always_on_title">সর্বদা সচল</string>
+    <string name="ambient_display_always_on_summary">সময়, বিজ্ঞপ্তি ও অন্যান্য তথ্য দেখাও। তবে এতে ব্যাটারি বেশি খরচ হবে।</string>
+    <string name="tilt_sensor_title">সেন্সর কাত করুন</string>
     <string name="proximity_sensor_title">প্রক্সিমিটি সেন্সর</string>
     <string name="hand_wave_gesture_title">হাত নাড়ানো</string>
     <string name="hand_wave_gesture_summary">হাত নাড়ালে বিজ্ঞপ্তি স্পন্দিত হবে</string>
     <string name="pick_up_gesture_title">পিক-আপ</string>
+    <string name="pick_up_gesture_summary">ফোনে উঠালে বিজ্ঞপ্তি প্রদর্শিত হবে</string>
+    <string name="pick_up_wake_gesture_summary">ফোন উঠালে ডিভাইসের স্ক্রিন চালু করো</string>
     <string name="pocket_gesture_title">পকেট</string>
     <string name="pocket_gesture_summary">পকেট থেকে বের করলে বিজ্ঞপ্তি স্পন্দিত হবে</string>
     <string name="proximity_wake_enable_summary">হাত নারালে ডিভাইস জেগে ঊঠবে</string>
@@ -57,4 +62,5 @@
     <string name="chop_chop_gesture_title">চপ-চপ</string>
     <string name="action_launch_camera">ক্যামেরা চালু করুন</string>
     <string name="action_torch">টর্চ চালু বা বন্ধ করুন</string>
+    <string name="fingerprint_title">আঙ্গুলের ছাপ</string>
 </resources>

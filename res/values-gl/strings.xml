@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Amosar notificacións só se o móbil está nunha superficie plana coa pantalla cara arriba</string>
     <string name="pick_up_gesture_title">Contestar</string>
     <string name="pick_up_gesture_summary">Amosar notificacións ao contestar</string>
+    <string name="pick_up_wake_gesture_summary">Activar o dispositivo ao collelo</string>
     <string name="pocket_gesture_title">Peto</string>
     <string name="pocket_gesture_summary">Amosar notificacións ao sacar do peto</string>
     <string name="proximity_wake_title">Activar por proximidade</string>

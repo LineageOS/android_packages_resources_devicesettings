@@ -56,6 +56,7 @@
     <string name="ambient_display_title">Omgevingsdisplay</string>
     <string name="ambient_display_enable_title">Omgevingsdisplay</string>
     <string name="ambient_display_enable_summary">Scherm aan bij het ontvangen van meldingen</string>
+    <string name="ambient_display_gestures_title">Omgevingsdisplay gebaren</string>
     <string name="ambient_display_gestures_summary">Extra gebaren om het scherm aan te zetten</string>
     <string name="ambient_display_summary">Scherm aan bij het ontvangen van meldingen</string>
     <string name="ambient_display_summary_on">Scherm gaat aan bij het ontvangen van meldingen</string>
@@ -63,6 +64,7 @@
     <string name="ambient_display_always_on_title">Altijd aan</string>
     <string name="ambient_display_always_on_summary">Tijd, meldingspictogrammen en andere informatie weergeven. Hoger accuverbruik.</string>
     <string name="tilt_sensor_title">Hellingssensor</string>
+    <string name="pickup_sensor_title">Oppak sensor</string>
     <string name="proximity_sensor_title">Nabijheidssensor</string>
     <string name="hand_wave_gesture_title">Handgebaar</string>
     <string name="hand_wave_gesture_summary">Meldingen laten knipperen bij handgebaar</string>
@@ -70,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Alleen knipperen als de telefoon met het scherm naar boven ligt op een plat oppervlak</string>
     <string name="pick_up_gesture_title">Oppakken</string>
     <string name="pick_up_gesture_summary">Meldingen laten knipperen bij oppakken</string>
+    <string name="pick_up_wake_gesture_summary">Apparaat ontwaken bij oppakken</string>
     <string name="pocket_gesture_title">Broekzak</string>
     <string name="pocket_gesture_summary">Meldingen laten knipperen bij verwijderen uit broekzak</string>
     <string name="proximity_wake_title">Ontwaken bij dichtbij</string>
@@ -114,4 +117,10 @@
     <string name="fingerprint_sleep_summary">Vingerafdruksensor gebruiken om scherm uit te zetten</string>
     <string name="high_touch_sensitivity_title">Hoge aanraakgevoeligheid</string>
     <string name="high_touch_sensitivity_summary">Gevoeligheid van het scherm verhogen, zodat het bediend kan worden met handschoenen</string>
+    <string name="quick_charge_title">Snelladen</string>
+    <string name="quick_charge_summary">Snelladen in-/uitschakelen. Koppel de lader opnieuw na het wijzigen van deze instelling</string>
+    <string name="camera_focus_fix_title">Camera focus fix</string>
+    <string name="camera_focus_fix_summary">Inschakelen als u problemen heeft met het scherpstellen van de camera</string>
+    <string name="wake_on_gesture_title">Wakker worden met gebaren</string>
+    <string name="wake_on_gesture_summary">Het apparaat ontwaken in plaats van meldingen te krijgen bij gebaren</string>
 </resources>
