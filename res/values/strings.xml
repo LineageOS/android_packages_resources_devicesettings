@@ -193,4 +193,8 @@
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+
+    <!-- MotoActions -->
+    <string name="moto_gestures_panel_title">Moto Gestures</string>
+    <string name="moto_gestures_panel_summary" translatable="false">Special Device Gestures</string>
 </resources>
