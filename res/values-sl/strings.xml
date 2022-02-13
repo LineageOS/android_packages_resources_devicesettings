@@ -21,7 +21,7 @@
     <string name="device_settings_app_name">Napredne nastavitve</string>
     <string name="screen_gestures_panel_title">Poteze</string>
     <string name="touchscreen_gesture_extras">Dodatki</string>
-    <string name="touchscreen_gesture_haptic_feedback">Haptično zaznavanje</string>
+    <string name="touchscreen_gesture_haptic_feedback">Haptični odziv</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibriraj, ko je zaznana poteza na zaslonu na dotik</string>
     <string name="touchscreen_gesture_settings_title">Poteze na zaslonu na dotik</string>
     <string name="touchscreen_gesture_settings_summary">Za hitra dejanja na zaslonu na dotik izvedite različne poteze</string>
@@ -93,8 +93,8 @@
     <string name="action_none">Onemogoči</string>
     <string name="action_launch_camera">Zaženi fotoaparat</string>
     <string name="action_torch">Preklopi svetilko</string>
-    <string name="feedback_intensity_title">Jakost haptičnega zaznavanja</string>
-    <string name="feedback_intensity_summary">Moč haptičnega zaznavanja za dejanji dvojnega zvijanja in pokončnega tresenja</string>
+    <string name="feedback_intensity_title">Jakost haptičnega odziva</string>
+    <string name="feedback_intensity_summary">Moč haptičnega odziva za dejanji dvojnega zvijanja in pokončnega tresenja</string>
     <string name="feedback_intensity_none">Onemogočeno</string>
     <string name="feedback_intensity_low">Nizka</string>
     <string name="feedback_intensity_medium">Srednja</string>

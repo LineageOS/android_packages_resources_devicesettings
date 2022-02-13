@@ -69,6 +69,7 @@
     <string name="hand_wave_gesture_flat_title">ตรวจหาทิศทาง</string>
     <string name="pick_up_gesture_title">หยิบขึ้น</string>
     <string name="pick_up_gesture_summary">แสดงการแจ้งเตือนเมื่อหยิบอุปกรณ์ขึ้น</string>
+    <string name="pick_up_wake_gesture_summary">ปลุกอุปกรณ์เมื่อยกขึ้น</string>
     <string name="pocket_gesture_title">กระเป๋า</string>
     <string name="pocket_gesture_summary">เช็คการแจ้งเตือนเมื่อนำออกจากกระเป๋า</string>
     <string name="proximity_wake_title">การปลุกระยะใกล้เคียง</string>
