@@ -61,6 +61,7 @@
     <string name="ambient_display_summary">Activar la pantalla cuando recibas notificaciones</string>
     <string name="ambient_display_summary_on">La pantalla se activará cuando reciba las notificaciones</string>
     <string name="ambient_display_summary_off">La pantalla se activará cuando reciba las notificaciones</string>
+    <string name="ambient_display_always_on_title">Siempre activado</string>
     <string name="tilt_sensor_title">Sensor de inclinación</string>
     <string name="pickup_sensor_title">Sensor de activación</string>
     <string name="proximity_sensor_title">Sensor de proximidad</string>
