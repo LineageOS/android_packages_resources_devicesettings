@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,42 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">გაფართოებული პარამეტრები</string>
+    <string name="screen_gestures_panel_title">ჟესტები</string>
+    <string name="touchscreen_gesture_extras">დამატებითი</string>
+    <string name="touchscreen_gesture_haptic_feedback">საპასუხო შეგრძნება</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">ვიბრაცია ეკრანზე შეხებისას</string>
+    <string name="touchscreen_gesture_settings_title">ეკრანზე შეხების ჟესტები</string>
+    <string name="touchscreen_gesture_settings_summary">ეკრანზე სხვადასხვაგვარი შეხება, სწრაფი მოქმედებებისთვის</string>
+    <string name="gesture_display_title">გამორთული ეკრანის ჟესტები</string>
+    <string name="touchscreen_c_gesture_title">კამერა</string>
+    <string name="touchscreen_c_gesture_summary">მოხაზეთ „C“ კამერის ჩასართავად</string>
+    <string name="touchscreen_e_gesture_title">ელფოსტა</string>
+    <string name="touchscreen_e_gesture_summary">მოხაზეთ „e“ ელფოსტის გასახსნელად</string>
+    <string name="touchscreen_m_gesture_title">სასაუბრო</string>
+    <string name="touchscreen_m_gesture_summary">მოხაზეთ „M“ შეტყობინების აპის გასახსნელად</string>
+    <string name="touchscreen_s_gesture_title">სასაუბრო</string>
+    <string name="touchscreen_s_gesture_summary">მოხაზეთ „S“ შეტყობინების აპის გასახსნელად</string>
+    <string name="touchscreen_v_gesture_title">ნომრის ასაკრეფი</string>
+    <string name="touchscreen_v_gesture_summary">მოხაზეთ „V“ ნომრის ასაკრეფის გასახსნელად</string>
+    <string name="touchscreen_w_gesture_title">ბრაუზერი</string>
+    <string name="touchscreen_w_gesture_summary">მოხაზეთ „W“ ბრაუზერის გასახსნელად</string>
+    <string name="touchscreen_z_gesture_title">სანათი</string>
+    <string name="touchscreen_z_gesture_summary">მოხაზეთ \"Z\" სანათის ჩართვა/გამორთვისთვის</string>
+    <string name="touchscreen_flashlight_gesture_title">სანათი</string>
+    <string name="touchscreen_flashlight_gesture_summary">მოხაზეთ წრე სანათის ჩართვა/გამორთვისთვის</string>
+    <string name="touchscreen_music_gesture_title">მუსიკა</string>
+    <string name="touchscreen_music_gesture_summary">მუსიკის დაკვრის, ჟესტების საშუალებით მართვა\n
+• ჩამოუსვით ქვემოთ, გაშვება/შეჩერებისთვის\n
+• გადაუსვით მარცხნივ, წინა ჩანაწერზე გადასასვლელად\n
+• გადაუსვით მარჯვნივ, მომდევნო ჩანაწერზე გადასასვლელად</string>
+    <string name="touchscreen_swipe_up_title">ზემოთ ასმა</string>
+    <string name="touchscreen_swipe_right_title">მარჯვნივ გადასმა</string>
+    <string name="touchscreen_swipe_down_title">ქვემოთ ჩამოსმა</string>
+    <string name="touchscreen_swipe_left_title">მარცხნივ გასმა</string>
+    <string name="user_aware_display_title">მომხმარებლის აღმქმელი ეკრანი</string>
+    <string name="user_aware_display_summary">ეკრანი არ ჩაქრება, სანამ მომხმარებელი მის წინაშეა</string>
     <string name="ambient_display_title">ურთიერთქმედი ეკრანი</string>
-    <string name="ambient_display_enable_title">ურთიერთქმედი ეკრანი</string>
     <string name="ambient_display_enable_summary">ეკრანის გაღვიძება შეტყობინების მიღებისას</string>
     <string name="ambient_display_gestures_title">ურთიერთქმედი ეკრანის ჟესტები</string>
     <string name="ambient_display_gestures_summary">დამატებითი ჟესტები ეკრანის გამოსაღვიძებლად</string>
@@ -26,18 +60,64 @@
     <string name="ambient_display_summary_off">ეკრანი არ გამოიღვიძებს, შეტყობინებების მიღებისას</string>
     <string name="ambient_display_always_on_title">მუდმივად ჩართული</string>
     <string name="ambient_display_always_on_summary">დროის, შეტყობინებების, ხატულებისა და სხვა მონაცემების ჩვენება. ზრდის ბატარეის მოხმარებას.</string>
+    <string name="tilt_sensor_title">ქანაობის აღქმა</string>
+    <string name="pickup_sensor_title">ხელში აღების აღმქმელი</string>
+    <string name="proximity_sensor_title">სიახლოვის აღმქმელი</string>
+    <string name="hand_wave_gesture_title">ხელის დაქნევა</string>
+    <string name="hand_wave_gesture_summary">ციმციმა შეტყობინებები ხელის მოძრაობისას</string>
+    <string name="hand_wave_gesture_flat_title">მიმართულების დადგენა</string>
+    <string name="hand_wave_gesture_flat_summary">ციმციმი, მხოლოდ ეკრანით ბრტყელ ზედაპირზე დადებისას</string>
+    <string name="pick_up_gesture_title">აღება</string>
+    <string name="pick_up_gesture_summary">ციმციმა შეტყობინებები ხელში აღებისას</string>
     <string name="pick_up_wake_gesture_summary">მოწყობილობის გამოღვიძება აღებისას</string>
+    <string name="pocket_gesture_title">ჯიბე</string>
+    <string name="pocket_gesture_summary">ციმციმა შეტყობინებები ჯიბიდან ამოღებისას</string>
     <string name="proximity_wake_title">სიახლოვით გაღვიძება</string>
     <string name="proximity_wake_enable_title">სიახლოვით გაღვიძება</string>
     <string name="proximity_wake_enable_summary">გამოღვიძება ხელის გამოძრავებისას</string>
+    <string name="actions_title">მოქმედებები</string>
+    <string name="camera_gesture_title">ორმაგი ბრუნი</string>
+    <string name="camera_gesture_summary">კამერის გახსნა ორჯერ გადაბრუნებისას</string>
+    <string name="chop_chop_gesture_title">შენჯღრევა</string>
+    <string name="chop_chop_gesture_summary">სანათის ჩართვა ან გამორთვა დაქნევით</string>
+    <string name="hand_wave_silencer_title">დაქნევით ჩაჩუმება</string>
+    <string name="hand_wave_silencer_summary">შემომავალი ზარები დადუმდება ეკრანის გასწვრივ ხელის დაქნევით</string>
     <string name="flip_to_mute_title">შეტრიალებით ჩაირთოს  „არ შემაწუხოთ“</string>
     <string name="flip_to_mute_summary">გადაატრიალეთ ქვევით ტელეფონი შეტყობინებებისა და ზარების დასადუმებლად</string>
+    <string name="dnd_access">გთხოვთ, დართოთ „არ შემაწუხოს“ მითითების ნება CMActions-ს, ამ შესაძლებლობის გამოსაყენებლად.</string>
+    <string name="lift_to_silence_title">აღებისას ზარის შეწყვეტა</string>
+    <string name="lift_to_silence_summary">ტელეფონის ზემოთ აწევისას შემომავალი ზარი დადუმდება. მუშაობს მხოლოდ მაშინ, როცა ტელეფონი ბრტყლად დევს</string>
+    <string name="action_none">გამორთვა</string>
+    <string name="action_launch_camera">კამერის ჩართვა</string>
+    <string name="action_torch">სანათის ჩართვა/გამორთვა</string>
+    <string name="feedback_intensity_title">საპასუხო შეგრძნების სიძლიერე</string>
+    <string name="feedback_intensity_summary">საპასუხოს შეგრძნების ძალა ორმაგი ბრუნისას ან შენჯღრევისას</string>
+    <string name="feedback_intensity_none">გამორთული</string>
+    <string name="feedback_intensity_low">დაბალი</string>
+    <string name="feedback_intensity_medium">საშუალო</string>
+    <string name="feedback_intensity_high">მაღალი</string>
+    <string name="dialog_ok">კარგი</string>
+    <string name="disabled">გამორთული</string>
+    <string name="doze_settings_help_title">დახმარება</string>
+    <string name="doze_settings_help_text">ეს შესაძლებლობები იყენებს აღმქმელ მოწყობილობებს შეტყობინებების ასაციმციმებლად მოსვენების რეჟიმში. შერჩეული აღმქმელი ჩაირთვება, შეტყობინების მიღებისას, რაც ამცირებს ენერგიის მოხმარებას. ასევე შესაძლებელია, ჩაირთოს ეკრანის გამორთვისთანავეც, მაგრამ გაზრდის ბატარეის გამოყენებას.</string>
+    <string name="button_panel_title">დამატებითი ღილაკები</string>
+    <string name="button_swap_title">ღილაკების შენაცვლება</string>
+    <string name="button_swap_summary">ბოლოდროინდელი აპებისა და უკუსვლის ღილაკების შენაცვლება</string>
+    <string name="fingerprint_title">თითის ანაბეჭდი</string>
+    <string name="fingerprint_as_home_title">თითის ანაბეჭდი მთავარ ღილაკად</string>
+    <string name="fingerprint_as_home_summary">თითის ანაბეჭდის აღმქმელის გამოყენება, მთავარი გვერდის ღილაკად</string>
     <string name="fingerprint_wakeup_title">თითის ანაბეჭდით გამოღვიძება</string>
     <string name="fingerprint_wakeup_summary">თითის ანაბეჭდის აღმქმელით ეკრანის გამოღვიძება, როცა ჩამქრალია</string>
     <string name="fingerprint_pocketmode_title">შემთხვევით გამოღვიძების არიდება</string>
     <string name="fingerprint_pocketmode_summary">სიახლოვის აღმქმელის შემოწმება, ეკრანის თითის ანაბეჭდით გამოღვიძებამდე</string>
+    <string name="fingerprint_sleep_title">თითის ანაბეჭდით დაძინება</string>
+    <string name="fingerprint_sleep_summary">ანაბეჭდის აღმქმელზე დაჭერით ეკრანის გამორთვა</string>
+    <string name="high_touch_sensitivity_title">შეხების მაღალი მგრძნობელობა</string>
+    <string name="high_touch_sensitivity_summary">ეკრანის მგრძნობელობის გაზრდა, ხელთათმანით გამოსაყენებლად</string>
     <string name="quick_charge_title">სწრაფი დამუხტვა</string>
     <string name="quick_charge_summary">სწრაფი დამუხტვის გადართვა. გამოაერთეთ და შეაერთეთ დამტენი, ამ პარამეტრის ცვლილების შემდგომ.</string>
     <string name="camera_focus_fix_title">კამერის ფოკუსის გასწორება</string>
     <string name="camera_focus_fix_summary">ჩართეთ, თუ ხარვეზები აქვს კამერას დაფოკუსებისას</string>
+    <string name="wake_on_gesture_title">გამოღვიძება ჟესტებისას</string>
+    <string name="wake_on_gesture_summary">ეკრანის გამოღვიძება ციმციმა შეტყობინებების ნაცვლად, ჟესტების გამოყენებისას</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -35,7 +35,6 @@
     <string name="user_aware_display_title">ଉପଭୋକ୍ତା-ସଚେତନ ଡିସ୍‍ପ୍ଲେ</string>
     <string name="user_aware_display_summary">ଡିସ୍‍ପ୍ଲେର ସାମନାରେ ଜଣେ ଉପଭୋକ୍ତା ଥିବା ସମୟରେ ସ୍କ୍ରିନ୍‍କୁ ଅନ୍‍ ରଖନ୍ତୁ</string>
     <string name="ambient_display_title">ଏମ୍ବିଏଣ୍ଟ ପ୍ରଦର୍ଶନ</string>
-    <string name="ambient_display_enable_title">ଏମ୍ବିଏଣ୍ଟ ପ୍ରଦର୍ଶନ</string>
     <string name="ambient_display_enable_summary">ଆପଣ ସୂଚନାବଳି ପ୍ରାପ୍ତ କରିବା ସମୟରେ ସ୍କ୍ରିନ୍‍କୁ ଉଠାନ୍ତୁ</string>
     <string name="hand_wave_gesture_title">ହ୍ୟାଣ୍ଡ ୱେଭ୍‍</string>
     <string name="hand_wave_gesture_summary">ହ୍ୟାଣ୍ଡ ୱେଭ୍‍ରେ ପଲ୍ସ ସୂଚନାବଳି</string>

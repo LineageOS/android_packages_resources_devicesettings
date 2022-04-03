@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -19,7 +19,6 @@
     <string name="device_settings_app_name">Papildu iestatījumi</string>
     <string name="screen_gestures_panel_title">Žesti</string>
     <string name="ambient_display_title">Aptverošais displejs</string>
-    <string name="ambient_display_enable_title">Aptverošais displejs</string>
     <string name="ambient_display_enable_summary">Saņemot ziņojumus, ieslēgt ekrānu</string>
     <string name="hand_wave_gesture_title">Mājiens ar roku</string>
     <string name="hand_wave_gesture_summary">Rādīt paziņojumus, pamājot ar roku</string>

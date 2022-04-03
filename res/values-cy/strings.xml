@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Ymlaen</string>
-    <string name="switch_bar_off">I Ffwrdd</string>
     <string name="device_settings_app_name">Gosodiadau uwch</string>
     <string name="screen_gestures_panel_title">Ystumiau</string>
     <string name="touchscreen_gesture_extras">Ychwanegion</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Dangosydd ymwybodol o\'r defnyddiwr</string>
     <string name="user_aware_display_summary">Cadw\'r sgrin ymlaen tra bod defnyddiwr o flaen y dangosydd.</string>
     <string name="ambient_display_title">Dangosydd amgylchynol</string>
-    <string name="ambient_display_enable_title">Dangosydd amgylchynol</string>
     <string name="ambient_display_enable_summary">Deffro\'r sgrin pan mae hysbysiadau\'n cael eu derbyn</string>
     <string name="ambient_display_gestures_title">Ystumiau dangosydd amgylchynol</string>
     <string name="ambient_display_gestures_summary">Ystumiau ychwanegol i ddeffro\'r sgrin</string>
@@ -72,6 +69,7 @@
     <string name="hand_wave_gesture_flat_summary">Curiad dim ond ow yw\'r ffôn yn gorwedd yn fflat a\'i wyneb i fyny</string>
     <string name="pick_up_gesture_title">Codi i fyny</string>
     <string name="pick_up_gesture_summary">Hysbysiadau curiad wrth godi i fyny</string>
+    <string name="pick_up_wake_gesture_summary">Deffro dyfais wrth ei bigo i fyny</string>
     <string name="pocket_gesture_title">Poced</string>
     <string name="pocket_gesture_summary">Hysbysiadau curiad wrth dynnu o\'r boced</string>
     <string name="proximity_wake_title">Deffro yn ôl agosrwydd</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -35,7 +35,6 @@
     <string name="user_aware_display_title">ئابونت سەزگۈ كۆرسىتىش</string>
     <string name="user_aware_display_summary">ئىشلەتكۈچى ئېكران ئالدىغا كەلگەندە ئېكران ئوچۇق تۇرسۇن</string>
     <string name="ambient_display_title">تەشەببۇسكارلىق بىلەن كۆرسىتىدۇ</string>
-    <string name="ambient_display_enable_title">تەشەببۇسكارلىق بىلەن كۆرسىتىدۇ</string>
     <string name="ambient_display_enable_summary">ئۇقتۇرۇش كەلگەندە ئېكراننى ئويغىتىدۇ</string>
     <string name="hand_wave_gesture_title">قول پۇلاڭلىتىش</string>
     <string name="hand_wave_gesture_summary">قولنى پۇلاڭلاتقاندا ئۇقتۇرۇش چىرىغىنى چاقنىتىدۇ</string>

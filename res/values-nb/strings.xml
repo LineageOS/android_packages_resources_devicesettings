@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">På</string>
-    <string name="switch_bar_off">Av</string>
     <string name="device_settings_app_name">Avanserte innstillinger</string>
     <string name="screen_gestures_panel_title">Bevegelser</string>
     <string name="touchscreen_gesture_extras">Ekstra</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Brukerbevisst skjerm</string>
     <string name="user_aware_display_summary">Hold skjermen påslått når en bruker er foran skjermen</string>
     <string name="ambient_display_title">Omgivelsesskjerm</string>
-    <string name="ambient_display_enable_title">Omgivelsesskjerm</string>
     <string name="ambient_display_enable_summary">Vekke skjermen når du mottar varsler</string>
     <string name="ambient_display_summary">Vekke skjermen når du mottar varsler</string>
     <string name="ambient_display_summary_on">Skjermen vekkes når du mottar varsler</string>

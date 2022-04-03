@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,26 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Sí</string>
-    <string name="switch_bar_off">Non</string>
     <string name="device_settings_app_name">Axustes avanzaos</string>
     <string name="screen_gestures_panel_title">Xestos</string>
-    <string name="touchscreen_gesture_extras">Estres</string>
-    <string name="touchscreen_gesture_haptic_feedback">Feedback hápticu</string>
-    <string name="touchscreen_gesture_haptic_feedback_summary">Vibra al deteutase un xestu na pantalla táutil</string>
-    <string name="touchscreen_gesture_settings_title">Xestos de pantalla táutil</string>
-    <string name="touchscreen_gesture_settings_summary">Fai dellos xestos táutiles p\'aiciones rápides</string>
-    <string name="gesture_display_title">Xestos de pantalla apagada</string>
+    <string name="touchscreen_gesture_haptic_feedback">Rempuesta háptica</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibra cuando se detecta dalgún xestu na pantalla táctil</string>
+    <string name="touchscreen_gesture_settings_title">Xestos de la pantalla táctil</string>
     <string name="touchscreen_c_gesture_title">Cámara</string>
     <string name="touchscreen_c_gesture_summary">Dibuxa una «C» p\'activar la cámara</string>
-    <string name="touchscreen_e_gesture_title">Corréu</string>
-    <string name="touchscreen_e_gesture_summary">Dibuxa una «e» p\'abrir l\'aplicación de corréu</string>
+    <string name="touchscreen_e_gesture_title">Corréu electrónicu</string>
+    <string name="touchscreen_e_gesture_summary">Dibuxa una «e» p\'abrir l\'aplicación de corréu electrónicu</string>
     <string name="touchscreen_m_gesture_title">Mensaxería</string>
     <string name="touchscreen_m_gesture_summary">Dibuxa una «M» p\'abrir l\'aplicación de mensaxería</string>
     <string name="touchscreen_s_gesture_title">Mensaxería</string>
     <string name="touchscreen_s_gesture_summary">Dibuxa una «S» p\'abrir l\'aplicación de mensaxería</string>
-    <string name="touchscreen_v_gesture_title">Marcador</string>
-    <string name="touchscreen_v_gesture_summary">Dibuxa una «V» p\'abrir el marcador numbéricu</string>
     <string name="touchscreen_w_gesture_title">Restolador</string>
     <string name="touchscreen_w_gesture_summary">Dibuxa una «W» p\'abrir el restolador</string>
     <string name="touchscreen_z_gesture_title">Llinterna</string>
@@ -43,83 +36,30 @@
     <string name="touchscreen_flashlight_gesture_title">Llinterna</string>
     <string name="touchscreen_flashlight_gesture_summary">Dibuxa un círculu p\'alternar la llinterna</string>
     <string name="touchscreen_music_gesture_title">Música</string>
-    <string name="touchscreen_music_gesture_summary">Usa xestos pa controlar la reproducción musical\n
-    • Esliza haza abaxo pa reproducir/posar\n
-    • Esliza a la izquierda pa la pista previa\n
-    • Esliza a la drecha pa la pista siguiente</string>
-    <string name="touchscreen_swipe_up_title">Eslizar p\'arriba</string>
-    <string name="touchscreen_swipe_right_title">Eslizar a drecha</string>
-    <string name="touchscreen_swipe_down_title">Eslizar p\'abaxo</string>
-    <string name="touchscreen_swipe_left_title">Eslizar a esquierda</string>
-    <string name="user_aware_display_title">Pantalla en presencia del usuariu</string>
-    <string name="user_aware_display_summary">Caltién la pantalla encesa entrín heba un usuariu enfrente d\'ella</string>
-    <string name="ambient_display_title">Pantalla ambiente</string>
-    <string name="ambient_display_enable_title">Pantalla ambiente</string>
-    <string name="ambient_display_enable_summary">Esconsueña la pantalla al recibir avisos</string>
-    <string name="ambient_display_gestures_title">Xestos de la pantalla ambiente</string>
+    <string name="ambient_display_title">Visualización d\'ambiente</string>
+    <string name="ambient_display_enable_title">Usar la visualización d\'ambiente</string>
+    <string name="ambient_display_gestures_title">Xestos de la visualización d\'ambiente</string>
     <string name="ambient_display_gestures_summary">Xestos adicionales pa esconsoñar la pantalla</string>
-    <string name="ambient_display_summary">Esconsueña la pantalla al recibir avisos</string>
-    <string name="ambient_display_summary_on">La pantalla esconsoñará al recibir avisos</string>
-    <string name="ambient_display_summary_off">La pantalla nun esconsoñará al recibir avisos</string>
-    <string name="ambient_display_always_on_summary">Amuesa la hora, los iconos d\'avisu y otra información. L\'usu de la batería va aumentar.</string>
-    <string name="tilt_sensor_title">Sensor d\'inclinación</string>
-    <string name="pickup_sensor_title">Sensor de recoyida</string>
+    <string name="ambient_display_always_on_summary">Amuesa la hora, los iconos d\'avisu y otra información. L\'usu de la batería ye mayor.</string>
     <string name="proximity_sensor_title">Sensor de proximidá</string>
-    <string name="hand_wave_gesture_title">Pasar la mano</string>
-    <string name="hand_wave_gesture_summary">Avisos llatentes al pasar la mano</string>
-    <string name="hand_wave_gesture_flat_title">Deteutar orientación</string>
-    <string name="hand_wave_gesture_flat_summary">Amosar notificaciones sólo si\'l teléfonu ta enriba d\'una superficie plana</string>
-    <string name="pick_up_gesture_title">Coyer</string>
-    <string name="pick_up_gesture_summary">Avisos llatentes al coyer</string>
     <string name="pick_up_wake_gesture_summary">Esconsoña\'l preséu al coyelu</string>
-    <string name="pocket_gesture_title">Bolsiellu</string>
-    <string name="pocket_gesture_summary">Avisos llatentes al sacar del bolsiellu</string>
-    <string name="proximity_wake_title">Esconsueñu per proximidá</string>
-    <string name="proximity_wake_enable_title">Esconsueñu per proximidá</string>
-    <string name="proximity_wake_enable_summary">Esconsueña\'l preséu al pasar la mano</string>
+    <string name="pocket_gesture_title">Bolsu</string>
     <string name="actions_title">Aiciones</string>
-    <string name="camera_gesture_title">Xiru doblu</string>
-    <string name="camera_gesture_summary">Abre la cámara al usar xestu de xiru doblu</string>
-    <string name="chop_chop_gesture_title">Chop-chop</string>
-    <string name="chop_chop_gesture_summary">Alterna la llinterna cuando s\'usa\'l xestu chop-chop</string>
-    <string name="hand_wave_silencer_title">Pasar la mano pa silenciar</string>
-    <string name="hand_wave_silencer_summary">Silencia les llames entrantes al pasar la to mano pela pantalla</string>
-    <string name="flip_to_mute_title">Voltiar pa Nun molestar</string>
-    <string name="flip_to_mute_summary">Pon el teléfonu boca abaxo pa silenciar avisos y llamaes</string>
-    <string name="dnd_access">Nun-y deas permisu de Nun molestar a CMActions pa usar esta carauterística, por favor.</string>
-    <string name="lift_to_silence_title">Coyer pa parar de sonar</string>
-    <string name="lift_to_silence_summary">Garra\'l teléfonu pa silenciar llamaes entrantes. Namái furrula cuando\'l teléfonu ta planu</string>
-    <string name="action_none">Deshabilitar</string>
-    <string name="action_launch_camera">Llanzar cámara</string>
-    <string name="action_torch">Alternar llinterna</string>
-    <string name="feedback_intensity_title">Intensidá de feedback hápticu</string>
-    <string name="feedback_intensity_summary">Fuercia del feedback hápticu pa les aiciones de xiru doblu y chop-chop</string>
-    <string name="feedback_intensity_none">Deshabilitada</string>
+    <string name="feedback_intensity_title">Instensidá de la rempuesta háptica</string>
     <string name="feedback_intensity_low">Baxa</string>
     <string name="feedback_intensity_medium">Media</string>
     <string name="feedback_intensity_high">Alta</string>
-    <string name="dialog_ok">ACEUTAR</string>
-    <string name="disabled">Deshabilitada</string>
+    <string name="dialog_ok">D\'acuerdu</string>
     <string name="doze_settings_help_title">Ayuda</string>
-    <string name="doze_settings_help_text">Estes carauterístiques usen los eventos del sensor pa llanzar un avisu doze. El sensor esbilláu namái s\'habilita cuando\'l preséu recibe un avisu, esto ayuda a amenorgar l\'usu de batería. Tamién hai una opción p\'habilitar el sensor escoyíu namái s\'apague la pantalla, esto causará un usu más altu de batería.</string>
     <string name="button_panel_title">Botones adicionales</string>
-    <string name="button_swap_title">Intercambear botones</string>
-    <string name="button_swap_summary">Camuda l\'orde de los botones «Recientes» y «Atrás»</string>
     <string name="fingerprint_title">Buelga</string>
-    <string name="fingerprint_as_home_title">Buelga como aniciu</string>
-    <string name="fingerprint_as_home_summary">Usa\'l sensor de buelgues como botón d\'aniciu</string>
-    <string name="fingerprint_wakeup_title">Esconsueñu per buelga</string>
-    <string name="fingerprint_wakeup_summary">Permite que\'l sensor de buelgues esconsueñe\'l preséu entrín la pantalla tea apagada</string>
-    <string name="fingerprint_pocketmode_title">Evitar l\'esconsueñu accidental</string>
-    <string name="fingerprint_pocketmode_summary">Comprueba\'l sensor de proximidá enantes d\'esconsoñar el preséu cola buelga</string>
-    <string name="fingerprint_sleep_title">Reposu cola buelga</string>
     <string name="fingerprint_sleep_summary">Pimi\'l sensor de buelgues p\'apagar la pantalla</string>
     <string name="high_touch_sensitivity_title">Sensibilidá táctil alta</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilidá de la pantalla táctil pa que puedas usala mentanto lleves guantes</string>
     <string name="quick_charge_title">Carga rápida</string>
-    <string name="quick_charge_summary">Alterna la carga rápida. Has volver conectar el cargador dempués de camudar esti axuste</string>
+    <string name="quick_charge_summary">Alterna la carga rápida. Tienes de volver conectar el cargador darréu de camudar esti axuste</string>
     <string name="camera_focus_fix_title">Igua del enfoque de la cámara</string>
     <string name="camera_focus_fix_summary">Activa esta opción si tienes problemes col enfoque de la cámara</string>
     <string name="wake_on_gesture_title">Esconsoñar al facer xestos</string>
-    <string name="wake_on_gesture_summary">Esconsoña\'l preséu en cuentes d\'amosar avisos al facer xestos</string>
+    <string name="wake_on_gesture_summary">Al facer xestos, esconsoña\'l preséu en cuentes d\'amosar avisos</string>
 </resources>

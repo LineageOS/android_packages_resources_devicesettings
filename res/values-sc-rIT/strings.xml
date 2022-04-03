@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Allutu</string>
-    <string name="switch_bar_off">Istudadu</string>
     <string name="touchscreen_c_gesture_title">Fotocàmera</string>
     <string name="touchscreen_music_gesture_title">Mùsica</string>
     <string name="action_none">Disabìlita</string>

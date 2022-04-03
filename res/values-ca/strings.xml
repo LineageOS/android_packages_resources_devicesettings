@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Sí</string>
-    <string name="switch_bar_off">No</string>
     <string name="device_settings_app_name">Configuració avançada</string>
     <string name="screen_gestures_panel_title">Gestos</string>
     <string name="touchscreen_gesture_extras">Extres</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Pantalla en presència de l\'usuari</string>
     <string name="user_aware_display_summary">Mantingues la pantalla encesa mentre l\'usuari sigui davant de la pantalla</string>
     <string name="ambient_display_title">Pantalla ambient</string>
-    <string name="ambient_display_enable_title">Pantalla ambient</string>
     <string name="ambient_display_enable_summary">Encen la pantalla quan rebis notificacions</string>
     <string name="ambient_display_gestures_title">Gestos de la pantalla ambient</string>
     <string name="ambient_display_gestures_summary">Gestos addicionals en encendre la pantalla</string>

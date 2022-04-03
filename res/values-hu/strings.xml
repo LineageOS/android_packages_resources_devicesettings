@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Be</string>
-    <string name="switch_bar_off">Ki</string>
     <string name="device_settings_app_name">Speciális beállítások</string>
     <string name="screen_gestures_panel_title">Kézmozdulatok</string>
     <string name="touchscreen_gesture_extras">Extrák</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Felhasználó-érzékelő kijelző</string>
     <string name="user_aware_display_summary">Tartsa bekapcsolva a képernyőt, míg a felhasználó a kijelző előtt van</string>
     <string name="ambient_display_title">Környezeti kijelző</string>
-    <string name="ambient_display_enable_title">Környezeti kijelző</string>
     <string name="ambient_display_enable_summary">Képernyő ébresztése értesítések fogadásakor</string>
     <string name="ambient_display_gestures_title">Környezeti kijelzőhöz kapcsolódó mozdulatok</string>
     <string name="ambient_display_gestures_summary">További mozdulat-vezélőgesztusok a kijelző felébresztéséhez</string>

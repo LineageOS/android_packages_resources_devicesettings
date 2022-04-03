@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -35,7 +35,6 @@
     <string name="user_aware_display_title">యూసర్-అవేర్ డిస్ప్లే</string>
     <string name="user_aware_display_summary">యూసర్ వాడేటప్పుడు స్క్రీన్ ఆన్ ఉంచండి</string>
     <string name="ambient_display_title">ఆధునిక(పరిసర) డిస్ప్లే</string>
-    <string name="ambient_display_enable_title">ఆధునిక(పరిసర) డిస్ప్లే</string>
     <string name="ambient_display_enable_summary">నోటిఫికేషన్స్ వచ్చినప్పుడు స్క్రీన్ ఆన్ చేయండి</string>
     <string name="hand_wave_gesture_title">చేతులు కదిపినప్పుడు</string>
     <string name="hand_wave_gesture_summary">చేతులు కదిపినప్పుడు నోటిఫికేషన్స్ చూపించు</string>

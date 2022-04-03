@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Uključeno</string>
-    <string name="switch_bar_off">Isključeno</string>
     <string name="device_settings_app_name">Napredne postavke</string>
     <string name="screen_gestures_panel_title">Geste</string>
     <string name="touchscreen_gesture_extras">Dodatno</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Korisniku prilagođen prikaz</string>
     <string name="user_aware_display_summary">Drži zaslon uključen dok je korisnik ispred zaslona</string>
     <string name="ambient_display_title">Ambijentni zaslon</string>
-    <string name="ambient_display_enable_title">Ambijentni zaslon</string>
     <string name="ambient_display_enable_summary">Probudi zaslon kada primite obavijesti</string>
     <string name="ambient_display_gestures_title">Geste ambijentalnog prikaza</string>
     <string name="ambient_display_gestures_summary">Dodatne geste za buđenje zaslona</string>

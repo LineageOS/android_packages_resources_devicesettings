@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">চালু করুন</string>
-    <string name="switch_bar_off">বন্ধ করুন</string>
     <string name="device_settings_app_name">অ্যাডভান্সড সেটিংস</string>
     <string name="screen_gestures_panel_title">আকৃতি</string>
     <string name="touchscreen_gesture_extras">অতিরিক্ত</string>
@@ -43,7 +41,6 @@
     <string name="user_aware_display_title">ব্যাবহারকারী সচেতন বার্তা</string>
     <string name="user_aware_display_summary">ব্যাবহারকারী সামনে থাকলে স্ক্রীন চালু থাকবে</string>
     <string name="ambient_display_title">অবস্থানির্ভর প্রদর্শন</string>
-    <string name="ambient_display_enable_title">অবস্থানির্ভর প্রদর্শন</string>
     <string name="ambient_display_enable_summary">বিজ্ঞপ্তি প্রাপ্ত হলে পর্দা সক্রিয় হবে</string>
     <string name="ambient_display_always_on_title">সর্বদা সচল</string>
     <string name="ambient_display_always_on_summary">সময়, বিজ্ঞপ্তি ও অন্যান্য তথ্য দেখাও। তবে এতে ব্যাটারি বেশি খরচ হবে।</string>

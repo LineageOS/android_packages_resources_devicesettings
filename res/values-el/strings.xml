@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Ενεργό</string>
-    <string name="switch_bar_off">Ανενεργό</string>
     <string name="device_settings_app_name">Προηγμένες ρυθμίσεις</string>
     <string name="screen_gestures_panel_title">Χειρονομίες</string>
     <string name="touchscreen_gesture_extras">Επιπλέον ρυθμίσεις</string>
@@ -54,7 +52,7 @@
     <string name="user_aware_display_title">Εντοπισμός προσώπου</string>
     <string name="user_aware_display_summary">Η οθόνη θα παραμένει ενεργή ενώ ο χρήστης είναι μπροστά από την οθόνη</string>
     <string name="ambient_display_title">Οθόνη ambient</string>
-    <string name="ambient_display_enable_title">Οθόνη ambient</string>
+    <string name="ambient_display_enable_title">Χρήση της οθόνης περιβάλλοντος</string>
     <string name="ambient_display_enable_summary">Ενεργοποίηση της οθόνης όταν λαμβάνετε ειδοποιήσεις</string>
     <string name="ambient_display_gestures_title">Χειρονομίες οθόνης Ambient</string>
     <string name="ambient_display_gestures_summary">Επιπλέον κινήσεις για την ενεργοποίηση της οθόνης</string>

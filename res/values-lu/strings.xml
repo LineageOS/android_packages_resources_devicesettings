@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -35,7 +35,6 @@
     <string name="user_aware_display_title">Benotzerbewosst Uweis</string>
     <string name="user_aware_display_summary">De Schierm waakreghalen, soulaang e virun engem Benutzer ass</string>
     <string name="ambient_display_title">Ambiente Schierm</string>
-    <string name="ambient_display_enable_title">Ambiente Schierm</string>
     <string name="ambient_display_enable_summary">Schierm waakreg maachen, wann s du Notifikatiounen empfänks</string>
     <string name="hand_wave_gesture_title">Wénken</string>
     <string name="hand_wave_gesture_summary">Puls-Notifikatioune beim Wénken</string>

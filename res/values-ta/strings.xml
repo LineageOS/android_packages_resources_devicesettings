@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -35,7 +35,6 @@
     <string name="user_aware_display_title">பயனர்-அறிந்த காட்சி</string>
     <string name="user_aware_display_summary">பயனர் காட்சிக்கு முன் இருக்கும்போது திரையை ஆன்-இல் வைக்கவும்</string>
     <string name="ambient_display_title">தன்னிச்சையான திரைஒளிர்வமைப்பு</string>
-    <string name="ambient_display_enable_title">தன்னிச்சையான திரைஒளிர்வமைப்பு</string>
     <string name="ambient_display_enable_summary">செய்திகள் பெறுகையில் திரையை இயக்கு</string>
     <string name="hand_wave_gesture_title">கை அசைவு</string>
     <string name="hand_wave_gesture_summary">கை அசைவில் துடிப்பு அறிவிப்பை இயக்கு</string>

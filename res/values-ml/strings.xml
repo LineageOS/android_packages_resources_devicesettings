@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -35,7 +35,6 @@
     <string name="user_aware_display_title">ഉപഭോക്താവിനെ അറിഞ്ഞുകൊണ്ടുള്ള പ്രദർശിനി</string>
     <string name="user_aware_display_summary">യുസർ മുന്നിലുള്ളലടത്തോളം സ്ക്രീൻ ഓണാക്കി വയ്ക്കുക</string>
     <string name="ambient_display_title">വ്യാപിക്കുന്ന പ്രദര്‍ശനം</string>
-    <string name="ambient_display_enable_title">വ്യാപിക്കുന്ന പ്രദര്‍ശനം</string>
     <string name="ambient_display_enable_summary">നിങ്ങൾക്ക് അറിയിപ്പുകൾ ലഭിക്കുമ്പോൾ സ്ക്രീൻ ഉണര്‍ത്തുക</string>
     <string name="hand_wave_gesture_title">കൈ വീശല്‍</string>
     <string name="hand_wave_gesture_summary">കൈ വീശുമ്പോള്‍ അറിയിപ്പുകള്‍ കാണിക്കുക</string>

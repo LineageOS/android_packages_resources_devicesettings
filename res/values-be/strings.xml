@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -30,7 +30,6 @@
     <string name="touchscreen_z_gesture_title">Ліхтарык</string>
     <string name="touchscreen_z_gesture_summary">Намалюй «Z» для ўключэння ці выключэння ліхтарыка</string>
     <string name="ambient_display_title">Індыкацыя падзей</string>
-    <string name="ambient_display_enable_title">Індыкацыя падзей</string>
     <string name="ambient_display_enable_summary">Улучаць экран пры атрыманні апавяшчэнняў</string>
     <string name="hand_wave_gesture_title">Узмах</string>
     <string name="hand_wave_gesture_summary">Правядзіце далонню над экранам для прагляду апавяшчэнняў</string>

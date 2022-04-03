@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Bai</string>
-    <string name="switch_bar_off">Ez</string>
     <string name="device_settings_app_name">Ezarpen aurreratuak</string>
     <string name="screen_gestures_panel_title">Keinuak</string>
     <string name="touchscreen_gesture_extras">Gehigarriak</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Erabiltzaile aintzakotzat duen pantaila</string>
     <string name="user_aware_display_summary">Mantendu pantaila piztuta erabiltzailea begira dagoen bitartean</string>
     <string name="ambient_display_title">Ambient display</string>
-    <string name="ambient_display_enable_title">Ambient display</string>
     <string name="ambient_display_enable_summary">Esnatu pantaila jakinarazpenak jasotzean</string>
     <string name="ambient_display_gestures_title">Ambient display keinuak</string>
     <string name="ambient_display_gestures_summary">Pantaila esnatzeko keinu gehigarriak</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">켜짐</string>
-    <string name="switch_bar_off">꺼짐</string>
     <string name="device_settings_app_name">고급 설정</string>
     <string name="screen_gestures_panel_title">제스처</string>
     <string name="touchscreen_gesture_extras">추가 기능</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">사용자 인식 화면</string>
     <string name="user_aware_display_summary">사용자가 화면 앞에 있는 동안 화면 켜기</string>
     <string name="ambient_display_title">절전 모드 자동 해제</string>
-    <string name="ambient_display_enable_title">절전 모드 자동 해제</string>
     <string name="ambient_display_enable_summary">알림을 받았을 때 화면이 켜짐</string>
     <string name="ambient_display_gestures_title">절전 모드 자동 해제 제스처</string>
     <string name="ambient_display_gestures_summary">기기를 깨우는 데 사용할 추가 제스처</string>

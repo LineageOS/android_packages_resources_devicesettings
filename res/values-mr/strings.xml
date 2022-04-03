@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -35,7 +35,6 @@
     <string name="user_aware_display_title">प्रयोक्ता-जाणीव प्रदर्शन</string>
     <string name="user_aware_display_summary">प्रयोक्ता प्रदर्शनाच्या समोर असताना स्क्रीन चालू ठेवा</string>
     <string name="ambient_display_title">अँबियन्ट प्रदर्शन</string>
-    <string name="ambient_display_enable_title">अँबियन्ट प्रदर्शन</string>
     <string name="ambient_display_enable_summary">तुम्हाला नोटिफिकेशन्स मिळतील तेव्हा स्क्रीन सक्रिय करा</string>
     <string name="hand_wave_gesture_title">हात हलवा</string>
     <string name="hand_wave_gesture_summary">हात हलवल्यावर पल्स नोटिफिकेशन्स</string>

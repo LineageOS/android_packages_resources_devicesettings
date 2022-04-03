@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">เปิด</string>
-    <string name="switch_bar_off">ปิด</string>
     <string name="device_settings_app_name">การตั้งค่าขั้นสูง</string>
     <string name="screen_gestures_panel_title">ท่าทาง</string>
     <string name="touchscreen_gesture_extras">พิเศษ</string>
@@ -52,7 +50,6 @@
     <string name="user_aware_display_title">ผู้ใช้อยู่หน้าจอ</string>
     <string name="user_aware_display_summary">เปิดจอค้างไว้เมื่อผู้ใช้อยู่หน้าจอ</string>
     <string name="ambient_display_title">หน้าจอแวดล้อม</string>
-    <string name="ambient_display_enable_title">หน้าจอแวดล้อม</string>
     <string name="ambient_display_enable_summary">เปิดหน้าจอเมื่อมีการแจ้งเตือน</string>
     <string name="ambient_display_gestures_title">ท่าทางการแสดงผลแอมเบียนต์</string>
     <string name="ambient_display_gestures_summary">ท่าทางเพิ่มเติมเพื่อปลุกหน้าจอ</string>

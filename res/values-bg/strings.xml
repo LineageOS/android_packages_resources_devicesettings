@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Включване</string>
-    <string name="switch_bar_off">Изключване</string>
     <string name="device_settings_app_name">Допълнителни настройки</string>
     <string name="screen_gestures_panel_title">Жестове</string>
     <string name="touchscreen_gesture_extras">Екстри</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Потребителски дисплей</string>
     <string name="user_aware_display_summary">Задръж екрана включен, докато потребителят е пред дисплея</string>
     <string name="ambient_display_title">Активен дисплей</string>
-    <string name="ambient_display_enable_title">Активен дисплей</string>
     <string name="ambient_display_enable_summary">Събужда екрана при получаване на известие</string>
     <string name="ambient_display_gestures_title">Активен дисплей жестове</string>
     <string name="ambient_display_gestures_summary">Допълнителни жестове за събуждане на екрана</string>
@@ -72,6 +69,7 @@
     <string name="hand_wave_gesture_flat_summary">Светлинни индикации, само когато телефонът лежи върху равна повърхност с дисплея нагоре</string>
     <string name="pick_up_gesture_title">Повдигане</string>
     <string name="pick_up_gesture_summary">Показва известията при повдигане на устройството</string>
+    <string name="pick_up_wake_gesture_summary">Събуждане на устройството при повдигане</string>
     <string name="pocket_gesture_title">Джоб</string>
     <string name="pocket_gesture_summary">Показва известията, когато извадите устройството от джоба си</string>
     <string name="proximity_wake_title">Събуждане при засичане на близки устройства</string>

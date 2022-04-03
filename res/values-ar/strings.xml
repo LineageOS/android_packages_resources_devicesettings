@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">مفعل</string>
-    <string name="switch_bar_off">مغلق</string>
     <string name="device_settings_app_name">الإعدادات المتقدمة</string>
     <string name="screen_gestures_panel_title">الإيماءت</string>
     <string name="touchscreen_gesture_extras">إضافات</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">شاشة تراعي المستخدم</string>
     <string name="user_aware_display_summary">تظل الشاشة تعمل طالما ظل المستخدم أمامها</string>
     <string name="ambient_display_title">العرض المحيطي</string>
-    <string name="ambient_display_enable_title">العرض المحيطي</string>
     <string name="ambient_display_enable_summary">نشّط الشاشة عند تلقي إخطارات</string>
     <string name="ambient_display_gestures_title">إيماءات العرض المحيطي</string>
     <string name="ambient_display_gestures_summary">إيماءات إضافية لإيقاظ الشاشة</string>

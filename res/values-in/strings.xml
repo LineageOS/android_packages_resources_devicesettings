@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,26 +16,24 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Hidup</string>
-    <string name="switch_bar_off">Mati</string>
     <string name="device_settings_app_name">Setelan lanjutan</string>
     <string name="screen_gestures_panel_title">Gerakan</string>
     <string name="touchscreen_gesture_extras">Tambahan</string>
-    <string name="touchscreen_gesture_haptic_feedback">Umpan balik haptic</string>
+    <string name="touchscreen_gesture_haptic_feedback">Tanggapan sentuhan</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Bergetar ketika ada gerakan layar sentuh terdeteksi</string>
     <string name="touchscreen_gesture_settings_title">Gerakan layar sentuh</string>
     <string name="touchscreen_gesture_settings_summary">Melakukan berbagai gerakan layar sentuh untuk tindakan cepat</string>
     <string name="gesture_display_title">Gerakan layar mati</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_c_gesture_summary">Gambar \"C\" untuk mengaktifkan kamera</string>
-    <string name="touchscreen_e_gesture_title">Surel</string>
-    <string name="touchscreen_e_gesture_summary">Gambar \"e\" untuk membuka aplikasi surel</string>
+    <string name="touchscreen_e_gesture_title">Email</string>
+    <string name="touchscreen_e_gesture_summary">Gambar \"e\" untuk membuka aplikasi email</string>
     <string name="touchscreen_m_gesture_title">Pesan</string>
     <string name="touchscreen_m_gesture_summary">Gambar \"M\" untuk membuka aplikasi pesan</string>
     <string name="touchscreen_s_gesture_title">Pesan</string>
     <string name="touchscreen_s_gesture_summary">Gambar \"S\" untuk membuka aplikasi pesan</string>
-    <string name="touchscreen_v_gesture_title">Pendial</string>
-    <string name="touchscreen_v_gesture_summary">Gambar \"V\" untuk membuka aplikasi pendial</string>
+    <string name="touchscreen_v_gesture_title">Pemanggil</string>
+    <string name="touchscreen_v_gesture_summary">Gambar \"V\" untuk membuka aplikasi pemanggil</string>
     <string name="touchscreen_w_gesture_title">Peramban</string>
     <string name="touchscreen_w_gesture_summary">Gambar \"W\" untuk membuka aplikasi peramban</string>
     <string name="touchscreen_z_gesture_title">Senter</string>
@@ -51,10 +49,9 @@
     <string name="touchscreen_swipe_right_title">Usap ke kanan</string>
     <string name="touchscreen_swipe_down_title">Usap ke bawah</string>
     <string name="touchscreen_swipe_left_title">Usap ke kiri</string>
-    <string name="user_aware_display_title">Tampilan sadar pengguna</string>
+    <string name="user_aware_display_title">Tampilan pengguna sadar</string>
     <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
     <string name="ambient_display_title">Tampilan ambien</string>
-    <string name="ambient_display_enable_title">Tampilan ambien</string>
     <string name="ambient_display_enable_summary">Hidupkan layar saat Anda menerima pemberitahuan</string>
     <string name="ambient_display_gestures_title">Gerakan tampilan ambien</string>
     <string name="ambient_display_gestures_summary">Tambahan gerakan untuk membangunkan layar</string>
@@ -67,7 +64,7 @@
     <string name="pickup_sensor_title">Sensor pengambilan</string>
     <string name="proximity_sensor_title">Sensor jarak</string>
     <string name="hand_wave_gesture_title">Lambaian tangan</string>
-    <string name="hand_wave_gesture_summary">Pemberitahuan berkedip pada saat ada lambaian tangan</string>
+    <string name="hand_wave_gesture_summary">Kedipkan pemberitahuan saat melambaikan tangan</string>
     <string name="hand_wave_gesture_flat_title">Orientasi deteksi</string>
     <string name="hand_wave_gesture_flat_summary">Hanya berkedip jika ponsel menghadap ke atas di permukaan datar</string>
     <string name="pick_up_gesture_title">Ambil</string>
@@ -77,16 +74,16 @@
     <string name="pocket_gesture_summary">Pemberitahuan berkedip pada saat keluar dari saku</string>
     <string name="proximity_wake_title">Bangunkan saat dekat</string>
     <string name="proximity_wake_enable_title">Bangunkan saat dekat</string>
-    <string name="proximity_wake_enable_summary">Bangunkan perangkat pada saat ada lambaian tangan</string>
+    <string name="proximity_wake_enable_summary">Bangunkan perangkat dengan lambaian tangan</string>
     <string name="actions_title">Tindakan</string>
     <string name="camera_gesture_title">Dua kali putar</string>
-    <string name="camera_gesture_summary">Buka kamera ketika melakukan gerakan dua kali putar</string>
+    <string name="camera_gesture_summary">Buka Kamera ketika melakukan gerakan putar dua kali</string>
     <string name="chop_chop_gesture_title">Guncang dua kali</string>
-    <string name="chop_chop_gesture_summary">Aktifkan/nonaktifkan senter ketika menggunakan gerakan putar dua kali</string>
+    <string name="chop_chop_gesture_summary">Hidupkan/matikan senter ketika menggunakan gerakan guncang dua kali</string>
     <string name="hand_wave_silencer_title">Lambaian untuk senyap</string>
     <string name="hand_wave_silencer_summary">Senyapkan panggilan masuk dengan melambaikan tangan di depan layar</string>
     <string name="flip_to_mute_title">Membalik untuk Jangan Ganggu</string>
-    <string name="flip_to_mute_summary">Balik layar telepon ke bawah untuk mengabaikan notifikasi dan panggilan</string>
+    <string name="flip_to_mute_summary">Balik layar telepon ke bawah untuk mengabaikan pemberitahuan dan panggilan</string>
     <string name="dnd_access">Silakan berikan akses Jangan Ganggu ke CMActions untuk menggunakan fitur ini.</string>
     <string name="lift_to_silence_title">Angkat untuk menghentikan dering</string>
     <string name="lift_to_silence_summary">Mengangkat telepon untuk menghentikan nada panggilan masuk. Ini hanya bekerja saat telepon dalam posisi datar</string>

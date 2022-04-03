@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Til</string>
-    <string name="switch_bar_off">Fra</string>
     <string name="device_settings_app_name">Avancerede indstillinger</string>
     <string name="screen_gestures_panel_title">Bevægelser</string>
     <string name="touchscreen_gesture_extras">Ekstra</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Brugerbevidst visning</string>
     <string name="user_aware_display_summary">Hold skærmen tændt, mens en person sidder foran den</string>
     <string name="ambient_display_title">Inaktivitetsvisning</string>
-    <string name="ambient_display_enable_title">Inaktivitetsvisning</string>
     <string name="ambient_display_enable_summary">Tænder skærmen, når du modtager notifikationer</string>
     <string name="ambient_display_gestures_summary">Yderligere bevægelser til at vække skærmen</string>
     <string name="ambient_display_summary">Tænder skærmen, når du modtager notifikationer</string>
@@ -68,6 +65,7 @@
     <string name="hand_wave_gesture_flat_summary">Blink kun, hvis telefonen ligger med forsiden opad på en flad overflade</string>
     <string name="pick_up_gesture_title">Samle op</string>
     <string name="pick_up_gesture_summary">Blink med notifikationerne ved opsamling</string>
+    <string name="pick_up_wake_gesture_summary">Væk ved enhedsopsamling</string>
     <string name="pocket_gesture_title">Lomme</string>
     <string name="pocket_gesture_summary">Vibrér, hvis der er notifikationer, når telefonen tages op ad lommen</string>
     <string name="proximity_wake_title">Berøringsfri vækning</string>
@@ -110,5 +108,6 @@
     <string name="fingerprint_pocketmode_summary">Kontrollér nærhedsføleren før oplåsning udløst af fingeraftrykslæseren</string>
     <string name="fingerprint_sleep_title">Fingeraftryksdvale</string>
     <string name="fingerprint_sleep_summary">Tryk på fingeraftrykslæseren for at slukke skærmen</string>
+    <string name="high_touch_sensitivity_title">Høj berøringsfølsomhed</string>
     <string name="high_touch_sensitivity_summary">Forøg berøringsfølsom skærms følsomhed, så den kan bruges med handsker på</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Aan</string>
-    <string name="switch_bar_off">Af</string>
     <string name="device_settings_app_name">Gevorderde instellings</string>
     <string name="screen_gestures_panel_title">Gebare</string>
     <string name="touchscreen_gesture_extras">Ekstras</string>
@@ -47,7 +45,6 @@
     <string name="user_aware_display_title">Gebruiker bewus skerm</string>
     <string name="user_aware_display_summary">Hou skerm aan terwyl gebruiker voor skerm is</string>
     <string name="ambient_display_title">Omgewings temperatuur skerm</string>
-    <string name="ambient_display_enable_title">Omgewings temperatuur skerm</string>
     <string name="ambient_display_enable_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>
     <string name="ambient_display_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>
     <string name="ambient_display_summary_on">Skerm sal aan gaan wanneer jy kennisgewings ontvang</string>

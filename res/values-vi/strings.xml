@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2022 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Bật</string>
-    <string name="switch_bar_off">Tắt</string>
     <string name="device_settings_app_name">Cài đặt nâng cao</string>
     <string name="screen_gestures_panel_title">Cử chỉ</string>
     <string name="touchscreen_gesture_extras">Thêm</string>
@@ -54,7 +52,6 @@
     <string name="user_aware_display_title">Màn hình nhận biết người dùng</string>
     <string name="user_aware_display_summary">Giữ màn hình sáng khi người dùng còn nhìn vào màn hình</string>
     <string name="ambient_display_title">Hiển thị môi trường xung quanh</string>
-    <string name="ambient_display_enable_title">Hiển thị môi trường xung quanh</string>
     <string name="ambient_display_enable_summary">Sáng màn hình khi nhận thông báo</string>
     <string name="ambient_display_gestures_title">Cử chỉ màn hình hiển thị xung quanh</string>
     <string name="ambient_display_gestures_summary">Các cử chỉ bổ sung để đánh thức màn hình</string>
@@ -72,6 +69,7 @@
     <string name="hand_wave_gesture_flat_summary">Kích hoạt chỉ khi điện thoại nằm ngửa lên trên một mặt phẳng</string>
     <string name="pick_up_gesture_title">Nhấc lên</string>
     <string name="pick_up_gesture_summary">Kích hoạt thông báo khi nhấc lên</string>
+    <string name="pick_up_wake_gesture_summary">Đánh thức thiết bị khi nhấc máy</string>
     <string name="pocket_gesture_title">Túi</string>
     <string name="pocket_gesture_summary">Kích hoạt thông báo về loại bỏ khỏi túi</string>
     <string name="proximity_wake_title">Đánh thức thiết bị bằng cảm biến tiệm cận</string>
@@ -116,4 +114,10 @@
     <string name="fingerprint_sleep_summary">Nhấn cảm biến vân tay để tắt màn hình</string>
     <string name="high_touch_sensitivity_title">Độ nhạy cảm ứng cao</string>
     <string name="high_touch_sensitivity_summary">Tăng độ nhạy màn hình cảm ứng để nó có thể được sử dụng trong khi đeo găng tay</string>
+    <string name="quick_charge_title">Sạc nhanh</string>
+    <string name="quick_charge_summary">Bật sạc nhanh. Rút và cắm lại dây sạc sau khi thay đổi tùy chọn này</string>
+    <string name="camera_focus_fix_title">Sửa lấy nét camera</string>
+    <string name="camera_focus_fix_summary">Bật nếu camera không thể lấy nét</string>
+    <string name="wake_on_gesture_title">Đánh thức bằng cử chỉ</string>
+    <string name="wake_on_gesture_summary">Đánh thức thiết bị thay vì phát xung thông báo về các sự kiện cử chỉ</string>
 </resources>
