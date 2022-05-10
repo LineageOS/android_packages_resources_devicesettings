@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Pantalla en presència de l\'usuari</string>
     <string name="user_aware_display_summary">Mantingues la pantalla encesa mentre l\'usuari sigui davant de la pantalla</string>
     <string name="ambient_display_title">Pantalla ambient</string>
+    <string name="ambient_display_enable_title">Utilitza la pantalla ambient</string>
     <string name="ambient_display_enable_summary">Encen la pantalla quan rebis notificacions</string>
     <string name="ambient_display_gestures_title">Gestos de la pantalla ambient</string>
     <string name="ambient_display_gestures_summary">Gestos addicionals en encendre la pantalla</string>

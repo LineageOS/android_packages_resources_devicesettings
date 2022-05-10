@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Etkileşimli ekran</string>
     <string name="user_aware_display_summary">Kullanıcı ekranın önündeyken ekranı açık tutar</string>
     <string name="ambient_display_title">Bildirim ekranı</string>
+    <string name="ambient_display_enable_title">Ortam ekranını göster</string>
     <string name="ambient_display_enable_summary">Bildirim aldığınızda ekran uyanır</string>
     <string name="ambient_display_gestures_title">Ortam ekranı hareketleri</string>
     <string name="ambient_display_gestures_summary">Ekranı uyandırmak için ek hareketler</string>

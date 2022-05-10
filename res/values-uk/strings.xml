@@ -111,4 +111,7 @@
     <string name="fingerprint_sleep_summary">Торкніться до сенсору відбитку пальців для вимикання екрану</string>
     <string name="high_touch_sensitivity_title">Висока чутливість дотику</string>
     <string name="high_touch_sensitivity_summary">Підвищити чутливість екрану для можливості роботи в рукавичках</string>
+    <string name="quick_charge_title">Швидка зарядка</string>
+    <string name="wake_on_gesture_title">Прокидатися від жестів</string>
+    <string name="wake_on_gesture_summary">При жестах будити пристрій, а не пульсувати</string>
 </resources>

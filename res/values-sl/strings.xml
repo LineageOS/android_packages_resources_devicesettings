@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Zaslon z zaznavanjem uporabnika</string>
     <string name="user_aware_display_summary">Ohrani zaslon vklopljen, ko je uporabnik pred zaslonom</string>
     <string name="ambient_display_title">Okoliški zaslon</string>
+    <string name="ambient_display_enable_title">Uporabi okoliški zaslon</string>
     <string name="ambient_display_enable_summary">Zbudi zaslon, ko prejmem obvestila</string>
     <string name="ambient_display_gestures_title">Poteze okoliškega zaslona</string>
     <string name="ambient_display_gestures_summary">Dodatne poteze za bujenje zaslona</string>

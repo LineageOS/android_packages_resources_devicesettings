@@ -113,4 +113,7 @@
     <string name="fingerprint_sleep_summary">Pulsa el sensor de la huella digital para apagar la pantalla</string>
     <string name="high_touch_sensitivity_title">Alta sensibilidad táctil</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilidad de la pantalla táctil para que pueda usarse con guantes</string>
+    <string name="quick_charge_title">Carga rápida</string>
+    <string name="camera_focus_fix_title">Fijar enfoque de cámara</string>
+    <string name="wake_on_gesture_title">Despertar con gestos</string>
 </resources>

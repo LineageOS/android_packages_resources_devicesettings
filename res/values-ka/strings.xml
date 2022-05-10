@@ -37,7 +37,7 @@
     <string name="touchscreen_w_gesture_title">ბრაუზერი</string>
     <string name="touchscreen_w_gesture_summary">მოხაზეთ „W“ ბრაუზერის გასახსნელად</string>
     <string name="touchscreen_z_gesture_title">სანათი</string>
-    <string name="touchscreen_z_gesture_summary">მოხაზეთ \"Z\" სანათის ჩართვა/გამორთვისთვის</string>
+    <string name="touchscreen_z_gesture_summary">მოხაზეთ „Z“ სანათის ჩართვა/გამორთვისთვის</string>
     <string name="touchscreen_flashlight_gesture_title">სანათი</string>
     <string name="touchscreen_flashlight_gesture_summary">მოხაზეთ წრე სანათის ჩართვა/გამორთვისთვის</string>
     <string name="touchscreen_music_gesture_title">მუსიკა</string>
@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">მომხმარებლის აღმქმელი ეკრანი</string>
     <string name="user_aware_display_summary">ეკრანი არ ჩაქრება, სანამ მომხმარებელი მის წინაშეა</string>
     <string name="ambient_display_title">ურთიერთქმედი ეკრანი</string>
+    <string name="ambient_display_enable_title">ურთიერთქმედი ეკრანის გამოყენება</string>
     <string name="ambient_display_enable_summary">ეკრანის გაღვიძება შეტყობინების მიღებისას</string>
     <string name="ambient_display_gestures_title">ურთიერთქმედი ეკრანის ჟესტები</string>
     <string name="ambient_display_gestures_summary">დამატებითი ჟესტები ეკრანის გამოსაღვიძებლად</string>
@@ -89,7 +90,7 @@
     <string name="lift_to_silence_summary">ტელეფონის ზემოთ აწევისას შემომავალი ზარი დადუმდება. მუშაობს მხოლოდ მაშინ, როცა ტელეფონი ბრტყლად დევს</string>
     <string name="action_none">გამორთვა</string>
     <string name="action_launch_camera">კამერის ჩართვა</string>
-    <string name="action_torch">სანათის ჩართვა/გამორთვა</string>
+    <string name="action_torch">სანათის ჩამრთველი</string>
     <string name="feedback_intensity_title">საპასუხო შეგრძნების სიძლიერე</string>
     <string name="feedback_intensity_summary">საპასუხოს შეგრძნების ძალა ორმაგი ბრუნისას ან შენჯღრევისას</string>
     <string name="feedback_intensity_none">გამორთული</string>
@@ -102,7 +103,7 @@
     <string name="doze_settings_help_text">ეს შესაძლებლობები იყენებს აღმქმელ მოწყობილობებს შეტყობინებების ასაციმციმებლად მოსვენების რეჟიმში. შერჩეული აღმქმელი ჩაირთვება, შეტყობინების მიღებისას, რაც ამცირებს ენერგიის მოხმარებას. ასევე შესაძლებელია, ჩაირთოს ეკრანის გამორთვისთანავეც, მაგრამ გაზრდის ბატარეის გამოყენებას.</string>
     <string name="button_panel_title">დამატებითი ღილაკები</string>
     <string name="button_swap_title">ღილაკების შენაცვლება</string>
-    <string name="button_swap_summary">ბოლოდროინდელი აპებისა და უკუსვლის ღილაკების შენაცვლება</string>
+    <string name="button_swap_summary">ბოლოებისა და უკუსვლის ღილაკების შენაცვლება</string>
     <string name="fingerprint_title">თითის ანაბეჭდი</string>
     <string name="fingerprint_as_home_title">თითის ანაბეჭდი მთავარ ღილაკად</string>
     <string name="fingerprint_as_home_summary">თითის ანაბეჭდის აღმქმელის გამოყენება, მთავარი გვერდის ღილაკად</string>

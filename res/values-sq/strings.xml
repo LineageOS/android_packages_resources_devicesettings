@@ -49,6 +49,7 @@
     <string name="user_aware_display_title">Funksionimi i ekranit në bazë të pranisë së përdoruesit</string>
     <string name="user_aware_display_summary">Mbaj ekranin ndezur gjatë kohës kur përdoruesi është përpara ekranit</string>
     <string name="ambient_display_title">Drita e ekranit sipas ambientit</string>
+    <string name="ambient_display_enable_title">Përdorni ekranin e ambientit</string>
     <string name="ambient_display_enable_summary">Ndiz ekranin kur të vijnë njoftime</string>
     <string name="ambient_display_gestures_title">Gjeste sipas ambientit</string>
     <string name="ambient_display_gestures_summary">Gjeste shtesë për të ndezur ekranin</string>

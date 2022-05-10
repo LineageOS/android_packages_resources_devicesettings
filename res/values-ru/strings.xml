@@ -52,8 +52,9 @@
     <string name="user_aware_display_title">Интеллектуальное откл. экрана</string>
     <string name="user_aware_display_summary">Не отключать экран, пока пользователь находится перед ним</string>
     <string name="ambient_display_title">Индикация событий</string>
+    <string name="ambient_display_enable_title">Использовать индикацию событий</string>
     <string name="ambient_display_enable_summary">Включать экран при получении уведомлений</string>
-    <string name="ambient_display_gestures_title">Жесты Ambient Display</string>
+    <string name="ambient_display_gestures_title">Индикация при жестах</string>
     <string name="ambient_display_gestures_summary">Дополнительные жесты для пробуждения экрана</string>
     <string name="ambient_display_summary">Включать экран при получении уведомлений</string>
     <string name="ambient_display_summary_on">Включать экран при получении уведомлений</string>
