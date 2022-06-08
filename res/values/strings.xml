@@ -109,6 +109,8 @@
 
     <!-- Device actions -->
     <string name="actions_title">Actions</string>
+    <string name="device_gestures_panel_summary">Special device gestures</string>
+    <string name="moto_gestures_panel_title">Moto gestures</string>
 
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Double-twist</string>
