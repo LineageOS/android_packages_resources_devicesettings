@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3273cf45_b8ee3b71",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 10258
+      },
+      "writtenOn": "2022-06-10T02:02:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "47c3ec13_bdc29be2",
+      "range": {
+        "startLine": 112,
+        "startChar": 49,
+        "endLine": 112,
+        "endChar": 69
+      },
+      "revId": "51baf766fef665030c5adb3645cc77499777e157",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1c95eb2a_259160c7",
@@ -37,6 +61,30 @@
       "writtenOn": "2022-06-09T15:45:49Z",
       "side": 1,
       "message": "Moto gestures",
+      "range": {
+        "startLine": 113,
+        "startChar": 45,
+        "endLine": 113,
+        "endChar": 58
+      },
+      "revId": "51baf766fef665030c5adb3645cc77499777e157",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7835bc12_653c70df",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 10258
+      },
+      "writtenOn": "2022-06-10T02:02:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1c95eb2a_259160c7",
       "range": {
         "startLine": 113,
         "startChar": 45,
