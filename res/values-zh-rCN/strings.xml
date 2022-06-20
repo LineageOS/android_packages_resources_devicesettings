@@ -52,7 +52,7 @@
     <string name="user_aware_display_title">用户感知显示</string>
     <string name="user_aware_display_summary">当使用者在屏幕前时保持屏幕开启</string>
     <string name="ambient_display_title">环境显示</string>
-    <string name="ambient_display_enable_title">使用主动显示</string>
+    <string name="ambient_display_enable_title">使用“环境显示”</string>
     <string name="ambient_display_enable_summary">当接收到通知时唤醒屏幕</string>
     <string name="ambient_display_gestures_title">环境显示手势</string>
     <string name="ambient_display_gestures_summary">唤醒屏幕的附加手势</string>

@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Αφύπνιση εγγύτητας</string>
     <string name="proximity_wake_enable_summary">Αφύπνιση της συσκευής κατά την αιώρηση του χεριού</string>
     <string name="actions_title">Λειτουργίες</string>
+    <string name="device_gestures_panel_summary">Ειδικές χειρονομίες συσκευής</string>
+    <string name="moto_gestures_panel_title">Χειρονομίες moto</string>
     <string name="camera_gesture_title">Διπλή συστροφή</string>
     <string name="camera_gesture_summary">Άνοιγμα φωτογρ. μηχανής με την χειρονομία της διπλής συστροφής</string>
     <string name="chop_chop_gesture_title">Chop-chop</string>

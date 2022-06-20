@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Bujenje ob bližini</string>
     <string name="proximity_wake_enable_summary">Zbudi napravo ob mahanju z roko</string>
     <string name="actions_title">Dejanja</string>
+    <string name="device_gestures_panel_summary">Posebne poteze naprave</string>
+    <string name="moto_gestures_panel_title">Poteze Moto</string>
     <string name="camera_gesture_title">Dvojno zvijanje</string>
     <string name="camera_gesture_summary">Odpri fotoaparat ob potezi dvojnega zvijanja</string>
     <string name="chop_chop_gesture_title">Dvakratno navpično tresenje</string>

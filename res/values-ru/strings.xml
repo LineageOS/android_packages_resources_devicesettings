@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Включение по датчикам</string>
     <string name="proximity_wake_enable_summary">Проведите ладонью над экраном, чтобы вывести устройство из режима сна</string>
     <string name="actions_title">Действия</string>
+    <string name="device_gestures_panel_summary">Специальные жесты устройства</string>
+    <string name="moto_gestures_panel_title">Жесты Moto</string>
     <string name="camera_gesture_title">Двойное вращение</string>
     <string name="camera_gesture_summary">Запускать приложение камеры при двойном вращении</string>
     <string name="chop_chop_gesture_title">Встряхивание</string>

@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Hərəkətdə oyandır</string>
     <string name="proximity_wake_enable_summary">Əl yelləyəndə cihazı oyandır</string>
     <string name="actions_title">Hərəkətlər</string>
+    <string name="device_gestures_panel_summary">Özəl cihaz jestləri</string>
+    <string name="moto_gestures_panel_title">Moto jestlər</string>
     <string name="camera_gesture_title">Cüt yelləmə</string>
     <string name="camera_gesture_summary">Cüt yelləmə jesti istifadə ediləndə kamera açılsın</string>
     <string name="chop_chop_gesture_title">Silkələ</string>

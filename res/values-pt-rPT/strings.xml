@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Deteção de rosto</string>
     <string name="user_aware_display_summary">Manter o ecrã ligado enquanto o utilizador estiver em frente ao visor</string>
     <string name="ambient_display_title">Visualização ambiente</string>
+    <string name="ambient_display_enable_title">Usar ecrã ambiente</string>
     <string name="ambient_display_enable_summary">Ligar o ecrã quando receber notificações</string>
     <string name="ambient_display_gestures_title">Gestos da visualização ambiente</string>
     <string name="ambient_display_gestures_summary">Gestos adicionais para ativar o ecrã</string>
@@ -76,6 +77,8 @@
     <string name="proximity_wake_enable_title">Sensor de proximidade</string>
     <string name="proximity_wake_enable_summary">Ligar o dispositivo ao passar a mão pelo sensor de proximidade</string>
     <string name="actions_title">Ações</string>
+    <string name="device_gestures_panel_summary">Gestos especiais do dispositivo</string>
+    <string name="moto_gestures_panel_title">Gestos Moto</string>
     <string name="camera_gesture_title">Torcer duas vezes</string>
     <string name="camera_gesture_summary">Abrir a câmara ao usar o gesto de torcer duas vezes</string>
     <string name="chop_chop_gesture_title">Sacudir</string>

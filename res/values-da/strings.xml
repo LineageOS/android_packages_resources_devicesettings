@@ -52,12 +52,17 @@
     <string name="user_aware_display_title">Brugerbevidst visning</string>
     <string name="user_aware_display_summary">Hold skærmen tændt, mens en person sidder foran den</string>
     <string name="ambient_display_title">Inaktivitetsvisning</string>
+    <string name="ambient_display_enable_title">Brug ambient visning</string>
     <string name="ambient_display_enable_summary">Tænder skærmen, når du modtager notifikationer</string>
+    <string name="ambient_display_gestures_title">Ambient skærm bevægelser</string>
     <string name="ambient_display_gestures_summary">Yderligere bevægelser til at vække skærmen</string>
     <string name="ambient_display_summary">Tænder skærmen, når du modtager notifikationer</string>
     <string name="ambient_display_summary_on">Skærmen vil tænde, når du modtager underretninger</string>
     <string name="ambient_display_summary_off">Skærmen vil ikke tænde, når du modtager underretninger</string>
+    <string name="ambient_display_always_on_title">Altid tændt</string>
+    <string name="ambient_display_always_on_summary">Vis tid, notifikationsikoner og anden info. Forøget batteriforbrug.</string>
     <string name="tilt_sensor_title">Tilt-sensor</string>
+    <string name="pickup_sensor_title">Løftsensor</string>
     <string name="proximity_sensor_title">Berøringssensor</string>
     <string name="hand_wave_gesture_title">Vink med hånden</string>
     <string name="hand_wave_gesture_summary">Vibrér, hvis der er notifikationer, når du vinker over skærmen</string>
@@ -110,4 +115,10 @@
     <string name="fingerprint_sleep_summary">Tryk på fingeraftrykslæseren for at slukke skærmen</string>
     <string name="high_touch_sensitivity_title">Høj berøringsfølsomhed</string>
     <string name="high_touch_sensitivity_summary">Forøg berøringsfølsom skærms følsomhed, så den kan bruges med handsker på</string>
+    <string name="quick_charge_title">Hurtigopladning</string>
+    <string name="quick_charge_summary">Tænd-/sluk hurtigopladning. Frakobl og tilslut laderen igen, efter ændring af denne indstilling</string>
+    <string name="camera_focus_fix_title">Kamerafokus-rettelse</string>
+    <string name="camera_focus_fix_summary">Aktiver, hvis du har problemer med, at kameraet ikke fokuserer</string>
+    <string name="wake_on_gesture_title">Vågn op ved bevægelser</string>
+    <string name="wake_on_gesture_summary">Væk enheden i stedet for at pulsere notifikationer ved bevægelser</string>
 </resources>

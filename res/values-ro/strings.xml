@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Trezire prin proximitate</string>
     <string name="proximity_wake_enable_summary">Trezire dispozitiv la unduirea mâinii</string>
     <string name="actions_title">Acțiuni</string>
+    <string name="device_gestures_panel_summary">Gesturi speciale ale dispozitivului</string>
+    <string name="moto_gestures_panel_title">Gesturi Moto</string>
     <string name="camera_gesture_title">Dublu-răsucire</string>
     <string name="camera_gesture_summary">Deschide camera prin răsucirea dublă a mâinii</string>
     <string name="chop_chop_gesture_title">Chop-Chop</string>

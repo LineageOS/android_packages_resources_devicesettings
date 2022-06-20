@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">사용자 인식 화면</string>
     <string name="user_aware_display_summary">사용자가 화면 앞에 있는 동안 화면 켜기</string>
     <string name="ambient_display_title">절전 모드 자동 해제</string>
+    <string name="ambient_display_enable_title">절전 모드 자동 해제 사용</string>
     <string name="ambient_display_enable_summary">알림을 받았을 때 화면이 켜짐</string>
     <string name="ambient_display_gestures_title">절전 모드 자동 해제 제스처</string>
     <string name="ambient_display_gestures_summary">기기를 깨우는 데 사용할 추가 제스처</string>

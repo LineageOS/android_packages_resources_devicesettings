@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Desperta en apropar-se</string>
     <string name="proximity_wake_enable_summary">Desperta el dispositiu en passar la mà</string>
     <string name="actions_title">Accions</string>
+    <string name="device_gestures_panel_summary">Gestos especials del dispositiu</string>
+    <string name="moto_gestures_panel_title">Gestos Moto</string>
     <string name="camera_gesture_title">Doble gir</string>
     <string name="camera_gesture_summary">Obre la càmera quan s\'utilitzi el gest de doble gir</string>
     <string name="chop_chop_gesture_title">Doble sacsejada</string>

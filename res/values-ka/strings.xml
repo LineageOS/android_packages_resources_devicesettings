@@ -23,7 +23,7 @@
     <string name="touchscreen_gesture_haptic_feedback_summary">ვიბრაცია ეკრანზე შეხებისას</string>
     <string name="touchscreen_gesture_settings_title">ეკრანზე შეხების ჟესტები</string>
     <string name="touchscreen_gesture_settings_summary">ეკრანზე სხვადასხვაგვარი შეხება, სწრაფი მოქმედებებისთვის</string>
-    <string name="gesture_display_title">გამორთული ეკრანის ჟესტები</string>
+    <string name="gesture_display_title">ჩამქრალი ეკრანის ჟესტები</string>
     <string name="touchscreen_c_gesture_title">კამერა</string>
     <string name="touchscreen_c_gesture_summary">მოხაზეთ „C“ კამერის ჩასართავად</string>
     <string name="touchscreen_e_gesture_title">ელფოსტა</string>
@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">სიახლოვით გაღვიძება</string>
     <string name="proximity_wake_enable_summary">გამოღვიძება ხელის გამოძრავებისას</string>
     <string name="actions_title">მოქმედებები</string>
+    <string name="device_gestures_panel_summary">მოწყობილობის საგანგებო ჟესტები</string>
+    <string name="moto_gestures_panel_title">Moto-ჟესტები</string>
     <string name="camera_gesture_title">ორმაგი ბრუნი</string>
     <string name="camera_gesture_summary">კამერის გახსნა ორჯერ გადაბრუნებისას</string>
     <string name="chop_chop_gesture_title">შენჯღრევა</string>
@@ -100,7 +102,7 @@
     <string name="dialog_ok">კარგი</string>
     <string name="disabled">გამორთული</string>
     <string name="doze_settings_help_title">დახმარება</string>
-    <string name="doze_settings_help_text">ეს შესაძლებლობები იყენებს აღმქმელ მოწყობილობებს შეტყობინებების ასაციმციმებლად მოსვენების რეჟიმში. შერჩეული აღმქმელი ჩაირთვება, შეტყობინების მიღებისას, რაც ამცირებს ენერგიის მოხმარებას. ასევე შესაძლებელია, ჩაირთოს ეკრანის გამორთვისთანავეც, მაგრამ გაზრდის ბატარეის გამოყენებას.</string>
+    <string name="doze_settings_help_text">ეს შესაძლებლობები იყენებს აღმქმელ მოწყობილობებს შეტყობინებების ასაციმციმებლად მოსვენების რეჟიმში. შერჩეული აღმქმელი ჩაირთვება, შეტყობინების მიღებისას, რაც ამცირებს ენერგომოხმარებას. შესაძლებელია ეკრანის ჩაქრობისთანავე ჩართვაც, მაგრამ გაზრდის ბატარეის გამოყენებას.</string>
     <string name="button_panel_title">დამატებითი ღილაკები</string>
     <string name="button_swap_title">ღილაკების შენაცვლება</string>
     <string name="button_swap_summary">ბოლოებისა და უკუსვლის ღილაკების შენაცვლება</string>
@@ -112,7 +114,7 @@
     <string name="fingerprint_pocketmode_title">შემთხვევით გამოღვიძების არიდება</string>
     <string name="fingerprint_pocketmode_summary">სიახლოვის აღმქმელის შემოწმება, ეკრანის თითის ანაბეჭდით გამოღვიძებამდე</string>
     <string name="fingerprint_sleep_title">თითის ანაბეჭდით დაძინება</string>
-    <string name="fingerprint_sleep_summary">ანაბეჭდის აღმქმელზე დაჭერით ეკრანის გამორთვა</string>
+    <string name="fingerprint_sleep_summary">ანაბეჭდის აღმქმელზე დაჭერით ეკრანის ჩაქრობა</string>
     <string name="high_touch_sensitivity_title">შეხების მაღალი მგრძნობელობა</string>
     <string name="high_touch_sensitivity_summary">ეკრანის მგრძნობელობის გაზრდა, ხელთათმანით გამოსაყენებლად</string>
     <string name="quick_charge_title">სწრაფი დამუხტვა</string>

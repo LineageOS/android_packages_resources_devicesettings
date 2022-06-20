@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Ontwaken bij dichtbij</string>
     <string name="proximity_wake_enable_summary">Apparaat ontwaken bij handgebaar</string>
     <string name="actions_title">Acties</string>
+    <string name="device_gestures_panel_summary">Speciaal apparaatgebaren</string>
+    <string name="moto_gestures_panel_title">Moto gebaren</string>
     <string name="camera_gesture_title">Double-twist</string>
     <string name="camera_gesture_summary">Camera openen bij gebruik van het \'double-twist\'-gebaar</string>
     <string name="chop_chop_gesture_title">Chop-chop</string>

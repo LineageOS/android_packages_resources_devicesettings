@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Proximity wake</string>
     <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
     <string name="actions_title">Actions</string>
+    <string name="device_gestures_panel_summary">Special device gestures</string>
+    <string name="moto_gestures_panel_title">Moto gestures</string>
     <string name="camera_gesture_title">Double-twist</string>
     <string name="camera_gesture_summary">Open camera when using the double twist gesture</string>
     <string name="chop_chop_gesture_title">Chop-chop</string>

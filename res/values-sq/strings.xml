@@ -74,6 +74,8 @@
     <string name="proximity_wake_enable_title">Aktivizimi prej afërsisë</string>
     <string name="proximity_wake_enable_summary">Ndiz pajisjen kur i kalon dorën sipër</string>
     <string name="actions_title">Veprime</string>
+    <string name="device_gestures_panel_summary">Gjestet e veçanta të pajisjes</string>
+    <string name="moto_gestures_panel_title">Gjestet moto</string>
     <string name="camera_gesture_title">Kthim i dyfishtë</string>
     <string name="camera_gesture_summary">Hap kamerën kur bën gjestin e kthimit të dyfishtë</string>
     <string name="chop_chop_gesture_title">Chop-chop</string>

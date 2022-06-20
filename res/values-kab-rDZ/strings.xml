@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Iγewwaṛen n telqayt</string>
+    <string name="screen_gestures_panel_title">Imussuten</string>
+    <string name="touchscreen_gesture_extras">Ayen-nniḍen</string>
+    <string name="touchscreen_c_gesture_title">Takamiṛat</string>
+    <string name="touchscreen_e_gesture_title">Imayl</string>
+    <string name="touchscreen_m_gesture_title">Tamyazent</string>
+    <string name="touchscreen_s_gesture_title">Tamyazent</string>
+    <string name="touchscreen_v_gesture_title">Anasiw</string>
+    <string name="touchscreen_w_gesture_title">Iminig</string>
+    <string name="touchscreen_z_gesture_title">Taftilt n lǧib</string>
+    <string name="touchscreen_flashlight_gesture_title">Taftilt n lǧib</string>
+    <string name="touchscreen_music_gesture_title">Aẓawan</string>
+    <string name="touchscreen_swipe_up_title">Zuɣer d asawen</string>
+    <string name="touchscreen_swipe_right_title">Zuɣer ar tama tayeffust</string>
+    <string name="touchscreen_swipe_down_title">Zuɣer d akessar</string>
+    <string name="touchscreen_swipe_left_title">Zuɣer ar tama tazelmat</string>
+    <string name="ambient_display_title">Askan n uskar n ugani</string>
+    <string name="ambient_display_enable_summary">Rmed agdil ticki tremseḍ-d ilɣa</string>
+    <string name="ambient_display_gestures_title">Askan n uswaɣ iwehiyen ittmebiwilen</string>
+    <string name="ambient_display_gestures_summary">Ugar n imbiwelen i usakwi n ugdil</string>
+    <string name="ambient_display_summary">Rmed agdil ticki tremseḍ-d ilɣa</string>
+    <string name="ambient_display_always_on_title">Izga irmed</string>
+    <string name="pickup_sensor_title">Imcelqef n imbiwelen</string>
+    <string name="hand_wave_gesture_title">Awehi s ufus</string>
+    <string name="hand_wave_gesture_summary">Taftilt n ilγa ad rmed ma twehiḍ s ufus</string>
+    <string name="pocket_gesture_title">Tamzit</string>
+    <string name="pocket_gesture_summary">Taftilt n ilγa ad rmed ma tsufγeḍ-d ibenk seg ljib</string>
+    <string name="proximity_wake_title">Asaki n tanila</string>
+    <string name="proximity_wake_enable_title">Asaki n tanila</string>
+    <string name="proximity_wake_enable_summary">Asaki n ibenk s uwehi s ufus</string>
+    <string name="actions_title">Tigawin</string>
+    <string name="action_none">Ssens</string>
+    <string name="action_launch_camera">Sekker takamiṛat</string>
+    <string name="feedback_intensity_none">Insa</string>
+    <string name="feedback_intensity_low">Faible</string>
+    <string name="feedback_intensity_medium">Alemmas</string>
+    <string name="feedback_intensity_high">Haut</string>
+    <string name="dialog_ok">IH</string>
+    <string name="disabled">Insa</string>
+    <string name="doze_settings_help_title">Tallelt</string>
+    <string name="fingerprint_title">Adsil umḍin</string>
+    <string name="fingerprint_as_home_title">Adsil umḍin am taqeffalt tagejdant</string>
+    <string name="fingerprint_as_home_summary">Seqdec amaṭṭaf n udsil umḍin am taqeffalt tagejdant</string>
+    <string name="fingerprint_wakeup_title">Ankar s udsil umḍin</string>
+    <string name="high_touch_sensitivity_title">Aḥulfu ameqran n umaḍes</string>
+    <string name="high_touch_sensitivity_summary">Rnu ugar uḥulfu n ugdil ḥalam nezmer ad t-nesseqdec ula s iqeffazen</string>
+</resources>

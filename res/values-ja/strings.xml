@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">接近スリープ解除</string>
     <string name="proximity_wake_enable_summary">手を振ったときに端末を起動する</string>
     <string name="actions_title">動作</string>
+    <string name="device_gestures_panel_summary">特殊な端末ジェスチャー</string>
+    <string name="moto_gestures_panel_title">Moto ジェスチャー</string>
     <string name="camera_gesture_title">2回ひねり</string>
     <string name="camera_gesture_summary">2回ひねりのジェスチャーでカメラを開く</string>
     <string name="chop_chop_gesture_title">2回チョップ</string>
