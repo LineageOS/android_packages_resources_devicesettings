@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">근접 깨우기</string>
     <string name="proximity_wake_enable_summary">손을 좌우로 흔들어 기기 깨우기</string>
     <string name="actions_title">동작</string>
+    <string name="device_gestures_panel_summary">특별한 기기 제스처</string>
+    <string name="moto_gestures_panel_title">Moto 제스처</string>
     <string name="camera_gesture_title">두 번 비틀기</string>
     <string name="camera_gesture_summary">두 번 비틀기 제스처를 사용할 때 카메라 실행</string>
     <string name="chop_chop_gesture_title">위 아래로 흔들기</string>

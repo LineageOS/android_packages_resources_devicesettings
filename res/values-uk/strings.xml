@@ -52,12 +52,14 @@
     <string name="user_aware_display_title">Розумний екран</string>
     <string name="user_aware_display_summary">Тримати екран увімкненим, коли користувач знаходиться перед ним</string>
     <string name="ambient_display_title">Ambient дисплей</string>
+    <string name="ambient_display_enable_title">Ambient-дисплей</string>
     <string name="ambient_display_enable_summary">Вмикати екран, коли ви отримали сповіщення</string>
     <string name="ambient_display_gestures_title">Жести Ambient Display</string>
     <string name="ambient_display_gestures_summary">Додаткові жести для пробудження екрану</string>
     <string name="ambient_display_summary">Вмикати екран, коли ви отримали сповіщення</string>
     <string name="ambient_display_summary_on">Екран вмикатиметься, коли ви отримаєте сповіщення</string>
     <string name="ambient_display_summary_off">Екран не буде вмикатися, коли ви отримаєте сповіщення</string>
+    <string name="ambient_display_always_on_summary">Показувати час, значки сповіщення та іншу інформацію. Збільшує споживання батареї.</string>
     <string name="tilt_sensor_title">Датчик нахилу</string>
     <string name="pickup_sensor_title">Датчик руху</string>
     <string name="proximity_sensor_title">Датчик наближення</string>

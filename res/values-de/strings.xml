@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Aufwecken bei Annäherung</string>
     <string name="proximity_wake_enable_summary">Gerät durch Winken aufwecken</string>
     <string name="actions_title">Aktionen</string>
+    <string name="device_gestures_panel_summary">Spezielle Geräte-Gesten</string>
+    <string name="moto_gestures_panel_title">Moto-Gesten</string>
     <string name="camera_gesture_title">Doppeldrehung</string>
     <string name="camera_gesture_summary">Kamera starten bei Verwendung der Geste Doppeldrehung</string>
     <string name="chop_chop_gesture_title">Hacken</string>
