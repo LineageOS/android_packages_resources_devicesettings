@@ -76,6 +76,8 @@
     <string name="proximity_wake_enable_title">Közelség ébresztés</string>
     <string name="proximity_wake_enable_summary">Készülék ébresztése lebegő simításra</string>
     <string name="actions_title">Műveletek</string>
+    <string name="device_gestures_panel_summary">Speciális készülékvezérlők</string>
+    <string name="moto_gestures_panel_title">Moto-vezérlés</string>
     <string name="camera_gesture_title">Dupla megforgatás</string>
     <string name="camera_gesture_summary">Kamera megnyitása dupla megforgatási mozdulatra</string>
     <string name="chop_chop_gesture_title">Tak-tak</string>

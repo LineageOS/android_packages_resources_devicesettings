@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">距离传感器唤醒</string>
     <string name="proximity_wake_enable_summary">挥手时唤醒设备</string>
     <string name="actions_title">操作</string>
+    <string name="device_gestures_panel_summary">特殊设备手势</string>
+    <string name="moto_gestures_panel_title">Moto 手势</string>
     <string name="camera_gesture_title">扭动两次</string>
     <string name="camera_gesture_summary">当扭动两次时打开相机</string>
     <string name="chop_chop_gesture_title">摇动两次</string>
