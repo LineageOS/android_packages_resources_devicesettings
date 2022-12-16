@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Všímat si uživatele</string>
     <string name="user_aware_display_summary">Pokud je uživatel před obrazovkou, nechat ji zapnutou</string>
     <string name="ambient_display_title">Ambientní zobrazení</string>
+    <string name="ambient_display_enable_title">Použít ambientní displej</string>
     <string name="ambient_display_enable_summary">Probudit obrazovku při upozornění</string>
     <string name="ambient_display_gestures_title">Gesta ambientního displeje</string>
     <string name="ambient_display_gestures_summary">Další gesta k probuzení obrazovky</string>
@@ -76,6 +77,8 @@
     <string name="proximity_wake_enable_title">Probudit přiblížením</string>
     <string name="proximity_wake_enable_summary">Probudit zařízení pomocí zamávání rukou</string>
     <string name="actions_title">Akce</string>
+    <string name="device_gestures_panel_summary">Speciální gesta zařízení</string>
+    <string name="moto_gestures_panel_title">Moto gesta</string>
     <string name="camera_gesture_title">Dvojité otočení</string>
     <string name="camera_gesture_summary">Otevřít fotoaparát gestem dvojitého otočení</string>
     <string name="chop_chop_gesture_title">Chop-chop</string>
