@@ -17,27 +17,28 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="screen_gestures_panel_title">Жэсты</string>
+    <string name="touchscreen_gesture_extras">Дадаткі</string>
     <string name="touchscreen_c_gesture_title">Камера</string>
-    <string name="touchscreen_c_gesture_summary">Намалюйце \"C\" для ўключэння камеры</string>
+    <string name="touchscreen_c_gesture_summary">Намалюйце літару \"C\" для ўключэння камеры</string>
     <string name="touchscreen_e_gesture_title">Электронная пошта</string>
     <string name="touchscreen_e_gesture_summary">Намалюй \"e\" для адкрыцця праграму электроннай пошты</string>
     <string name="touchscreen_s_gesture_title">Абмен паведамленнямі</string>
     <string name="touchscreen_s_gesture_summary">Намалюй \"S\" для адкрыцця праграмы паведамленняў</string>
-    <string name="touchscreen_v_gesture_title">Тэлефон</string>
+    <string name="touchscreen_v_gesture_title">Набіральнік нумара</string>
     <string name="touchscreen_v_gesture_summary">Намалюй \"V\" для адкрыцця тэлефона</string>
     <string name="touchscreen_w_gesture_title">Браўзер</string>
     <string name="touchscreen_z_gesture_title">Ліхтарык</string>
-    <string name="touchscreen_z_gesture_summary">Намалюй «Z» для ўключэння ці выключэння ліхтарыка</string>
+    <string name="touchscreen_z_gesture_summary">Намалюйце літару \"Z\", каб уключыць або выключыць ліхтарык</string>
     <string name="touchscreen_flashlight_gesture_title">Ліхтарык</string>
     <string name="touchscreen_flashlight_gesture_summary">Намалюйце круг, каб уключыць або выключыць ліхтарык</string>
-    <string name="ambient_display_title">Актыўны дысплэй</string>
+    <string name="ambient_display_title">Актыўны экран</string>
     <string name="ambient_display_enable_summary">Абуджаць экран, калі вы атрымліваеце апавяшчэнні</string>
     <string name="ambient_display_always_on_summary">Паказваць час, значкі апавяшчэнняў і іншую інфармацыю. Павялічвае спажыванне акумулятара.</string>
     <string name="hand_wave_gesture_summary">Правядзіце далонню над экранам для прагляду апавяшчэнняў</string>
     <string name="pocket_gesture_title">Кішэнь</string>
     <string name="pocket_gesture_summary">Адлюстроўваць апавяшчэнні пры выманні прылады з кішэні</string>
     <string name="proximity_wake_enable_summary">Правядзіце далонню над экранам, каб вывесці прыладу з рэжыму сну</string>
-    <string name="actions_title">Дзеянне</string>
+    <string name="actions_title">Дзеянні</string>
     <string name="chop_chop_gesture_summary">Уключаць ці выключаць ліхтарык пры пастукванні</string>
     <string name="doze_settings_help_text">Гэтыя функцыі выкарыстоўваюць падзеі датчыкаў для адлюстравання апавяшчэнняў. Датчык правяраецца толькі пры паступленні новага апавяшчэння, што дапамагае зменшыць выкарыстанне акумулятара. Можна актываваць датчыкі адразу пасля выключэння экрана прылады, аднак гэта можа паскорыць разрад акумулятара.</string>
 </resources>
