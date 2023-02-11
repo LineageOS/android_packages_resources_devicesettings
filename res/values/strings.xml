@@ -189,4 +189,8 @@
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+
+    <!-- BesLoudness -->
+    <string name="besloudness">BesLoudness</string>
+    <string name="besloudness_info">BesLoudness boosts the speaker volume and enhances the audio quality of your device automatically.</string>
 </resources>
