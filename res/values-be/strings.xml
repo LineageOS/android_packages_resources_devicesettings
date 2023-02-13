@@ -31,6 +31,7 @@
     <string name="touchscreen_z_gesture_summary">Намалюйце літару \"Z\", каб уключыць або выключыць ліхтарык</string>
     <string name="touchscreen_flashlight_gesture_title">Ліхтарык</string>
     <string name="touchscreen_flashlight_gesture_summary">Намалюйце круг, каб уключыць або выключыць ліхтарык</string>
+    <string name="user_aware_display_summary">Трымаць экран уключаным, пакуль карыстальнік знаходзіцца перад ім</string>
     <string name="ambient_display_title">Актыўны экран</string>
     <string name="ambient_display_enable_summary">Абуджаць экран, калі вы атрымліваеце апавяшчэнні</string>
     <string name="ambient_display_always_on_summary">Паказваць час, значкі апавяшчэнняў і іншую інфармацыю. Павялічвае спажыванне акумулятара.</string>
