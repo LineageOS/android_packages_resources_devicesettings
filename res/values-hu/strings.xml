@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Felhasználó-érzékelő kijelző</string>
     <string name="user_aware_display_summary">Tartsa bekapcsolva a képernyőt, míg a felhasználó a kijelző előtt van</string>
     <string name="ambient_display_title">Környezeti kijelző</string>
+    <string name="ambient_display_enable_title">A Környezeti kijelző használata</string>
     <string name="ambient_display_enable_summary">Képernyő ébresztése értesítések fogadásakor</string>
     <string name="ambient_display_gestures_title">Környezeti kijelzőhöz kapcsolódó mozdulatok</string>
     <string name="ambient_display_gestures_summary">További mozdulat-vezélőgesztusok a kijelző felébresztéséhez</string>
