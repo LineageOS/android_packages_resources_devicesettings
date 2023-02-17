@@ -34,6 +34,24 @@
       "parentUuid": "e4fc262f_71c6bfca",
       "revId": "0f7972b8d7a0e1c677f0a3e9200cd00e16d18d90",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c8c8a853_953f12f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-02-17T15:51:06Z",
+      "side": 1,
+      "message": "For translations you\u0027d want to add it to lineage/crowdin/config/lineage-20.0*",
+      "parentUuid": "0279745c_7766500f",
+      "revId": "0f7972b8d7a0e1c677f0a3e9200cd00e16d18d90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
