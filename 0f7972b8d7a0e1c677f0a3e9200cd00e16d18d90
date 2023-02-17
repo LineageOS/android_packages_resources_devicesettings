@@ -16,6 +16,24 @@
       "message": "Would prefer if you just put these strings in your app instead.",
       "revId": "0f7972b8d7a0e1c677f0a3e9200cd00e16d18d90",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0279745c_7766500f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24262
+      },
+      "writtenOn": "2023-02-17T15:49:16Z",
+      "side": 1,
+      "message": "\u003e Would prefer if you just put these strings in your app instead.\n\nSure will do. I just saw other device-specific apps also put their strings here and thought it\u0027s required for translation.",
+      "parentUuid": "e4fc262f_71c6bfca",
+      "revId": "0f7972b8d7a0e1c677f0a3e9200cd00e16d18d90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
