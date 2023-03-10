@@ -189,4 +189,10 @@
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+
+    <!-- Slider settings -->
+    <string name="slider_settings_title">Slider settings</string>
+    <string name="slider_settings_summary">Adjust slider related settings</string>
+    <string name="slider_mode_title">Camera mode</string>
+    <string name="slider_mode_summary">Don\'t start camera when opening slider</string>
 </resources>
