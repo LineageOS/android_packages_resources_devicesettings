@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Affichage selon l\'utilisateur</string>
     <string name="user_aware_display_summary">Garder l\'écran allumé tant qu\'un utilisateur le regarde</string>
     <string name="ambient_display_title">Affichage ambiant</string>
+    <string name="ambient_display_enable_title">Utiliser l\'affichage ambiant</string>
     <string name="ambient_display_enable_summary">Allume l\'écran lorsque vous recevez des notifications</string>
     <string name="ambient_display_gestures_title">Options de l\'affichage en mode Veille</string>
     <string name="ambient_display_gestures_summary">Gestes supplémentaires pour réveiller l’écran</string>
@@ -76,6 +77,8 @@
     <string name="proximity_wake_enable_title">Activation de proximité</string>
     <string name="proximity_wake_enable_summary">Réveiller l\'appareil par passage de main</string>
     <string name="actions_title">Actions</string>
+    <string name="device_gestures_panel_summary">Gestes spéciaux de l\'appareil</string>
+    <string name="moto_gestures_panel_title">Gestes Moto</string>
     <string name="camera_gesture_title">Double torsion</string>
     <string name="camera_gesture_summary">Ouvrir l\'appareil photo avec le geste de double torsion</string>
     <string name="chop_chop_gesture_title">Double tranchage</string>
