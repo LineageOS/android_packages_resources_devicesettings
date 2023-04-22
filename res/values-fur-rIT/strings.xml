@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Impostazions avanzadis</string>
+    <string name="screen_gestures_panel_title">Mots</string>
+    <string name="touchscreen_gesture_extras">Extras</string>
+    <string name="touchscreen_gesture_haptic_feedback">Rispueste tatile</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibre cuant che al ven rilevât un mot su schermi tatil</string>
+    <string name="touchscreen_gesture_settings_title">Mots su schermi tatil</string>
+    <string name="touchscreen_gesture_settings_summary">Eseguìs varis mots su schermi tatic par fâ azions rapidis</string>
+    <string name="gesture_display_title">Mots su schermi distudât</string>
+    <string name="touchscreen_c_gesture_title">Fotocjamare</string>
+    <string name="touchscreen_c_gesture_summary">Dissegne une \"C\" par vierzi la fotocjamare</string>
+    <string name="touchscreen_e_gesture_title">E-mail</string>
+    <string name="touchscreen_e_gesture_summary">Dissegne une \"e\" par vierzi la aplicazion pes e-mails</string>
+    <string name="touchscreen_m_gesture_title">Messaçs</string>
+    <string name="touchscreen_m_gesture_summary">Dissegne une \"M\" par vierzi la aplicazion pai messaçs</string>
+    <string name="touchscreen_s_gesture_title">Messaçs</string>
+    <string name="touchscreen_s_gesture_summary">Dissegne une \"S\" par vierzi la aplicazion pai messaçs</string>
+    <string name="touchscreen_v_gesture_title">Tastierin telefonic</string>
+    <string name="touchscreen_v_gesture_summary">Dissegne une \"V\" par vierzi la aplicazion dal tastierin telefonic</string>
+    <string name="touchscreen_w_gesture_title">Navigadôr</string>
+    <string name="touchscreen_w_gesture_summary">Dissegne une \"W\" par vierzi il navigadôr</string>
+    <string name="touchscreen_z_gesture_title">Torce</string>
+    <string name="touchscreen_z_gesture_summary">Dissegne une \"Z\" par impiâ o distudâ la torce</string>
+    <string name="touchscreen_flashlight_gesture_title">Torce</string>
+    <string name="touchscreen_flashlight_gesture_summary">Dissegne un cercli par impiâ o distudâ la torce</string>
+    <string name="touchscreen_music_gesture_title">Musiche</string>
+    <string name="touchscreen_music_gesture_summary">Dopre i mots par controlâ la riproduzion musicâl\n
+• Scor in jù par riprodusi/meti in pause\n
+• Scor a çampe pal toc prime\n
+• Scor a diestre pal toc sucessîf</string>
+    <string name="touchscreen_swipe_up_title">Scor in sù</string>
+    <string name="touchscreen_swipe_right_title">Scor a diestre</string>
+    <string name="touchscreen_swipe_down_title">Scor in jù</string>
+    <string name="touchscreen_swipe_left_title">Scor a çampe</string>
+    <string name="user_aware_display_title">Schermi in base al utent</string>
+    <string name="user_aware_display_summary">Ten il schermi impiât se un utent al è denant dal schermi</string>
+    <string name="ambient_display_title">Schermi in vee</string>
+    <string name="ambient_display_enable_title">Dopre schermi in modalitât vee</string>
+    <string name="ambient_display_enable_summary">Ative il schermi se tu ricevis notifichis</string>
+    <string name="ambient_display_gestures_title">Mots dal schermi in vee</string>
+    <string name="ambient_display_gestures_summary">Mots adizionâi par disveâ il schermi</string>
+    <string name="ambient_display_summary">Ative il schermi se tu ricevis notifichis</string>
+    <string name="ambient_display_summary_on">Il schermi si impiarà se tu ricevis notifichis</string>
+    <string name="ambient_display_summary_off">Il schermi no si impiarà se tu ricevis notifichis</string>
+    <string name="ambient_display_always_on_title">Simpri impiât</string>
+    <string name="ambient_display_always_on_summary">Mostre orari, iconis di notifiche e altris informazions. Consum di batarie aumentât.</string>
+    <string name="tilt_sensor_title">Sensôr di inclinazion</string>
+    <string name="pickup_sensor_title">Sensôr di racuelte</string>
+    <string name="proximity_sensor_title">Sensôr di prossimitât</string>
+    <string name="hand_wave_gesture_title">Moviment de man</string>
+    <string name="hand_wave_gesture_summary">Mostre lis notifichis al passaç de man</string>
+    <string name="hand_wave_gesture_flat_title">Rileve orientament</string>
+    <string name="hand_wave_gesture_flat_summary">Visualize dome se il telefon al è poiât in orizontâl suntune superficie plache</string>
+    <string name="pick_up_gesture_title">Cjape sù</string>
+    <string name="pick_up_gesture_summary">Mostre lis notifichis al cjapâ sù</string>
+    <string name="pick_up_wake_gesture_summary">Svee il dispositîf al cjapâlu sù</string>
+    <string name="pocket_gesture_title">Sachete</string>
+    <string name="pocket_gesture_summary">Mostre lis notifichis al tirâ fûr de sachete</string>
+    <string name="proximity_wake_title">Disveâ di prossimitât</string>
+    <string name="proximity_wake_enable_title">Disveâ di prossimitât</string>
+    <string name="proximity_wake_enable_summary">Disvee il dispositîf al passaç de man</string>
+    <string name="actions_title">Azions</string>
+    <string name="device_gestures_panel_summary">Mots speciâi dal dispositîf</string>
+    <string name="moto_gestures_panel_title">Mots di Motorola</string>
+    <string name="camera_gesture_title">Dople torsion</string>
+    <string name="camera_gesture_summary">Vierç la fotocjamare se tu dopris il mot de dople torsion</string>
+    <string name="chop_chop_gesture_title">Chop-chop</string>
+    <string name="chop_chop_gesture_summary">Impie o distude la torce se tu dopris il mot chop-chop</string>
+    <string name="hand_wave_silencer_title">Môf la man par cidinâ</string>
+    <string name="hand_wave_silencer_summary">Cidine lis clamadis in jentrade movint la man sore dal schermi</string>
+    <string name="flip_to_mute_title">Ribalte par No Sta Disturbâ</string>
+    <string name="flip_to_mute_summary">Met il telefon a muse in jù par cidinâ lis notifichis e lis clamadis</string>
+    <string name="dnd_access">Par doprâ cheste funzion, da a CMActions il permès di acedi a No Sta Disturbâ.</string>
+    <string name="lift_to_silence_title">Cjape in man par cidinâ la sunarie</string>
+    <string name="lift_to_silence_summary">Alce il telefon par cidinâ lis clamadis in jentrade. Al funzione dome se il telefon al jere suntun plan plac.</string>
+    <string name="action_none">Disative</string>
+    <string name="action_launch_camera">Invie la fotocjamare</string>
+    <string name="action_torch">Impie/distude la torce</string>
+    <string name="feedback_intensity_title">Intensitât rispueste tatile</string>
+    <string name="feedback_intensity_summary">La fuarce de rispueste tatile pes azions a dople torsion e chop-chop</string>
+    <string name="feedback_intensity_none">Disativade</string>
+    <string name="feedback_intensity_low">Basse</string>
+    <string name="feedback_intensity_medium">Medie</string>
+    <string name="feedback_intensity_high">Alte</string>
+    <string name="dialog_ok">Va ben</string>
+    <string name="disabled">Disativade</string>
+    <string name="doze_settings_help_title">Jutori</string>
+    <string name="doze_settings_help_text">Chestis funzions a doprin i events dai sensôrs par mostrâ lis notifiche in modalitât durmide. Il sensôr selezionât al vignarà ativât dome cuant che il dispositîf al ricevarà une notifiche, chest al jude a diminuî il consum di batarie. Al è ancje pussibil ativâ il sensôr selezionât a pene che il schermi si distude, ma chest al doprarà plui batarie.</string>
+    <string name="button_panel_title">Botons adizionâi</string>
+    <string name="button_swap_title">Scambie i botons</string>
+    <string name="button_swap_summary">Scambie l\'ordin dai botons \"resints\" e \"indaûr\"</string>
+    <string name="fingerprint_title">Impront digjitâl</string>
+    <string name="fingerprint_as_home_title">Impront digjitâl come inizi</string>
+    <string name="fingerprint_as_home_summary">Dopre il sensôr di impronts digjitâi tant che un boton di inizi</string>
+    <string name="fingerprint_wakeup_title">Disveâsi cun impront digjitâl</string>
+    <string name="fingerprint_wakeup_summary">Permet al sensôr di impronts digjitâi di disveâ il dispositîf se il schermi al è distudât</string>
+    <string name="fingerprint_pocketmode_title">Preven il disveâsi acidentâl</string>
+    <string name="fingerprint_pocketmode_summary">Controle il sensôr di prossimitât prime di disveâ il dispositîf cul sensôr di impronts digjitâi</string>
+    <string name="fingerprint_sleep_title">Sospension cun impronts digjitâi</string>
+    <string name="fingerprint_sleep_summary">Frache il sensôr di impronts digjitâi par distudâ il schermi</string>
+    <string name="high_touch_sensitivity_title">Tocjade a alte sensibilitât</string>
+    <string name="high_touch_sensitivity_summary">Aumente la sensibilitât dal schermi tatil par podêlu doprâ cu lis manecis</string>
+    <string name="quick_charge_title">Cjame rapide</string>
+    <string name="quick_charge_summary">Ative o disative la cjame rapide. Distache e torne tache il cjariebatariis dopo vê cambiade cheste impostazion</string>
+    <string name="camera_focus_fix_title">Corezion dal fûc de fotocjamare</string>
+    <string name="camera_focus_fix_summary">Ative se tu âs problemis cu la fotocjamare che no met a fûc</string>
+    <string name="wake_on_gesture_title">Disvee cui mots</string>
+    <string name="wake_on_gesture_summary">Disvee il dispositîf invezit di mostrâ lis notifichis ai events dai mots</string>
+</resources>
