@@ -112,7 +112,7 @@
     <string name="fingerprint_wakeup_title">თითის ანაბეჭდით გამოღვიძება</string>
     <string name="fingerprint_wakeup_summary">თითის ანაბეჭდის აღმქმელით ეკრანის გამოღვიძება, როცა ჩამქრალია</string>
     <string name="fingerprint_pocketmode_title">შემთხვევით გამოღვიძების არიდება</string>
-    <string name="fingerprint_pocketmode_summary">სიახლოვის აღმქმელის შემოწმება, ეკრანის თითის ანაბეჭდით გამოღვიძებამდე</string>
+    <string name="fingerprint_pocketmode_summary">სიახლოვის აღმქმელის შემოწმება ეკრანის თითის ანაბეჭდით გამოღვიძებამდე</string>
     <string name="fingerprint_sleep_title">თითის ანაბეჭდით დაძინება</string>
     <string name="fingerprint_sleep_summary">ანაბეჭდის აღმქმელზე დაჭერით ეკრანის ჩაქრობა</string>
     <string name="high_touch_sensitivity_title">შეხების მაღალი მგრძნობელობა</string>
