@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Светлинни индикации, само когато телефонът лежи върху равна повърхност с дисплея нагоре</string>
     <string name="pick_up_gesture_title">Повдигане</string>
     <string name="pick_up_gesture_summary">Показва известията при повдигане на устройството</string>
+    <string name="pick_up_wake_gesture_summary">Събуждане на устройството при повдигане</string>
     <string name="pocket_gesture_title">Джоб</string>
     <string name="pocket_gesture_summary">Показва известията, когато извадите устройството от джоба си</string>
     <string name="proximity_wake_title">Събуждане при засичане на близки устройства</string>

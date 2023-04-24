@@ -72,12 +72,15 @@
     <string name="hand_wave_gesture_flat_summary">Curiad dim ond ow yw\'r ffôn yn gorwedd yn fflat a\'i wyneb i fyny</string>
     <string name="pick_up_gesture_title">Codi i fyny</string>
     <string name="pick_up_gesture_summary">Hysbysiadau curiad wrth godi i fyny</string>
+    <string name="pick_up_wake_gesture_summary">Deffro dyfais wrth ei bigo i fyny</string>
     <string name="pocket_gesture_title">Poced</string>
     <string name="pocket_gesture_summary">Hysbysiadau curiad wrth dynnu o\'r boced</string>
     <string name="proximity_wake_title">Deffro yn ôl agosrwydd</string>
     <string name="proximity_wake_enable_title">Deffro yn ôl agosrwydd</string>
     <string name="proximity_wake_enable_summary">Deffro\'r ddyfais wrth godi llaw</string>
     <string name="actions_title">Gweithredoedd</string>
+    <string name="moto_gestures_panel_summary">Ystumiau dyfais arbennig</string>
+    <string name="moto_gestures_panel_title">Ystumiau moto</string>
     <string name="camera_gesture_title">Twist dwbl</string>
     <string name="camera_gesture_summary">Agor y camera gyda\'r ystum twist dwbl</string>
     <string name="chop_chop_gesture_title">Chop-chop</string>
