@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="device_settings_app_name">Axustes avanzaos</string>
+    <string name="device_settings_app_name">Configuración avanzada</string>
     <string name="screen_gestures_panel_title">Xestos</string>
     <string name="touchscreen_gesture_haptic_feedback">Rempuesta háptica</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibra cuando se detecta dalgún xestu na pantalla táctil</string>

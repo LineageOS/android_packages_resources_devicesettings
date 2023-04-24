@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Màn hình nhận biết người dùng</string>
     <string name="user_aware_display_summary">Giữ màn hình sáng khi người dùng còn nhìn vào màn hình</string>
     <string name="ambient_display_title">Hiển thị môi trường xung quanh</string>
+    <string name="ambient_display_enable_title">Sử dụng màn hình xem nhanh</string>
     <string name="ambient_display_enable_summary">Sáng màn hình khi nhận thông báo</string>
     <string name="ambient_display_gestures_title">Cử chỉ màn hình hiển thị xung quanh</string>
     <string name="ambient_display_gestures_summary">Các cử chỉ bổ sung để đánh thức màn hình</string>
@@ -76,6 +77,8 @@
     <string name="proximity_wake_enable_title">Đánh thức thiết bị bằng cảm biến tiệm cận</string>
     <string name="proximity_wake_enable_summary">Đánh thức thiết bị bằng cách vẫy tay</string>
     <string name="actions_title">Thao tác</string>
+    <string name="device_gestures_panel_summary">Cử chỉ thiết bị đặc biệt</string>
+    <string name="moto_gestures_panel_title">Cử chỉ moto</string>
     <string name="camera_gesture_title">Xoay hai lần</string>
     <string name="camera_gesture_summary">Mở máy ảnh khi sử dụng cử chỉ xoay hai lần</string>
     <string name="chop_chop_gesture_title">Lắc 2 lần</string>

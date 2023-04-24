@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Harekette uyandır</string>
     <string name="proximity_wake_enable_summary">El sallamasında cihazı uyandır</string>
     <string name="actions_title">Eylemler</string>
+    <string name="device_gestures_panel_summary">Özel cihaz hareketleri</string>
+    <string name="moto_gestures_panel_title">Moto hareketleri</string>
     <string name="camera_gesture_title">Çift sallama</string>
     <string name="camera_gesture_summary">Çift sallama hareketi kullanıldığında kamerayı aç</string>
     <string name="chop_chop_gesture_title">Tak-tak</string>
