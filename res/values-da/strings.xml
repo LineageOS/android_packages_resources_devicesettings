@@ -68,6 +68,7 @@
     <string name="hand_wave_gesture_flat_summary">Blink kun, hvis telefonen ligger med forsiden opad på en flad overflade</string>
     <string name="pick_up_gesture_title">Samle op</string>
     <string name="pick_up_gesture_summary">Blink med notifikationerne ved opsamling</string>
+    <string name="pick_up_wake_gesture_summary">Væk ved enhedsopsamling</string>
     <string name="pocket_gesture_title">Lomme</string>
     <string name="pocket_gesture_summary">Vibrér, hvis der er notifikationer, når telefonen tages op ad lommen</string>
     <string name="proximity_wake_title">Berøringsfri vækning</string>
@@ -110,5 +111,6 @@
     <string name="fingerprint_pocketmode_summary">Kontrollér nærhedsføleren før oplåsning udløst af fingeraftrykslæseren</string>
     <string name="fingerprint_sleep_title">Fingeraftryksdvale</string>
     <string name="fingerprint_sleep_summary">Tryk på fingeraftrykslæseren for at slukke skærmen</string>
+    <string name="high_touch_sensitivity_title">Høj berøringsfølsomhed</string>
     <string name="high_touch_sensitivity_summary">Forøg berøringsfølsom skærms følsomhed, så den kan bruges med handsker på</string>
 </resources>

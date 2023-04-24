@@ -79,6 +79,8 @@
     <string name="proximity_wake_enable_title">Sensor de proximidade</string>
     <string name="proximity_wake_enable_summary">Ligar o dispositivo ao passar a mão pelo sensor de proximidade</string>
     <string name="actions_title">Ações</string>
+    <string name="moto_gestures_panel_summary">Gestos especiais do dispositivo</string>
+    <string name="moto_gestures_panel_title">Gestos Moto</string>
     <string name="camera_gesture_title">Torcer duas vezes</string>
     <string name="camera_gesture_summary">Abrir a câmara ao usar o gesto de torcer duas vezes</string>
     <string name="chop_chop_gesture_title">Sacudir</string>

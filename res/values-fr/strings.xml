@@ -79,6 +79,8 @@
     <string name="proximity_wake_enable_title">Activation de proximité</string>
     <string name="proximity_wake_enable_summary">Réveiller l\'appareil par passage de main</string>
     <string name="actions_title">Actions</string>
+    <string name="moto_gestures_panel_summary">Gestes spéciaux de l\'appareil</string>
+    <string name="moto_gestures_panel_title">Gestes Moto</string>
     <string name="camera_gesture_title">Double torsion</string>
     <string name="camera_gesture_summary">Ouvrir l\'appareil photo avec le geste de double torsion</string>
     <string name="chop_chop_gesture_title">Double tranchage</string>
