@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Aktywny ekran podczas spoglądania na niego</string>
     <string name="user_aware_display_summary">Utrzymuj ekran włączony, gdy użytkownik spogląda na ekran</string>
     <string name="ambient_display_title">Aktywny wyświetlacz</string>
+    <string name="ambient_display_enable_title">Używaj aktywnego wyświetlacza</string>
     <string name="ambient_display_enable_summary">Wybudź ekran, po otrzymaniu powiadomienia</string>
     <string name="ambient_display_gestures_title">Gesty ekranu dostosowanego do otoczenia</string>
     <string name="ambient_display_gestures_summary">Dodatkowe gesty do wybudzenia ekranu</string>
@@ -69,12 +70,15 @@
     <string name="hand_wave_gesture_flat_summary">Pokaż tylko wtedy, gdy telefon leży ekranem do góry na płaskiej powierzchni</string>
     <string name="pick_up_gesture_title">Podnieś</string>
     <string name="pick_up_gesture_summary">Pulsujące powiadomienia podczas podnoszenia</string>
+    <string name="pick_up_wake_gesture_summary">Wybudź urządzenie po podniesieniu</string>
     <string name="pocket_gesture_title">Kieszeń</string>
     <string name="pocket_gesture_summary">Pulsujące powiadomienia po wyjęciu z kieszeni</string>
     <string name="proximity_wake_title">Wybudzenie czujnikiem zbliżeniowym</string>
     <string name="proximity_wake_enable_title">Wybudzenie czujnikiem zbliżeniowym</string>
     <string name="proximity_wake_enable_summary">Wybudź urządzenie machnięciem ręką</string>
     <string name="actions_title">Akcje</string>
+    <string name="device_gestures_panel_summary">Specjalne gesty urządzenia</string>
+    <string name="moto_gestures_panel_title">Gesty moto</string>
     <string name="camera_gesture_title">Obróć dwa razy</string>
     <string name="camera_gesture_summary">Uruchom Aparat po użyciu gestu podwójnego obrotu</string>
     <string name="chop_chop_gesture_title">Podwójne potrząśnięcie</string>
@@ -101,7 +105,7 @@
     <string name="doze_settings_help_text">Te funkcje używają czujników, aby pokazywać powiadomienia tylko w odpowiednim momencie. Czujniki są wykorzystywane, kiedy telefon odbierze powiadomienie. Pozwala to w oszczędzaniu baterii. Istnieje również możliwość, aby włączyć wybrany czujnik zaraz po wyłączeniu ekranu, spowoduje to większe zużycie baterii.</string>
     <string name="button_panel_title">Dodatkowe przyciski</string>
     <string name="button_swap_title">Zamień przyciski</string>
-    <string name="button_swap_summary">Zamień miejscami przyciski ostatnio uruchomionych aplikacji i powrotu</string>
+    <string name="button_swap_summary">Zamień miejscami przyciski: Ostatnio uruchomionych aplikacji z Wstecz</string>
     <string name="fingerprint_title">Odcisk palca</string>
     <string name="fingerprint_as_home_title">Uruchom ekran główny czytnikiem linii papilarnych</string>
     <string name="fingerprint_as_home_summary">Używaj czytnika linii papilarnych jako przycisku Home</string>
@@ -115,4 +119,8 @@
     <string name="high_touch_sensitivity_summary">Zwiększa czułość ekranu dotykowego, umożliwia to korzystanie z niego podczas noszenia rękawiczek</string>
     <string name="quick_charge_title">Szybkie ładowanie</string>
     <string name="quick_charge_summary">Przełącz szybkie ładowanie. Odłącz i ponownie podłącz ładowarkę po zmianie tego ustawienia</string>
+    <string name="camera_focus_fix_title">Zablokuj ostrość aparatu</string>
+    <string name="camera_focus_fix_summary">Włącz, jeśli masz problemy z ustawieniem ostrości</string>
+    <string name="wake_on_gesture_title">Wybudź za pomocą gestów</string>
+    <string name="wake_on_gesture_summary">Wybudź urządzenie, zamiast pulsować podczas gestów</string>
 </resources>
