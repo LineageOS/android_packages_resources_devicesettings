@@ -189,4 +189,20 @@
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+
+    <!-- Popup camera -->
+    <string name="popup_title">Front camera settings</string>
+    <string name="popup_calibration_title">Calibration</string>
+    <string name="popup_calibration_summary">Calibrate the popup camera motor</string>
+    <string name="popup_calibration_warning_title">Motor calibration</string>
+    <string name="popup_calibration_warning_text">Unnecessary use of calibration may cause permanent damage. It is recommended to calibrate the popup camera motor only in case of it not moving properly or it being in incorrect position!</string>
+    <string name="popup_camera_tip">Warning</string>
+    <string name="popup_camera_takeback_failed_calibrate">Couldn\'t close front camera. Try calibrating the motor.</string>
+    <string name="popup_camera_popup_failed_calibrate">Couldn\'t open front camera. Try calibrating the motor.</string>
+    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
+    <string name="popup_camera_calibrate_now">Calibrate</string>
+    <string name="popup_camera_calibrate_failed">Couldn\'t calibrate</string>
+    <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Enable LED light while the front camera appears and retracts</string>
 </resources>
