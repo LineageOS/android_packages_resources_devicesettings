@@ -76,6 +76,8 @@
     <string name="proximity_wake_enable_title">ايقاظ تقريبي</string>
     <string name="proximity_wake_enable_summary">ايقاظ الجهاز عند التلويح باليد</string>
     <string name="actions_title">الإجراءات</string>
+    <string name="device_gestures_panel_summary">الإيماءات الخاصة بالجهاز</string>
+    <string name="moto_gestures_panel_title">إيماءات موتو</string>
     <string name="camera_gesture_title">التواء-مزدوج</string>
     <string name="camera_gesture_summary">فتح الكاميرا عند استخدام إيماءة الالتواء المزدوج</string>
     <string name="chop_chop_gesture_title">تشوب تشوب</string>
