@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">使用者感知顯示</string>
     <string name="user_aware_display_summary">當使用者使用時保持螢幕開啟</string>
     <string name="ambient_display_title">環境顯示</string>
+    <string name="ambient_display_enable_title">使用環境顯示</string>
     <string name="ambient_display_enable_summary">收到通知時喚醒螢幕</string>
     <string name="ambient_display_gestures_title">環境顯示手勢</string>
     <string name="ambient_display_gestures_summary">附加手勢來喚醒螢幕</string>
@@ -76,6 +77,8 @@
     <string name="proximity_wake_enable_title">距離喚醒</string>
     <string name="proximity_wake_enable_summary">揮手時喚醒裝置</string>
     <string name="actions_title">動作</string>
+    <string name="device_gestures_panel_summary">特殊裝置手勢</string>
+    <string name="moto_gestures_panel_title">Moto 手勢</string>
     <string name="camera_gesture_title">雙重扭動</string>
     <string name="camera_gesture_summary">雙重扭動手勢時啟動相機</string>
     <string name="chop_chop_gesture_title">左右旋轉搖動</string>
