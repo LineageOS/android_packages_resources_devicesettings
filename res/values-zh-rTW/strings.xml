@@ -79,6 +79,8 @@
     <string name="proximity_wake_enable_title">距離喚醒</string>
     <string name="proximity_wake_enable_summary">揮手時喚醒裝置</string>
     <string name="actions_title">動作</string>
+    <string name="moto_gestures_panel_summary">特殊裝置手勢</string>
+    <string name="moto_gestures_panel_title">Moto 手勢</string>
     <string name="camera_gesture_title">雙重扭動</string>
     <string name="camera_gesture_summary">雙重扭動手勢時啟動相機</string>
     <string name="chop_chop_gesture_title">左右旋轉搖動</string>
