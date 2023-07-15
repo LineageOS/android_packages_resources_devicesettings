@@ -54,6 +54,7 @@
     <string name="tilt_sensor_title">Sensor d\'inclinación</string>
     <string name="pickup_sensor_title">Sensor de recoyida</string>
     <string name="proximity_sensor_title">Sensor de proximidá</string>
+    <string name="hand_wave_gesture_flat_title">Detectar la orientación</string>
     <string name="pick_up_wake_gesture_summary">Esconsoña\'l preséu al coyelu</string>
     <string name="pocket_gesture_title">Bolsu</string>
     <string name="proximity_wake_title">Esconsueñu per proximidá</string>
@@ -68,6 +69,7 @@
     <string name="chop_chop_gesture_summary">Alterna la llinterna cuando s\'usa\'l xestu de sacudida doble</string>
     <string name="hand_wave_silencer_summary">Desactiva\'l timbre de les llamaes entrantes al pasar la mano pela pantalla</string>
     <string name="flip_to_mute_summary">Pon el teléfonu boca abaxo pa desactivar el soníu de los avisos y el del timbre</string>
+    <string name="dnd_access">Concede\'l permisu de «Nun molestar» a CMActions pa usar esta función.</string>
     <string name="action_torch">Alternar la llinterna</string>
     <string name="feedback_intensity_title">Instensidá de la rempuesta háptica</string>
     <string name="feedback_intensity_summary">La intensidá de la rempuesta háptica pa les aiciones de xiru doble y de sacudida doble</string>
