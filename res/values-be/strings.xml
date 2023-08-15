@@ -57,6 +57,7 @@
     <string name="feedback_intensity_none">Адключана</string>
     <string name="dialog_ok">ОК</string>
     <string name="disabled">Адключана</string>
+    <string name="button_panel_title">Дадатковыя кнопкі</string>
     <string name="button_swap_title">Памяняць кнопкі месцамі</string>
     <string name="fingerprint_title">Адбітак пальца</string>
     <string name="high_touch_sensitivity_title">Высокая адчувальнасць дотыку</string>
