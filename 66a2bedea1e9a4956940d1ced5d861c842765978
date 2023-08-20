@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4ca5e0ee_2043854e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2023-08-20T18:57:01Z",
+      "side": 1,
+      "message": "These would be useful on davinci which is close to shipping - not sure about the effect names and wether they should be translatable. They are at least common between most xiaomi devices with popup, any opinions?",
+      "revId": "66a2bedea1e9a4956940d1ced5d861c842765978",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
