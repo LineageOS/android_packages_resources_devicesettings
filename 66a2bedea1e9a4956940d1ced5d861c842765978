@@ -16,6 +16,29 @@
       "message": "These would be useful on davinci which is close to shipping - not sure about the effect names and wether they should be translatable. They are at least common between most xiaomi devices with popup, any opinions?",
       "revId": "66a2bedea1e9a4956940d1ced5d861c842765978",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8124c333_3796d06f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-08-20T19:25:18Z",
+      "side": 1,
+      "message": "tbf we could just drop sound effects",
+      "range": {
+        "startLine": 208,
+        "startChar": 18,
+        "endLine": 208,
+        "endChar": 35
+      },
+      "revId": "66a2bedea1e9a4956940d1ced5d861c842765978",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
