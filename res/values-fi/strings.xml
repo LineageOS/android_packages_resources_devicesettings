@@ -33,7 +33,7 @@
     <string name="touchscreen_s_gesture_title">Viestit</string>
     <string name="touchscreen_s_gesture_summary">Piirrä \"S\" avataksesi viestisovelluksen</string>
     <string name="touchscreen_v_gesture_title">Puhelin</string>
-    <string name="touchscreen_v_gesture_summary">Piirrä \"V\" avataksesi puhelusovelluksen</string>
+    <string name="touchscreen_v_gesture_summary">Avaa puhelusovellus piirtämällä \"V\"</string>
     <string name="touchscreen_w_gesture_title">Selain</string>
     <string name="touchscreen_w_gesture_summary">Piirrä \"W\" avataksesi selaimen</string>
     <string name="touchscreen_z_gesture_title">Taskulamppu</string>
