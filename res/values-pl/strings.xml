@@ -51,10 +51,10 @@
     <string name="touchscreen_swipe_left_title">Przesuń w lewo</string>
     <string name="user_aware_display_title">Aktywny ekran podczas spoglądania na niego</string>
     <string name="user_aware_display_summary">Utrzymuj ekran włączony, gdy użytkownik spogląda na ekran</string>
-    <string name="ambient_display_title">Aktywny wyświetlacz</string>
-    <string name="ambient_display_enable_title">Używaj aktywnego wyświetlacza</string>
+    <string name="ambient_display_title">Ekran Ambient</string>
+    <string name="ambient_display_enable_title">Używaj Ekranu Ambient</string>
     <string name="ambient_display_enable_summary">Wybudź ekran, po otrzymaniu powiadomienia</string>
-    <string name="ambient_display_gestures_title">Gesty ekranu dostosowanego do otoczenia</string>
+    <string name="ambient_display_gestures_title">Gesty ekranu Ambient</string>
     <string name="ambient_display_gestures_summary">Dodatkowe gesty do wybudzenia ekranu</string>
     <string name="ambient_display_summary">Wybudź ekran po odebraniu powiadomienia</string>
     <string name="ambient_display_summary_on">Ekran się wybudzi, po otrzymaniu powiadomienia</string>
@@ -86,11 +86,11 @@
     <string name="hand_wave_silencer_title">Machnij, aby wyciszyć</string>
     <string name="hand_wave_silencer_summary">Wycisza połączenia przychodzące, gdy machniesz ręką nad ekranem</string>
     <string name="flip_to_mute_title">Odwróć i wycisz</string>
-    <string name="flip_to_mute_summary">Odwróć telefon wyświetlaczem do dołu, aby wyciszyć dzwonek telefonu i powiadomienia</string>
+    <string name="flip_to_mute_summary">Odwróć telefon ekranem do dołu, aby wyciszyć dzwonek telefonu i powiadomienia</string>
     <string name="dnd_access">Zezwól trybowi \"Nie Przeszkadzać\" na dostęp do \"CMActions\", aby móc korzystać z tej funkcjonalności.</string>
     <string name="lift_to_silence_title">Podnieś telefon, aby przestał dzwonić</string>
     <string name="lift_to_silence_summary">Podnieś telefon, aby wyciszyć dzwonek połączenia. Działa tylko, jak telefon leży na płasko</string>
-    <string name="action_none">Wyłączone</string>
+    <string name="action_none">Wyłączono</string>
     <string name="action_launch_camera">Uruchom aparat</string>
     <string name="action_torch">Przełącznik latarki</string>
     <string name="feedback_intensity_title">Intensywność wibracji</string>
@@ -108,7 +108,7 @@
     <string name="button_swap_summary">Zamień miejscami przyciski: Ostatnio uruchomionych aplikacji z Wstecz</string>
     <string name="fingerprint_title">Odcisk palca</string>
     <string name="fingerprint_as_home_title">Uruchom ekran główny czytnikiem linii papilarnych</string>
-    <string name="fingerprint_as_home_summary">Używaj czytnika linii papilarnych jako przycisku Home</string>
+    <string name="fingerprint_as_home_summary">Używaj czytnika linii papilarnych jako przycisku \"Ekran główny\"</string>
     <string name="fingerprint_wakeup_title">Wybudzenie ekranu czytnikiem linii papilarnych</string>
     <string name="fingerprint_wakeup_summary">Pozwól, aby czujnik linii papilarnych wybudził urządzenie, gdy ekran jest wyłączony</string>
     <string name="fingerprint_pocketmode_title">Zapobiegaj przypadkowemu wybudzeniu</string>
