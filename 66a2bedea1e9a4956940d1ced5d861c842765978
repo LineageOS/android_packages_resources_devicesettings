@@ -20,6 +20,23 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "2ff13a3b_b9d4d89c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2024-01-19T10:50:07Z",
+      "side": 1,
+      "message": "These strings are used by davinci, would be nice to get translations for it.\nIf we don\u0027t want the sound effect names here, i\u0027m fine with removing them.",
+      "revId": "66a2bedea1e9a4956940d1ced5d861c842765978",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "8124c333_3796d06f",
         "filename": "res/values/strings.xml",
         "patchSetId": 1
