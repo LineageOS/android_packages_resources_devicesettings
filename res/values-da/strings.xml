@@ -109,5 +109,6 @@
     <string name="fingerprint_pocketmode_summary">Kontrollér nærhedsføleren før oplåsning udløst af fingeraftrykslæseren</string>
     <string name="fingerprint_sleep_title">Fingeraftryksdvale</string>
     <string name="fingerprint_sleep_summary">Tryk på fingeraftrykslæseren for at slukke skærmen</string>
+    <string name="high_touch_sensitivity_title">Høj berøringsfølsomhed</string>
     <string name="high_touch_sensitivity_summary">Forøg berøringsfølsom skærms følsomhed, så den kan bruges med handsker på</string>
 </resources>

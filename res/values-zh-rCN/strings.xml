@@ -62,7 +62,7 @@
     <string name="ambient_display_summary_on">当接收到通知时将唤醒屏幕</string>
     <string name="ambient_display_summary_off">当接收到通知时将不会唤醒屏幕</string>
     <string name="ambient_display_always_on_title">始终开启</string>
-    <string name="ambient_display_always_on_summary">显示时间、通知图标和其他信息。这会增加电池使用量。</string>
+    <string name="ambient_display_always_on_summary">显示时间、通知图标和其他信息。这会增加耗电量。</string>
     <string name="tilt_sensor_title">倾斜传感器</string>
     <string name="pickup_sensor_title">拾取传感器</string>
     <string name="proximity_sensor_title">距离传感器</string>

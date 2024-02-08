@@ -115,4 +115,10 @@
     <string name="fingerprint_sleep_summary">Nhấn cảm biến vân tay để tắt màn hình</string>
     <string name="high_touch_sensitivity_title">Độ nhạy cảm ứng cao</string>
     <string name="high_touch_sensitivity_summary">Tăng độ nhạy màn hình cảm ứng để nó có thể được sử dụng trong khi đeo găng tay</string>
+    <string name="quick_charge_title">Sạc nhanh</string>
+    <string name="quick_charge_summary">Bật sạc nhanh. Rút và cắm lại dây sạc sau khi thay đổi tùy chọn này</string>
+    <string name="camera_focus_fix_title">Sửa lấy nét camera</string>
+    <string name="camera_focus_fix_summary">Bật nếu camera không thể lấy nét</string>
+    <string name="wake_on_gesture_title">Đánh thức bằng cử chỉ</string>
+    <string name="wake_on_gesture_summary">Đánh thức thiết bị thay vì phát xung thông báo về các sự kiện cử chỉ</string>
 </resources>
