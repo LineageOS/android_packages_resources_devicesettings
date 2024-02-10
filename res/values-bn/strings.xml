@@ -20,7 +20,9 @@
     <string name="screen_gestures_panel_title">আকৃতি</string>
     <string name="touchscreen_gesture_extras">অতিরিক্ত</string>
     <string name="touchscreen_gesture_haptic_feedback">কম্পন প্রতিক্রিয়া</string>
-    <string name="touchscreen_gesture_haptic_feedback_summary">টাচস্ক্রীনে অঙ্গভঙ্গি শনাক্ত হলে কম্পিত হবে</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">স্ক্রিনে জেসচার করা হলে ডিভাইসটি কম্পিত হবে</string>
+    <string name="touchscreen_gesture_settings_title">টাচস্ক্রিনের জেসচারসমূহ</string>
+    <string name="touchscreen_gesture_settings_summary">দ্রুত কাজ করতে বিভিন্ন টাচস্ক্রিন জেসচার ব্যবহার করো</string>
     <string name="gesture_display_title">আকৃতির মাধ্যমে স্কিন বন্ধ করুন</string>
     <string name="touchscreen_c_gesture_title">ক্যামেরা</string>
     <string name="touchscreen_c_gesture_summary">ক্যামেরা চালু করতে \'\'C\" আঁকুন</string>
@@ -39,17 +41,25 @@
     <string name="touchscreen_flashlight_gesture_title">ফ্লাস লাইট</string>
     <string name="touchscreen_flashlight_gesture_summary">ফ্ল্যাশ লাইট জালাতে একটি বৃত্ত অংকন করুন</string>
     <string name="touchscreen_music_gesture_title">মিউজিক</string>
+    <string name="touchscreen_swipe_up_title">উপরে সোয়াইপ</string>
+    <string name="touchscreen_swipe_right_title">ডানে সোয়াইপ</string>
+    <string name="touchscreen_swipe_down_title">নিচে সোয়াইপ</string>
+    <string name="touchscreen_swipe_left_title">বামে সোয়াইপ</string>
     <string name="user_aware_display_title">ব্যাবহারকারী সচেতন বার্তা</string>
     <string name="user_aware_display_summary">ব্যাবহারকারী সামনে থাকলে স্ক্রীন চালু থাকবে</string>
     <string name="ambient_display_title">অবস্থানির্ভর প্রদর্শন</string>
     <string name="ambient_display_enable_title">আবহ ডিসপ্লে চালু করো</string>
     <string name="ambient_display_enable_summary">বিজ্ঞপ্তি প্রাপ্ত হলে পর্দা সক্রিয় হবে</string>
+    <string name="ambient_display_summary">বিজ্ঞপ্তি পেলে ডিভাইসের স্ক্রিন চালু হয়ে যাবে</string>
+    <string name="ambient_display_summary_on">আপনি কোনো বিজ্ঞপ্তি পেলে স্ক্রিন চালু হয়ে যাবে</string>
+    <string name="ambient_display_summary_off">আপনি কোনো বিজ্ঞপ্তি পেলেও স্ক্রিন চালু হবে না</string>
     <string name="ambient_display_always_on_title">সর্বদা সচল</string>
     <string name="ambient_display_always_on_summary">সময়, বিজ্ঞপ্তি ও অন্যান্য তথ্য দেখাও। তবে এতে ব্যাটারি বেশি খরচ হবে।</string>
     <string name="tilt_sensor_title">সেন্সর কাত করুন</string>
     <string name="proximity_sensor_title">প্রক্সিমিটি সেন্সর</string>
     <string name="hand_wave_gesture_title">হাত নাড়ানো</string>
     <string name="hand_wave_gesture_summary">হাত নাড়ালে বিজ্ঞপ্তি স্পন্দিত হবে</string>
+    <string name="hand_wave_gesture_flat_title">অভিমুখ শনাক্তকরণ</string>
     <string name="pick_up_gesture_title">পিক-আপ</string>
     <string name="pick_up_gesture_summary">ফোনে উঠালে বিজ্ঞপ্তি প্রদর্শিত হবে</string>
     <string name="pick_up_wake_gesture_summary">ফোন উঠালে ডিভাইসের স্ক্রিন চালু করো</string>
@@ -62,4 +72,5 @@
     <string name="action_launch_camera">ক্যামেরা চালু করুন</string>
     <string name="action_torch">টর্চ চালু বা বন্ধ করুন</string>
     <string name="fingerprint_title">আঙ্গুলের ছাপ</string>
+    <string name="fingerprint_pocketmode_title">ভুলে স্ক্রিন চালু করা প্রতিহত করুন</string>
 </resources>

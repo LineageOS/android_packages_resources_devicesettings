@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="device_settings_app_name">Qabaqcıl tənzimləmələr</string>
+    <string name="device_settings_app_name">Qabaqcıl ayarlar</string>
     <string name="screen_gestures_panel_title">Jestlər</string>
     <string name="touchscreen_gesture_extras">Əlavələr</string>
     <string name="touchscreen_gesture_haptic_feedback">Toxunuş əks əlaqəsi</string>
@@ -34,15 +34,15 @@
     <string name="touchscreen_s_gesture_summary">Mesajlaşmanı açmaq üçün \"S\" çəkin</string>
     <string name="touchscreen_v_gesture_title">Nömrəyığan</string>
     <string name="touchscreen_v_gesture_summary">Nömrəyığanı açmaq üçün \"V\" çəkin</string>
-    <string name="touchscreen_w_gesture_title">Səyyah</string>
-    <string name="touchscreen_w_gesture_summary">Səyyahı açmaq üçün \"W\" çəkin</string>
+    <string name="touchscreen_w_gesture_title">Brauzer</string>
+    <string name="touchscreen_w_gesture_summary">Brauzeri açmaq üçün \"W\" çəkin</string>
     <string name="touchscreen_z_gesture_title">Fənər</string>
     <string name="touchscreen_z_gesture_summary">Fənəri açıb bağlamaq üçün \"Z\" çəkin</string>
     <string name="touchscreen_flashlight_gesture_title">Fənər</string>
     <string name="touchscreen_flashlight_gesture_summary">Fənəri açıb bağlamaq üçün dairə çəkin</string>
     <string name="touchscreen_music_gesture_title">Musiqi</string>
-    <string name="touchscreen_music_gesture_summary">Musiqiyə nəzarət etmək üçün jestlərdən istifadə edin\n
-    • Mahnını oynatmaq/dayandırmaq üçün aşağı\n
+    <string name="touchscreen_music_gesture_summary">Musiqiyə nəzarət etmək üçün jestləri istifadə edin\n
+    • Mahnı oxutmaq/fasilə vermək üçün aşağı\n
     • Əvvəlki mahnıya keçmək üçün sola\n
     • Sonrakı mahnıya keçmək üçün sağa sürüşdürün</string>
     <string name="touchscreen_swipe_up_title">Yuxarı sürüşdür</string>
@@ -117,8 +117,8 @@
     <string name="fingerprint_sleep_summary">Ekranı söndürmək üçün barmaq izi sensoruna basın</string>
     <string name="high_touch_sensitivity_title">Yüksək toxunuş həssaslığı</string>
     <string name="high_touch_sensitivity_summary">Toxunuş həssaslığını artıraraq əlcəklə istifadəni mümkün edər</string>
-    <string name="quick_charge_title">Sürətli enerji</string>
-    <string name="quick_charge_summary">Sürətli enerjini aç/bağla. Bu tənzimləməni dəyişdirdikdən sonra enerji yığma cihazını çıxarıb yenidən taxın.</string>
+    <string name="quick_charge_title">Sürətli doldurma</string>
+    <string name="quick_charge_summary">Sürətli doldurmanı aç/bağla. Bu ayarı dəyişdirdikdən sonra doldurma cihazını çıxarıb yenidən taxın</string>
     <string name="camera_focus_fix_title">Kamera fokus düzəltməsi</string>
     <string name="camera_focus_fix_summary">Kameranın fokuslanması ilə bağlı problem yaşayırsınızsa bunu fəallaşdırın</string>
     <string name="wake_on_gesture_title">Jestlərlə oyandırın</string>
