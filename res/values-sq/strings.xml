@@ -23,7 +23,7 @@
     <string name="touchscreen_gesture_haptic_feedback_summary">Dridhu kur kapet një gjest me prekje ekrani</string>
     <string name="touchscreen_gesture_settings_title">Gjestet me prekje ekrani</string>
     <string name="touchscreen_gesture_settings_summary">Kryej gjeste të ndryshme duke prekur ekranin për veprime të shpejta</string>
-    <string name="gesture_display_title">Gjestet me ekran të mbyllur</string>
+    <string name="gesture_display_title">Gjestet me ekran të fikur</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_c_gesture_summary">Vizato një \"C\" për të aktivizuar kamerën</string>
     <string name="touchscreen_e_gesture_title">Email</string>
