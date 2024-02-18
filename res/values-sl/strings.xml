@@ -87,7 +87,7 @@
     <string name="hand_wave_silencer_summary">Utišaj dohodne klice z mahanjem roke preko zaslona</string>
     <string name="flip_to_mute_title">Obračanje za \'Ne moti\'</string>
     <string name="flip_to_mute_summary">Obrnite telefon s sprednjo stranjo navzdol za utišanje obvestil in klicev</string>
-    <string name="dnd_access">Odobrite dostop »Ne moti« za CMActions, da mu dovolite uporabo te značilnosti.</string>
+    <string name="dnd_access">Odobrite dostop »Ne moti« za CMActions, da mu dovolite uporabo te funkcije.</string>
     <string name="lift_to_silence_title">Dvig za utišanje zvonjenja</string>
     <string name="lift_to_silence_summary">Dvignite telefon za utišanje dohodnih klicev. Deluje samo, ko je telefon v vodoravnem položaju.</string>
     <string name="action_none">Onemogoči</string>
@@ -102,7 +102,7 @@
     <string name="dialog_ok">V redu</string>
     <string name="disabled">Onemogočeno</string>
     <string name="doze_settings_help_title">Pomoč</string>
-    <string name="doze_settings_help_text">Te značilnosti uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
+    <string name="doze_settings_help_text">Te funkcije uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
     <string name="button_panel_title">Dodatni gumbi</string>
     <string name="button_swap_title">Zamenjaj gumbe</string>
     <string name="button_swap_summary">Zamenjaj vrstni red gumbov Nedavno in Nazaj</string>
