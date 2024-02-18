@@ -21,6 +21,7 @@
     <string name="touchscreen_gesture_haptic_feedback">Rempuesta háptica</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibra cuando se detecta dalgún xestu na pantalla táctil</string>
     <string name="touchscreen_gesture_settings_title">Xestos de la pantalla táctil</string>
+    <string name="touchscreen_gesture_settings_summary">Fai dellos xestos na pantalla táctil pa facer aiciones rápides</string>
     <string name="touchscreen_c_gesture_title">Cámara</string>
     <string name="touchscreen_c_gesture_summary">Dibuxa una «C» p\'activar la cámara</string>
     <string name="touchscreen_e_gesture_title">Corréu electrónicu</string>
@@ -70,6 +71,7 @@
     <string name="hand_wave_silencer_summary">Desactiva\'l timbre de les llamaes entrantes al pasar la mano pela pantalla</string>
     <string name="flip_to_mute_summary">Pon el teléfonu boca abaxo pa desactivar el soníu de los avisos y el del timbre</string>
     <string name="dnd_access">Concede\'l permisu de «Nun molestar» a CMActions pa usar esta función.</string>
+    <string name="action_launch_camera">Abrir la cámara</string>
     <string name="action_torch">Alternar la llinterna</string>
     <string name="feedback_intensity_title">Instensidá de la rempuesta háptica</string>
     <string name="feedback_intensity_summary">La intensidá de la rempuesta háptica pa les aiciones de xiru doble y de sacudida doble</string>
