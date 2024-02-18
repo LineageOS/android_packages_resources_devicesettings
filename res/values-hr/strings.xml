@@ -58,6 +58,7 @@
     <string name="ambient_display_summary">Probudi zaslon kada primite obavijesti</string>
     <string name="ambient_display_summary_on">Zaslon će se probuditi kad primite obavijesti</string>
     <string name="ambient_display_summary_off">Zaslon se neće probuditi kad primite obavijesti</string>
+    <string name="ambient_display_always_on_title">Always On</string>
     <string name="tilt_sensor_title">Senzor nagiba</string>
     <string name="pickup_sensor_title">Senzor podizanja</string>
     <string name="proximity_sensor_title">Senzor blizine</string>
