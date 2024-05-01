@@ -60,7 +60,7 @@
     <string name="ambient_display_summary_on">Bildiriş gələndə ekran oyanacaq</string>
     <string name="ambient_display_summary_off">Bildiriş gələndə ekran oyanmayacaq</string>
     <string name="ambient_display_always_on_title">Həmişə açıq</string>
-    <string name="ambient_display_always_on_summary">Saatı, bildiriş nişanlarını və digər məlumatları göstərər. Batereya istifadəsini artırar.</string>
+    <string name="ambient_display_always_on_summary">Saatı, bildiriş ikonlarını və digər məlumatları göstərir. Batareya istifadəsini artırır.</string>
     <string name="tilt_sensor_title">Meyl sensoru</string>
     <string name="pickup_sensor_title">Əlinə götürmə sensoru</string>
     <string name="proximity_sensor_title">Yaxınlıq sensoru</string>
@@ -102,7 +102,7 @@
     <string name="dialog_ok">Oldu</string>
     <string name="disabled">Sıradan çıxarıldı</string>
     <string name="doze_settings_help_title">Kömək</string>
-    <string name="doze_settings_help_text">Bu özəllik bildiriş ekranını başlatmaq üçün sensorlardan istifadə edir. Seçilmiş sensor yalnız cihaz bildiriş alanda fəallaşır, batereya istifadəsini azaltmağa kömək edər. Ekran sönəndə seçilmiş sensoru fəal etmək üçün bir seçim də var, ancaq bu daha çox batereya istifadəsinə səbəb ola bilər.</string>
+    <string name="doze_settings_help_text">Bu özəllik bildiriş ekranını başlatmaq üçün sensorları istifadə edir. Seçilmiş sensor yalnız cihaz bildiriş alanda fəallaşır, batareya istifadəsini azaltmağa kömək edər. Ekran sönəndə seçilmiş sensoru fəal etmək üçün bir seçim də var, ancaq bu daha çox batereya istifadəsinə səbəb ola bilər.</string>
     <string name="button_panel_title">Əlavə düymələr</string>
     <string name="button_swap_title">Düymələri dəyişdir</string>
     <string name="button_swap_summary">Ən son tətbiqlər və geri düymələrinin yerini dəyişdir</string>
