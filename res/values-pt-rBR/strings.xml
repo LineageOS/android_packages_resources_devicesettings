@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Tela que reconhece o usuário</string>
     <string name="user_aware_display_summary">Manter a tela ligada enquanto houver um usuário na frente dela</string>
     <string name="ambient_display_title">Tela ambiente</string>
+    <string name="ambient_display_enable_title">Utilizar a tela ambiente</string>
     <string name="ambient_display_enable_summary">Ligar tela ao receber notificações</string>
     <string name="ambient_display_gestures_title">Gestos do modo tela ambiente</string>
     <string name="ambient_display_gestures_summary">Gestos adicionais para ligar a tela</string>
@@ -69,14 +70,17 @@
     <string name="hand_wave_gesture_flat_summary">Pulsar somente se a tela do celular estiver em uma superfície plana</string>
     <string name="pick_up_gesture_title">Pegar</string>
     <string name="pick_up_gesture_summary">Mostrar as notificações ao pegar no dispositivo</string>
+    <string name="pick_up_wake_gesture_summary">Acordar o dispositivo ao pegar</string>
     <string name="pocket_gesture_title">Bolso</string>
     <string name="pocket_gesture_summary">Pulsar notificações após remover do bolso</string>
     <string name="proximity_wake_title">Acordar por proximidade</string>
     <string name="proximity_wake_enable_title">Acordar aproximando</string>
     <string name="proximity_wake_enable_summary">Acordar dispositivo quando chacoalhar a mão</string>
     <string name="actions_title">Ações</string>
-    <string name="camera_gesture_title">Torcer duas vezes</string>
-    <string name="camera_gesture_summary">Abrir a câmera usando o gesto de torcer duas vezes</string>
+    <string name="device_gestures_panel_summary">Gestos especiais do dispositivo</string>
+    <string name="moto_gestures_panel_title">Gestos Moto</string>
+    <string name="camera_gesture_title">Giro duplo</string>
+    <string name="camera_gesture_summary">Abrir a câmera usando o gesto de giro duplo</string>
     <string name="chop_chop_gesture_title">Sacudidas rápidas</string>
     <string name="chop_chop_gesture_summary">Ligar/desligar lanterna ao chacoalhar duas vezes</string>
     <string name="hand_wave_silencer_title">Acenar para silenciar</string>
@@ -111,10 +115,12 @@
     <string name="fingerprint_pocketmode_summary">Verificar o sensor de proximidade antes de ligar a tela do dispositivo com a impressão digital</string>
     <string name="fingerprint_sleep_title">Suspender com impressão digital</string>
     <string name="fingerprint_sleep_summary">Pressione o sensor de impressão digital para desligar a tela</string>
-    <string name="high_touch_sensitivity_title">Alta sensitividade do toque</string>
+    <string name="high_touch_sensitivity_title">Alta sensibilidade ao toque</string>
     <string name="high_touch_sensitivity_summary">Aumenta a sensibilidade da tela para poder ser usada com luvas</string>
     <string name="quick_charge_title">Carregamento rápido</string>
     <string name="quick_charge_summary">Alternar o carregamento rápido. Desconecte e reconecte o carregador após alterar esta configuração</string>
     <string name="camera_focus_fix_title">Travar foco da câmera</string>
     <string name="camera_focus_fix_summary">Ative se você tiver problemas com o foco da câmera</string>
+    <string name="wake_on_gesture_title">Acordar com gestos</string>
+    <string name="wake_on_gesture_summary">Ative o dispositivo em vez de pulsar notificações em eventos de gestos</string>
 </resources>
