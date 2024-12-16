@@ -20,7 +20,7 @@
     <string name="screen_gestures_panel_title">சைகைகள்</string>
     <string name="touchscreen_gesture_extras">உதிரிகள்</string>
     <string name="touchscreen_gesture_haptic_feedback">தீண்டும் பின்னூட்டம்</string>
-    <string name="touchscreen_c_gesture_title">கேமரா</string>
+    <string name="touchscreen_c_gesture_title">படமி</string>
     <string name="touchscreen_c_gesture_summary">கேமரா செயல்படுத்த ஒரு \"C\" வரை</string>
     <string name="touchscreen_e_gesture_title">மின்னஞ்சல்</string>
     <string name="touchscreen_e_gesture_summary">மின்னஞ்சல் பயன்பாட்டை திறக்க ஒரு \"e\" வரை</string>
