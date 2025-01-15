@@ -82,11 +82,11 @@
     <string name="camera_gesture_title">Giro duplo</string>
     <string name="camera_gesture_summary">Abrir a câmera usando o gesto de giro duplo</string>
     <string name="chop_chop_gesture_title">Sacudidas rápidas</string>
-    <string name="chop_chop_gesture_summary">Ligar/desligar lanterna ao chacoalhar duas vezes</string>
+    <string name="chop_chop_gesture_summary">Ligue/desligue a lanterna ao chacoalhar duas vezes</string>
     <string name="hand_wave_silencer_title">Acenar para silenciar</string>
-    <string name="hand_wave_silencer_summary">Silenciar chamadas recebidas acenando com a mão na frente da tela</string>
+    <string name="hand_wave_silencer_summary">Silencie chamadas recebidas acenando com a mão na frente da tela</string>
     <string name="flip_to_mute_title">Ativar o modo não perturbe ao virar o telefone</string>
-    <string name="flip_to_mute_summary">Silenciar notificações e chamadas ao colocar o telefone com a tela para baixo</string>
+    <string name="flip_to_mute_summary">Silencie notificações e chamadas ao colocar o telefone com a tela para baixo</string>
     <string name="dnd_access">Conceda o acesso de Não Perturbe ao CMActions para poder usar esta função.</string>
     <string name="lift_to_silence_title">Parar de tocar ao pegar o telefone</string>
     <string name="lift_to_silence_summary">Levante o telefone para silenciar as chamadas. Só funciona quando o seu telefone está sobre uma superfície plana</string>
