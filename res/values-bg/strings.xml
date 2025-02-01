@@ -21,7 +21,7 @@
     <string name="touchscreen_gesture_extras">Екстри</string>
     <string name="touchscreen_gesture_haptic_feedback">Вибрация при докосване (обратна връзка)</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Вибрира при засичане на сензорен жест</string>
-    <string name="touchscreen_gesture_settings_title">Тъчскрийн жестове</string>
+    <string name="touchscreen_gesture_settings_title">Жестове на сензорния екран</string>
     <string name="touchscreen_gesture_settings_summary">Изпълнява различни бързи действия чрез жестове върху сензорния екран</string>
     <string name="gesture_display_title">Изключване на екрана с жестове</string>
     <string name="touchscreen_c_gesture_title">Камера</string>
@@ -52,6 +52,7 @@
     <string name="user_aware_display_title">Потребителски дисплей</string>
     <string name="user_aware_display_summary">Задръж екрана включен, докато потребителят е пред дисплея</string>
     <string name="ambient_display_title">Активен дисплей</string>
+    <string name="ambient_display_enable_title">Използвай атмосферен дисплей</string>
     <string name="ambient_display_enable_summary">Събужда екрана при получаване на известие</string>
     <string name="ambient_display_gestures_title">Активен дисплей жестове</string>
     <string name="ambient_display_gestures_summary">Допълнителни жестове за събуждане на екрана</string>
@@ -76,6 +77,8 @@
     <string name="proximity_wake_enable_title">Събуждане при засичане на близки устройства</string>
     <string name="proximity_wake_enable_summary">Събуди устройство с махане с ръка</string>
     <string name="actions_title">Действия</string>
+    <string name="device_gestures_panel_summary">Специални жестове</string>
+    <string name="moto_gestures_panel_title">Moto жестове</string>
     <string name="camera_gesture_title">Двойно завъртане</string>
     <string name="camera_gesture_summary">Стартирай камерата при двукратно-завъртане</string>
     <string name="chop_chop_gesture_title">Двукратно тръскане</string>
