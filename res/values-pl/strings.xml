@@ -53,10 +53,10 @@
     <string name="user_aware_display_summary">Utrzymuj ekran włączony, gdy użytkownik spogląda na ekran</string>
     <string name="ambient_display_title">Ekran Ambient</string>
     <string name="ambient_display_enable_title">Używaj Ekranu Ambient</string>
-    <string name="ambient_display_enable_summary">Wybudź ekran, po otrzymaniu powiadomienia</string>
+    <string name="ambient_display_enable_summary">Wybudzaj ekran, po otrzymaniu powiadomienia</string>
     <string name="ambient_display_gestures_title">Gesty ekranu Ambient</string>
     <string name="ambient_display_gestures_summary">Dodatkowe gesty do wybudzenia ekranu</string>
-    <string name="ambient_display_summary">Wybudź ekran po odebraniu powiadomienia</string>
+    <string name="ambient_display_summary">Wybudzaj ekran po odebraniu powiadomienia</string>
     <string name="ambient_display_summary_on">Ekran się wybudzi, po otrzymaniu powiadomienia</string>
     <string name="ambient_display_summary_off">Ekran nie wybudzi się po otrzymaniu powiadomienia</string>
     <string name="ambient_display_always_on_title">Zawsze włączony</string>
@@ -70,12 +70,12 @@
     <string name="hand_wave_gesture_flat_summary">Pulsuj tylko wtedy, gdy telefon leży ekranem skierowanym do góry na płaskiej powierzchni</string>
     <string name="pick_up_gesture_title">Podnieś</string>
     <string name="pick_up_gesture_summary">Pulsujące powiadomienia podczas podnoszenia</string>
-    <string name="pick_up_wake_gesture_summary">Wybudź urządzenie po podniesieniu</string>
+    <string name="pick_up_wake_gesture_summary">Wybudzaj urządzenie po podniesieniu</string>
     <string name="pocket_gesture_title">Kieszeń</string>
     <string name="pocket_gesture_summary">Pulsujące powiadomienia po wyjęciu z kieszeni</string>
     <string name="proximity_wake_title">Wybudzenie czujnikiem zbliżeniowym</string>
     <string name="proximity_wake_enable_title">Wybudzenie czujnikiem zbliżeniowym</string>
-    <string name="proximity_wake_enable_summary">Wybudź urządzenie machnięciem ręką</string>
+    <string name="proximity_wake_enable_summary">Wybudzaj urządzenie machnięciem ręki</string>
     <string name="actions_title">Akcje</string>
     <string name="device_gestures_panel_summary">Specjalne gesty urządzenia</string>
     <string name="moto_gestures_panel_title">Gesty moto</string>
@@ -121,6 +121,6 @@
     <string name="quick_charge_summary">Przełącz szybkie ładowanie. Odłącz i ponownie podłącz ładowarkę po zmianie tego ustawienia</string>
     <string name="camera_focus_fix_title">Zablokuj ostrość aparatu</string>
     <string name="camera_focus_fix_summary">Włącz, jeśli masz problemy z ustawieniem ostrości</string>
-    <string name="wake_on_gesture_title">Wybudź za pomocą gestów</string>
-    <string name="wake_on_gesture_summary">Wybudź urządzenie, zamiast pulsować podczas gestów</string>
+    <string name="wake_on_gesture_title">Wybudzaj za pomocą gestów</string>
+    <string name="wake_on_gesture_summary">Wybudzaj urządzenie, zamiast pulsować podczas gestów</string>
 </resources>
