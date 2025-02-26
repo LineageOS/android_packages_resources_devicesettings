@@ -102,6 +102,7 @@
     <string name="dialog_ok">Í lagi</string>
     <string name="disabled">Óvirkt</string>
     <string name="doze_settings_help_title">Hjálp</string>
+    <string name="doze_settings_help_text">Þessir eiginleikar nota atvik frá skynjurum til að senda púls um tilkynningu þegar verið er í svæfingu. Valinn skynjari er aðeins virkur þegar tækið tekur við tilkynningu, þetta hjálpar til við að spara rafhlöður. Einnig er sá valkostur að virkja valinn skynjara um leið og slökkt er á skjá, þetta leiðir til meiri notkunar rafhleðslu.</string>
     <string name="button_panel_title">Viðbótarhnappar</string>
     <string name="button_swap_title">Víxla hnöppum</string>
     <string name="button_swap_summary">Víxla \'Nýlegt\' og \'Til baka\' hnöppum</string>

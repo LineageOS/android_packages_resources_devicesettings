@@ -105,9 +105,9 @@
     <string name="button_swap_summary">Vaihda Takaisin- ja Viimeisimmät-näppäinten paikkaa</string>
     <string name="fingerprint_title">Sormenjälki</string>
     <string name="fingerprint_as_home_title">Sormenjälki Koti-näppäimenä</string>
-    <string name="fingerprint_as_home_summary">Käytä sormenjäljenlukijaa Koti-näppäimenä</string>
+    <string name="fingerprint_as_home_summary">Käytä sormenjälkitunnistinta Koti-näppäimenä</string>
     <string name="fingerprint_wakeup_title">Herätys sormenjäljellä</string>
-    <string name="fingerprint_wakeup_summary">Salli sormenjäljenlukijan herättää laite näytön ollessa pois päältä</string>
+    <string name="fingerprint_wakeup_summary">Salli sormenjälkitunnistimen herättää laite näytön ollessa pois päältä</string>
     <string name="fingerprint_pocketmode_title">Estä herätys vahingossa</string>
     <string name="fingerprint_pocketmode_summary">Tarkista läheisyysanturi estääksesi herättämisen vahingossa sormenjäljentunnistimen avulla</string>
     <string name="fingerprint_sleep_title">Lepotila sormenjäljellä</string>
