@@ -83,6 +83,7 @@
     <string name="button_panel_title">Botones adicionales</string>
     <string name="button_swap_title">Intercambiar los botones</string>
     <string name="fingerprint_title">Buelga</string>
+    <string name="fingerprint_wakeup_title">Esconsoñar cola buelga</string>
     <string name="fingerprint_wakeup_summary">Permite que\'l sensor de buelgues esconsoñe\'l preséu mentanto la pantalla ta apagada</string>
     <string name="fingerprint_pocketmode_title">Evitar l\'esconsueñu accidental</string>
     <string name="fingerprint_pocketmode_summary">Comprueba\'l sensor de proximidá enantes d\'esconsoñar el preséu col sensor de buelgues</string>
