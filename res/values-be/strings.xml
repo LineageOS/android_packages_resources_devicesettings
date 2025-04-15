@@ -16,20 +16,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Дадатковыя налады</string>
     <string name="screen_gestures_panel_title">Жэсты</string>
     <string name="touchscreen_gesture_extras">Дадаткі</string>
     <string name="touchscreen_gesture_haptic_feedback">Вібраводгук</string>
     <string name="touchscreen_gesture_settings_summary">Выкананне розных сэнсарных жэстаў на экране для хуткіх дзеянняў</string>
     <string name="gesture_display_title">Жэсты пры выключаным экране</string>
     <string name="touchscreen_c_gesture_title">Камера</string>
-    <string name="touchscreen_c_gesture_summary">Намалюйце літару \"C\" для ўключэння камеры</string>
     <string name="touchscreen_e_gesture_title">Электронная пошта</string>
     <string name="touchscreen_m_gesture_title">Паведамленні</string>
-    <string name="touchscreen_m_gesture_summary">Намалюйце літару \"М\", каб адкрыць праграму для абмену паведамленнямі</string>
     <string name="touchscreen_v_gesture_title">Набіральнік нумара</string>
     <string name="touchscreen_w_gesture_title">Браўзер</string>
     <string name="touchscreen_z_gesture_title">Ліхтарык</string>
-    <string name="touchscreen_z_gesture_summary">Намалюйце літару \"Z\", каб уключыць або выключыць ліхтарык</string>
     <string name="touchscreen_flashlight_gesture_title">Ліхтарык</string>
     <string name="touchscreen_flashlight_gesture_summary">Намалюйце круг, каб уключыць або выключыць ліхтарык</string>
     <string name="touchscreen_swipe_down_title">Правесці ўніз</string>
@@ -37,7 +35,6 @@
     <string name="user_aware_display_title">Інтэлектуальнае адкл. дысплея</string>
     <string name="user_aware_display_summary">Трымаць экран уключаным, пакуль карыстальнік знаходзіцца перад ім</string>
     <string name="ambient_display_summary_off">Не ўключаць экран пры атрыманні апавяшчэнняў</string>
-    <string name="ambient_display_always_on_summary">Паказваць час, значкі апавяшчэнняў і іншую інфармацыю. Павялічвае спажыванне акумулятара.</string>
     <string name="tilt_sensor_title">Датчык нахілу</string>
     <string name="proximity_sensor_title">Датчык набліжэння</string>
     <string name="hand_wave_gesture_flat_title">Выяўленне арыентацыі</string>
@@ -46,6 +43,7 @@
     <string name="pocket_gesture_summary">Адлюстроўваць апавяшчэнні пры выманні прылады з кішэні</string>
     <string name="actions_title">Дзеянні</string>
     <string name="device_gestures_panel_summary">Спецыяльныя жэсты прылады</string>
+    <string name="camera_gesture_title">Падвойнае кручэнне</string>
     <string name="chop_chop_gesture_title">Устрэсванне</string>
     <string name="hand_wave_silencer_title">Узмах для адключэння гуку</string>
     <string name="hand_wave_silencer_summary">Правядзіце рукой над экранам, каб прыглушыць гук уваходнага выкліку</string>
