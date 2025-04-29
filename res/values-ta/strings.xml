@@ -35,6 +35,7 @@
     <string name="touchscreen_w_gesture_summary">உலாவி பயன்பாட்டை திறக்க ஒரு \"W\" வரை</string>
     <string name="touchscreen_z_gesture_title">ஃபிளாஷ்லைட்</string>
     <string name="touchscreen_z_gesture_summary">ஃப்ளாஷ்லைட் நிலைமாறுவதற்கு ஒரு \"Z\" வரை</string>
+    <string name="touchscreen_flashlight_gesture_title">பளீர் ஒளிவிளக்கு </string>
     <string name="touchscreen_music_gesture_summary">இசை மறு இயக்கத்தைக் கட்டுப்படுத்த மெய்ப்பாடுகளைப் பயன்படுத்துக \n
     • இயக்க/இடைநிறுத்த கீழே தேய்க்கவும்\n
     • முந்தைய தடத்திற்கு இடப்பக்கமாகத் தேய்க்கவும்\n
