@@ -40,9 +40,7 @@
     <string name="hand_wave_gesture_flat_title">Выяўленне арыентацыі</string>
     <string name="pick_up_gesture_title">Падняць</string>
     <string name="pocket_gesture_title">Кішэнь</string>
-    <string name="pocket_gesture_summary">Адлюстроўваць апавяшчэнні пры выманні прылады з кішэні</string>
     <string name="actions_title">Дзеянні</string>
-    <string name="device_gestures_panel_summary">Спецыяльныя жэсты прылады</string>
     <string name="camera_gesture_title">Падвойнае кручэнне</string>
     <string name="chop_chop_gesture_title">Устрэсванне</string>
     <string name="hand_wave_silencer_title">Узмах для адключэння гуку</string>
@@ -50,7 +48,6 @@
     <string name="flip_to_mute_summary">Перавярніце тэлефон экранам уніз, каб адключыць гукі апавяшчэнняў і выклікаў</string>
     <string name="lift_to_silence_title">Падняць і прыглушыць</string>
     <string name="action_none">Адключыць</string>
-    <string name="action_launch_camera">Запуск камеры</string>
     <string name="feedback_intensity_title">Магутнасць вібраводгуку</string>
     <string name="feedback_intensity_none">Адключана</string>
     <string name="dialog_ok">ОК</string>
