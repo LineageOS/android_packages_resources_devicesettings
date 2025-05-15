@@ -36,6 +36,7 @@
     <string name="touchscreen_z_gesture_title">ஃபிளாஷ்லைட்</string>
     <string name="touchscreen_z_gesture_summary">ஃப்ளாஷ்லைட் நிலைமாறுவதற்கு ஒரு \"Z\" வரை</string>
     <string name="touchscreen_flashlight_gesture_title">பளீர் ஒளிவிளக்கு </string>
+    <string name="touchscreen_music_gesture_title">இசை</string>
     <string name="touchscreen_music_gesture_summary">இசை மறு இயக்கத்தைக் கட்டுப்படுத்த மெய்ப்பாடுகளைப் பயன்படுத்துக \n
     • இயக்க/இடைநிறுத்த கீழே தேய்க்கவும்\n
     • முந்தைய தடத்திற்கு இடப்பக்கமாகத் தேய்க்கவும்\n
@@ -43,6 +44,7 @@
     <string name="user_aware_display_title">பயனர்-அறிந்த காட்சி</string>
     <string name="user_aware_display_summary">பயனர் காட்சிக்கு முன் இருக்கும்போது திரையை ஆன்-இல் வைக்கவும்</string>
     <string name="ambient_display_title">தன்னிச்சையான திரைஒளிர்வமைப்பு</string>
+    <string name="ambient_display_enable_title">சூழல் காட்சியைப் பயன்படுத்துக</string>
     <string name="ambient_display_enable_summary">செய்திகள் பெறுகையில் திரையை இயக்கு</string>
     <string name="ambient_display_gestures_title">சூழல் காட்சி மெய்ப்பாடுகள்</string>
     <string name="ambient_display_gestures_summary">திரையை எழுப்பக் கூடுதல் மெய்ப்பாடுகள்</string>
