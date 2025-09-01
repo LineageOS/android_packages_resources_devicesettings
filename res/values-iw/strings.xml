@@ -25,23 +25,23 @@
     <string name="touchscreen_gesture_settings_summary">השתמש במחוות מגע שונות לפעולות מהירות</string>
     <string name="gesture_display_title">מחוות לכיבוי המסך</string>
     <string name="touchscreen_c_gesture_title">מצלמה</string>
-    <string name="touchscreen_c_gesture_summary">צייר \"C\" כדי להפעיל את המצלמה</string>
+    <string name="touchscreen_c_gesture_summary">יש לצייר \"C\" כדי להפעיל את המצלמה</string>
     <string name="touchscreen_e_gesture_title">דוא\"ל</string>
-    <string name="touchscreen_e_gesture_summary">צייר \"e\" להפעלת יישום הדוא\"ל</string>
+    <string name="touchscreen_e_gesture_summary">יש לצייר \"e\" להפעלת יישום הדוא\"ל</string>
     <string name="touchscreen_m_gesture_title">הודעות</string>
-    <string name="touchscreen_m_gesture_summary">צייר \"M\" לפתיחת יישום ההודעות</string>
+    <string name="touchscreen_m_gesture_summary">יש לצייר \"M\" לפתיחת יישום ההודעות</string>
     <string name="touchscreen_s_gesture_title">הודעות</string>
-    <string name="touchscreen_s_gesture_summary">צייר \"S\" להפעלת יישום ההודעות</string>
+    <string name="touchscreen_s_gesture_summary">יש לצייר \"S\" להפעלת יישום ההודעות</string>
     <string name="touchscreen_v_gesture_title">חייגן</string>
-    <string name="touchscreen_v_gesture_summary">צייר \"V\" לפתיחת החייגן</string>
+    <string name="touchscreen_v_gesture_summary">יש לצייר \"V\" לפתיחת החייגן</string>
     <string name="touchscreen_w_gesture_title">דפדפן</string>
-    <string name="touchscreen_w_gesture_summary">צייר \"W\" לפתיחת הדפדפן</string>
+    <string name="touchscreen_w_gesture_summary">יש לצייר \"W\" לפתיחת הדפדפן</string>
     <string name="touchscreen_z_gesture_title">פנס</string>
-    <string name="touchscreen_z_gesture_summary">צייר \"Z\" להפעלת/כיבוי הפנס</string>
+    <string name="touchscreen_z_gesture_summary">יש לצייר \"Z\" להפעלת/כיבוי הפנס</string>
     <string name="touchscreen_flashlight_gesture_title">פנס</string>
-    <string name="touchscreen_flashlight_gesture_summary">צייר עיגול להפעלת/כיבוי הפנס</string>
-    <string name="touchscreen_music_gesture_title">מוסיקה</string>
-    <string name="touchscreen_music_gesture_summary">השתמש במחוות כדי לשלוט בהשמעת המוזיקה\n
+    <string name="touchscreen_flashlight_gesture_summary">יש לצייר עיגול להחלפת מצב הפנס</string>
+    <string name="touchscreen_music_gesture_title">מוזיקה</string>
+    <string name="touchscreen_music_gesture_summary">שימוש במחוות כדי לשלוט בהשמעת המוזיקה\n
     • החלקה למטה להפעלה\השהייה\n
     • החלקה שמאלה לחזרה לרצועה הקודמת\n
     • החלקה ימינה למעבר לרצועה הבאה</string>
@@ -52,12 +52,15 @@
     <string name="user_aware_display_title">תצוגה מודעת-משתמש</string>
     <string name="user_aware_display_summary">השאר את המסך פעיל כאשר המשתמש נמצא מולו</string>
     <string name="ambient_display_title">תצוגת התראות עמומה</string>
+    <string name="ambient_display_enable_title">שימוש בתצוגה מותאמת לסביבה</string>
     <string name="ambient_display_enable_summary">הפעל את המסך בעת קבלת התראות</string>
     <string name="ambient_display_gestures_title">מחוות תצוגת התראות עמומה</string>
     <string name="ambient_display_gestures_summary">מחוות נוספות כדי להעיר את המסך</string>
     <string name="ambient_display_summary">הפעל את המסך כשמתקבלות התראות</string>
     <string name="ambient_display_summary_on">המסך יופעל כשמתקבלות התראות</string>
     <string name="ambient_display_summary_off">המסך לא יופעל כשמתקבלות התראות</string>
+    <string name="ambient_display_always_on_title">תמיד מופעל</string>
+    <string name="ambient_display_always_on_summary">הצגת זמן, סמלילי הודעות, ומידע נוסף. מגביר את צריכת הסוללה.</string>
     <string name="tilt_sensor_title">חיישן הטיה</string>
     <string name="pickup_sensor_title">חיישן הרמה</string>
     <string name="proximity_sensor_title">חיישן קרבה</string>
@@ -67,12 +70,15 @@
     <string name="hand_wave_gesture_flat_summary">הצג התראות רק אם המכשיר שוכב עם הפנים כלפי מעלה על משטח שטוח</string>
     <string name="pick_up_gesture_title">הרמה</string>
     <string name="pick_up_gesture_summary">הצג התראות בעת הרמה</string>
+    <string name="pick_up_wake_gesture_summary">הערת ההתקן בהרמתו</string>
     <string name="pocket_gesture_title">כיס</string>
     <string name="pocket_gesture_summary">הצג התראות בהוצאה מהכיס</string>
     <string name="proximity_wake_title">הפעלה בקירוב</string>
     <string name="proximity_wake_enable_title">הפעלה בקירוב</string>
-    <string name="proximity_wake_enable_summary">הער את המכשיר בנפנוף יד</string>
+    <string name="proximity_wake_enable_summary">להעיר את ההתקן בנפנוף יד</string>
     <string name="actions_title">פעולות</string>
+    <string name="device_gestures_panel_summary">מחווה ייחודית להתקן</string>
+    <string name="moto_gestures_panel_title">מחוות עבור מוטו</string>
     <string name="camera_gesture_title">סיבוב כפול</string>
     <string name="camera_gesture_summary">פתח מצלמה בעת השימוש במחוות הסיבוב הכפול</string>
     <string name="chop_chop_gesture_title">ניעור כפול</string>
@@ -111,4 +117,10 @@
     <string name="fingerprint_sleep_summary">לחץ על חיישן טביעת האצבע כדי לכבות את המסך</string>
     <string name="high_touch_sensitivity_title">רגישות גבוהה למגע</string>
     <string name="high_touch_sensitivity_summary">הגבר את רגישות מסך המגע כך שיהיה ניתן לשימוש בעת לבישת כפפות</string>
+    <string name="quick_charge_title">טעינה מהירה</string>
+    <string name="quick_charge_summary">החלפת טעינה מהירה. יש לחבר ולנתק את המטען לאחר שינוי הגדרה זו</string>
+    <string name="camera_focus_fix_title">תיקון פוקוס מצלמה</string>
+    <string name="camera_focus_fix_summary">לאפשר אם יש לך בעיות עם פוקוס המצלמה</string>
+    <string name="wake_on_gesture_title">התעוררות בעת מחוות</string>
+    <string name="wake_on_gesture_summary">הער את ההתקן במקום להציג התראות בעת אירוע מחוות</string>
 </resources>
