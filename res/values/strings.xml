@@ -77,6 +77,13 @@
     <string name="ambient_display_summary_off">Screen will not wake when you receive notifications</string>
     <string name="ambient_display_always_on_title">Always on</string>
     <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
+    <string name="doze_brightness_title">Always on brightness</string>
+    <string name="doze_brightness_summary">%s mode is enabled</string>
+    <string-array name="doze_brightness_level">
+        <item>Low brightness</item>
+        <item>High brightness</item>
+        <item>Adaptive brightness</item>
+    </string-array>
 
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Tilt sensor</string>
@@ -205,4 +212,13 @@
     <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
     <string name="popup_led_title">Camera LED</string>
     <string name="popup_led_summary">Enable LED light while the front camera appears and retracts</string>
+
+    <!-- Doze brightness -->
+    <string name="doze_brightness_title">Always on brightness</string>
+    <string name="doze_brightness_summary">%s mode is enabled</string>
+    <string-array name="doze_brightness_level">
+        <item>Low brightness</item>
+        <item>High brightness</item>
+        <item>Adaptive brightness</item>
+    </string-array>
 </resources>
