@@ -153,6 +153,7 @@
 
     <!-- Generic texts -->
     <string name="disabled">Disabled</string>
+    <string name="none">None</string>
 
     <!-- Help texts -->
     <string name="doze_settings_help_title">Help</string>
@@ -189,4 +190,18 @@
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+
+    <!-- Stylus -->
+    <string name="stylus_panel_title">Stylus</string>
+    <string name="stylus_panel_summary">Control stylus behavior</string>
+    <string name="stylus_removed_category_title">Stylus removed</string>
+    <string name="stylus_inserted_category_title">Stylus inserted</string>
+    <string name="stylus_screen_on_when_removed_title">Turn screen on</string>
+    <string name="stylus_screen_on_when_removed_summary">Turn the screen on when removing the stylus</string>
+    <string name="stylus_screen_off_when_inserted_title">Turn screen off</string>
+    <string name="stylus_screen_off_when_inserted_summary">Turn the screen off when inserting the stylus</string>
+    <string name="stylus_vibrate_title">Vibrate</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibrate when removing the stylus</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibrate when inserting the stylus</string>
+    <string name="stylus_launch_app_title">Launch app when removed</string>
 </resources>
