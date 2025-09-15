@@ -65,14 +65,14 @@
     <string name="pickup_sensor_title">חיישן הרמה</string>
     <string name="proximity_sensor_title">חיישן קרבה</string>
     <string name="hand_wave_gesture_title">נפנוף יד</string>
-    <string name="hand_wave_gesture_summary">הצג התראות בנפנוף יד</string>
+    <string name="hand_wave_gesture_summary">הצגת התראות פעימה בנפנוף יד</string>
     <string name="hand_wave_gesture_flat_title">זהה כיוון</string>
-    <string name="hand_wave_gesture_flat_summary">הצג התראות רק אם המכשיר שוכב עם הפנים כלפי מעלה על משטח שטוח</string>
+    <string name="hand_wave_gesture_flat_summary">התראת פעימה רק אם ההתקן מונח עם הפנים כלפי מעלה על משטח שטוח</string>
     <string name="pick_up_gesture_title">הרמה</string>
-    <string name="pick_up_gesture_summary">הצג התראות בעת הרמה</string>
+    <string name="pick_up_gesture_summary">הצגת התראות פעימה בעת הרמה</string>
     <string name="pick_up_wake_gesture_summary">הערת ההתקן בהרמתו</string>
     <string name="pocket_gesture_title">כיס</string>
-    <string name="pocket_gesture_summary">הצג התראות בהוצאה מהכיס</string>
+    <string name="pocket_gesture_summary">הצגת התראות פעימה בהוצאה מהכיס</string>
     <string name="proximity_wake_title">הפעלה בקירוב</string>
     <string name="proximity_wake_enable_title">הפעלה בקירוב</string>
     <string name="proximity_wake_enable_summary">להעיר את ההתקן בנפנוף יד</string>
@@ -102,7 +102,7 @@
     <string name="dialog_ok">אישור</string>
     <string name="disabled">מושבת</string>
     <string name="doze_settings_help_title">עזרה</string>
-    <string name="doze_settings_help_text">התכונות נעזרות בחיישנים כדי להפעיל את נורית ההתראות עם Doze. החיישן הנבחר מופעל רק כאשר המכשיר מקבל התראה, מה שעוזר להקטין את השימוש בסוללה. בנוסף, ישנה אפשרות להפעיל את החיישן הנבחר ברגע שהמסך נכבה, מה שעלול לגרום לשימוש רב יותר בסוללה.</string>
+    <string name="doze_settings_help_text">תכונות אלו משתמשות באירועי חיישנים כדי להפעיל פעימת התראה במצב Doze. החיישן שנבחר מופעל רק כאשר ההתקן מקבל התראה, דבר המסייע להפחתת צריכת הסוללה. קיימת גם אפשרות להפעיל את החיישן מיד עם כיבוי המסך, אך פעולה זו תגרום לצריכת סוללה גבוהה יותר.</string>
     <string name="button_panel_title">מקשים נוספים</string>
     <string name="button_swap_title">החלף בין מקשים</string>
     <string name="button_swap_summary">החלף בין המקש \"חזור\" ל\"אחרונים\"</string>
