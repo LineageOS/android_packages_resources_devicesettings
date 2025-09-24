@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Magas</string>
     <string name="dialog_ok">Rendben</string>
     <string name="disabled">Letiltva</string>
+    <string name="none">Egy sem</string>
     <string name="doze_settings_help_title">Súgó</string>
     <string name="doze_settings_help_text">Ezen funkció az érzékelő eseményeket használja a környezeti kijelző értesítési impulzusaihoz. A választott érzékelő csak akkor engedélyezett, ha a készülék értesítést kap, ez segít csökkenteni az akkumulátor használatát. Lehetőség van a választott érzékelő engedélyezésére is, amint a képernyő kikapcsol, de ez nagyobb akkumulátor használatot jelent.</string>
     <string name="button_panel_title">További gombok</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Akkor engedélyezze ezt, ha a készülék kamerája nem képes fókuszálni</string>
     <string name="wake_on_gesture_title">Felébresztés kézmozdulatokkal</string>
     <string name="wake_on_gesture_summary">A mozdulatérzékelő impulzus-értesítések helyett ébressze fel a készüléket</string>
+    <string name="stylus_panel_title">Toll</string>
+    <string name="stylus_panel_summary">A toll viselkedésének szabályozása</string>
+    <string name="stylus_removed_category_title">Toll eltávolítva</string>
+    <string name="stylus_inserted_category_title">Toll beillesztve</string>
+    <string name="stylus_screen_on_when_removed_title">Képernyő bekapcsolása</string>
+    <string name="stylus_screen_on_when_removed_summary">Ha a toll eltávolításra kerül, a képernyő bekapcsol</string>
+    <string name="stylus_screen_off_when_inserted_title">Képernyő kikapcsolása</string>
+    <string name="stylus_screen_off_when_inserted_summary">Ha a toll beillesztésre kerül, a képernyő kikapcsol</string>
+    <string name="stylus_vibrate_title">Rezgés</string>
+    <string name="stylus_vibrate_when_removed_summary">Ha a toll eltávolításra kerül, rezeg</string>
+    <string name="stylus_vibrate_when_inserted_summary">Ha a toll beillesztésre kerül, rezeg</string>
+    <string name="stylus_launch_app_title">Eltávolításkor alkalmazás indítása</string>
 </resources>

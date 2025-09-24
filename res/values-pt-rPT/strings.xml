@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Desativada</string>
+    <string name="none">Nenhum</string>
     <string name="doze_settings_help_title">Ajuda</string>
     <string name="doze_settings_help_text">Estes recursos utilizam eventos de sensores para mostrarem notificações enquanto o dispositivo está em repouso. O sensor escolhido só é ativado quando o dispositivo recebe uma notificação, o que ajuda a reduzir a utilização da bateria. Há também uma opção para ativar o sensor escolhido assim que o ecrã se desliga, o que resultará numa maior utilização da bateria.</string>
     <string name="button_panel_title">Botões adicionais</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Ative se tiver problemas com a focagem da câmara</string>
     <string name="wake_on_gesture_title">Acordar com gestos</string>
     <string name="wake_on_gesture_summary">Acordar o dispositivo em vez de mostrar as notificações ao usar os gestos</string>
+    <string name="stylus_panel_title">Caneta</string>
+    <string name="stylus_panel_summary">Controlar o comportamento da caneta</string>
+    <string name="stylus_removed_category_title">Caneta removida</string>
+    <string name="stylus_inserted_category_title">Caneta inserida</string>
+    <string name="stylus_screen_on_when_removed_title">Ligar o ecrã</string>
+    <string name="stylus_screen_on_when_removed_summary">Ligar o ecrã ao remover a caneta</string>
+    <string name="stylus_screen_off_when_inserted_title">Desligar o ecrã</string>
+    <string name="stylus_screen_off_when_inserted_summary">Desligar o ecrã ao inserir a caneta</string>
+    <string name="stylus_vibrate_title">Vibrar</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibrar ao temover a caneta</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibrar ao inserir a caneta</string>
+    <string name="stylus_launch_app_title">Iniciar aplicação ao remover</string>
 </resources>

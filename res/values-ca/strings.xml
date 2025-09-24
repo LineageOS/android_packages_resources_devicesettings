@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">D\'ACORD</string>
     <string name="disabled">Desactivat</string>
+    <string name="none">Cap</string>
     <string name="doze_settings_help_title">Ajuda</string>
     <string name="doze_settings_help_text">Aquestes característiques utilitzen esdeveniments dels sensors per llançar una notificació latent. El sensor escollit només serà habilitat quan el dispositiu rebi una notificació, això ajuda a reduir l\'ús de la bateria. També hi ha una opció per habilitar el sensor escollit tan aviat com s\'apagui la pantalla, això causarà un major ús de la bateria.</string>
     <string name="button_panel_title">Botons addicionals</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Activeu-lo si teniu problemes amb la focalització de la càmera</string>
     <string name="wake_on_gesture_title">Desperta amb gestos</string>
     <string name="wake_on_gesture_summary">Desperta el dispositiu en lloc de mostrar notificacions en realitzar gestos</string>
+    <string name="stylus_panel_title">Llapis òptic</string>
+    <string name="stylus_panel_summary">Controla el comportament del llapis òptic</string>
+    <string name="stylus_removed_category_title">S\'ha tret el llapis òptic</string>
+    <string name="stylus_inserted_category_title">S\'ha inserit el llapis òptic</string>
+    <string name="stylus_screen_on_when_removed_title">Encén la pantalla</string>
+    <string name="stylus_screen_on_when_removed_summary">Encén la pantalla en treure el llapis òptic</string>
+    <string name="stylus_screen_off_when_inserted_title">Apaga la pantalla</string>
+    <string name="stylus_screen_off_when_inserted_summary">Apaga la pantalla en inserir el llapis òptic</string>
+    <string name="stylus_vibrate_title">Vibra</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibra en treure el llapis òptic</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibra en inserir el llapis òptic</string>
+    <string name="stylus_launch_app_title">Inicia l\'aplicació en treure\'l</string>
 </resources>

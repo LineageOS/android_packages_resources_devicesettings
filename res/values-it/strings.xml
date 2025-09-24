@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Disattivato</string>
+    <string name="none">Non fare nulla</string>
     <string name="doze_settings_help_title">Guida</string>
     <string name="doze_settings_help_text">Queste funzioni utilizzano i sensori per mostrare le notifiche. Il sensore selezionato verrà attivato solo quando il dispositivo riceve una notifica, questo consentirà di ridurre l\'utilizzo della batteria. È anche possibile attivare il sensore selezionato appena lo schermo si spegne, ma ciò comporterà ad un utilizzo maggiore della batteria.</string>
     <string name="button_panel_title">Pulsanti aggiuntivi</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Attiva se stai avendo problemi con la messa a fuoco della fotocamera</string>
     <string name="wake_on_gesture_title">Gesture di risveglio</string>
     <string name="wake_on_gesture_summary">Risveglia il dispositivo invece di mostrare le notifiche quando si effettuano delle gesture</string>
+    <string name="stylus_panel_title">Stilo</string>
+    <string name="stylus_panel_summary">Modifica il comportamento dello stilo</string>
+    <string name="stylus_removed_category_title">Stilo estratto</string>
+    <string name="stylus_inserted_category_title">Stilo inserito</string>
+    <string name="stylus_screen_on_when_removed_title">Accendi lo schermo</string>
+    <string name="stylus_screen_on_when_removed_summary">Accendi lo schermo quando estrai lo stilo</string>
+    <string name="stylus_screen_off_when_inserted_title">Spegni lo schermo</string>
+    <string name="stylus_screen_off_when_inserted_summary">Spegni lo schermo quando si inserisce lo stilo</string>
+    <string name="stylus_vibrate_title">Vibra</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibra quando estrai lo stilo</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibra quando inserisci lo stilo</string>
+    <string name="stylus_launch_app_title">Avvia app quando estrai lo stilo</string>
 </resources>

@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">يۇقىرى</string>
     <string name="dialog_ok">جەزملە</string>
     <string name="disabled">چەكلەنگەن</string>
+    <string name="none">يوق</string>
     <string name="doze_settings_help_title">ياردەم</string>
     <string name="doze_settings_help_text">بۇ ئىقتىدار سەزگۈچ پائالىيىتىنى ئىشلىتىپ نۇرغۇن ئۇقتۇرۇشنى قوزغىتىدۇ. تاللانغان سەزگۈچ پەقەت ئۇقتۇرۇش تاپشۇرۇۋالغاندىلا قوزغىتىلىدۇ، بۇنداق بولغاندا توكدان ئىشلىتىلىشىنى ئازايتىشقا ياردەم بېرىدۇ. ئېكران تاقالغان ھامانلا قوزغىتىش تاللانمىسىمۇ بار، بۇ توكداننىڭ ئىشلىتىلىشىنى تېخىمۇ ئۆرلىتىۋېتىدۇ.</string>
     <string name="button_panel_title">قوشۇمچە توپچە</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">ئەگەر كامېرادا فوكۇسنى توغرىلاش مەسىلىسى بولسا قوزغىتىش كېرەك</string>
     <string name="wake_on_gesture_title">قول ئىشارىتىدە ئويغات</string>
     <string name="wake_on_gesture_summary">قول ئىشارىتى ئارقىلىق ئۇقتۇرۇش يوللاشنىڭ ئورنىغا ئۈسكۈنىنى ئويغىتىدۇ</string>
+    <string name="stylus_panel_title">قەلەم</string>
+    <string name="stylus_panel_summary">چەكمە قەلەم مەشغۇلاتىنى تىزگىنلەيدۇ</string>
+    <string name="stylus_removed_category_title">قەلەم چىقىرىۋېتىلدى</string>
+    <string name="stylus_inserted_category_title">قەلەم قىستۇرۇلدى</string>
+    <string name="stylus_screen_on_when_removed_title">ئېكراننى ئاچ</string>
+    <string name="stylus_screen_on_when_removed_summary">قەلەمنى چىقىرىۋاتقاندا ئېكراننى ئاچىدۇ</string>
+    <string name="stylus_screen_off_when_inserted_title">ئېكراننى تاقا</string>
+    <string name="stylus_screen_off_when_inserted_summary">قەلەمنى قىستۇرۇۋاتقاندا ئېكراننى تاقايدۇ</string>
+    <string name="stylus_vibrate_title">تىترەت</string>
+    <string name="stylus_vibrate_when_removed_summary">قەلەمنى چىقىرىۋاتقاندا تىترىتىدۇ</string>
+    <string name="stylus_vibrate_when_inserted_summary">قەلەمنى قىستۇرۇۋاتقاندا تىترىتىدۇ</string>
+    <string name="stylus_launch_app_title">چىقىرىۋەتكەندە ئەپنى قوزغىتىدۇ</string>
 </resources>

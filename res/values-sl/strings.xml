@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Visoka</string>
     <string name="dialog_ok">V redu</string>
     <string name="disabled">Onemogočeno</string>
+    <string name="none">Brez</string>
     <string name="doze_settings_help_title">Pomoč</string>
     <string name="doze_settings_help_text">Te funkcije uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
     <string name="button_panel_title">Dodatni gumbi</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Omogočite, če imate težave z ostrenjem fotoaparata</string>
     <string name="wake_on_gesture_title">Zbudi ob potezah</string>
     <string name="wake_on_gesture_summary">Zbudi napravo namesto utripajočih obvestil ob dogodkih potez</string>
+    <string name="stylus_panel_title">Pisalo</string>
+    <string name="stylus_panel_summary">Upravljajte obnašanje pisala</string>
+    <string name="stylus_removed_category_title">Pisalo odstranjeno</string>
+    <string name="stylus_inserted_category_title">Pisalo vstavljeno</string>
+    <string name="stylus_screen_on_when_removed_title">Vklopi zaslon</string>
+    <string name="stylus_screen_on_when_removed_summary">Vklopi zaslon ob odstranjevanju pisala</string>
+    <string name="stylus_screen_off_when_inserted_title">Izklopi zaslon</string>
+    <string name="stylus_screen_off_when_inserted_summary">Izklopi zaslon ob vstavljanju pisala</string>
+    <string name="stylus_vibrate_title">Vibriraj</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibriraj  ob odstranjevanju pisala</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibriraj ob vstavljanju pisala</string>
+    <string name="stylus_launch_app_title">Zaženi aplikacijo ob odstranitvi</string>
 </resources>
