@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Ridicată</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Dezactivat</string>
+    <string name="none">Nimic</string>
     <string name="doze_settings_help_title">Ajutor</string>
     <string name="doze_settings_help_text">Aceste caracteristici utilizează evenimentele senzorilor pentru a lansa pulsul notificărilor doze. Senzorul ales este pornit numai când dispozitivul a primit o notificare, asta ajutând la reducerea utilizării bateriei. De asemenea, există o opțiune pentru a activa senzorul ales de îndată ce ecranul se stinge, asta cauzând o utilizare a bateriei mai mare.</string>
     <string name="button_panel_title">Butoane suplimentare</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Activați în cazul în care aveți probleme la focalizare</string>
     <string name="wake_on_gesture_title">Trezire la gesturi</string>
     <string name="wake_on_gesture_summary">Trezește dispozitivul în loc să pulseze notificările în cazul gesturilor</string>
+    <string name="stylus_panel_title">Stilou</string>
+    <string name="stylus_panel_summary">Controlează comportament stilou</string>
+    <string name="stylus_removed_category_title">Stilou scos</string>
+    <string name="stylus_inserted_category_title">Stilou introdus</string>
+    <string name="stylus_screen_on_when_removed_title">Pornește ecranul</string>
+    <string name="stylus_screen_on_when_removed_summary">Porniți ecranul atunci când scoateți stiloul</string>
+    <string name="stylus_screen_off_when_inserted_title">Oprește ecranul</string>
+    <string name="stylus_screen_off_when_inserted_summary">Oprește ecranul când se introduce stiloul</string>
+    <string name="stylus_vibrate_title">Vibrație</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibrează la scoaterea stiloului</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibrează la introducerea stiloului</string>
+    <string name="stylus_launch_app_title">Lansează o aplicație când este scos</string>
 </resources>

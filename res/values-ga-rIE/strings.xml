@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Ard</string>
     <string name="dialog_ok">Ceart go leor</string>
     <string name="disabled">Díchumasaithe</string>
+    <string name="none">Dada</string>
     <string name="doze_settings_help_title">Cabhrú</string>
     <string name="doze_settings_help_text">Úsáideann na gnéithe seo imeachtaí braite chun buille fógra doze a sheoladh. Níl an braiteoir roghnaithe cumasaithe ach amháin nuair a fhaigheann an gléas fógra, cabhraíonn sé seo le húsáid ceallraí a laghdú. Tá rogha ann freisin an braiteoir roghnaithe a chumasú chomh luath agus a mhúchadh an scáileán, beidh sé seo ina chúis le húsáid ceallraí níos airde.</string>
     <string name="button_panel_title">Cnaipí breise</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Cumasaigh má tá fadhbanna agat leis nach bhfuil an ceamara ag díriú</string>
     <string name="wake_on_gesture_title">Múscail ar gothaí</string>
     <string name="wake_on_gesture_summary">Múscail an gléas in ionad fógraí a bhrú ar imeachtaí gothaí</string>
+    <string name="stylus_panel_title">Stíleas</string>
+    <string name="stylus_panel_summary">Rialú iompair an stíleas</string>
+    <string name="stylus_removed_category_title">Stíleas bainte</string>
+    <string name="stylus_inserted_category_title">Stíleas curtha isteach</string>
+    <string name="stylus_screen_on_when_removed_title">Cas an scáileán air</string>
+    <string name="stylus_screen_on_when_removed_summary">Cas an scáileán air nuair a bhaintear an stíleas</string>
+    <string name="stylus_screen_off_when_inserted_title">Múch an scáileán</string>
+    <string name="stylus_screen_off_when_inserted_summary">Múch an scáileán agus an stíleas á chur isteach agat</string>
+    <string name="stylus_vibrate_title">Creathadh</string>
+    <string name="stylus_vibrate_when_removed_summary">Creathadh agus an stíl á bhaint</string>
+    <string name="stylus_vibrate_when_inserted_summary">Creathadh nuair a chuirtear an stíleas isteach</string>
+    <string name="stylus_launch_app_title">Seoladh an aip nuair a bhaintear í</string>
 </resources>
