@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">強い</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">無効</string>
+    <string name="none">なし</string>
     <string name="doze_settings_help_title">ヘルプ</string>
     <string name="doze_settings_help_text">これらの機能は、Doze通知点滅表示を起動するためにセンサーイベントを使用します。電池の使用量を削減するために、端末が通知を受信した時にのみ選択したセンサーが有効になります。画面を消灯した直後から選択したセンサーを有効にするオプションもありますが、電池の使用量が多くなります。</string>
     <string name="button_panel_title">追加のボタン</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">カメラのフォーカスに問題がある場合は有効にしてください</string>
     <string name="wake_on_gesture_title">ジェスチャーでスリープを解除する</string>
     <string name="wake_on_gesture_summary">ジェスチャー動作によって通知を点滅表示させる代わりに端末を復帰させます</string>
+    <string name="stylus_panel_title">スタイラス</string>
+    <string name="stylus_panel_summary">スタイラスの動作を制御します</string>
+    <string name="stylus_removed_category_title">スタイラスの取り出し</string>
+    <string name="stylus_inserted_category_title">スタイラスを挿入</string>
+    <string name="stylus_screen_on_when_removed_title">画面を点灯</string>
+    <string name="stylus_screen_on_when_removed_summary">スタイラスを取り出したときに画面を点灯します</string>
+    <string name="stylus_screen_off_when_inserted_title">画面を消灯</string>
+    <string name="stylus_screen_off_when_inserted_summary">スタイラスの挿入時に画面を消灯します</string>
+    <string name="stylus_vibrate_title">バイブ</string>
+    <string name="stylus_vibrate_when_removed_summary">スタイラスを取り出したときに振動させます</string>
+    <string name="stylus_vibrate_when_inserted_summary">スタイラスを挿入したときに振動させます</string>
+    <string name="stylus_launch_app_title">取り出し時にアプリを起動</string>
 </resources>

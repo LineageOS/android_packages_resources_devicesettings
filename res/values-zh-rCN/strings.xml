@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">高</string>
     <string name="dialog_ok">确定</string>
     <string name="disabled">已禁用</string>
+    <string name="none">无</string>
     <string name="doze_settings_help_title">帮助</string>
     <string name="doze_settings_help_text">这些功能使用传感器事件来启用打盹通知指示灯。所选的传感器仅在设备收到通知时启用，这有助于降低电池消耗。还有一个选项是在屏幕关闭后马上启用所选的传感器，这会消耗更多的电量。</string>
     <string name="button_panel_title">更多按键</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">如果您的相机对焦有问题，请启用此项</string>
     <string name="wake_on_gesture_title">手势唤醒</string>
     <string name="wake_on_gesture_summary">通过手势事件唤醒设备而不是推送通知</string>
+    <string name="stylus_panel_title">触控笔</string>
+    <string name="stylus_panel_summary">控制触控笔行为</string>
+    <string name="stylus_removed_category_title">触控笔已移除</string>
+    <string name="stylus_inserted_category_title">触控笔已插入</string>
+    <string name="stylus_screen_on_when_removed_title">点亮屏幕</string>
+    <string name="stylus_screen_on_when_removed_summary">在移除触控笔时点亮屏幕</string>
+    <string name="stylus_screen_off_when_inserted_title">关闭屏幕</string>
+    <string name="stylus_screen_off_when_inserted_summary">在插入触控笔时关闭屏幕</string>
+    <string name="stylus_vibrate_title">振动</string>
+    <string name="stylus_vibrate_when_removed_summary">在移除触控笔时振动</string>
+    <string name="stylus_vibrate_when_inserted_summary">在插入触控笔时振动</string>
+    <string name="stylus_launch_app_title">移除后启动应用</string>
 </resources>
