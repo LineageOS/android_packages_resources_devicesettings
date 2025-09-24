@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Yüksək</string>
     <string name="dialog_ok">Oldu</string>
     <string name="disabled">Sıradan çıxarıldı</string>
+    <string name="none">Yoxdur</string>
     <string name="doze_settings_help_title">Kömək</string>
     <string name="doze_settings_help_text">Bu özəllik bildiriş ekranını başlatmaq üçün sensorları istifadə edir. Seçilmiş sensor yalnız cihaz bildiriş alanda fəallaşır, batareya istifadəsini azaltmağa kömək edər. Ekran sönəndə seçilmiş sensoru fəal etmək üçün bir seçim də var, ancaq bu daha çox batereya istifadəsinə səbəb ola bilər.</string>
     <string name="button_panel_title">Əlavə düymələr</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Kameranın fokuslanması ilə bağlı problem yaşayırsınızsa bunu fəallaşdırın</string>
     <string name="wake_on_gesture_title">Jestlərlə oyandırın</string>
     <string name="wake_on_gesture_summary">Jest tədbirlərində titrəyən bildirişlər əvəzinə cihazı oynadırın</string>
+    <string name="stylus_panel_title">Qələm</string>
+    <string name="stylus_panel_summary">Qələm davranışına nəzarət</string>
+    <string name="stylus_removed_category_title">Qələm çıxarıldı</string>
+    <string name="stylus_inserted_category_title">Qələm taxıldı</string>
+    <string name="stylus_screen_on_when_removed_title">Ekranı yandır</string>
+    <string name="stylus_screen_on_when_removed_summary">Qələm çıxarılan zaman ekran yandır</string>
+    <string name="stylus_screen_off_when_inserted_title">Ekranı söndür</string>
+    <string name="stylus_screen_off_when_inserted_summary">Qələm taxılan zaman ekranı söndür</string>
+    <string name="stylus_vibrate_title">Titrət</string>
+    <string name="stylus_vibrate_when_removed_summary">Qələm çıxarılan zaman titrət</string>
+    <string name="stylus_vibrate_when_inserted_summary">Qələm taxılan zaman titrət</string>
+    <string name="stylus_launch_app_title">Çıxarılan zaman tətbiqi başlat</string>
 </resources>

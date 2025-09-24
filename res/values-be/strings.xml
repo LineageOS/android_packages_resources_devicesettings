@@ -30,6 +30,9 @@
     <string name="touchscreen_z_gesture_title">Ліхтарык</string>
     <string name="touchscreen_flashlight_gesture_title">Ліхтарык</string>
     <string name="touchscreen_flashlight_gesture_summary">Намалюйце круг, каб уключыць або выключыць ліхтарык</string>
+    <string name="touchscreen_music_gesture_title">Музыка</string>
+    <string name="touchscreen_swipe_up_title">Правесці ўверх</string>
+    <string name="touchscreen_swipe_right_title">Правесці ўправа</string>
     <string name="touchscreen_swipe_down_title">Правесці ўніз</string>
     <string name="touchscreen_swipe_left_title">Правесці ўлева</string>
     <string name="user_aware_display_title">Інтэлектуальнае адкл. дысплея</string>
@@ -48,6 +51,7 @@
     <string name="flip_to_mute_summary">Перавярніце тэлефон экранам уніз, каб адключыць гукі апавяшчэнняў і выклікаў</string>
     <string name="lift_to_silence_title">Падняць і прыглушыць</string>
     <string name="action_none">Адключыць</string>
+    <string name="action_torch">Ліхтарык</string>
     <string name="feedback_intensity_title">Магутнасць вібраводгуку</string>
     <string name="feedback_intensity_none">Адключана</string>
     <string name="dialog_ok">ОК</string>
