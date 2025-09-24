@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Wysoka</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Wyłączono</string>
+    <string name="none">Brak</string>
     <string name="doze_settings_help_title">Pomoc</string>
     <string name="doze_settings_help_text">Te funkcje używają czujników, aby pokazywać powiadomienia tylko w odpowiednim momencie. Czujniki są wykorzystywane, kiedy telefon odbierze powiadomienie. Pomaga to w oszczędzaniu baterii. Istnieje również możliwość, aby włączyć wybrany czujnik zaraz po wyłączeniu ekranu, spowoduje to większe zużycie baterii.</string>
     <string name="button_panel_title">Dodatkowe przyciski</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Włącz, jeśli masz problemy z ustawieniem ostrości</string>
     <string name="wake_on_gesture_title">Wybudzaj za pomocą gestów</string>
     <string name="wake_on_gesture_summary">Wybudzaj urządzenie, zamiast pulsować podczas gestów</string>
+    <string name="stylus_panel_title">Rysik</string>
+    <string name="stylus_panel_summary">Kontrola działania rysika</string>
+    <string name="stylus_removed_category_title">Usunięto rysik</string>
+    <string name="stylus_inserted_category_title">Włożono rysik</string>
+    <string name="stylus_screen_on_when_removed_title">Włącz ekran</string>
+    <string name="stylus_screen_on_when_removed_summary">Wyjmowania rysika załącza ekran</string>
+    <string name="stylus_screen_off_when_inserted_title">Wyłącz ekran</string>
+    <string name="stylus_screen_off_when_inserted_summary">Wkładanie rysika wyłącza ekran</string>
+    <string name="stylus_vibrate_title">Wibruj</string>
+    <string name="stylus_vibrate_when_removed_summary">Wibracje podczas wyjmowania rysika</string>
+    <string name="stylus_vibrate_when_inserted_summary">Wibracje podczas wkładania rysika</string>
+    <string name="stylus_launch_app_title">Uruchamiaj aplikację po wyjęciu</string>
 </resources>

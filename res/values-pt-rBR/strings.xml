@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Desativado</string>
+    <string name="none">Nenhum</string>
     <string name="doze_settings_help_title">Ajuda</string>
     <string name="doze_settings_help_text">Esses recursos monitoram o sensor para que o dispositivo possa pulsar notificações enquanto está em repouso. O sensor escolhido só é ativado quando o dispositivo recebe uma notificação, isso ajuda a reduzir o uso de bateria. Há também uma opção para ativar o sensor escolhido assim que a tela desliga, isso causará o maior uso da bateria.</string>
     <string name="button_panel_title">Botões adicionais</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Ative se você tiver problemas com o foco da câmera</string>
     <string name="wake_on_gesture_title">Acordar com gestos</string>
     <string name="wake_on_gesture_summary">Ative o dispositivo em vez de pulsar notificações em eventos de gestos</string>
+    <string name="stylus_panel_title">Caneta</string>
+    <string name="stylus_panel_summary">Controle o comportamento da caneta</string>
+    <string name="stylus_removed_category_title">Caneta removida</string>
+    <string name="stylus_inserted_category_title">Caneta inserida</string>
+    <string name="stylus_screen_on_when_removed_title">Ligar a tela</string>
+    <string name="stylus_screen_on_when_removed_summary">Ligue a tela ao remover a caneta</string>
+    <string name="stylus_screen_off_when_inserted_title">Desligar a tela</string>
+    <string name="stylus_screen_off_when_inserted_summary">Desligue a tela ao inserir a caneta</string>
+    <string name="stylus_vibrate_title">Vibrar</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibre ao remover a caneta</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibre ao remover a caneta</string>
+    <string name="stylus_launch_app_title">Abrir app ao remover</string>
 </resources>
