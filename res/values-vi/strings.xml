@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Cao</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Đã tắt</string>
+    <string name="none">Không</string>
     <string name="doze_settings_help_title">Trợ giúp</string>
     <string name="doze_settings_help_text">Các tính năng này sử dụng các sự kiện cảm biến để khởi chạy kích hoạt một thông báo doze. Các cảm biến được chọn chỉ được kích hoạt khi thiết bị nhận một thông báo, điều này giúp giảm thiểu việc sử dụng pin. Ngoài ra còn có một tùy chọn để kích hoạt các cảm biến được chọn ngay khi màn hình tắt, điều này sẽ gây ra việc sử dụng pin cao hơn.</string>
     <string name="button_panel_title">Nút bổ sung</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Bật nếu camera không thể lấy nét</string>
     <string name="wake_on_gesture_title">Đánh thức bằng cử chỉ</string>
     <string name="wake_on_gesture_summary">Đánh thức thiết bị thay vì phát xung thông báo về các sự kiện cử chỉ</string>
+    <string name="stylus_panel_title">Bút stylus</string>
+    <string name="stylus_panel_summary">Kiểm soát hành vi của bút stylus</string>
+    <string name="stylus_removed_category_title">Bút stylus đã được tháo bỏ</string>
+    <string name="stylus_inserted_category_title">Bút stylus được gắn vào</string>
+    <string name="stylus_screen_on_when_removed_title">Bật màn hình</string>
+    <string name="stylus_screen_on_when_removed_summary">Bật màn hình khi tháo bút stylus</string>
+    <string name="stylus_screen_off_when_inserted_title">Tắt màn hình</string>
+    <string name="stylus_screen_off_when_inserted_summary">Tắt màn hình khi gắn bút stylus</string>
+    <string name="stylus_vibrate_title">Rung</string>
+    <string name="stylus_vibrate_when_removed_summary">Rung khi tháo bút stylus</string>
+    <string name="stylus_vibrate_when_inserted_summary">Rung khi gắn bút stylus</string>
+    <string name="stylus_launch_app_title">Khởi chạy ứng dụng khi tháo bút stylus</string>
 </resources>

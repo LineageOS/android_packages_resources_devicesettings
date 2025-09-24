@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">High</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Disabled</string>
+    <string name="none">None</string>
     <string name="doze_settings_help_title">Help</string>
     <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
     <string name="button_panel_title">Additional buttons</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Enable if you have issues with the camera not focusing</string>
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+    <string name="stylus_panel_title">Stylus</string>
+    <string name="stylus_panel_summary">Control stylus behaviour</string>
+    <string name="stylus_removed_category_title">Stylus removed</string>
+    <string name="stylus_inserted_category_title">Stylus inserted</string>
+    <string name="stylus_screen_on_when_removed_title">Turn screen on</string>
+    <string name="stylus_screen_on_when_removed_summary">Turn the screen on when removing the stylus</string>
+    <string name="stylus_screen_off_when_inserted_title">Turn screen off</string>
+    <string name="stylus_screen_off_when_inserted_summary">Turn the screen off when inserting the stylus</string>
+    <string name="stylus_vibrate_title">Vibrate</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibrate when removing the stylus</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibrate when inserting the stylus</string>
+    <string name="stylus_launch_app_title">Launch app when removed</string>
 </resources>
