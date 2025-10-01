@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Desactivada</string>
+    <string name="none">Ninguno</string>
     <string name="doze_settings_help_title">Ayuda</string>
     <string name="doze_settings_help_text">Estas funciones usan eventos de los sensores para emitir un pulso de notificación Doze. El sensor elegido solo se activa cuando el dispositivo recibe una notificación, lo que ayuda a reducir el consumo de batería. También hay una opción para activar el sensor elegido tan pronto como la pantalla se apaga, esto causará un mayor uso de la batería.</string>
     <string name="button_panel_title">Botones adicionales</string>
@@ -123,4 +124,15 @@
     <string name="camera_focus_fix_summary">Actívalo si hay problemas con el enfoque de la cámara</string>
     <string name="wake_on_gesture_title">Despertar con gestos</string>
     <string name="wake_on_gesture_summary">Despierta el dispositivo en lugar de mostrar notificaciones al realizar gestos</string>
+    <string name="stylus_panel_title">Lápiz óptico</string>
+    <string name="stylus_panel_summary">Controlar el comportamiento del lápiz óptico</string>
+    <string name="stylus_removed_category_title">Lápiz óptico retirado</string>
+    <string name="stylus_inserted_category_title">Lápiz óptico insertado</string>
+    <string name="stylus_screen_on_when_removed_title">Encender la pantalla</string>
+    <string name="stylus_screen_off_when_inserted_title">Apagar la pantalla</string>
+    <string name="stylus_screen_off_when_inserted_summary">Apagar la pantalla cuando se inserte el lápiz óptico</string>
+    <string name="stylus_vibrate_title">Vibrar</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibrar cuando se retire el lápiz óptico</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibrar cuando se inserte el lápiz óptico</string>
+    <string name="stylus_launch_app_title">Iniciar aplicación al retirar</string>
 </resources>
