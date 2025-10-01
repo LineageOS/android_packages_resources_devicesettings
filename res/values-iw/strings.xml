@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">חזק</string>
     <string name="dialog_ok">אישור</string>
     <string name="disabled">מושבת</string>
+    <string name="none">ללא</string>
     <string name="doze_settings_help_title">עזרה</string>
     <string name="doze_settings_help_text">תכונות אלו משתמשות באירועי חיישנים כדי להפעיל פעימת התראה במצב Doze. החיישן שנבחר מופעל רק כאשר ההתקן מקבל התראה, דבר המסייע להפחתת צריכת הסוללה. קיימת גם אפשרות להפעיל את החיישן מיד עם כיבוי המסך, אך פעולה זו תגרום לצריכת סוללה גבוהה יותר.</string>
     <string name="button_panel_title">מקשים נוספים</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">לאפשר אם יש לך בעיות עם פוקוס המצלמה</string>
     <string name="wake_on_gesture_title">התעוררות בעת מחוות</string>
     <string name="wake_on_gesture_summary">הער את ההתקן במקום להציג התראות בעת אירוע מחוות</string>
+    <string name="stylus_panel_title">עט אלקטרוני</string>
+    <string name="stylus_panel_summary">שליטה על התנהגות עט אלקטרוני</string>
+    <string name="stylus_removed_category_title">עט אלקטרוני הוסר</string>
+    <string name="stylus_inserted_category_title">עט אלקטרוני הוכנס</string>
+    <string name="stylus_screen_on_when_removed_title">הפעלת המסך</string>
+    <string name="stylus_screen_on_when_removed_summary">הפעלת המסך בעת הסרת עט אלקטרוני</string>
+    <string name="stylus_screen_off_when_inserted_title">כיבוי המסך</string>
+    <string name="stylus_screen_off_when_inserted_summary">כיבוי המסך בעת הכנסת עט אלקטרוני</string>
+    <string name="stylus_vibrate_title">רטט</string>
+    <string name="stylus_vibrate_when_removed_summary">רטט בעת הסרת עט אלקטרוני</string>
+    <string name="stylus_vibrate_when_inserted_summary">רטט בעת הכנסת עט אלקטרוני</string>
+    <string name="stylus_launch_app_title">הפעלת היישום לאחר ההסרה</string>
 </resources>
