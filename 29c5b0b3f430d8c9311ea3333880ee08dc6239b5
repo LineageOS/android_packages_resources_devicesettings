@@ -16,6 +16,29 @@
       "message": "I guess this is fine?",
       "revId": "29c5b0b3f430d8c9311ea3333880ee08dc6239b5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "740a6a7e_97f24fda",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-09T15:42:06Z",
+      "side": 1,
+      "message": "Add xliff with example here to make it easier for translators",
+      "range": {
+        "startLine": 233,
+        "startChar": 43,
+        "endLine": 233,
+        "endChar": 45
+      },
+      "revId": "29c5b0b3f430d8c9311ea3333880ee08dc6239b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
