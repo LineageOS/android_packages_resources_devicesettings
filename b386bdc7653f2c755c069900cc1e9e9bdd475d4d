@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9a47c01c_dff56c1b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-09T15:40:59Z",
+      "side": 1,
+      "message": "These seem to be highly device/implementation specific, do they really belong here?",
+      "revId": "b386bdc7653f2c755c069900cc1e9e9bdd475d4d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
