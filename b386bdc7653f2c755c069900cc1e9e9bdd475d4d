@@ -16,6 +16,24 @@
       "message": "These seem to be highly device/implementation specific, do they really belong here?",
       "revId": "b386bdc7653f2c755c069900cc1e9e9bdd475d4d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "56115cdb_73d9ca30",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-10-10T07:26:31Z",
+      "side": 1,
+      "message": "Yes, they belong here as it is popup camera specific. The sound names are common amongst xiaomi devices and having translations for everything would be appreciated (I have been asked for them many times ^^)",
+      "parentUuid": "9a47c01c_dff56c1b",
+      "revId": "b386bdc7653f2c755c069900cc1e9e9bdd475d4d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
