@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Rung khi tháo bút stylus</string>
     <string name="stylus_vibrate_when_inserted_summary">Rung khi gắn bút stylus</string>
     <string name="stylus_launch_app_title">Khởi chạy ứng dụng khi tháo bút stylus</string>
+    <string name="popup_title">Cài đặt camera trước</string>
+    <string name="popup_calibration_title">Hiệu chuẩn</string>
+    <string name="popup_calibration_summary">Hiệu chỉnh động cơ camera bật lên</string>
+    <string name="popup_calibration_warning_title">Hiệu chuẩn động cơ</string>
+    <string name="popup_calibration_warning_text">Việc sử dụng hiệu chuẩn không cần thiết có thể gây hư hỏng vĩnh viễn. Chỉ nên hiệu chuẩn động cơ camera bật lên trong trường hợp nó không di chuyển đúng cách hoặc ở sai vị trí!</string>
+    <string name="popup_camera_tip">Cảnh báo</string>
+    <string name="popup_camera_takeback_failed_calibrate">Không thể đóng camera trước. Hãy thử hiệu chỉnh động cơ.</string>
+    <string name="popup_camera_popup_failed_calibrate">Không thể mở camera trước. Hãy thử hiệu chỉnh động cơ.</string>
+    <string name="popup_camera_calibrate_running">Không thể sử dụng camera trước trong quá trình hiệu chuẩn.</string>
+    <string name="popup_camera_calibrate_now">Hiệu chuẩn</string>
+    <string name="popup_camera_calibrate_failed">Không thể hiệu chỉnh</string>
+    <string name="popup_camera_calibrate_success">Đã hiệu chỉnh thành công. Giờ bạn có thể mở camera trước.</string>
+    <string name="popup_led_title">Đèn LED camera</string>
+    <string name="popup_led_summary">Bật đèn LED khi camera trước xuất hiện và thu vào</string>
+    <string name="popup_sound_title">Hiệu ứng âm thanh</string>
+    <string name="popup_sound_muqin">Mộc cầm</string>
+    <string name="popup_sound_yingyan">Chim ưng</string>
+    <string name="popup_sound_mofa">Phép thuật</string>
+    <string name="popup_sound_jijia">Cơ khí</string>
+    <string name="popup_sound_chilun">Bi nhông</string>
+    <string name="popup_sound_cangmen">Cửa cabin</string>
+    <string name="doze_brightness_title">Độ sáng AOD</string>
+    <string name="doze_brightness_summary">Chế độ <xliff:g id="mode" example="Low brightness">%s</xliff:g> đã được bật</string>
+    <string name="doze_brightness_low">Độ sáng thấp</string>
+    <string name="doze_brightness_high">Độ sáng cao</string>
+    <string name="doze_brightness_adaptive">Tự động điều chỉnh độ sáng</string>
 </resources>

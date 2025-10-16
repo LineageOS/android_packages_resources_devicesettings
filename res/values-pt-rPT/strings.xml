@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Vibrar ao temover a caneta</string>
     <string name="stylus_vibrate_when_inserted_summary">Vibrar ao inserir a caneta</string>
     <string name="stylus_launch_app_title">Iniciar aplicação ao remover</string>
+    <string name="popup_title">Definições da câmara frontal</string>
+    <string name="popup_calibration_title">Calibração</string>
+    <string name="popup_calibration_summary">Calibrar o motor da câmara pop-up</string>
+    <string name="popup_calibration_warning_title">Calibração do motor</string>
+    <string name="popup_calibration_warning_text">O uso desnecessário da calibração pode causar danos permanentes. É recomendável calibrar o motor da câmara pop-up apenas no caso da mesma não se estar a mover corretamente ou quando para em posições incorretas!</string>
+    <string name="popup_camera_tip">Aviso</string>
+    <string name="popup_camera_takeback_failed_calibrate">Não foi possível fechar a câmara frontal. Tente calibrar o motor.</string>
+    <string name="popup_camera_popup_failed_calibrate">Não foi possível abrir a câmara frontal. Tente calibrar o motor.</string>
+    <string name="popup_camera_calibrate_running">Não pode usar a câmara frontal durante a calibração.</string>
+    <string name="popup_camera_calibrate_now">Calibrar</string>
+    <string name="popup_camera_calibrate_failed">Não foi possível calibrar</string>
+    <string name="popup_camera_calibrate_success">Calibrada com sucesso. Já pode abrir a câmara frontal.</string>
+    <string name="popup_led_title">LED da câmara</string>
+    <string name="popup_led_summary">Ativar a luz do LED enquanto a câmara frontal abrir ou fechar</string>
+    <string name="popup_sound_title">Efeitos sonoros</string>
+    <string name="popup_sound_muqin">Xilofone</string>
+    <string name="popup_sound_yingyan">Condor</string>
+    <string name="popup_sound_mofa">Magia</string>
+    <string name="popup_sound_jijia">Mecânico</string>
+    <string name="popup_sound_chilun">Engrenagem</string>
+    <string name="popup_sound_cangmen">Porta de cabine</string>
+    <string name="doze_brightness_title">Brilho da visualização ambiente</string>
+    <string name="doze_brightness_summary">O modo <xliff:g id="mode" example="Low brightness">%s</xliff:g> está ativado</string>
+    <string name="doze_brightness_low">Baixo Brilho</string>
+    <string name="doze_brightness_high">Alto Brilho</string>
+    <string name="doze_brightness_adaptive">Brilho Adaptável</string>
 </resources>

@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Vibra quando estrai lo stilo</string>
     <string name="stylus_vibrate_when_inserted_summary">Vibra quando inserisci lo stilo</string>
     <string name="stylus_launch_app_title">Avvia app quando estrai lo stilo</string>
+    <string name="popup_title">Impostazioni fotocamera frontale</string>
+    <string name="popup_calibration_title">Calibrazione</string>
+    <string name="popup_calibration_summary">Calibra il motore della fotocamera a comparsa</string>
+    <string name="popup_calibration_warning_title">Calibrazione motore</string>
+    <string name="popup_calibration_warning_text">L’uso non necessario della calibrazione può causare danni permanenti. Si consiglia di calibrare il motore della fotocamera a comparsa solo nel caso in cui non si muova correttamente o sia in posizione errata!</string>
+    <string name="popup_camera_tip">Attenzione</string>
+    <string name="popup_camera_takeback_failed_calibrate">Impossibile chiudere la fotocamera frontale. Prova a calibrare il motore.</string>
+    <string name="popup_camera_popup_failed_calibrate">Impossibile aprire la fotocamera frontale. Prova a calibrare il motore.</string>
+    <string name="popup_camera_calibrate_running">La fotocamera frontale non può essere utilizzata durante la calibrazione.</string>
+    <string name="popup_camera_calibrate_now">Calibra</string>
+    <string name="popup_camera_calibrate_failed">Calibrazione fallita</string>
+    <string name="popup_camera_calibrate_success">Calibrazione completata. È ora possibile aprire la fotocamera frontale.</string>
+    <string name="popup_led_title">LED fotocamera</string>
+    <string name="popup_led_summary">Attiva il LED mentre la fotocamera frontale si estrae e ritrae</string>
+    <string name="popup_sound_title">Effetti sonori</string>
+    <string name="popup_sound_muqin">Xilofono</string>
+    <string name="popup_sound_yingyan">Condor</string>
+    <string name="popup_sound_mofa">Magia</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Ingranaggio</string>
+    <string name="popup_sound_cangmen">Portellone</string>
+    <string name="doze_brightness_title">Luminosità sempre attiva</string>
+    <string name="doze_brightness_summary">La modalità <xliff:g id="mode" example="Low brightness">%s</xliff:g> è abilitata</string>
+    <string name="doze_brightness_low">Bassa luminosità</string>
+    <string name="doze_brightness_high">Alta luminosità</string>
+    <string name="doze_brightness_adaptive">Luminosità adattiva</string>
 </resources>

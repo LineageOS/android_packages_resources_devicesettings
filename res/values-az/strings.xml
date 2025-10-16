@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Qələm çıxarılan zaman titrət</string>
     <string name="stylus_vibrate_when_inserted_summary">Qələm taxılan zaman titrət</string>
     <string name="stylus_launch_app_title">Çıxarılan zaman tətbiqi başlat</string>
+    <string name="popup_title">Ön kamera ayarları</string>
+    <string name="popup_calibration_title">Kalibrasiya</string>
+    <string name="popup_calibration_summary">Açılan kamera mühərrikini kalibrlə</string>
+    <string name="popup_calibration_warning_title">Mühərrik kalibrasiyası</string>
+    <string name="popup_calibration_warning_text">Kalibrləməni lazımsız istifadə etmək daimi nasazlığa səbəb ola bilər. Yalnız düzgün hərəkət etmədikdə və ya yanlış vəziyyətdə olduğu halda açılan kamera mühərrikini kalibrləmək tövsiyə olunur.</string>
+    <string name="popup_camera_tip">Xəbərdarlıq</string>
+    <string name="popup_camera_takeback_failed_calibrate">Ön kamera bağlanıla bilmir. Mühərriki kalibrləməyə çalışın.</string>
+    <string name="popup_camera_popup_failed_calibrate">Ön kamera açıla bilmir. Mühərriki kalibrləməyə çalışın.</string>
+    <string name="popup_camera_calibrate_running">Kalibrləmə zamanı ön kamera istifadə edilə bilməz.</string>
+    <string name="popup_camera_calibrate_now">Kalibrlə</string>
+    <string name="popup_camera_calibrate_failed">Kalibrlənə bilmədi</string>
+    <string name="popup_camera_calibrate_success">Kalibrləmə uğurlu oldu. Artıq ön kameranı aça bilərsiniz.</string>
+    <string name="popup_led_title">Kamera LED-i</string>
+    <string name="popup_led_summary">Ön kamera görünərkən və geri çəkilərkən LED işığı fəallaşdır</string>
+    <string name="popup_sound_title">Səs effektləri</string>
+    <string name="popup_sound_muqin">Ksilofon</string>
+    <string name="popup_sound_yingyan">Kondor</string>
+    <string name="popup_sound_mofa">Sehr</string>
+    <string name="popup_sound_jijia">Mexanika</string>
+    <string name="popup_sound_chilun">Dişli təkər</string>
+    <string name="popup_sound_cangmen">Kabin qapısı</string>
+    <string name="doze_brightness_title">Həmişə açıq ekran parlaqlığı</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> rejimi fəaldır</string>
+    <string name="doze_brightness_low">Aşağı parlaqlıq</string>
+    <string name="doze_brightness_high">Yüksək parlaqlıq</string>
+    <string name="doze_brightness_adaptive">Adaptiv parlaqlıq</string>
 </resources>

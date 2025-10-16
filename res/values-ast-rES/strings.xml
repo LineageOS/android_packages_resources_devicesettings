@@ -96,4 +96,8 @@
     <string name="camera_focus_fix_summary">Activa esta opción si tienes problemes col enfoque de la cámara</string>
     <string name="wake_on_gesture_title">Esconsoñar al facer xestos</string>
     <string name="wake_on_gesture_summary">Al facer xestos, esconsoña\'l preséu en cuentes d\'amosar avisos</string>
+    <string name="popup_title">Configuración de la cámara d\'alantre</string>
+    <string name="popup_calibration_title">Calibración</string>
+    <string name="popup_calibration_summary">Calibra\'l motor de la cámara emerxente</string>
+    <string name="popup_calibration_warning_title">Calibración del motor</string>
 </resources>

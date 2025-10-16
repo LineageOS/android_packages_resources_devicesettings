@@ -136,4 +136,28 @@
     <string name="stylus_vibrate_when_removed_summary">Vibre ao remover a caneta</string>
     <string name="stylus_vibrate_when_inserted_summary">Vibre ao remover a caneta</string>
     <string name="stylus_launch_app_title">Abrir app ao remover</string>
+    <string name="popup_title">Configurações da câmera frontal</string>
+    <string name="popup_calibration_title">Calibração</string>
+    <string name="popup_calibration_summary">Calibre o motor da câmera pop-up</string>
+    <string name="popup_calibration_warning_title">Calibração do motor</string>
+    <string name="popup_calibration_warning_text">O uso desnecessário da calibração pode causar danos permanentes. So é recomendado calibrar o motor da câmera pop-up quando ele não se mover adequadamente ou estiver em uma posição incorreta!</string>
+    <string name="popup_camera_tip">Aviso</string>
+    <string name="popup_camera_takeback_failed_calibrate">Não foi possível fechar a câmera frontal. Tente calibrar o motor.</string>
+    <string name="popup_camera_popup_failed_calibrate">Não foi possível abrir a câmera frontal. Tente calibrar o motor.</string>
+    <string name="popup_camera_calibrate_running">A câmera frontal não pode ser usada durante a calibração.</string>
+    <string name="popup_camera_calibrate_now">Calibrar</string>
+    <string name="popup_camera_calibrate_failed">Não foi possível calibrar</string>
+    <string name="popup_camera_calibrate_success">Calibrada com sucesso. Você pode abrir a câmera frontal agora.</string>
+    <string name="popup_led_title">LED da câmera</string>
+    <string name="popup_led_summary">Ative a luz do LED enquanto a câmera frontal sobe e desce</string>
+    <string name="popup_sound_title">Efeitos sonoros</string>
+    <string name="popup_sound_muqin">Xilofone</string>
+    <string name="popup_sound_mofa">Mágico</string>
+    <string name="popup_sound_chilun">Engrenagem</string>
+    <string name="popup_sound_cangmen">Porta de cabana</string>
+    <string name="doze_brightness_title">Modo de brilho sempre ativo</string>
+    <string name="doze_brightness_summary">O modo de <xliff:g id="mode" example="Low brightness">%s</xliff:g> está ativado</string>
+    <string name="doze_brightness_low">Brilho baixo</string>
+    <string name="doze_brightness_high">Brilho alto</string>
+    <string name="doze_brightness_adaptive">Brilho adaptável</string>
 </resources>

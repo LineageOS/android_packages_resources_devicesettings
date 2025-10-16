@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Wibracje podczas wyjmowania rysika</string>
     <string name="stylus_vibrate_when_inserted_summary">Wibracje podczas wkładania rysika</string>
     <string name="stylus_launch_app_title">Uruchamiaj aplikację po wyjęciu</string>
+    <string name="popup_title">Ustawienia przedniego aparatu</string>
+    <string name="popup_calibration_title">Kalibracja</string>
+    <string name="popup_calibration_summary">Kalibracja mechanizmu wysuwanego aparatu fotograficznego</string>
+    <string name="popup_calibration_warning_title">Kalibracja mechanizmu</string>
+    <string name="popup_calibration_warning_text">Niepotrzebne użycie kalibracji może spowodować trwałe uszkodzenie. Zaleca się kalibrację mechanizmu wysuwanej kamery tylko w przypadku, gdy nie porusza się ona prawidłowo lub znajduje się w nieprawidłowej pozycji!</string>
+    <string name="popup_camera_tip">Ostrzeżenie</string>
+    <string name="popup_camera_takeback_failed_calibrate">Nie można zamknąć przedniego aparatu. Spróbuj skalibrować mechanizm.</string>
+    <string name="popup_camera_popup_failed_calibrate">Nie można otworzyć przedniego aparatu. Spróbuj skalibrować mechanizm.</string>
+    <string name="popup_camera_calibrate_running">Przedni aparat nie może zostać zamknięty. Spróbuj skalibrować mechanizm.</string>
+    <string name="popup_camera_calibrate_now">Kalibracja</string>
+    <string name="popup_camera_calibrate_failed">Nie udało się skalibrować</string>
+    <string name="popup_camera_calibrate_success">Pomyślnie skalibrowano. Możesz teraz otworzyć przedni aparat.</string>
+    <string name="popup_led_title">Dioda aparatu</string>
+    <string name="popup_led_summary">Włączaj diodę podczas wysuwania i zamykania przedniego aparatu</string>
+    <string name="popup_sound_title">Efekty dźwiękowe</string>
+    <string name="popup_sound_muqin">Ksylofon</string>
+    <string name="popup_sound_yingyan">Kondor</string>
+    <string name="popup_sound_mofa">Magiczne</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Koło zębate</string>
+    <string name="popup_sound_cangmen">Drzwi kabiny</string>
+    <string name="doze_brightness_title">Jasność ekranu w trybie zawsze włączony</string>
+    <string name="doze_brightness_summary">Tryb <xliff:g id="mode" example="Low brightness">%s</xliff:g> jest włączony</string>
+    <string name="doze_brightness_low">Niski poziom jasności</string>
+    <string name="doze_brightness_high">Wysoki poziom jasności</string>
+    <string name="doze_brightness_adaptive">Adaptacyjna jasność ekranu</string>
 </resources>

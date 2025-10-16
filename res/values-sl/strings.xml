@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Vibriraj  ob odstranjevanju pisala</string>
     <string name="stylus_vibrate_when_inserted_summary">Vibriraj ob vstavljanju pisala</string>
     <string name="stylus_launch_app_title">Zaženi aplikacijo ob odstranitvi</string>
+    <string name="popup_title">Nastavitve sprednjega fotoaparata</string>
+    <string name="popup_calibration_title">Umerjanje</string>
+    <string name="popup_calibration_summary">Umeri pogon dvižnega fotoaparata</string>
+    <string name="popup_calibration_warning_title">Umerjanje pogona</string>
+    <string name="popup_calibration_warning_text">Nepotrebna uporaba umerjanja lahko povzroči trajno škodo. Priporočljivo je, da umerite dvižni fotoaparat samo v primeru, ko se ta ne premika pravilno ali je v nepravilnem položaju.</string>
+    <string name="popup_camera_tip">Opozorilo</string>
+    <string name="popup_camera_takeback_failed_calibrate">Sprednjega fotoaparata ni bilo mogoče zapreti. Poskusite umeriti pogon.</string>
+    <string name="popup_camera_popup_failed_calibrate">Sprednjega fotoaparata ni bilo mogoče odpreti. Poskusite umeriti pogon.</string>
+    <string name="popup_camera_calibrate_running">Sprednjega fotoaparata ni mogoče uporabljati med umerjanjem.</string>
+    <string name="popup_camera_calibrate_now">Umeri</string>
+    <string name="popup_camera_calibrate_failed">Ni bilo mogoče umeriti.</string>
+    <string name="popup_camera_calibrate_success">Umerjeno uspešno. Zdaj lahko odprete sprednji fotoaparat.</string>
+    <string name="popup_led_title">Lučka LED fotoaparata</string>
+    <string name="popup_led_summary">Omogoči lučko LED, ko se sprednji fotoaparat dvigne in spusti</string>
+    <string name="popup_sound_title">Zvočni učinki</string>
+    <string name="popup_sound_muqin">Ksilofon</string>
+    <string name="popup_sound_yingyan">Kondor</string>
+    <string name="popup_sound_mofa">Magija</string>
+    <string name="popup_sound_jijia">Meha</string>
+    <string name="popup_sound_chilun">Zobnik</string>
+    <string name="popup_sound_cangmen">Vrata koče</string>
+    <string name="doze_brightness_title">Vedno vklopljena svetlost</string>
+    <string name="doze_brightness_summary">Način <xliff:g id="mode" example="Low brightness">%s</xliff:g> je omogočen</string>
+    <string name="doze_brightness_low">Nizka svetlost</string>
+    <string name="doze_brightness_high">Visoka svetlost</string>
+    <string name="doze_brightness_adaptive">Prilagodljiva svetlost</string>
 </resources>

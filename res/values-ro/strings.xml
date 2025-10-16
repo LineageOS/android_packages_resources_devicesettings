@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Vibrează la scoaterea stiloului</string>
     <string name="stylus_vibrate_when_inserted_summary">Vibrează la introducerea stiloului</string>
     <string name="stylus_launch_app_title">Lansează o aplicație când este scos</string>
+    <string name="popup_title">Setări cameră frontală</string>
+    <string name="popup_calibration_title">Calibrare</string>
+    <string name="popup_calibration_summary">Calibrează motorul camerei popup</string>
+    <string name="popup_calibration_warning_title">Calibrare motor</string>
+    <string name="popup_calibration_warning_text">Utilizarea inutilă a calibrării poate provoca daune permanente. Se recomandă calibrarea motorului camerei popup numai în cazul în care acesta nu se mişcă corect sau este într-o poziţie incorectă!</string>
+    <string name="popup_camera_tip">Avertisment</string>
+    <string name="popup_camera_takeback_failed_calibrate">Nu s-a putut închide camera frontală. Încercați să calibrați motorul.</string>
+    <string name="popup_camera_popup_failed_calibrate">Nu s-a putut deschide camera frontală. Încercați să calibrați motorul.</string>
+    <string name="popup_camera_calibrate_running">Camera frontală nu poate fi utilizată în timpul calibrării.</string>
+    <string name="popup_camera_calibrate_now">Calibrează</string>
+    <string name="popup_camera_calibrate_failed">Nu s-a putut calibra</string>
+    <string name="popup_camera_calibrate_success">Calibrare cu succes. Puteți deschide camera frontală acum.</string>
+    <string name="popup_led_title">LED cameră</string>
+    <string name="popup_led_summary">Activează LED-ul în timp ce camera foto din față apare și se retrage</string>
+    <string name="popup_sound_title">Efecte sonore</string>
+    <string name="popup_sound_muqin">Xilofon</string>
+    <string name="popup_sound_yingyan">Condor</string>
+    <string name="popup_sound_mofa">Magie</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Roată dințată</string>
+    <string name="popup_sound_cangmen">Ușă cabină</string>
+    <string name="doze_brightness_title">Luminozitate mereu pornită</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">Modul %s</xliff:g> este activat</string>
+    <string name="doze_brightness_low">Luminozitate scăzută</string>
+    <string name="doze_brightness_high">Luminozitate ridicată</string>
+    <string name="doze_brightness_adaptive">Luminozitate adaptivă</string>
 </resources>

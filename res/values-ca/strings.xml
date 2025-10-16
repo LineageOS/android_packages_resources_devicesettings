@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Vibra en treure el llapis òptic</string>
     <string name="stylus_vibrate_when_inserted_summary">Vibra en inserir el llapis òptic</string>
     <string name="stylus_launch_app_title">Inicia l\'aplicació en treure\'l</string>
+    <string name="popup_title">Configuració de la càmera frontal</string>
+    <string name="popup_calibration_title">Calibració</string>
+    <string name="popup_calibration_summary">Calibra el motor de la càmera emergent</string>
+    <string name="popup_calibration_warning_title">Calibració del motor</string>
+    <string name="popup_calibration_warning_text">L\'ús innecessari de la calibració pot causar danys permanents. Es recomana calibrar el motor de la càmera emergent només en cas que no es mogui correctament o estigui en una posició incorrecta!</string>
+    <string name="popup_camera_tip">Advertència</string>
+    <string name="popup_camera_takeback_failed_calibrate">No s\'ha pogut tancar la càmera frontal. Proveu de calibrar el motor.</string>
+    <string name="popup_camera_popup_failed_calibrate">No s\'ha pogut obrir la càmera frontal. Proveu de calibrar el motor.</string>
+    <string name="popup_camera_calibrate_running">La càmera frontal no es pot utilitzar durant el calibratge.</string>
+    <string name="popup_camera_calibrate_now">Calibra</string>
+    <string name="popup_camera_calibrate_failed">No s\'ha pogut calibrar</string>
+    <string name="popup_camera_calibrate_success">S\'ha calibrat correctament. Ja podeu obrir la càmera frontal.</string>
+    <string name="popup_led_title">LED de la càmera</string>
+    <string name="popup_led_summary">Activa la llum LED mentre la càmera frontal apareix i es retrau</string>
+    <string name="popup_sound_title">Efectes de so</string>
+    <string name="popup_sound_muqin">Xilòfon</string>
+    <string name="popup_sound_yingyan">Còndor</string>
+    <string name="popup_sound_mofa">Màgia</string>
+    <string name="popup_sound_jijia">Meca</string>
+    <string name="popup_sound_chilun">Engranatge</string>
+    <string name="popup_sound_cangmen">Porta de cabina</string>
+    <string name="doze_brightness_title">Brillantor sempre encesa</string>
+    <string name="doze_brightness_summary">El mode <xliff:g id="mode" example="Low brightness">%s</xliff:g> està activat</string>
+    <string name="doze_brightness_low">Brillantor baixa</string>
+    <string name="doze_brightness_high">Brillantor alta</string>
+    <string name="doze_brightness_adaptive">Brillantor adaptativa</string>
 </resources>
