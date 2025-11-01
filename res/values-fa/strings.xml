@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">زیاد</string>
     <string name="dialog_ok">قبول</string>
     <string name="disabled">غیرفعال</string>
+    <string name="none">هیچ</string>
     <string name="doze_settings_help_title">راهنما</string>
     <string name="doze_settings_help_text">این ویژگی ها از رویداد های حسگر ها استفاده می‌کنند تا یک روند چشمک زدن اعلان ها را ایجاد کنند. حسگر انتخاب شده تنها وقتی فعال می شود که دستگاه یک اعلان دریافت کند، این کار باعث صرفه جویی در مصرف باتری می شود. یک گزینه‌ی دیگر نیز هست که باعث می شود سنسور انتخاب شده به محض خاموش شدن صفحه نمایش فعال شود، این گزینه باعث مصرف بیشتر باتری می شود.</string>
     <string name="button_panel_title">دکمه های اضافی</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">اگر با فوکوس نکردن دوربین مشکلاتی دارید، این را فعال کنید</string>
     <string name="wake_on_gesture_title">با حرکات بیدار شوید</string>
     <string name="wake_on_gesture_summary">به جای پالس اعلان‌ها بختطر رویدادهای ژست، دستگاه را بیدار کنید</string>
+    <string name="stylus_panel_title">قلم لمسی</string>
+    <string name="stylus_panel_summary">کنترل رفتار قلم لمسی</string>
+    <string name="stylus_removed_category_title">قلم لمسی حذف شد</string>
+    <string name="stylus_inserted_category_title">قلم لمسی وصل شد</string>
+    <string name="stylus_screen_on_when_removed_title">روشن کردن صفحه نمایش</string>
+    <string name="stylus_screen_on_when_removed_summary">روشن شدن صفحه نمایش هنگام برداشتن قلم لمسی</string>
+    <string name="stylus_screen_off_when_inserted_title">خاموش کردن صفحه</string>
+    <string name="stylus_screen_off_when_inserted_summary">خاموش شدن صفحه نمایش هنگام گذاشتن قلم لمسی</string>
+    <string name="stylus_vibrate_title">لرزش</string>
+    <string name="stylus_vibrate_when_removed_summary">لرزش هنگام برداشتن قلم لمسی</string>
+    <string name="stylus_vibrate_when_inserted_summary">لرزش هنگام قرار دادن قلم لمسی</string>
+    <string name="stylus_launch_app_title">اجرای برنامه هنگام برداشتن</string>
 </resources>

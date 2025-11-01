@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Высокая</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Выключен</string>
+    <string name="none">Не использовать</string>
     <string name="doze_settings_help_title">Информация</string>
     <string name="doze_settings_help_text">Эти функции используют события датчиков для отображения уведомлений. Датчик проверяется только при поступлении нового уведомления, что помогает сэкономить заряд батареи. Можно активировать включение датчика сразу при отключении экрана устройства, однако это может ускорить разряд батареи.</string>
     <string name="button_panel_title">Дополнительные кнопки</string>
@@ -124,4 +125,15 @@
     <string name="wake_on_gesture_title">Пробуждение жестами</string>
     <string name="wake_on_gesture_summary">Пробуждение устройства вместо уведомлений при использовании жестов</string>
     <string name="stylus_panel_title">Стилус</string>
+    <string name="stylus_panel_summary">Управление поведением стилуса</string>
+    <string name="stylus_removed_category_title">Стилус удален</string>
+    <string name="stylus_inserted_category_title">Стилус вставлен</string>
+    <string name="stylus_screen_on_when_removed_title">Включать экран</string>
+    <string name="stylus_screen_on_when_removed_summary">Включать экран при извлечении стилуса</string>
+    <string name="stylus_screen_off_when_inserted_title">Отключать экран</string>
+    <string name="stylus_screen_off_when_inserted_summary">Отключать экран при подключении стилуса</string>
+    <string name="stylus_vibrate_title">Вибрация</string>
+    <string name="stylus_vibrate_when_removed_summary">Вибрировать при удалении стилуса</string>
+    <string name="stylus_vibrate_when_inserted_summary">Вибрировать при подключении стилуса</string>
+    <string name="stylus_launch_app_title">Запускать приложение при удалении</string>
 </resources>
