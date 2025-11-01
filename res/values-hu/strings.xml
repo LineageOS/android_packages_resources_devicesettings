@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Ha a toll eltávolításra kerül, rezeg</string>
     <string name="stylus_vibrate_when_inserted_summary">Ha a toll beillesztésre kerül, rezeg</string>
     <string name="stylus_launch_app_title">Eltávolításkor alkalmazás indítása</string>
+    <string name="popup_title">Az előlapi kamera beállításai</string>
+    <string name="popup_calibration_title">Kalibrálás</string>
+    <string name="popup_calibration_summary">A felugró kamera motorjának beállítása</string>
+    <string name="popup_calibration_warning_title">Motorkalibrálás</string>
+    <string name="popup_calibration_warning_text">Feleslegesen NE kalibrálja! Maradandó károsodást okozhat. A felugró kamera motorjának kalibrálása csak akkor ajánlott, ha az nem mozog megfelelően, vagy rossz pozícióban van!</string>
+    <string name="popup_camera_tip">Figyelmeztetés</string>
+    <string name="popup_camera_takeback_failed_calibrate">Nem sikerült bezárni az előlapi kamerát. Próbálja meg kalibrálni a motort.</string>
+    <string name="popup_camera_popup_failed_calibrate">Nem sikerült felnyitni az előlapi kamerát. Próbálja meg kalibrálni a motort.</string>
+    <string name="popup_camera_calibrate_running">Az előlapi kamera nem használható kalibrálás közben.</string>
+    <string name="popup_camera_calibrate_now">Kalibrálás</string>
+    <string name="popup_camera_calibrate_failed">Sikertelen kalibrálás</string>
+    <string name="popup_camera_calibrate_success">A kalibrálás sikeres volt. Most megkísérelheti felnyitni az előlapi kamerát.</string>
+    <string name="popup_led_title">Kamera-LED</string>
+    <string name="popup_led_summary">Az előlapi kamera mozgása közbeni LED-fény engedélyezése</string>
+    <string name="popup_sound_title">Hangeffektusok</string>
+    <string name="popup_sound_muqin">Xilofon</string>
+    <string name="popup_sound_yingyan">Kondorkeselyű</string>
+    <string name="popup_sound_mofa">Mágia</string>
+    <string name="popup_sound_jijia">Mechanikus</string>
+    <string name="popup_sound_chilun">Fogaskerék</string>
+    <string name="popup_sound_cangmen">Kabinajtó</string>
+    <string name="doze_brightness_title">Álandóan bekapcsolt fényerő</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g>-mód engedélyezve</string>
+    <string name="doze_brightness_low">Alacsony fényerő</string>
+    <string name="doze_brightness_high">Magas fényerő</string>
+    <string name="doze_brightness_adaptive">Alkalmazkodó fényerő</string>
 </resources>

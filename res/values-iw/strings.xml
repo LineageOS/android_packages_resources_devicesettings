@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">רטט בעת הסרת עט אלקטרוני</string>
     <string name="stylus_vibrate_when_inserted_summary">רטט בעת הכנסת עט אלקטרוני</string>
     <string name="stylus_launch_app_title">הפעלת היישום לאחר ההסרה</string>
+    <string name="popup_title">הגדרות מצלמה קדמית</string>
+    <string name="popup_calibration_title">כיול</string>
+    <string name="popup_calibration_summary">כיול מנוע המצלמה הקופצת</string>
+    <string name="popup_calibration_warning_title">כיול מנוע</string>
+    <string name="popup_calibration_warning_text">שימוש מיותר בכיול עלול לגרום נזק בלתי הפיך. מומלץ לכייל את מנוע המצלמה הקופצת רק במקרה שהוא אינו נע כראוי או שהוא נמצא במיקום שגוי!</string>
+    <string name="popup_camera_tip">אזהרה</string>
+    <string name="popup_camera_takeback_failed_calibrate">לא ניתן לסגור את המצלמה הקדמית. נא לנסות לכייל את המנוע.</string>
+    <string name="popup_camera_popup_failed_calibrate">לא ניתן לפתוח את המצלמה הקדמית. נא לנסות לכייל את המנוע.</string>
+    <string name="popup_camera_calibrate_running">לא ניתן להשתמש במצלמה הקדמית בזמן הכיול.</string>
+    <string name="popup_camera_calibrate_now">לכייל</string>
+    <string name="popup_camera_calibrate_failed">לא ניתן לכייל</string>
+    <string name="popup_camera_calibrate_success">הכיול בוצע בהצלחה. כעת ניתן לפתוח את המצלמה הקדמית.</string>
+    <string name="popup_led_title">לד של המצלמה</string>
+    <string name="popup_led_summary">הפעלת תאורת LED בזמן שהמצלמה הקדמית מופיעה ונסוגה</string>
+    <string name="popup_sound_title">אפקטי צליל</string>
+    <string name="popup_sound_muqin">קסילופון</string>
+    <string name="popup_sound_yingyan">קונדור</string>
+    <string name="popup_sound_mofa">קסם</string>
+    <string name="popup_sound_jijia">מכני</string>
+    <string name="popup_sound_chilun">גלגל שיניים</string>
+    <string name="popup_sound_cangmen">דלת תא</string>
+    <string name="doze_brightness_title">בהירות מופעלת תמיד</string>
+    <string name="doze_brightness_summary">מצב <xliff:g id="mode" example="Low brightness">%s</xliff:g> מופעל</string>
+    <string name="doze_brightness_low">בהירות נמוכה</string>
+    <string name="doze_brightness_high">בהירות גבוהה</string>
+    <string name="doze_brightness_adaptive">בהירות מסתגלת</string>
 </resources>

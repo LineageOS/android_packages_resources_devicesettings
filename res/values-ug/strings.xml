@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">قەلەمنى چىقىرىۋاتقاندا تىترىتىدۇ</string>
     <string name="stylus_vibrate_when_inserted_summary">قەلەمنى قىستۇرۇۋاتقاندا تىترىتىدۇ</string>
     <string name="stylus_launch_app_title">چىقىرىۋەتكەندە ئەپنى قوزغىتىدۇ</string>
+    <string name="popup_title">ئالدى كامېرا تەڭشەك</string>
+    <string name="popup_calibration_title">توغرىلاش</string>
+    <string name="popup_calibration_summary">قاڭقىيدىغان كامېرا موتورىنى تۈزىتىدۇ</string>
+    <string name="popup_calibration_warning_title">موتور توغرىلاش</string>
+    <string name="popup_calibration_warning_text">توغرىلاشنى ئورۇنسىز ئىشلىتىش مەڭگۈلۈك بۇزۇلۇشنى كەلتۈرۈ پ چىقىرىشى مۇمكىن. قاڭقىيدىغان كامېرانىڭ موتورى ئادەتتىكىدەك يۆتكەلمىگەن ياكى خاتا ئورۇندا تۇرغاندىلا ئاندىن توغرىلاش تەۋسىيە قىلىنىدۇ!</string>
+    <string name="popup_camera_tip">ئاگاھلاندۇرۇش</string>
+    <string name="popup_camera_takeback_failed_calibrate">ئالدى كامېرانى تاقىيالمىدى. موتورنى توغرىلاشنى سىناڭ.</string>
+    <string name="popup_camera_popup_failed_calibrate">ئالدى كامېرانى ئاچالمىدى. موتورنى توغرىلاشنى سىناڭ.</string>
+    <string name="popup_camera_calibrate_running">توغرىلاۋاتقاندا ئالدى كامېرانى ئىشلەتكىلى بولمايدۇ.</string>
+    <string name="popup_camera_calibrate_now">توغرىلا</string>
+    <string name="popup_camera_calibrate_failed">توغرىلىيالمىدى</string>
+    <string name="popup_camera_calibrate_success">توغرىلاش مۇۋەپپەقىيەتلىك بولدى. ھازىر ئالدى كامېرانى ئاچالايسىز.</string>
+    <string name="popup_led_title">كامېرا چىرىغى</string>
+    <string name="popup_led_summary">ئالدى كامېرا چىققان ۋە كىرگەندە LED چىراغنى قوزغىتىدۇ</string>
+    <string name="popup_sound_title">ئاۋاز ئۈنۈمى</string>
+    <string name="popup_sound_muqin">ياغاچ ساز</string>
+    <string name="popup_sound_yingyan">بۈركۈت كۆز</string>
+    <string name="popup_sound_mofa">سېھىرگەرلىك</string>
+    <string name="popup_sound_jijia">مېخانىك</string>
+    <string name="popup_sound_chilun">چاقلىق</string>
+    <string name="popup_sound_cangmen">قاپقاق ئىشىكى</string>
+    <string name="doze_brightness_title">ھەمىشە يورۇق</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> ھالىتى قوزغىتىلدى</string>
+    <string name="doze_brightness_low">تۆۋەن يورۇقلۇق</string>
+    <string name="doze_brightness_high">يۇقىرى يورۇقلۇق</string>
+    <string name="doze_brightness_adaptive">يورۇقلۇققا ماسلىشىشچان</string>
 </resources>

@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">Creathadh agus an stíl á bhaint</string>
     <string name="stylus_vibrate_when_inserted_summary">Creathadh nuair a chuirtear an stíleas isteach</string>
     <string name="stylus_launch_app_title">Seoladh an aip nuair a bhaintear í</string>
+    <string name="popup_title">Socruithe ceamara tosaigh</string>
+    <string name="popup_calibration_title">Calabrú</string>
+    <string name="popup_calibration_summary">Calabraigh mótar an cheamara preab aníos</string>
+    <string name="popup_calibration_warning_title">Calabrú mótair</string>
+    <string name="popup_calibration_warning_text">D’fhéadfadh damáiste buan a bheith mar thoradh ar úsáid neamhriachtanach calabrúcháin. Moltar mótar an cheamara preab aníos a chalabrú ach amháin i gcás nach bhfuil sé ag bogadh i gceart nó i riocht mícheart!</string>
+    <string name="popup_camera_tip">Rabhadh</string>
+    <string name="popup_camera_takeback_failed_calibrate">Níorbh fhéidir an ceamara tosaigh a dhúnadh. Bain triail as an mótar a chalabrú.</string>
+    <string name="popup_camera_popup_failed_calibrate">Níorbh fhéidir an ceamara tosaigh a oscailt. Bain triail as an mótar a chalabrú.</string>
+    <string name="popup_camera_calibrate_running">Ní féidir an ceamara tosaigh a úsáid le linn calabrúcháin.</string>
+    <string name="popup_camera_calibrate_now">Calabraigh</string>
+    <string name="popup_camera_calibrate_failed">Níorbh fhéidir calabrú</string>
+    <string name="popup_camera_calibrate_success">Calabraíodh go rathúil é. Is féidir leat an ceamara tosaigh a oscailt anois.</string>
+    <string name="popup_led_title">LED ceamara</string>
+    <string name="popup_led_summary">Cumasaigh solas LED agus an ceamara tosaigh le feiceáil agus ag tarraingt siar</string>
+    <string name="popup_sound_title">Éifeachtaí fuaime</string>
+    <string name="popup_sound_muqin">Xíleafón</string>
+    <string name="popup_sound_yingyan">Condar</string>
+    <string name="popup_sound_mofa">Draíocht</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Roth giar</string>
+    <string name="popup_sound_cangmen">Doras an chábáin</string>
+    <string name="doze_brightness_title">I gcónaí ar gile</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> tá an modh cumasaithe</string>
+    <string name="doze_brightness_low">Gile íseal</string>
+    <string name="doze_brightness_high">Gile ard</string>
+    <string name="doze_brightness_adaptive">Gile oiriúnaitheach</string>
 </resources>
