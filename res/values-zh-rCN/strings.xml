@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">在移除触控笔时振动</string>
     <string name="stylus_vibrate_when_inserted_summary">在插入触控笔时振动</string>
     <string name="stylus_launch_app_title">移除后启动应用</string>
+    <string name="popup_title">前置摄像头设置</string>
+    <string name="popup_calibration_title">校准</string>
+    <string name="popup_calibration_summary">校准弹出式摄像头电机</string>
+    <string name="popup_calibration_warning_title">电机校准</string>
+    <string name="popup_calibration_warning_text">不必要地使用校准可能会造成永久性损坏。建议仅在弹出式摄像头电机移动不正常或位置不正确时才对其进行校准！</string>
+    <string name="popup_camera_tip">警告</string>
+    <string name="popup_camera_takeback_failed_calibrate">前置摄像头收回失败。请尝试校准电机。</string>
+    <string name="popup_camera_popup_failed_calibrate">前置摄像头弹出失败。请尝试校准电机。</string>
+    <string name="popup_camera_calibrate_running">校准期间无法使用前置摄像头。</string>
+    <string name="popup_camera_calibrate_now">校准</string>
+    <string name="popup_camera_calibrate_failed">校准失败</string>
+    <string name="popup_camera_calibrate_success">校准成功。您现在可以打开前置摄像头。</string>
+    <string name="popup_led_title">摄像头LED灯</string>
+    <string name="popup_led_summary">在前置摄像头升起和收回时启用LED灯</string>
+    <string name="popup_sound_title">音效</string>
+    <string name="popup_sound_muqin">木琴</string>
+    <string name="popup_sound_yingyan">鹰眼</string>
+    <string name="popup_sound_mofa">魔法</string>
+    <string name="popup_sound_jijia">机甲</string>
+    <string name="popup_sound_chilun">齿轮</string>
+    <string name="popup_sound_cangmen">舱门</string>
+    <string name="doze_brightness_title">始终亮屏</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g>模式已启用</string>
+    <string name="doze_brightness_low">低亮度</string>
+    <string name="doze_brightness_high">高亮度</string>
+    <string name="doze_brightness_adaptive">自适应亮度</string>
 </resources>
