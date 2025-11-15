@@ -98,6 +98,7 @@
     <string name="feedback_intensity_high">I lartë</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">I çaktivizuar</string>
+    <string name="none">Asnjë</string>
     <string name="doze_settings_help_title">Ndihmë</string>
     <string name="doze_settings_help_text">Këto funksione përdorin sensorin për të shfaqur njoftimet në modalitetin Doze. Sensori i zgjedhur aktivizohet vetëm kur pajisja merr një njoftim, dhe kjo ndihmon në reduktimin e përdorimit të baterisë. Ka edhe një opsion për të aktivizuar sensorin e zgjedhur menjëherë pasi ekrani të fiket. Ky opsion do të bëjë që bateria të përdoret më shumë.</string>
     <string name="button_panel_title">Butona të tjerë</string>
