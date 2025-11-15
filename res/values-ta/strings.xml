@@ -123,4 +123,19 @@
     <string name="camera_focus_fix_summary">படமிக் குவிப்பு செய்வதில் உமக்குச் சிக்கல்கள் இருந்தால் இயக்குக</string>
     <string name="wake_on_gesture_title">மெய்ப்பாடுகளில் விழித்திடுக</string>
     <string name="wake_on_gesture_summary">மெய்ப்பாடு நிகழ்வுகளில் அறிவிப்புகளைத் துடிப்பதற்குப் பதிலாகக் கருவியை எழுப்புக</string>
+    <string name="popup_calibration_title">சீரமைப்பு</string>
+    <string name="popup_calibration_summary">வெளிவரும் படமியின் இயக்கியைச் சீரமைக்க</string>
+    <string name="popup_calibration_warning_title">இயக்கிச் சீரமைப்பு</string>
+    <string name="popup_sound_title">ஒலி விளைவுகள்</string>
+    <string name="popup_sound_muqin">இசைமரம்</string>
+    <string name="popup_sound_yingyan">கொண்டோர்</string>
+    <string name="popup_sound_mofa">அற்புதம்</string>
+    <string name="popup_sound_jijia">எந்திரன்</string>
+    <string name="popup_sound_chilun">பற்சக்கரம்</string>
+    <string name="popup_sound_cangmen">பெட்டிக் கதவு</string>
+    <string name="doze_brightness_title">தொடர் ஒளிர்வு</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> பயன்முறை இயக்கப்பட்டது</string>
+    <string name="doze_brightness_low">குறைந்த ஒளிர்வு</string>
+    <string name="doze_brightness_high">உயர்ந்த ஒளிர்வு</string>
+    <string name="doze_brightness_adaptive">சூழலுக்கேற்ற ஒளிர்வு</string>
 </resources>

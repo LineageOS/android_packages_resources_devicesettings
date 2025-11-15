@@ -136,4 +136,30 @@
     <string name="stylus_vibrate_when_removed_summary">スタイラスを取り出したときに振動させます</string>
     <string name="stylus_vibrate_when_inserted_summary">スタイラスを挿入したときに振動させます</string>
     <string name="stylus_launch_app_title">取り出し時にアプリを起動</string>
+    <string name="popup_title">フロントカメラの設定</string>
+    <string name="popup_calibration_title">補正</string>
+    <string name="popup_calibration_summary">ポップアップカメラモーターを補正します</string>
+    <string name="popup_calibration_warning_title">モーターの補正</string>
+    <string name="popup_calibration_warning_text">不必要に補正を繰り返すと取り返しの付かない損傷を引き起こす可能性があります。 適切に動かない場合や位置が間違っている場合にのみ補正することをおすすめします!</string>
+    <string name="popup_camera_tip">警告</string>
+    <string name="popup_camera_takeback_failed_calibrate">フロントカメラを閉じられませんでした。モーターの補正を試してください。</string>
+    <string name="popup_camera_popup_failed_calibrate">フロントカメラを開けませんでした。モーターの補正を試してください。</string>
+    <string name="popup_camera_calibrate_running">補正中はフロントカメラを使用できません。</string>
+    <string name="popup_camera_calibrate_now">補正</string>
+    <string name="popup_camera_calibrate_failed">補正できませんでした</string>
+    <string name="popup_camera_calibrate_success">正常に補正しました。フロントカメラを開けられます。</string>
+    <string name="popup_led_title">カメラのLED</string>
+    <string name="popup_led_summary">フロントカメラを出し入れしたときに LED ライトを点灯します</string>
+    <string name="popup_sound_title">サウンド効果</string>
+    <string name="popup_sound_muqin">木琴</string>
+    <string name="popup_sound_yingyan">コンドル</string>
+    <string name="popup_sound_mofa">魔法</string>
+    <string name="popup_sound_jijia">メカ</string>
+    <string name="popup_sound_chilun">歯車</string>
+    <string name="popup_sound_cangmen">キャビンドア</string>
+    <string name="doze_brightness_title">常時表示の明るさ</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> モードが有効です</string>
+    <string name="doze_brightness_low">低輝度</string>
+    <string name="doze_brightness_high">高輝度</string>
+    <string name="doze_brightness_adaptive">明るさの自動調節</string>
 </resources>
