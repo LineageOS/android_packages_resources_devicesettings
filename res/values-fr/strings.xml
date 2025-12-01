@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Élevée</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Désactivé</string>
+    <string name="none">Aucun</string>
     <string name="doze_settings_help_title">Aide</string>
     <string name="doze_settings_help_text">Ces fonctionnalités utilisent des capteurs pour afficher les notifications en mode sommeil. Le capteur choisi est activé uniquement lorsque l\'appareil reçoit une notification, cela aide à réduire l\'utilisation de la batterie. Il y a également une option pour activer le capteur choisi aussitôt que l\'écran s\'éteint, mais cela causera une utilisation plus importante de la batterie.</string>
     <string name="button_panel_title">Boutons supplémentaires</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Activez si l\'appareil photo n\'effectue pas la mise au point</string>
     <string name="wake_on_gesture_title">Réveiller par gestes</string>
     <string name="wake_on_gesture_summary">Réveiller l\'appareil au lieu de notifier lors d\'événements gestuels</string>
+    <string name="stylus_panel_title">Stylet</string>
+    <string name="stylus_panel_summary">Contrôler le comportement du stylet</string>
+    <string name="stylus_removed_category_title">Stylet retiré</string>
+    <string name="stylus_inserted_category_title">Stylet inséré</string>
+    <string name="stylus_screen_on_when_removed_title">Allumer l\'écran</string>
+    <string name="stylus_screen_on_when_removed_summary">Allume l\'écran au retrait du stylet</string>
+    <string name="stylus_screen_off_when_inserted_title">Éteindre l\'écran</string>
+    <string name="stylus_screen_off_when_inserted_summary">Éteindre l\'écran à l\'insertion du stylet</string>
+    <string name="stylus_vibrate_title">Vibrer</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibrer au retrait du stylet</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibrer à l\'insertion du stylet</string>
+    <string name="stylus_launch_app_title">Lancer l\'application au retrait</string>
 </resources>
