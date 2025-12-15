@@ -135,4 +135,5 @@
     <string name="stylus_vibrate_when_removed_summary">Vibrar cuando se retire el lápiz óptico</string>
     <string name="stylus_vibrate_when_inserted_summary">Vibrar cuando se inserte el lápiz óptico</string>
     <string name="stylus_launch_app_title">Iniciar aplicación al retirar</string>
+    <string name="popup_led_summary">Activa la luz LED cuando la cámara frontal aparece y se retrae</string>
 </resources>
