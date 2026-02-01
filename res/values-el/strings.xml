@@ -136,4 +136,15 @@
     <string name="stylus_vibrate_when_removed_summary">Δόνηση κατά την αφαίρεση της γραφίδας</string>
     <string name="stylus_vibrate_when_inserted_summary">Δόνηση κατά την εισαγωγή της γραφίδας</string>
     <string name="stylus_launch_app_title">Εκκίνηση εφαρμογής κατά την αφαίρεση</string>
+    <string name="popup_title">Ρυθμίσεις μπροστινής κάμερας</string>
+    <string name="popup_led_title">LED κάμερας</string>
+    <string name="popup_sound_title">Ηχητικά εφέ</string>
+    <string name="popup_sound_muqin">Ξυλόφωνο</string>
+    <string name="popup_sound_mofa">Μαγεία</string>
+    <string name="popup_sound_chilun">Γρανάζι</string>
+    <string name="popup_sound_cangmen">Πόρτα καμπίνας</string>
+    <string name="doze_brightness_summary">Η λειτουργία <xliff:g id="mode" example="Low brightness">%s</xliff:g> είναι ενεργοποιημένη</string>
+    <string name="doze_brightness_low">Χαμηλή φωτεινότητα</string>
+    <string name="doze_brightness_high">Υψηλή φωτεινότητα</string>
+    <string name="doze_brightness_adaptive">Αυτόματη φωτεινότητα</string>
 </resources>

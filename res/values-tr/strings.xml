@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Yüksek</string>
     <string name="dialog_ok">Tamam</string>
     <string name="disabled">Devre dışı</string>
+    <string name="none">Hiçbiri</string>
     <string name="doze_settings_help_title">Yardım</string>
     <string name="doze_settings_help_text">Bu özellik bildirim ekranını başlatmak için sensörleri kullanır. Seçilen sensör sadece cihaz bildirim aldığında etkinleştirilir, pil kullanımını azaltmaya yardımcı olur. Ekran kapandığında seçilen sensörü etkinleştirmek için bir seçenek de vardır, fakat bu daha yüksek pil kullanımına neden olur.</string>
     <string name="button_panel_title">Ek tuşlar</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Kamera odaklanmasıyla ilgili sorunlar yaşıyorsanız bunu etkinleştirin </string>
     <string name="wake_on_gesture_title">Hareketle uyandırın</string>
     <string name="wake_on_gesture_summary">Hareket olaylarında titreşimli bildirimler yerine cihazı uyandırın</string>
+    <string name="stylus_panel_title">Kalem</string>
+    <string name="stylus_panel_summary">Kalem davranışını kontrol et</string>
+    <string name="stylus_removed_category_title">Kalem çıkarıldı</string>
+    <string name="stylus_inserted_category_title">Kalem takıldı</string>
+    <string name="stylus_screen_on_when_removed_title">Ekranı aç</string>
+    <string name="stylus_screen_on_when_removed_summary">Kalemi çıkarınca ekranı uyandır</string>
+    <string name="stylus_screen_off_when_inserted_title">Ekranı kapat</string>
+    <string name="stylus_screen_off_when_inserted_summary">Kalemi takınca ekranı kapat</string>
+    <string name="stylus_vibrate_title">Titret</string>
+    <string name="stylus_vibrate_when_removed_summary">Kalemi çıkarırken titret</string>
+    <string name="stylus_vibrate_when_inserted_summary">Kalemi takarken titret</string>
+    <string name="stylus_launch_app_title">Çıkarınca uygulamayı başlat</string>
 </resources>
