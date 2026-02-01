@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -162,4 +162,20 @@
     <string name="doze_brightness_low">Aşağı parlaqlıq</string>
     <string name="doze_brightness_high">Yüksək parlaqlıq</string>
     <string name="doze_brightness_adaptive">Adaptiv parlaqlıq</string>
+    <string name="alert_slider_category_title">Xəbərdarlıq diyircəyi</string>
+    <string name="alert_slider_selection_dialog_title">Hərəkət</string>
+    <string name="alert_slider_top_position">Üst mövqe</string>
+    <string name="alert_slider_middle_position">Orta mövqe</string>
+    <string name="alert_slider_bottom_position">Alt mövqe</string>
+    <string name="alert_slider_mode_none">Yoxdur</string>
+    <string name="alert_slider_mode_silent">Səssiz</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_vibration">Titrəmə</string>
+    <string name="alert_slider_mode_dnd_priority_only">Yalnız prioritet</string>
+    <string name="alert_slider_mode_dnd_total_silence">Tam səssizlik</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Yalnız zəngli saatlar</string>
+    <string name="alert_slider_mute_media_title">Media səsi yoxdur</string>
+    <string name="alert_slider_mute_media_summary">Səssizə keçərkən medianı səssizə al</string>
+    <string name="alert_slider_notification_dialog_title">Diyircək dialoqunu göstər</string>
+    <string name="alert_slider_notification_dialog_summary">Xəbərdarlıq diyircəyinin mövqeyi dəyişdiyi zaman bir dialoq nümayiş etdir</string>
 </resources>

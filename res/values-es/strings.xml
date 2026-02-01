@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -135,4 +135,45 @@
     <string name="stylus_vibrate_when_removed_summary">Vibrar cuando se retire el lápiz óptico</string>
     <string name="stylus_vibrate_when_inserted_summary">Vibrar cuando se inserte el lápiz óptico</string>
     <string name="stylus_launch_app_title">Iniciar aplicación al retirar</string>
+    <string name="popup_title">Ajustes de la cámara frontal</string>
+    <string name="popup_calibration_title">Calibración</string>
+    <string name="popup_calibration_summary">Calibrar el motor de la cámara emergente</string>
+    <string name="popup_calibration_warning_title">Calibración del motor</string>
+    <string name="popup_calibration_warning_text">El uso innecesario de la calibración puede causar daños permanentes. Se recomienda calibrar el motor de la cámara emergente solo si no se mueve correctamente o está en una posición incorrecta.</string>
+    <string name="popup_camera_tip">Advertencia</string>
+    <string name="popup_camera_takeback_failed_calibrate">No se pudo cerrar la cámara frontal. Intenta calibrar el motor.</string>
+    <string name="popup_camera_popup_failed_calibrate">No se pudo abrir la cámara frontal. Intenta calibrar el motor.</string>
+    <string name="popup_camera_calibrate_running">La cámara frontal no se puede usar durante la calibración.</string>
+    <string name="popup_camera_calibrate_now">Calibrar</string>
+    <string name="popup_camera_calibrate_failed">No se pudo calibrar</string>
+    <string name="popup_camera_calibrate_success">Calibrado con éxito. Ahora puedes abrir la cámara frontal.</string>
+    <string name="popup_led_title">LED de la cámara</string>
+    <string name="popup_led_summary">Activa la luz LED cuando la cámara frontal aparece y se retrae</string>
+    <string name="popup_sound_title">Efectos de sonido</string>
+    <string name="popup_sound_muqin">Xilófono</string>
+    <string name="popup_sound_yingyan">Cóndor</string>
+    <string name="popup_sound_jijia">Mecánico</string>
+    <string name="popup_sound_chilun">Engranaje</string>
+    <string name="popup_sound_cangmen">Puerta de cabina</string>
+    <string name="doze_brightness_title">Brillo siempre encendido</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> está habilitado</string>
+    <string name="doze_brightness_low">Brillo bajo</string>
+    <string name="doze_brightness_high">Brillo alto</string>
+    <string name="doze_brightness_adaptive">Brillo adaptativo</string>
+    <string name="alert_slider_category_title">Control deslizante de alertas</string>
+    <string name="alert_slider_selection_dialog_title">Acción</string>
+    <string name="alert_slider_top_position">Posición superior</string>
+    <string name="alert_slider_middle_position">Posición central</string>
+    <string name="alert_slider_bottom_position">Posición inferior</string>
+    <string name="alert_slider_mode_none">Ninguno</string>
+    <string name="alert_slider_mode_silent">Silencio</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_vibration">Vibración</string>
+    <string name="alert_slider_mode_dnd_priority_only">Solo prioritarias</string>
+    <string name="alert_slider_mode_dnd_total_silence">Silencio total</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Solo alarmas</string>
+    <string name="alert_slider_mute_media_title">Silenciar multimedia</string>
+    <string name="alert_slider_mute_media_summary">Silenciar multimedia al activar el modo silencio</string>
+    <string name="alert_slider_notification_dialog_title">Mostrar diálogo del control deslizante</string>
+    <string name="alert_slider_notification_dialog_summary">Mostrar un diálogo cuando cambie la posición del control deslizante de alerta</string>
 </resources>

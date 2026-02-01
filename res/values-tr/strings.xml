@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Yüksek</string>
     <string name="dialog_ok">Tamam</string>
     <string name="disabled">Devre dışı</string>
+    <string name="none">Hiçbiri</string>
     <string name="doze_settings_help_title">Yardım</string>
     <string name="doze_settings_help_text">Bu özellik bildirim ekranını başlatmak için sensörleri kullanır. Seçilen sensör sadece cihaz bildirim aldığında etkinleştirilir, pil kullanımını azaltmaya yardımcı olur. Ekran kapandığında seçilen sensörü etkinleştirmek için bir seçenek de vardır, fakat bu daha yüksek pil kullanımına neden olur.</string>
     <string name="button_panel_title">Ek tuşlar</string>
@@ -123,4 +124,32 @@
     <string name="camera_focus_fix_summary">Kamera odaklanmasıyla ilgili sorunlar yaşıyorsanız bunu etkinleştirin </string>
     <string name="wake_on_gesture_title">Hareketle uyandırın</string>
     <string name="wake_on_gesture_summary">Hareket olaylarında titreşimli bildirimler yerine cihazı uyandırın</string>
+    <string name="stylus_panel_title">Kalem</string>
+    <string name="stylus_panel_summary">Kalem davranışını kontrol et</string>
+    <string name="stylus_removed_category_title">Kalem çıkarıldı</string>
+    <string name="stylus_inserted_category_title">Kalem takıldı</string>
+    <string name="stylus_screen_on_when_removed_title">Ekranı aç</string>
+    <string name="stylus_screen_on_when_removed_summary">Kalemi çıkarınca ekranı uyandır</string>
+    <string name="stylus_screen_off_when_inserted_title">Ekranı kapat</string>
+    <string name="stylus_screen_off_when_inserted_summary">Kalemi takınca ekranı kapat</string>
+    <string name="stylus_vibrate_title">Titret</string>
+    <string name="stylus_vibrate_when_removed_summary">Kalemi çıkarırken titret</string>
+    <string name="stylus_vibrate_when_inserted_summary">Kalemi takarken titret</string>
+    <string name="stylus_launch_app_title">Çıkarınca uygulamayı başlat</string>
+    <string name="alert_slider_category_title">Uyarı kaydırıcısı</string>
+    <string name="alert_slider_selection_dialog_title">Eylem</string>
+    <string name="alert_slider_top_position">Üst konum</string>
+    <string name="alert_slider_middle_position">Orta konum</string>
+    <string name="alert_slider_bottom_position">Alt konum</string>
+    <string name="alert_slider_mode_none">Hiçbiri</string>
+    <string name="alert_slider_mode_silent">Sessiz</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_vibration">Titreşim</string>
+    <string name="alert_slider_mode_dnd_priority_only">Sadece öncelik</string>
+    <string name="alert_slider_mode_dnd_total_silence">Tam sessizlik</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Yalnızca alarmlar</string>
+    <string name="alert_slider_mute_media_title">Medyayı sustur</string>
+    <string name="alert_slider_mute_media_summary">Sessize geçerken medyayı sustur</string>
+    <string name="alert_slider_notification_dialog_title">Kaydırıcı iletişim kutusunu göster</string>
+    <string name="alert_slider_notification_dialog_summary">Uyarı kaydırıcısının konumu değiştiğinde bir iletişim kutusu görüntüler</string>
 </resources>

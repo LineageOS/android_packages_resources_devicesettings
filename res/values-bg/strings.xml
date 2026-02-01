@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -160,4 +160,18 @@
     <string name="doze_brightness_low">Ниска яркост</string>
     <string name="doze_brightness_high">Висока яркост</string>
     <string name="doze_brightness_adaptive">Адаптивна яркост</string>
+    <string name="alert_slider_category_title">Плъзгач за предупреждение</string>
+    <string name="alert_slider_selection_dialog_title">Действие</string>
+    <string name="alert_slider_top_position">Горна позиция </string>
+    <string name="alert_slider_middle_position">Средна позиция</string>
+    <string name="alert_slider_bottom_position">Долна позиция</string>
+    <string name="alert_slider_mode_none">Без</string>
+    <string name="alert_slider_mode_silent">Без звук</string>
+    <string name="alert_slider_mode_normal">Нормален</string>
+    <string name="alert_slider_mode_vibration">Вибрация</string>
+    <string name="alert_slider_mode_dnd_priority_only">Само важни</string>
+    <string name="alert_slider_mode_dnd_total_silence">Тотална тишина</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Само будилници</string>
+    <string name="alert_slider_mute_media_title">Заглуши</string>
+    <string name="alert_slider_mute_media_summary">Заглуши само когато се превключва в тих режим</string>
 </resources>

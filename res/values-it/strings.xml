@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -162,4 +162,20 @@
     <string name="doze_brightness_low">Bassa luminosità</string>
     <string name="doze_brightness_high">Alta luminosità</string>
     <string name="doze_brightness_adaptive">Luminosità adattiva</string>
+    <string name="alert_slider_category_title">Slider notifiche</string>
+    <string name="alert_slider_selection_dialog_title">Azione</string>
+    <string name="alert_slider_top_position">Posizione superiore</string>
+    <string name="alert_slider_middle_position">Posizione centrale</string>
+    <string name="alert_slider_bottom_position">Posizione inferiore</string>
+    <string name="alert_slider_mode_none">Non fare nulla</string>
+    <string name="alert_slider_mode_silent">Silenzioso</string>
+    <string name="alert_slider_mode_normal">Normale</string>
+    <string name="alert_slider_mode_vibration">Vibrazione</string>
+    <string name="alert_slider_mode_dnd_priority_only">Solo priorità</string>
+    <string name="alert_slider_mode_dnd_total_silence">Silenzio totale</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Solo sveglie</string>
+    <string name="alert_slider_mute_media_title">Silenzia media</string>
+    <string name="alert_slider_mute_media_summary">Silenzia i media quando si passa alla modalità silenziosa</string>
+    <string name="alert_slider_notification_dialog_title">Mostra finestra di dialogo dello slider</string>
+    <string name="alert_slider_notification_dialog_summary">Mostra una finestra di dialogo quando la posizione dello slider cambia</string>
 </resources>

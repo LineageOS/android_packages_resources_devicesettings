@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -123,4 +123,17 @@
     <string name="camera_focus_fix_summary">Virkjaðu þetta ef myndavélin stillir brennivíddina ekki rétt</string>
     <string name="wake_on_gesture_title">Vakna við bendingar</string>
     <string name="wake_on_gesture_summary">Vekja tækið í stað þess að birta blikkandi tilkynningar við bendingaratburði</string>
+    <string name="alert_slider_category_title">Aðvaranasleði</string>
+    <string name="alert_slider_selection_dialog_title">Aðgerð</string>
+    <string name="alert_slider_top_position">Staða efst</string>
+    <string name="alert_slider_middle_position">Miðjustaða</string>
+    <string name="alert_slider_bottom_position">Staða neðst</string>
+    <string name="alert_slider_mode_silent">Hljóðlaust</string>
+    <string name="alert_slider_mode_normal">Venjulegt</string>
+    <string name="alert_slider_mode_vibration">Titringur</string>
+    <string name="alert_slider_mode_dnd_priority_only">Aðeins í forgangi</string>
+    <string name="alert_slider_mode_dnd_total_silence">Algjör þögn</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Aðeins áminningar</string>
+    <string name="alert_slider_mute_media_title">Þagga niður margmiðlun</string>
+    <string name="alert_slider_mute_media_summary">Þagga niður efni þegar skipt er í hljóðlaust</string>
 </resources>

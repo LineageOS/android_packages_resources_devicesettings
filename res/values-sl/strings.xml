@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -162,4 +162,20 @@
     <string name="doze_brightness_low">Nizka svetlost</string>
     <string name="doze_brightness_high">Visoka svetlost</string>
     <string name="doze_brightness_adaptive">Prilagodljiva svetlost</string>
+    <string name="alert_slider_category_title">Drsnik za opozorila</string>
+    <string name="alert_slider_selection_dialog_title">Dejanje</string>
+    <string name="alert_slider_top_position">Zgornji položaj</string>
+    <string name="alert_slider_middle_position">Srednji položaj</string>
+    <string name="alert_slider_bottom_position">Spodnji položaj</string>
+    <string name="alert_slider_mode_none">Brez</string>
+    <string name="alert_slider_mode_silent">Tiho</string>
+    <string name="alert_slider_mode_normal">Običajno</string>
+    <string name="alert_slider_mode_vibration">Vibriranje</string>
+    <string name="alert_slider_mode_dnd_priority_only">Samo prednostno</string>
+    <string name="alert_slider_mode_dnd_total_silence">Popolna tišina</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Samo budilke</string>
+    <string name="alert_slider_mute_media_title">Utišaj predstavnost</string>
+    <string name="alert_slider_mute_media_summary">Utišaj predstavnost med preklapljanjem na tiho</string>
+    <string name="alert_slider_notification_dialog_title">Prikaži pogovorno okno drsnika</string>
+    <string name="alert_slider_notification_dialog_summary">Prikaži pogovorno okno, ko se položaj drsnika spremeni</string>
 </resources>

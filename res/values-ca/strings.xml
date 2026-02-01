@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -162,4 +162,20 @@
     <string name="doze_brightness_low">Brillantor baixa</string>
     <string name="doze_brightness_high">Brillantor alta</string>
     <string name="doze_brightness_adaptive">Brillantor adaptativa</string>
+    <string name="alert_slider_category_title">Control lliscant d\'alerta</string>
+    <string name="alert_slider_selection_dialog_title">Acció</string>
+    <string name="alert_slider_top_position">Posició superior</string>
+    <string name="alert_slider_middle_position">Posició central</string>
+    <string name="alert_slider_bottom_position">Posició inferior</string>
+    <string name="alert_slider_mode_none">Cap</string>
+    <string name="alert_slider_mode_silent">Silenci</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_vibration">Vibració</string>
+    <string name="alert_slider_mode_dnd_priority_only">Només prioritat</string>
+    <string name="alert_slider_mode_dnd_total_silence">Silenci total</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Només alarmes</string>
+    <string name="alert_slider_mute_media_title">Silencia la multimèdia </string>
+    <string name="alert_slider_mute_media_summary">Silencia el contingut multimèdia quan canvieu a silenci</string>
+    <string name="alert_slider_notification_dialog_title">Mostra el quadre de diàleg del control lliscant</string>
+    <string name="alert_slider_notification_dialog_summary">Mostra un quadre de diàleg quan canvia la posició del control lliscant d\'alerta</string>
 </resources>

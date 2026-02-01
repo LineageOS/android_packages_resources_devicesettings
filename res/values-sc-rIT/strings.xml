@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,14 +16,130 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Cunfiguratziones avantzadas</string>
+    <string name="screen_gestures_panel_title">Gestos</string>
+    <string name="touchscreen_gesture_extras">Extras</string>
+    <string name="touchscreen_gesture_haptic_feedback">Risposta a sa tocada</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibra cando si rilevat unu movimentu</string>
+    <string name="touchscreen_gesture_settings_title">Gestos de su pannellu tàtile</string>
+    <string name="touchscreen_gesture_settings_summary">Faghe vàrios movimentos tochende s\'ischermu pro atziones lestras</string>
+    <string name="gesture_display_title">Gestos de istudada de s\'ischermu</string>
     <string name="touchscreen_c_gesture_title">Fotocàmera</string>
+    <string name="touchscreen_c_gesture_summary">Disinna una \"C\" pro ativare sa càmera</string>
+    <string name="touchscreen_e_gesture_title">Posta eletrònica</string>
+    <string name="touchscreen_e_gesture_summary">Disinna una \"e\" pro abèrrere s\'aplicatzione de posta eletrònica</string>
+    <string name="touchscreen_m_gesture_title">Messagìstica</string>
+    <string name="touchscreen_m_gesture_summary">Disinna una \"M\" pro abèrrere s\'aplicatzione de messagìstica</string>
+    <string name="touchscreen_s_gesture_title">Messagìstica</string>
+    <string name="touchscreen_s_gesture_summary">Disinna una \"S\" pro abèrrere s\'aplicatzione de messagìstica</string>
+    <string name="touchscreen_v_gesture_title">Tecladu numèricu</string>
+    <string name="touchscreen_v_gesture_summary">Disinna una \"V\" pro abèrrere s\'aplicatzione de tecladu numèricu</string>
+    <string name="touchscreen_w_gesture_title">Navigadore</string>
+    <string name="touchscreen_w_gesture_summary">Disinna una \"W\" pro abèrrere s\'aplicatzione de su navigadore</string>
+    <string name="touchscreen_z_gesture_title">Tortza</string>
+    <string name="touchscreen_z_gesture_summary">Disinna una \"Z\" pro allùghere o istudare sa tortza</string>
+    <string name="touchscreen_flashlight_gesture_title">Tortza</string>
+    <string name="touchscreen_flashlight_gesture_summary">Disinna unu tzìrculu pro ativare o istudare sa tortza</string>
     <string name="touchscreen_music_gesture_title">Mùsica</string>
+    <string name="touchscreen_music_gesture_summary">Controlla sa riprodutzione de mùsica cun gestos \n
+    • Iscurre in bàsciu pro riproduire/pònnere in pàusa\n
+    • Iscurre a manca pro sa rasta pretzedente\n
+    • Iscurre a dereta pro sa rasta imbeniente</string>
+    <string name="touchscreen_swipe_up_title">Iscurre in artu</string>
+    <string name="touchscreen_swipe_right_title">Iscurre a dereta</string>
+    <string name="touchscreen_swipe_down_title">Iscurre in bàsciu</string>
+    <string name="touchscreen_swipe_left_title">Iscurre a manca</string>
+    <string name="user_aware_display_title">Ischermu in presèntzia de s\'utente</string>
+    <string name="user_aware_display_summary">Tene s\'ischermu allutu cando s\'utente est a in antis de s\'ischermu</string>
+    <string name="ambient_display_title">Ischermu ambiente</string>
+    <string name="ambient_display_enable_title">Imprea s\'ischermu ambiente</string>
+    <string name="ambient_display_enable_summary">Ischida s\'ischermu cando retzis notìficas</string>
+    <string name="ambient_display_gestures_title">Gestos de s\'ischermu ambiente</string>
+    <string name="ambient_display_gestures_summary">Gestos additzionales pro ischidare s\'ischermu</string>
+    <string name="ambient_display_summary">Ischida s\'ischermu cando retzis notìficas</string>
+    <string name="ambient_display_summary_on">S\'ischermu s\'at a allùghere cando retzas notìficas</string>
+    <string name="ambient_display_summary_off">S\'ischermu non s\'at a allùghere cando retzas notìficas</string>
+    <string name="ambient_display_always_on_title">Semper allutu</string>
+    <string name="ambient_display_always_on_summary">Mustra tempus, iconas de notìfica e àteras informatziones. Impreu de bateria prus artu.</string>
+    <string name="pickup_sensor_title">Sensore de movimentu</string>
+    <string name="proximity_sensor_title">Sensore de prossimidade</string>
+    <string name="hand_wave_gesture_title">Gestu de sa manu</string>
+    <string name="hand_wave_gesture_summary">Mustra notìficas a is gestos cun sa manu</string>
+    <string name="hand_wave_gesture_flat_title">Rileva orientatzione</string>
+    <string name="pick_up_gesture_title">Movimentu</string>
+    <string name="pick_up_gesture_summary">Mustra notìficas a movimentu</string>
+    <string name="pick_up_wake_gesture_summary">Ischida su dispositivu cun su movimentu</string>
+    <string name="actions_title">Atziones</string>
+    <string name="device_gestures_panel_summary">Gestos ispetziales de su dispositivu</string>
+    <string name="moto_gestures_panel_title">Gestos moto</string>
+    <string name="camera_gesture_title">Giru dòpiu</string>
+    <string name="camera_gesture_summary">Aberi sa càmera cando s\'impreet su gestu de su giru dòpiu</string>
+    <string name="hand_wave_silencer_title">Passa sa manu pro pònnere a sa muda</string>
+    <string name="hand_wave_silencer_summary">Pone is mutidas in intrada a sa muda passende sa manu in s\'ischermu</string>
+    <string name="flip_to_mute_title">Fùrria pro ativare sa modalidade No istorbes</string>
+    <string name="flip_to_mute_summary">Pone su telèfonu conca a bàsciu pro pònnere is mutidas e is notìficas a sa muda</string>
     <string name="action_none">Disabìlita</string>
+    <string name="action_launch_camera">Avia sa càmera</string>
+    <string name="action_torch">Allughe o istuda sa tortza</string>
+    <string name="feedback_intensity_title">Intensidade de sa risposta tàtile</string>
     <string name="feedback_intensity_none">Disabilitadu</string>
     <string name="feedback_intensity_low">Bassa</string>
     <string name="feedback_intensity_medium">Mèdia</string>
     <string name="feedback_intensity_high">Arta</string>
     <string name="dialog_ok">AB</string>
     <string name="disabled">Disabilitadu</string>
+    <string name="none">Nudda</string>
     <string name="doze_settings_help_title">Agiudu</string>
+    <string name="button_panel_title">Butones aditzionales</string>
+    <string name="button_swap_title">Cuncàmbia is butones</string>
+    <string name="button_swap_summary">Cuncàmbia s\'òrdine de is butones reghente e a coa</string>
+    <string name="fingerprint_title">Imprenta de is pòddighes</string>
+    <string name="fingerprint_as_home_title">Imprenta de pòddighes comente butone printzipale</string>
+    <string name="fingerprint_as_home_summary">Imprea su sensore de imprentas comente su butone printzipale</string>
+    <string name="fingerprint_wakeup_title">Ativatzione cun s\'imprenta</string>
+    <string name="fingerprint_wakeup_summary">Permite chi su sensore de imprentas ischidet su dispositivu cando s\'ischermu est istudadu</string>
+    <string name="fingerprint_pocketmode_title">Impedi s\'ativatzione atzidentale</string>
+    <string name="quick_charge_title">Càrriga lestra</string>
+    <string name="quick_charge_summary">Cuncàmbia sa càrriga lestra. Disconnete e torra a connètere a pustis de modificare custa cunfiguratzione</string>
+    <string name="wake_on_gesture_title">Ischida cun gestos</string>
+    <string name="wake_on_gesture_summary">Ischida su dispositivu imbetzes de mustrare notìficas cando si faghent gestos</string>
+    <string name="stylus_panel_title">Pinna</string>
+    <string name="stylus_panel_summary">Controllu de su cumportamentu de sa pinna</string>
+    <string name="stylus_removed_category_title">Pinna bogada</string>
+    <string name="stylus_inserted_category_title">Pinna insertada</string>
+    <string name="stylus_screen_on_when_removed_title">Allughe s\'ischermu</string>
+    <string name="stylus_screen_on_when_removed_summary">Allughe s\'ischermu cando si bogat sa pinna</string>
+    <string name="stylus_screen_off_when_inserted_title">Istuda s\'ischermu</string>
+    <string name="stylus_screen_off_when_inserted_summary">Istuda s\'ischermu cando s\'insertat sa pinna</string>
+    <string name="stylus_vibrate_title">Vibra</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibra cando si bogat sa pinna</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibra cando s\'insertat sa pinna</string>
+    <string name="stylus_launch_app_title">Avia s\'aplicatzione cando si bogat</string>
+    <string name="popup_title">Cunfiguratziones de sa càmera de in antis</string>
+    <string name="popup_calibration_title">Calibradura</string>
+    <string name="popup_calibration_summary">Càlibra su motore de sa càmera a cumparsa</string>
+    <string name="popup_calibration_warning_title">Calibratzione de su motore</string>
+    <string name="popup_calibration_warning_text">S\'impreu innetzessàriu de sa calibradura podet provocare unu dannu permanente. Si cussìgiat de calibrare su motore de sa càmera a cumparsa isceti si non si movet in manera curreta o si est in positzione isballiada.</string>
+    <string name="popup_camera_tip">Atentzione</string>
+    <string name="popup_camera_takeback_failed_calibrate">Impossìbile serrare sa càmera de in antis. Proa a calibrare su motore.</string>
+    <string name="popup_camera_popup_failed_calibrate">Impossìbile abèrrere sa càmera de in antis. Proa a calibrare su motore.</string>
+    <string name="popup_camera_calibrate_running">Sa càmera de in antis non podet èssere impreada durante sa calibratzione.</string>
+    <string name="popup_camera_calibrate_now">Calibradura</string>
+    <string name="popup_camera_calibrate_failed">Impossìbile calibrare</string>
+    <string name="popup_camera_calibrate_success">Calibradura agabbada. Immoe podes abèrrere sa càmera de in antis.</string>
+    <string name="popup_led_title">Càmera LED</string>
+    <string name="popup_led_summary">Abilita sa lughe LED cando sa càmera de in antis aparesset e si serrat</string>
+    <string name="popup_sound_title">Efetos de àudio</string>
+    <string name="popup_sound_muqin">Silòfonu</string>
+    <string name="popup_sound_yingyan">Condor</string>
+    <string name="popup_sound_mofa">Màgia</string>
+    <string name="popup_sound_jijia">Mecànicu</string>
+    <string name="popup_sound_chilun">Ingranàgiu</string>
+    <string name="popup_sound_cangmen">Ghenna de cabina</string>
+    <string name="doze_brightness_title">Lugore semper allutu</string>
+    <string name="doze_brightness_summary">Sa modalidade <xliff:g id="mode" example="Low brightness">%s</xliff:g> est ativa</string>
+    <string name="doze_brightness_low">Lugore bàsciu</string>
+    <string name="doze_brightness_high">Lugore artu</string>
+    <string name="doze_brightness_adaptive">Lugore flessìbile</string>
+    <string name="alert_slider_mode_none">Nudda</string>
 </resources>

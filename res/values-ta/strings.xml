@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -19,13 +19,13 @@
     <string name="device_settings_app_name">மேம்பட்ட அமைப்புகள்</string>
     <string name="screen_gestures_panel_title">சைகைகள்</string>
     <string name="touchscreen_gesture_extras">கூடுதல்</string>
-    <string name="touchscreen_gesture_haptic_feedback">தீண்டும் பின்னூட்டம்</string>
-    <string name="touchscreen_gesture_haptic_feedback_summary">தொடுதிரைச் சைகை கண்டறியப்படும்போது, அதிர்வுறச் செய்க</string>
+    <string name="touchscreen_gesture_haptic_feedback">தொடு பின்னூட்டம்</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">தொடுதிரைச் சைகை கண்டறியப்படும்போது, அதிர்வுறும்</string>
     <string name="touchscreen_gesture_settings_title">தொடுதிரைச் சைகைகள்</string>
-    <string name="touchscreen_gesture_settings_summary">விரைவான செயற்பாடுகளுக்குப் பல்வேறு தொடுதிரைச் சைகைகளைச் செய்க</string>
+    <string name="touchscreen_gesture_settings_summary">விரைவுச் செயற்பாடுகளுக்குப் பல்வேறு தொடுதிரைச் சைகைகளைச் செய்க</string>
     <string name="gesture_display_title">திரையை அணைக்கும் சைகைகள்</string>
     <string name="touchscreen_c_gesture_title">படமி</string>
-    <string name="touchscreen_c_gesture_summary">படமியைச் செயற்படுத்த \"C\" எழுத்தை வரைக</string>
+    <string name="touchscreen_c_gesture_summary">படமியை இயக்க \"C\" எழுத்தை வரைக</string>
     <string name="touchscreen_e_gesture_title">மின்னஞ்சல்</string>
     <string name="touchscreen_e_gesture_summary">மின்னஞ்சல் செயலியைத் திறக்க \"e\" எழுத்தை வரைக</string>
     <string name="touchscreen_m_gesture_title">செய்தியிடல்</string>
@@ -33,96 +33,96 @@
     <string name="touchscreen_s_gesture_title">செய்தியிடல்</string>
     <string name="touchscreen_s_gesture_summary">செய்தியிடல் செயலியைத் திறக்க \"S\" எழுத்தை வரைக</string>
     <string name="touchscreen_v_gesture_title">அழைப்பான்</string>
-    <string name="touchscreen_v_gesture_summary">அழைப்புவிசைச் செயலியைத் திறக்க \"V\" எழுத்தை வரைக</string>
+    <string name="touchscreen_v_gesture_summary">அழைப்பான் செயலியைத் திறக்க \"V\" எழுத்தை வரைக</string>
     <string name="touchscreen_w_gesture_title">உலாவி</string>
     <string name="touchscreen_w_gesture_summary">உலாவிச் செயலியைத் திறக்க \"W\" எழுத்தை வரைக</string>
     <string name="touchscreen_z_gesture_title">ஒளிவிளக்கு</string>
-    <string name="touchscreen_z_gesture_summary">ஒளிவிளக்கு நிலைமாற்ற \"Z\" எழுத்தை வரைக</string>
+    <string name="touchscreen_z_gesture_summary">ஒளிவிளக்கை நிலைமாற்ற \"Z\" எழுத்தை வரைக</string>
     <string name="touchscreen_flashlight_gesture_title">ஒளிவிளக்கு</string>
-    <string name="touchscreen_flashlight_gesture_summary">ஒளிவிளக்கு நிலைமாற்ற ஒரு வட்டம் வரைக</string>
+    <string name="touchscreen_flashlight_gesture_summary">ஒளிவிளக்கை நிலைமாற்ற ஒரு வட்டம் வரைக</string>
     <string name="touchscreen_music_gesture_title">இசை</string>
-    <string name="touchscreen_music_gesture_summary">இசை மறு இயக்கத்தைக் கட்டுப்படுத்த மெய்ப்பாடுகளைப் பயன்படுத்துக \n
-    • இயக்க/இடைநிறுத்த கீழே தேய்க்கவும்\n
-    • முந்தைய தடத்திற்கு இடப்பக்கமாகத் தேய்க்கவும்\n
-    • அடுத்த தடத்திற்கு வலப்பக்கமாகத் தேய்க்கவும்</string>
-    <string name="touchscreen_swipe_up_title">மேல்நோக்கித் தேய்க்க</string>
-    <string name="touchscreen_swipe_right_title">வலப்புறம் தேய்க்க</string>
-    <string name="touchscreen_swipe_down_title">கீழ்நோக்கித் தேய்க்க</string>
-    <string name="touchscreen_swipe_left_title">இடப்புறம் தேய்க்க</string>
-    <string name="user_aware_display_title">பயனர்-உணர்கிற காட்சி</string>
+    <string name="touchscreen_music_gesture_summary">இசை இயக்கத்தைச் சைகைகள்மூலம் கட்டுப்படுத்துக\n
+    • இயக்க/இடைநிறுத்த கீழே வருடுக\n
+    • முந்தைய பாடலுக்கு இடப்பக்கமாக வருடுக\n
+    • அடுத்த பாடலுக்கு வலப்பக்கமாக வருடுக</string>
+    <string name="touchscreen_swipe_up_title">மேல் வருடுக</string>
+    <string name="touchscreen_swipe_right_title">வலப்புறம் வருடுக</string>
+    <string name="touchscreen_swipe_down_title">கீழ் வருடுக</string>
+    <string name="touchscreen_swipe_left_title">இடப்புறம் வருடுக</string>
+    <string name="user_aware_display_title">பயனர் உணரும் காட்சி</string>
     <string name="user_aware_display_summary">பயனர் காட்சிக்கு முன்னால் இருக்கும்போது, திரையை இயக்கத்தில் வைத்திருக்க</string>
     <string name="ambient_display_title">சூழல்சார் காட்சி</string>
     <string name="ambient_display_enable_title">சூழல்சார் காட்சியைப் பயன்படுத்துக</string>
-    <string name="ambient_display_enable_summary">அறிவிப்புகளைப் பெறும்போது, திரையை விழிப்பூட்டுக</string>
-    <string name="ambient_display_gestures_title">சூழல்சார் காட்சி மெய்ப்பாடுகள்</string>
-    <string name="ambient_display_gestures_summary">திரையை எழுப்பக் கூடுதல் மெய்ப்பாடுகள்</string>
-    <string name="ambient_display_summary">நீர் அறிவிப்புகளைப் பெறும்போது, திரையை விழிப்பூட்டுக</string>
-    <string name="ambient_display_summary_on">நீர் அறிவிப்புகளைப் பெறும்போது, திரை விழித்தெழும்</string>
-    <string name="ambient_display_summary_off">நீர் அறிவிப்புகளைப் பெறும்போது, திரை விழித்தெழாது</string>
+    <string name="ambient_display_enable_summary">அறிவிப்புகளைப் பெறும்போது, திரையை விழிப்பூட்டும்</string>
+    <string name="ambient_display_gestures_title">சூழல்சார் காட்சிச் சைகைகள்</string>
+    <string name="ambient_display_gestures_summary">திரையை எழுப்பக் கூடுதல் சைகைகள்</string>
+    <string name="ambient_display_summary">அறிவிப்புகளைப் பெறும்போது, திரையை விழிப்பூட்டும்</string>
+    <string name="ambient_display_summary_on">அறிவிப்புகளைப் பெறும்போது, திரை விழித்தெழும்</string>
+    <string name="ambient_display_summary_off">அறிவிப்புகளைப் பெறும்போது, திரை விழித்தெழாது</string>
     <string name="ambient_display_always_on_title">எப்போதும் இயக்குக</string>
-    <string name="ambient_display_always_on_summary">நேரம், அறிவிப்புப் படவுருகள்,  பிற தகவல் ஆகியவற்றைக் காட்டுக. மின்கலப் பயன்பாடு மிகுதியானது.</string>
-    <string name="tilt_sensor_title">கவிழ் உணரி</string>
-    <string name="pickup_sensor_title">எடுப்பி உணரி</string>
-    <string name="proximity_sensor_title">நெருங்கமை உணரி</string>
+    <string name="ambient_display_always_on_summary">நேரத்தையும், அறிவிப்புச் சின்னங்களையும், பிற தகவலையும் காட்டும். மின்கலப் பயன்பாடு உயரும்.</string>
+    <string name="tilt_sensor_title">சாய்வு உணரி</string>
+    <string name="pickup_sensor_title">எடுப்பு உணரி</string>
+    <string name="proximity_sensor_title">நெருக்க உணரி</string>
     <string name="hand_wave_gesture_title">கையசைவு</string>
     <string name="hand_wave_gesture_summary">கையசைவில் துடிப்பு அறிவிப்புகள்</string>
     <string name="hand_wave_gesture_flat_title">நோக்குநிலை கண்டறிதல்</string>
     <string name="hand_wave_gesture_flat_summary">தொலைபேசி தட்டையான மேற்பரப்பில் முகம் மேல்நோக்கி இருந்தால் மட்டுமே துடிப்பு</string>
-    <string name="pick_up_gesture_title">எடுப்பி</string>
-    <string name="pick_up_gesture_summary">எடுக்கும்பொழுது, துடிப்பு அறிவிப்புகள்</string>
-    <string name="pick_up_wake_gesture_summary">எடுக்கும்பொழுது, கருவியை விழிப்பூடுக</string>
+    <string name="pick_up_gesture_title">எடுப்பு</string>
+    <string name="pick_up_gesture_summary">எடுக்கும்போது, துடிப்பு அறிவிப்புகள்</string>
+    <string name="pick_up_wake_gesture_summary">எடுக்கும்போது, கருவியை விழிப்பூட்டுக</string>
     <string name="pocket_gesture_title">பை</string>
     <string name="pocket_gesture_summary">பையிலிருந்து எடுக்கும்போது, துடிப்பு அறிவிப்புகள்</string>
     <string name="proximity_wake_title">அண்மை விழிப்பூட்டல்</string>
     <string name="proximity_wake_enable_title">அண்மை விழிப்பூட்டல்</string>
     <string name="proximity_wake_enable_summary">கையசைவில் கருவியை விழிப்பூட்டுக</string>
     <string name="actions_title">செயல்கள்</string>
-    <string name="device_gestures_panel_summary">கருவியின் சிறப்பு மெய்ப்பாடுகள்</string>
-    <string name="moto_gestures_panel_title">மோட்டோ மெய்ப்பாடுகள்</string>
-    <string name="camera_gesture_title">இரு-திருப்பம்</string>
-    <string name="camera_gesture_summary">இரு திருப்ப மெய்ப்பாடைப் பயன்படுத்தும்போது, படமியைத் திறக்க</string>
-    <string name="chop_chop_gesture_title">நறுக்கு-நறுக்கு</string>
-    <string name="chop_chop_gesture_summary">நறுக்கு-நறுக்கு மெய்ப்பாடைப் பயன்படுத்தும்போது, ஒளிவிளக்கு நிலைமாற்றுக</string>
+    <string name="device_gestures_panel_summary">கருவியின் சிறப்புச் சைகைகள்</string>
+    <string name="moto_gestures_panel_title">மோட்டோ சைகைகள்</string>
+    <string name="camera_gesture_title">இருமுறை திருப்பம்</string>
+    <string name="camera_gesture_summary">இருமுறை திருப்பச் சைகையைப் பயன்படுத்தும்போது, படமியைத் திறக்க</string>
+    <string name="chop_chop_gesture_title">வெட்டு அசைவு</string>
+    <string name="chop_chop_gesture_summary">வெட்டு அசைவுச் சைகையைப் பயன்படுத்தும்போது, ஒளிவிளக்கை நிலைமாற்றுக</string>
     <string name="hand_wave_silencer_title">ஒலியின்மைக்குக் கையசைக்க</string>
-    <string name="hand_wave_silencer_summary">திரையின் குறுக்கே கையசைப்பதன் மூலம் உள்வரு அழைப்புகளை ஒலியின்மையாக்குக</string>
+    <string name="hand_wave_silencer_summary">திரையின் குறுக்கே கையசைப்பதன் மூலம், உள்வரும் அழைப்புகளை ஒலியின்மையாக்குக</string>
     <string name="flip_to_mute_title">தொந்தரவு செய்யாப் பயன்முறைக்குப் புரட்டுக</string>
-    <string name="flip_to_mute_summary">அறிவிப்புகள், அழைப்புகள் ஆகியவற்றை ஒலியின்மையாக்க, தொலைபேசி முகத்தைக் கீழே வைக்க</string>
+    <string name="flip_to_mute_summary">அறிவிப்புகளையும், அழைப்புகளையும் ஒலியடக்கத் திரையைக் கீழே பார்த்தவாறு வைக்க</string>
     <string name="dnd_access">இச்சிறப்பியலைப் பயன்படுத்த, CM நடவடிக்கைகளுக்கான அணுகலை தொந்தரவு செய்யாப் பயன்முறைக்கு வழங்கவும்.</string>
-    <string name="lift_to_silence_title">மணியொலி நிறுத்த, எடுக்க</string>
-    <string name="lift_to_silence_summary">உள்வரு அழைப்புகளை ஒலியின்மையாக்க தொலைபேசியை உயர்த்துக. உமது தொலைபேசி அசையாமல் இருக்கும்போது மட்டும் இது செயற்படும்</string>
+    <string name="lift_to_silence_title">ஒலிப்பதை நிறுத்தத் தொலைபேசியை எடுக்க</string>
+    <string name="lift_to_silence_summary">அழைப்பொலியை அடக்கத் தொலைபேசியைத் தூக்குக. இஃது உமது தொலைபேசி தட்டையான நிலையில் இருக்கும்போது மட்டுமே செயற்படும்</string>
     <string name="action_none">முடக்குக</string>
-    <string name="action_launch_camera">படமியைத் தொடங்கு</string>
-    <string name="action_torch">மின்விளக்கு நிலைமாற்றுக</string>
-    <string name="feedback_intensity_title">தொடுவுணர் பின்னூட்டச் செறிவு</string>
-    <string name="feedback_intensity_summary">இரு-திருப்பம், நறுக்கு-நறுக்கு ஆகிய செயல்களுக்கான தொடுவுணர் பின்னூட்டத்தின் வலிமை</string>
+    <string name="action_launch_camera">படமியைத் தொடங்குக</string>
+    <string name="action_torch">மின்விளக்கை நிலைமாற்றுக</string>
+    <string name="feedback_intensity_title">தொடுவுணர்வு அதிர்வின் செறிவு</string>
+    <string name="feedback_intensity_summary">இருமுறை திருப்புதல், வெட்டும் அசைவு ஆகிய செயல்களுக்கான தொடுவுணர்வு அதிர்வின் வலிமை</string>
     <string name="feedback_intensity_none">முடக்கப்பட்டது</string>
-    <string name="feedback_intensity_low">குறைநிலை</string>
-    <string name="feedback_intensity_medium">மையநிலை</string>
-    <string name="feedback_intensity_high">உயர்நிலை</string>
+    <string name="feedback_intensity_low">குறைவு</string>
+    <string name="feedback_intensity_medium">நடுத்தரம்</string>
+    <string name="feedback_intensity_high">உயர்வு</string>
     <string name="dialog_ok">சரி</string>
     <string name="disabled">முடக்கப்பட்டது</string>
     <string name="doze_settings_help_title">உதவி</string>
-    <string name="doze_settings_help_text">இச்சிறப்பியல்கள், சிறுதுயில் அறிவிப்புத் துடிப்பைத் தொடங்க உணரி நிகழ்வுகளைப் பயன்படுத்துகின்றன. கருவி அறிவிப்பைப் பெறும்போது மட்டுமே தேர்ந்தெடுக்கப்பட்ட உணரி இயக்கப்படும், இது மின்கலப் பயன்பாட்டைக் குறைக்க உதவுகிறது. திரை அணைந்தவுடன் தேர்ந்தெடுக்கப்பட்ட உணரியை இயக்கும் விருப்பமும் உள்ளது, இஃது உயர்ந்த மின்கலப் பயன்பாட்டை ஏற்படுத்தும்.</string>
+    <string name="doze_settings_help_text">இச்சிறப்பியல்கள், சிறுதுயில் அறிவிப்புகளை இயக்க உணரி நிகழ்வுகளைப் பயன்படுத்துகின்றன. கருவி ஓர் அறிவிப்பைப் பெறும்போது மட்டுமே தேர்ந்தெடுக்கப்பட்ட உணரி இயக்கப்படும்; இது மின்கலப் பயன்பாட்டைக் குறைக்க உதவுகிறது. திரை அணைந்தவுடனேயே உணரியைச் செயற்படுத்தும் விருப்பமும் உள்ளது, ஆனால், இஃது உயர்ந்த மின்கல ஆற்றலைச் செலவிடும்.</string>
     <string name="button_panel_title">கூடுதல் பொத்தான்கள்</string>
     <string name="button_swap_title">பொத்தான்கள் இடமாற்றுக</string>
-    <string name="button_swap_summary">அண்மை, முந்தைய பொத்தான்களின் வரிசையை இடமாற்றுக</string>
-    <string name="fingerprint_title">கைரேகை</string>
-    <string name="fingerprint_as_home_title">முகப்பாகக் கைரேகை</string>
-    <string name="fingerprint_as_home_summary">கைரேகை உணரியை ஒரு முகப்புப் பொத்தானாகப் பயன்படுத்துக</string>
-    <string name="fingerprint_wakeup_title">கைரேகை விழித்தெழுக</string>
-    <string name="fingerprint_wakeup_summary">திரை அணைக்கப்பட்டிருக்கும்போது, கருவியை விழிப்பூட்ட கைரேகை உணரியை அனுமதிக்க</string>
+    <string name="button_swap_summary">அண்மை, பின்செல் பொத்தான்களின் வரிசையை இடமாற்றுக</string>
+    <string name="fingerprint_title">விரல்ரேகை</string>
+    <string name="fingerprint_as_home_title">முகப்பாக விரல்ரேகை</string>
+    <string name="fingerprint_as_home_summary">விரல்ரேகை உணரியை முகப்புப் பொத்தானாகப் பயன்படுத்துக</string>
+    <string name="fingerprint_wakeup_title">விரல்ரேகை வழி உணர்த்தல்</string>
+    <string name="fingerprint_wakeup_summary">திரை அணைந்திருக்கும்போது, விரல்ரேகை உணரிமூலம் கருவியை விழிப்பூட்ட அனுமதிக்க</string>
     <string name="fingerprint_pocketmode_title">தற்செயலான விழித்தலைத் தடுக்க</string>
-    <string name="fingerprint_pocketmode_summary">கைரேகை உணரிமூலம் விழித்தெழுதல்களைத் தூண்டுவதற்கு முன், நெருக்க உணரியைச் சரிபார்க்க</string>
-    <string name="fingerprint_sleep_title">கைரேகை உறக்கம்</string>
-    <string name="fingerprint_sleep_summary">திரையை அணைக்க கைரேகை உணரியை அழுத்துக</string>
-    <string name="high_touch_sensitivity_title">உயர்ந்த தொடல் உணர்திறன்</string>
-    <string name="high_touch_sensitivity_summary">கையுறைகளை அணிந்திருக்கும்போது, பயன்படுத்தக்கூடிய வகையில் தொடுதிரை உணர்திறனை உயர்த்துக</string>
+    <string name="fingerprint_pocketmode_summary">விரல்ரேகை உணரிமூலம் விழித்தெழுதல்களைத் தூண்டுவதற்கு முன், நெருக்க உணரியைச் சரிபார்க்க</string>
+    <string name="fingerprint_sleep_title">விரல்ரேகை வழி உறக்கம்</string>
+    <string name="fingerprint_sleep_summary">திரையை அணைக்க விரல்ரேகை உணரியை அழுத்துக</string>
+    <string name="high_touch_sensitivity_title">உயர்ந்த தொடு உணர்திறன்</string>
+    <string name="high_touch_sensitivity_summary">கையுறைகளை அணிந்திருக்கும்போது பயன்படுத்தும் வகையில், தொடுதிரையின் உணர்திறனை உயர்த்துக</string>
     <string name="quick_charge_title">விரைவு மின்னேற்றம்</string>
-    <string name="quick_charge_summary">விரைவு மின்னேற்ற நிலைமாற்றுக. இவ்வமைப்பை மாற்றியப்பின் மின்னேற்றியைத் துண்டித்து மீண்டும் செருகுக</string>
-    <string name="camera_focus_fix_title">படமிக் குவிநிலை சரிசெய்தல்</string>
-    <string name="camera_focus_fix_summary">படமிக் குவிப்பு செய்வதில் உமக்குச் சிக்கல்கள் இருந்தால் இயக்குக</string>
-    <string name="wake_on_gesture_title">மெய்ப்பாடுகளில் விழித்திடுக</string>
-    <string name="wake_on_gesture_summary">மெய்ப்பாடு நிகழ்வுகளில் அறிவிப்புகளைத் துடிப்பதற்குப் பதிலாகக் கருவியை எழுப்புக</string>
+    <string name="quick_charge_summary">விரைவு மின்னேற்றத்தை நிலைமாற்றுக. இவ்வமைப்பை மாற்றியப்பின் மின்னேற்றியைத் துண்டித்து மீண்டும் இணைக்க</string>
+    <string name="camera_focus_fix_title">படமிக் குவியச் சரிசெய்தல்</string>
+    <string name="camera_focus_fix_summary">படமிக் குவியம் செய்வதில் உமக்குச் சிக்கல்கள் இருந்தால், இதை இயக்குக</string>
+    <string name="wake_on_gesture_title">சைகைகள்மூலம் விழிப்பூட்டுக</string>
+    <string name="wake_on_gesture_summary">சைகைகளின்போது, அறிவிப்புகளைக் காட்டுவதற்குப் பதிலாகக் கருவியை எழுப்புக</string>
     <string name="popup_title">முன் படமி அமைப்புகள்</string>
     <string name="popup_calibration_title">அளவொப்புமை</string>
     <string name="popup_calibration_summary">வெளிவரும் படமியின் இயக்கியை அளவொப்புச் செய்க</string>
@@ -149,4 +149,8 @@
     <string name="doze_brightness_low">குறைந்த ஒளிர்வு</string>
     <string name="doze_brightness_high">உயர்ந்த ஒளிர்வு</string>
     <string name="doze_brightness_adaptive">சூழலுக்கேற்ற ஒளிர்வு</string>
+    <string name="alert_slider_top_position">முதற் நிலை</string>
+    <string name="alert_slider_middle_position">நடு நிலை</string>
+    <string name="alert_slider_bottom_position">கீழ் நிலை</string>
+    <string name="alert_slider_mode_silent">ஒலியின்மை</string>
 </resources>

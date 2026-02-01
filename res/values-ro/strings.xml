@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -162,4 +162,20 @@
     <string name="doze_brightness_low">Luminozitate scăzută</string>
     <string name="doze_brightness_high">Luminozitate ridicată</string>
     <string name="doze_brightness_adaptive">Luminozitate adaptivă</string>
+    <string name="alert_slider_category_title">Alert slider</string>
+    <string name="alert_slider_selection_dialog_title">Acțiune</string>
+    <string name="alert_slider_top_position">Sus</string>
+    <string name="alert_slider_middle_position">Mijloc</string>
+    <string name="alert_slider_bottom_position">Jos</string>
+    <string name="alert_slider_mode_none">Nimic</string>
+    <string name="alert_slider_mode_silent">Silențios</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_vibration">Vibrație</string>
+    <string name="alert_slider_mode_dnd_priority_only">Numai cu prioritate</string>
+    <string name="alert_slider_mode_dnd_total_silence">Niciun sunet</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Numai alarme</string>
+    <string name="alert_slider_mute_media_title">Fără sunet media</string>
+    <string name="alert_slider_mute_media_summary">Fără sunet media când se schimbă la silențios</string>
+    <string name="alert_slider_notification_dialog_title">Afișare dialog glisor</string>
+    <string name="alert_slider_notification_dialog_summary">Afișează un dialog atunci când poziția glisorului de alertă se schimbă</string>
 </resources>

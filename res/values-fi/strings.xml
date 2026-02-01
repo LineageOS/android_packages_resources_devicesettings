@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -120,4 +120,6 @@
     <string name="camera_focus_fix_summary">Ota tämä käyttöön, jos sinulla on ongelmia kameran tarkennuksen kanssa</string>
     <string name="wake_on_gesture_title">Herätä eleissä</string>
     <string name="wake_on_gesture_summary">Herätä laite ilmoitusten vilkuttamisen sijaan käytettäessä eleitä</string>
+    <string name="alert_slider_mute_media_title">Mykistä media</string>
+    <string name="alert_slider_mute_media_summary">Mykistä media kun vaihdetaan äänettömään tilaan.</string>
 </resources>

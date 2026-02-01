@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -162,4 +162,18 @@
     <string name="doze_brightness_low">روشنایی کم</string>
     <string name="doze_brightness_high">روشنایی بالا</string>
     <string name="doze_brightness_adaptive">روشنایی تطبیقی</string>
+    <string name="alert_slider_category_title">نوار لغزنده هشدار</string>
+    <string name="alert_slider_selection_dialog_title">عمل</string>
+    <string name="alert_slider_top_position">موقعیت بالا</string>
+    <string name="alert_slider_middle_position">موقعیت وسط</string>
+    <string name="alert_slider_bottom_position">موقعیت پایین</string>
+    <string name="alert_slider_mode_none">هیچ</string>
+    <string name="alert_slider_mode_silent">بی‌صدا</string>
+    <string name="alert_slider_mode_normal">عادی</string>
+    <string name="alert_slider_mode_vibration">لرزش</string>
+    <string name="alert_slider_mode_dnd_priority_only">فقط اولویت ها</string>
+    <string name="alert_slider_mode_dnd_total_silence">سکوت کامل</string>
+    <string name="alert_slider_mode_dnd_alarms_only">فقط هشدار ها</string>
+    <string name="alert_slider_mute_media_title">رسانه بی صدا</string>
+    <string name="alert_slider_mute_media_summary">هنگام جابجایی به بی‌صدا، رسانه را بی‌صدا کنید</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -123,4 +123,17 @@
     <string name="camera_focus_fix_summary">如果您的相機有對焦問題，請啟用此選項</string>
     <string name="wake_on_gesture_title">以手勢喚醒裝置</string>
     <string name="wake_on_gesture_summary">手勢事件喚醒裝置而非顯示通知</string>
+    <string name="alert_slider_category_title">警示滑桿</string>
+    <string name="alert_slider_selection_dialog_title">動作</string>
+    <string name="alert_slider_top_position">頂部位置</string>
+    <string name="alert_slider_middle_position">中間位置</string>
+    <string name="alert_slider_bottom_position">底部位置</string>
+    <string name="alert_slider_mode_silent">靜音</string>
+    <string name="alert_slider_mode_normal">一般</string>
+    <string name="alert_slider_mode_vibration">震動</string>
+    <string name="alert_slider_mode_dnd_priority_only">僅限優先</string>
+    <string name="alert_slider_mode_dnd_total_silence">一律靜音</string>
+    <string name="alert_slider_mode_dnd_alarms_only">僅限鬧鐘</string>
+    <string name="alert_slider_mute_media_title">靜音，包括媒體</string>
+    <string name="alert_slider_mute_media_summary">切換靜音時靜音媒體</string>
 </resources>

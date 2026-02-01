@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -162,4 +162,20 @@
     <string name="doze_brightness_low">Alacsony fényerő</string>
     <string name="doze_brightness_high">Magas fényerő</string>
     <string name="doze_brightness_adaptive">Alkalmazkodó fényerő</string>
+    <string name="alert_slider_category_title">Riasztási csúszka</string>
+    <string name="alert_slider_selection_dialog_title">Művelet</string>
+    <string name="alert_slider_top_position">Felül</string>
+    <string name="alert_slider_middle_position">Középen</string>
+    <string name="alert_slider_bottom_position">Alul</string>
+    <string name="alert_slider_mode_none">Egy sem</string>
+    <string name="alert_slider_mode_silent">Néma</string>
+    <string name="alert_slider_mode_normal">Normális</string>
+    <string name="alert_slider_mode_vibration">Rezgés</string>
+    <string name="alert_slider_mode_dnd_priority_only">Csak a fontosak</string>
+    <string name="alert_slider_mode_dnd_total_silence">Teljes némítás</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Csak az ébresztések</string>
+    <string name="alert_slider_mute_media_title">Médianémítás</string>
+    <string name="alert_slider_mute_media_summary">Médianémítás csendesre váltáskor</string>
+    <string name="alert_slider_notification_dialog_title">Csúszkaüzenetek megjelenítése</string>
+    <string name="alert_slider_notification_dialog_summary">Párbeszédpanel megjelenítése, amikor a csúszka helyzete megváltozik</string>
 </resources>

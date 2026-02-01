@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -121,4 +121,18 @@
     <string name="camera_focus_fix_summary">Mundësoje nëse ke probleme me fokusimin e kamerës</string>
     <string name="wake_on_gesture_title">Zgjohuni me gjeste</string>
     <string name="wake_on_gesture_summary">Zgjojeni pajisjen në vend që të pulsoni njoftime për ngjarjet e gjestit</string>
+    <string name="alert_slider_category_title">Rrëshqitësi i alarmit</string>
+    <string name="alert_slider_selection_dialog_title">Veprimi</string>
+    <string name="alert_slider_top_position">Pozicioni i lartë</string>
+    <string name="alert_slider_middle_position">Pozicioni i mesëm</string>
+    <string name="alert_slider_bottom_position">Pozicioni i poshtëm</string>
+    <string name="alert_slider_mode_none">Asnjë</string>
+    <string name="alert_slider_mode_silent">Pa zë</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_vibration">Dridhje</string>
+    <string name="alert_slider_mode_dnd_priority_only">Vetëm kryesoret</string>
+    <string name="alert_slider_mode_dnd_total_silence">Heshtje e plotë</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Vetëm alarmet</string>
+    <string name="alert_slider_mute_media_title">Hesht median</string>
+    <string name="alert_slider_mute_media_summary">Çaktivizo median kur kalon në heshtje</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -162,4 +162,20 @@
     <string name="doze_brightness_low">低輝度</string>
     <string name="doze_brightness_high">高輝度</string>
     <string name="doze_brightness_adaptive">明るさの自動調節</string>
+    <string name="alert_slider_category_title">アラートスライダー</string>
+    <string name="alert_slider_selection_dialog_title">動作</string>
+    <string name="alert_slider_top_position">上部</string>
+    <string name="alert_slider_middle_position">中央</string>
+    <string name="alert_slider_bottom_position">下部</string>
+    <string name="alert_slider_mode_none">なし</string>
+    <string name="alert_slider_mode_silent">サイレント</string>
+    <string name="alert_slider_mode_normal">標準</string>
+    <string name="alert_slider_mode_vibration">バイブ</string>
+    <string name="alert_slider_mode_dnd_priority_only">重要な通知のみ</string>
+    <string name="alert_slider_mode_dnd_total_silence">完全サイレント</string>
+    <string name="alert_slider_mode_dnd_alarms_only">アラームのみ</string>
+    <string name="alert_slider_mute_media_title">メディアをミュート</string>
+    <string name="alert_slider_mute_media_summary">サイレントモードに切り替えたときにメディア音量をミュートします</string>
+    <string name="alert_slider_notification_dialog_title">スライダーダイアログを表示</string>
+    <string name="alert_slider_notification_dialog_summary">アラートスライダーの位置を変更したときにダイアログを表示します</string>
 </resources>
