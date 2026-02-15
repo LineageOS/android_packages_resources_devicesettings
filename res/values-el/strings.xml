@@ -137,12 +137,27 @@
     <string name="stylus_vibrate_when_inserted_summary">Δόνηση κατά την εισαγωγή της γραφίδας</string>
     <string name="stylus_launch_app_title">Εκκίνηση εφαρμογής κατά την αφαίρεση</string>
     <string name="popup_title">Ρυθμίσεις μπροστινής κάμερας</string>
+    <string name="popup_calibration_title">Ρύθμιση</string>
+    <string name="popup_calibration_summary">Ρύθμιση του μοτέρ της αναδυόμενης κάμερας</string>
+    <string name="popup_calibration_warning_title">Ρύθμιση μοτέρ</string>
+    <string name="popup_calibration_warning_text">Άσκοπη ρύθμιση μπορεί να προκαλέσει μόνιμη ζημιά. Συνιστάται να κάνετε ρύθμιση του μοτέρ της αναδυόμενης κάμερας μόνο αν δεν κινείται σωστά ή αν είναι σε λάθος θέση!</string>
+    <string name="popup_camera_tip">Προειδοποίηση</string>
+    <string name="popup_camera_takeback_failed_calibrate">Δεν ήταν δυνατό το κλείσιμο της μπροστινής κάμερας. Δοκιμάστε να ρυθμίσετε το μοτέρ.</string>
+    <string name="popup_camera_popup_failed_calibrate">Δεν ήταν δυνατό το άνοιγμα της μπροστινής κάμερας. Δοκιμάστε να ρυθμίσετε το μοτέρ.</string>
+    <string name="popup_camera_calibrate_running">Η μπροστινή κάμερα δεν μπορεί να χρησιμοποιηθεί κατά τη διάρκεια της ρύθμισης.</string>
+    <string name="popup_camera_calibrate_now">Ρύθμιση</string>
+    <string name="popup_camera_calibrate_failed">Αποτυχία ρύθμισης</string>
+    <string name="popup_camera_calibrate_success">Ρύθμιση επιτυχής. Μπορείτε τώρα να ανοίξετε την μπροστινή κάμερα.</string>
     <string name="popup_led_title">LED κάμερας</string>
+    <string name="popup_led_summary">Ενεργοποίηση LED κατά την εμφάνιση και την απόκρυψη της μπροστινής κάμερας</string>
     <string name="popup_sound_title">Ηχητικά εφέ</string>
     <string name="popup_sound_muqin">Ξυλόφωνο</string>
+    <string name="popup_sound_yingyan">Κόνδορας</string>
     <string name="popup_sound_mofa">Μαγεία</string>
+    <string name="popup_sound_jijia">Μέχα</string>
     <string name="popup_sound_chilun">Γρανάζι</string>
     <string name="popup_sound_cangmen">Πόρτα καμπίνας</string>
+    <string name="doze_brightness_title">Φωτεινότητα πάντα ενεργοποιημένης οθόνης</string>
     <string name="doze_brightness_summary">Η λειτουργία <xliff:g id="mode" example="Low brightness">%s</xliff:g> είναι ενεργοποιημένη</string>
     <string name="doze_brightness_low">Χαμηλή φωτεινότητα</string>
     <string name="doze_brightness_high">Υψηλή φωτεινότητα</string>
