@@ -23,7 +23,7 @@
     <string name="touchscreen_gesture_haptic_feedback_summary">தொடுதிரைச் சைகை கண்டறியப்படும்போது, அதிர்வுறும்</string>
     <string name="touchscreen_gesture_settings_title">தொடுதிரைச் சைகைகள்</string>
     <string name="touchscreen_gesture_settings_summary">விரைவுச் செயற்பாடுகளுக்குப் பல்வேறு தொடுதிரைச் சைகைகளைச் செய்க</string>
-    <string name="gesture_display_title">திரையை அணைக்கும் சைகைகள்</string>
+    <string name="gesture_display_title">திரை அணைப்புச் சைகைகள்</string>
     <string name="touchscreen_c_gesture_title">படமி</string>
     <string name="touchscreen_c_gesture_summary">படமியை இயக்க \"C\" எழுத்தை வரைக</string>
     <string name="touchscreen_e_gesture_title">மின்னஞ்சல்</string>
