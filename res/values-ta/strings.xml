@@ -23,7 +23,7 @@
     <string name="touchscreen_gesture_haptic_feedback_summary">தொடுதிரைச் சைகை கண்டறியப்படும்போது, அதிர்வுறும்</string>
     <string name="touchscreen_gesture_settings_title">தொடுதிரைச் சைகைகள்</string>
     <string name="touchscreen_gesture_settings_summary">விரைவுச் செயற்பாடுகளுக்குப் பல்வேறு தொடுதிரைச் சைகைகளைச் செய்க</string>
-    <string name="gesture_display_title">திரையை அணைக்கும் சைகைகள்</string>
+    <string name="gesture_display_title">திரை அணைப்புச் சைகைகள்</string>
     <string name="touchscreen_c_gesture_title">படமி</string>
     <string name="touchscreen_c_gesture_summary">படமியை இயக்க \"C\" எழுத்தை வரைக</string>
     <string name="touchscreen_e_gesture_title">மின்னஞ்சல்</string>
@@ -149,8 +149,19 @@
     <string name="doze_brightness_low">குறைந்த ஒளிர்வு</string>
     <string name="doze_brightness_high">உயர்ந்த ஒளிர்வு</string>
     <string name="doze_brightness_adaptive">சூழலுக்கேற்ற ஒளிர்வு</string>
-    <string name="alert_slider_top_position">முதற் நிலை</string>
-    <string name="alert_slider_middle_position">நடு நிலை</string>
+    <string name="alert_slider_category_title">விழிப்பூட்டி நகர்த்தி</string>
+    <string name="alert_slider_selection_dialog_title">செயல்</string>
+    <string name="alert_slider_top_position">மேல் நிலை</string>
+    <string name="alert_slider_middle_position">இடை நிலை</string>
     <string name="alert_slider_bottom_position">கீழ் நிலை</string>
     <string name="alert_slider_mode_silent">ஒலியின்மை</string>
+    <string name="alert_slider_mode_normal">இயல்புநிலை</string>
+    <string name="alert_slider_mode_vibration">அதிர்வு</string>
+    <string name="alert_slider_mode_dnd_priority_only">முன்னுரிமை மட்டும்</string>
+    <string name="alert_slider_mode_dnd_total_silence">முழு ஒலியின்மை</string>
+    <string name="alert_slider_mode_dnd_alarms_only">அலறுமணி மட்டும்</string>
+    <string name="alert_slider_mute_media_title">ஊடக ஒலியை முடக்குக</string>
+    <string name="alert_slider_mute_media_summary">ஒலியின்மையின்போது, ஊடக ஒலியை முடக்குக</string>
+    <string name="alert_slider_notification_dialog_title">நகர்த்திச் சாளரத்தைக் காட்டுக</string>
+    <string name="alert_slider_notification_dialog_summary">விழிப்பூட்டி நகர்த்தியின் நிலை மாறும்போது, சாளரத்தைத் திரையிடுக</string>
 </resources>

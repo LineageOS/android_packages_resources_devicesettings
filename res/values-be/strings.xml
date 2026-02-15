@@ -62,4 +62,17 @@
     <string name="high_touch_sensitivity_title">Высокая адчувальнасць дотыку</string>
     <string name="high_touch_sensitivity_summary">Павялічыць адчувальнасць экрана для магчымасці працы ў пальчатках</string>
     <string name="quick_charge_title">Хуткая зарадка</string>
+    <string name="alert_slider_selection_dialog_title">Дзеянне</string>
+    <string name="alert_slider_top_position">Верхняя пазіцыя</string>
+    <string name="alert_slider_middle_position">Сярэдняя пазіцыя</string>
+    <string name="alert_slider_bottom_position">Ніжняя пазіцыя</string>
+    <string name="alert_slider_mode_silent">Без гуку</string>
+    <string name="alert_slider_mode_normal">Звычайны</string>
+    <string name="alert_slider_mode_vibration">Вібрацыя</string>
+    <string name="alert_slider_mode_dnd_priority_only">Толькі важныя</string>
+    <string name="alert_slider_mode_dnd_total_silence">Поўная цішыня</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Толькі будзільнік</string>
+    <string name="alert_slider_mute_media_title">Адключыць гук медыя</string>
+    <string name="alert_slider_mute_media_summary">Адключыць гук медыя пры пераходзе ў бязгучны рэжым</string>
+    <string name="alert_slider_notification_dialog_title">Паказаць дыялогавае акно прагорткі</string>
 </resources>

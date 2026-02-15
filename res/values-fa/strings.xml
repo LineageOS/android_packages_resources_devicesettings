@@ -176,4 +176,6 @@
     <string name="alert_slider_mode_dnd_alarms_only">فقط هشدار ها</string>
     <string name="alert_slider_mute_media_title">رسانه بی صدا</string>
     <string name="alert_slider_mute_media_summary">هنگام جابجایی به بی‌صدا، رسانه را بی‌صدا کنید</string>
+    <string name="alert_slider_notification_dialog_title">نمایش گفتگوی کشویی</string>
+    <string name="alert_slider_notification_dialog_summary">نمایش یک پنجره محاوره‌ای هنگام تغییر موقعیت اسلایدر هشدار</string>
 </resources>
