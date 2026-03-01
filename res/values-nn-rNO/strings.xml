@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2026 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Avanserte innstillingar</string>
+    <string name="screen_gestures_panel_title">Rørsler</string>
+    <string name="touchscreen_gesture_extras">Tillegg</string>
+    <string name="touchscreen_gesture_haptic_feedback">Taktil tilbakemelding</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrer når ei skjermrørsle vert oppdaga</string>
+    <string name="touchscreen_gesture_settings_title">Skjermrørsler</string>
+    <string name="touchscreen_gesture_settings_summary">Gjer ulike skjermrørsler for snøgge handlingar</string>
+    <string name="gesture_display_title">Rørsler når skjermen er av</string>
+    <string name="touchscreen_c_gesture_title">Kamera</string>
+    <string name="touchscreen_c_gesture_summary">Teikna ein «C» for å starta kameraet</string>
+    <string name="touchscreen_e_gesture_title">E-post</string>
+    <string name="touchscreen_e_gesture_summary">Teikna ein «e» for å opna e-postappen</string>
+    <string name="touchscreen_m_gesture_title">Meldingar</string>
+    <string name="touchscreen_m_gesture_summary">Teikna ein «M» for å opna meldingsappen</string>
+    <string name="touchscreen_s_gesture_title">Meldingar</string>
+    <string name="touchscreen_s_gesture_summary">Teikna ein «S» for å opna meldingsappen</string>
+    <string name="touchscreen_v_gesture_title">Telefon</string>
+    <string name="touchscreen_v_gesture_summary">Teikna ein «V» for å opna telefonappen</string>
+    <string name="touchscreen_w_gesture_title">Nettlesar</string>
+    <string name="touchscreen_w_gesture_summary">Teikna ein «W» for å opna nettlesaren</string>
+    <string name="touchscreen_z_gesture_title">Lommelykt</string>
+    <string name="touchscreen_z_gesture_summary">Teikna ein «Z» for å slå lommelykta av eller på</string>
+    <string name="touchscreen_flashlight_gesture_title">Lommelykt</string>
+    <string name="touchscreen_flashlight_gesture_summary">Teikna ein sirkel for å slå lommelykta på eller av</string>
+    <string name="touchscreen_music_gesture_title">Musikk</string>
+    <string name="touchscreen_music_gesture_summary">Bruk rørsler for å styra musikkavspeling \n
+    – Sveip ned for å spela av eller pausa\n
+    – Sveip til venstre for førre spor\n
+    – Sveip til høgre for neste spor</string>
+    <string name="touchscreen_swipe_up_title">Sveip opp</string>
+    <string name="touchscreen_swipe_right_title">Sveip til høgre</string>
+    <string name="touchscreen_swipe_down_title">Sveip ned</string>
+    <string name="touchscreen_swipe_left_title">Sveip til venstre</string>
+    <string name="user_aware_display_title">Brukarvar skjerm</string>
+    <string name="user_aware_display_summary">Hald skjermen på så lenge nokon er framfor han</string>
+    <string name="ambient_display_title">Kvileskjerm</string>
+    <string name="ambient_display_enable_title">Bruk kvileskjerm</string>
+    <string name="ambient_display_enable_summary">Vekk skjermen når du får varsel</string>
+    <string name="ambient_display_gestures_title">Rørsler for kvileskjerm</string>
+    <string name="ambient_display_gestures_summary">Fleire rørsler for å vekkja skjermen</string>
+    <string name="ambient_display_summary">Vekk skjermen når du får varsel</string>
+    <string name="ambient_display_summary_on">Skjermen vaknar når du får varsel</string>
+    <string name="ambient_display_summary_off">Skjermen vaknar ikkje når du får varsel</string>
+    <string name="ambient_display_always_on_title">Alltid på</string>
+    <string name="ambient_display_always_on_summary">Vis klokkeslett, varselsikon og anna info. Brukar meir straum.</string>
+    <string name="tilt_sensor_title">Hellingssensor</string>
+    <string name="pickup_sensor_title">Løftesensor</string>
+    <string name="proximity_sensor_title">Nærleikssensor</string>
+    <string name="hand_wave_gesture_title">Handvink</string>
+    <string name="hand_wave_gesture_summary">Vis varsel med eit handvink</string>
+    <string name="hand_wave_gesture_flat_title">Oppdag retning</string>
+    <string name="hand_wave_gesture_flat_summary">Vis berre varsel når telefonen ligg med skjermen opp på ei flat flate</string>
+    <string name="pick_up_gesture_title">Løft opp</string>
+    <string name="pick_up_gesture_summary">Vis varsel når du løftar opp telefonen</string>
+    <string name="pick_up_wake_gesture_summary">Vekk eininga når du løftar ho opp</string>
+    <string name="pocket_gesture_title">Lomme</string>
+    <string name="pocket_gesture_summary">Vis varsel når du tek telefonen ut av lomma</string>
+    <string name="proximity_wake_title">Vekk når noko kjem nært</string>
+    <string name="proximity_wake_enable_title">Vekk når noko kjem nært</string>
+    <string name="proximity_wake_enable_summary">Vekk eininga med eit handvink</string>
+    <string name="actions_title">Handlingar</string>
+    <string name="device_gestures_panel_summary">Særskilde einingsrørsler</string>
+    <string name="moto_gestures_panel_title">Moto-rørsler</string>
+    <string name="camera_gesture_title">Dobbelvridning</string>
+    <string name="camera_gesture_summary">Opna kameraet med ei dobbelvridning</string>
+    <string name="chop_chop_gesture_title">Chop-chop</string>
+    <string name="chop_chop_gesture_summary">Slå på eller av lommelykta med chop-chop-rørsla</string>
+    <string name="hand_wave_silencer_title">Vink for å døyva</string>
+    <string name="hand_wave_silencer_summary">Døyv innkomande samtalar ved å vinka over skjermen</string>
+    <string name="flip_to_mute_title">Snu for «Ikkje forstyrr»</string>
+    <string name="flip_to_mute_summary">Legg telefonen med skjermen ned for å døyva varsel og samtalar</string>
+    <string name="dnd_access">Gje CMActions tilgang til «Ikkje forstyrr» for å bruka denne funksjonen.</string>
+    <string name="lift_to_silence_title">Løft for å døyva ringing</string>
+    <string name="lift_to_silence_summary">Løft telefonen for å døyva innkomande samtalar. Dette fungerer berre når telefonen ligg flatt.</string>
+    <string name="action_none">Slå av</string>
+    <string name="action_launch_camera">Start kameraet</string>
+    <string name="action_torch">Lommelykt på/av</string>
+    <string name="feedback_intensity_title">Styrke på taktil tilbakemelding</string>
+    <string name="feedback_intensity_summary">Kor kraftig den taktile tilbakemeldinga skal vera for handlingane dobbelvridning og chop-chop</string>
+    <string name="feedback_intensity_none">Avslått</string>
+    <string name="feedback_intensity_low">Låg</string>
+    <string name="feedback_intensity_medium">Middels</string>
+    <string name="feedback_intensity_high">Høg</string>
+    <string name="dialog_ok">OK</string>
+    <string name="disabled">Av</string>
+    <string name="none">Ingen</string>
+    <string name="doze_settings_help_title">Hjelp</string>
+    <string name="doze_settings_help_text">Desse funksjonane brukar sensorar for å visa varsel når eininga er i kvile. Den valde sensoren vert berre slegen på når eininga får eit varsel, noko som sparar straum. Du kan òg velja å slå på sensoren med ein gong skjermen sloknar, men då brukar han meir straum.</string>
+    <string name="button_panel_title">Ekstra knappar</string>
+    <string name="button_swap_title">Byt om knappar</string>
+    <string name="button_swap_summary">Byt om rekkjefylgja på nylege appar og tilbake-knappen</string>
+    <string name="fingerprint_title">Fingeravtrykk</string>
+    <string name="fingerprint_as_home_title">Fingeravtrykk som heim-knapp</string>
+    <string name="fingerprint_as_home_summary">Bruk fingeravtrykkssensoren som heim-knapp</string>
+    <string name="fingerprint_wakeup_title">Vekk med fingeravtrykk</string>
+    <string name="fingerprint_wakeup_summary">Lat fingeravtrykkssensoren vekkja eininga når skjermen er av</string>
+    <string name="fingerprint_pocketmode_title">Hindra utilsikta vekking</string>
+    <string name="fingerprint_pocketmode_summary">Sjekk nærleikssensoren før eininga vert vakt av fingeravtrykkssensoren</string>
+    <string name="fingerprint_sleep_title">Fingeravtrykk-kvile</string>
+    <string name="fingerprint_sleep_summary">Trykk på fingeravtrykkssensoren for å slå av skjermen</string>
+    <string name="high_touch_sensitivity_title">Merka trykk lettare</string>
+    <string name="high_touch_sensitivity_summary">Gjer det lettare for skjermen å merka trykk, slik at han kan brukast med hanskar.</string>
+    <string name="quick_charge_title">Snøgglading</string>
+    <string name="quick_charge_summary">Slå på eller av snøgglading. Du må kopla ladaren frå og til att etter at du har endra denne innstillinga</string>
+    <string name="camera_focus_fix_title">Rett opp kamerafokus</string>
+    <string name="camera_focus_fix_summary">Slå på viss kameraet har problem med å fokusera</string>
+    <string name="wake_on_gesture_title">Vekk med rørsler</string>
+    <string name="wake_on_gesture_summary">Vekk eininga i staden for å berre visa varsel når du brukar rørsler</string>
+    <string name="stylus_panel_title">Peikepenn</string>
+    <string name="stylus_panel_summary">Styr korleis peikepennen skal fungera</string>
+    <string name="stylus_removed_category_title">Peikepenn teke ut</string>
+    <string name="stylus_inserted_category_title">Peikepenn sett inn</string>
+    <string name="stylus_screen_on_when_removed_title">Slå på skjermen</string>
+    <string name="stylus_screen_on_when_removed_summary">Slå på skjermen når du tek ut peikepennen</string>
+    <string name="stylus_screen_off_when_inserted_title">Slå av skjermen</string>
+    <string name="stylus_screen_off_when_inserted_summary">Slå av skjermen når du set inn peikepennen</string>
+    <string name="stylus_vibrate_title">Vibrer</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibrer når du tek ut peikepennen</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibrer når du set inn peikepennen</string>
+    <string name="stylus_launch_app_title">Start ein app når pennen vert teke ut</string>
+    <string name="popup_title">Innstillingar for framkamera</string>
+    <string name="popup_calibration_title">Kalibrering</string>
+    <string name="popup_calibration_summary">Kalibrer motoren til sprettopp-kameraet</string>
+    <string name="popup_calibration_warning_title">Motorkalibrering</string>
+    <string name="popup_calibration_warning_text">Uturvande bruk av kalibrering kan valda varig skade. Det er råda å kalibrera motoren til sprettopp-kameraet berre dersom han ikkje rører seg rett eller står i feil stilling!</string>
+    <string name="popup_camera_tip">Åtvaring</string>
+    <string name="popup_camera_takeback_failed_calibrate">Klarte ikkje lukka framkameraet. Prøv å kalibrera motoren.</string>
+    <string name="popup_camera_popup_failed_calibrate">Klarte ikkje opna framkameraet. Prøv å kalibrera motoren.</string>
+    <string name="popup_camera_calibrate_running">Framkameraet kan ikkje brukast under kalibrering.</string>
+    <string name="popup_camera_calibrate_now">Kalibrer</string>
+    <string name="popup_camera_calibrate_failed">Klarte ikkje kalibrera</string>
+    <string name="popup_camera_calibrate_success">Kalibreringa var vellykka. Du kan opna framkameraet no.</string>
+    <string name="popup_led_title">Kamera-LED</string>
+    <string name="popup_led_summary">Slå på LED-lys medan framkameraet kjem fram og vert dregen inn</string>
+    <string name="popup_sound_title">Lydeffektar</string>
+    <string name="popup_sound_muqin">Xylofon</string>
+    <string name="popup_sound_yingyan">Kondor</string>
+    <string name="popup_sound_mofa">Magi</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Tannhjul</string>
+    <string name="popup_sound_cangmen">Kabindør</string>
+    <string name="doze_brightness_title">Alltid på-lysstyrke</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g>-modus er slått på</string>
+    <string name="doze_brightness_low">Låg lysstyrke</string>
+    <string name="doze_brightness_high">Høg lysstyrke</string>
+    <string name="doze_brightness_adaptive">Tilpassa lysstyrke</string>
+    <string name="alert_slider_category_title">Varselglidar</string>
+    <string name="alert_slider_selection_dialog_title">Handling</string>
+    <string name="alert_slider_top_position">Øvste stilling</string>
+    <string name="alert_slider_middle_position">Midtarste stilling</string>
+    <string name="alert_slider_bottom_position">Nedste stilling</string>
+    <string name="alert_slider_mode_none">Ingen</string>
+    <string name="alert_slider_mode_silent">Stille</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_vibration">Vibrering</string>
+    <string name="alert_slider_mode_dnd_priority_only">Berre prioriterte</string>
+    <string name="alert_slider_mode_dnd_total_silence">Heilt stille</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Berre alarmar</string>
+    <string name="alert_slider_mute_media_title">Dempa media</string>
+    <string name="alert_slider_mute_media_summary">Dempa media når du byter til stille</string>
+    <string name="alert_slider_notification_dialog_title">Vis glidarvindauge</string>
+    <string name="alert_slider_notification_dialog_summary">Vis eit vindauge når plasseringa på varselglidaren vert endra</string>
+</resources>
