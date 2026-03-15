@@ -101,6 +101,7 @@
     <string name="feedback_intensity_high">Stark</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Deaktiviert</string>
+    <string name="none">Kein</string>
     <string name="doze_settings_help_title">Hilfe</string>
     <string name="doze_settings_help_text">Diese Features verwenden Sensoren, um im Standby kurz Benachrichtigungen einzublenden. Der gewählte Sensor wird nur bei Eingang einer Benachrichtigung aktiviert. Dies hilft dabei, den Stromverbrauch zu reduzieren. Alternativ kann der Sensor sofort beim Abschalten des Bildschirms aktiviert werden, wodurch sich jedoch der Stromverbrauch erhöht.</string>
     <string name="button_panel_title">Weitere Tasten</string>
@@ -123,4 +124,16 @@
     <string name="camera_focus_fix_summary">Aktiviere diese Option, wenn du Probleme mit der Scharfstellung der Kamera hast</string>
     <string name="wake_on_gesture_title">Bei Gesten aufwachen</string>
     <string name="wake_on_gesture_summary">Aufwecken des Geräts anstelle von pulsierenden Benachrichtigungen bei Gestenaktionen</string>
+    <string name="stylus_panel_title">Stift</string>
+    <string name="stylus_panel_summary">Stiftverhalten festlegen</string>
+    <string name="stylus_removed_category_title">Stift entnommen</string>
+    <string name="stylus_inserted_category_title">Stift eingelegt</string>
+    <string name="stylus_screen_on_when_removed_title">Bildschirm einschalten</string>
+    <string name="stylus_screen_on_when_removed_summary">Schaltet den Bildschirm ein, wenn der Stift entfernt wird</string>
+    <string name="stylus_screen_off_when_inserted_title">Bildschirm ausschalten</string>
+    <string name="stylus_screen_off_when_inserted_summary">Schaltet den Bildschirm aus, wenn der Stift eingelegt wird</string>
+    <string name="stylus_vibrate_title">Vibration</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibriert beim Entnehmen des Stiftes</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibriert beim Entlegen des Stiftes</string>
+    <string name="stylus_launch_app_title">App beim Entnehmen starten</string>
 </resources>
