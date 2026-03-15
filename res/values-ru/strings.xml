@@ -136,7 +136,7 @@
     <string name="stylus_vibrate_when_removed_summary">Вибрировать при удалении стилуса</string>
     <string name="stylus_vibrate_when_inserted_summary">Вибрировать при подключении стилуса</string>
     <string name="stylus_launch_app_title">Запускать приложение при удалении</string>
-    <string name="popup_title">Настройки фроонтальной камеры</string>
+    <string name="popup_title">Настройки фронтальной камеры</string>
     <string name="popup_calibration_title">Калибровка</string>
     <string name="popup_calibration_summary">Калибровка двигателя выдвижной камеры</string>
     <string name="popup_calibration_warning_title">Калибровка двигателя</string>
@@ -176,6 +176,6 @@
     <string name="alert_slider_mode_dnd_alarms_only">Только будильник</string>
     <string name="alert_slider_mute_media_title">Выключить звук медиа</string>
     <string name="alert_slider_mute_media_summary">Отключение звука мультимедиа при переключении на беззвучный режим</string>
-    <string name="alert_slider_notification_dialog_title">Показать диалог слайдера</string>
-    <string name="alert_slider_notification_dialog_summary">Отображать диалоговое окно при изменении положения слайдера оповещения</string>
+    <string name="alert_slider_notification_dialog_title">Показывать уведомление</string>
+    <string name="alert_slider_notification_dialog_summary">Показывать уведомление при изменении положения бокового переключателя</string>
 </resources>
