@@ -176,4 +176,6 @@
     <string name="alert_slider_mode_dnd_alarms_only">Somente alarmes</string>
     <string name="alert_slider_mute_media_title">Silenciar mídia</string>
     <string name="alert_slider_mute_media_summary">Silenciar mídia ao mudar para o modo silencioso</string>
+    <string name="alert_slider_notification_dialog_title">Mostrar notificação do deslizante</string>
+    <string name="alert_slider_notification_dialog_summary">Exibir um aviso quando a posição do deslizante de alerta for alterada</string>
 </resources>
