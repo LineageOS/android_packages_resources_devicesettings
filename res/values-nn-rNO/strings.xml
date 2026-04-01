@@ -41,10 +41,10 @@
     <string name="touchscreen_flashlight_gesture_title">Lommelykt</string>
     <string name="touchscreen_flashlight_gesture_summary">Teikna ein sirkel for å slå lommelykta på eller av</string>
     <string name="touchscreen_music_gesture_title">Musikk</string>
-    <string name="touchscreen_music_gesture_summary">Bruk rørsler for å styra musikkavspeling \n
-    – Sveip ned for å spela av eller pausa\n
-    – Sveip til venstre for førre spor\n
-    – Sveip til høgre for neste spor</string>
+    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
+    • Swipe down to play/pause\n
+    • Swipe left for previous track\n
+    • Swipe right for next track</string>
     <string name="touchscreen_swipe_up_title">Sveip opp</string>
     <string name="touchscreen_swipe_right_title">Sveip til høgre</string>
     <string name="touchscreen_swipe_down_title">Sveip ned</string>
