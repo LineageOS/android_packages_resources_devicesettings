@@ -123,6 +123,10 @@
     <string name="camera_focus_fix_summary">Galluogi os oes gennyt anhawster gyda\'r camera dim yn ffocysu</string>
     <string name="wake_on_gesture_title">Deffro gydag ystumiau</string>
     <string name="wake_on_gesture_summary">Deffro\'r ddyfais yn hytrach na churiad hysbysiadau ar ddigwyddiadau ystumiau</string>
+    <string name="popup_calibration_title">Calibrad</string>
+    <string name="popup_camera_calibrate_now">Calibro</string>
+    <string name="popup_led_title">LED Camera</string>
+    <string name="popup_sound_cangmen">Drws caban</string>
     <string name="alert_slider_category_title">Llithridd rhybuddion</string>
     <string name="alert_slider_selection_dialog_title">Gweithred</string>
     <string name="alert_slider_top_position">Lleoliad brig</string>
@@ -136,4 +140,5 @@
     <string name="alert_slider_mode_dnd_alarms_only">Larymau yn unig</string>
     <string name="alert_slider_mute_media_title">Tewi cyfryngau</string>
     <string name="alert_slider_mute_media_summary">Tewi cyfryngau wrth newid i ddistaw</string>
+    <string name="alert_slider_notification_dialog_summary">Dangos deialog pan fo lleoliad y lithrydd rhybudd yn newid</string>
 </resources>

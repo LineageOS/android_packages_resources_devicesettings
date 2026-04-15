@@ -121,6 +121,32 @@
     <string name="camera_focus_fix_summary">Mundësoje nëse ke probleme me fokusimin e kamerës</string>
     <string name="wake_on_gesture_title">Zgjohuni me gjeste</string>
     <string name="wake_on_gesture_summary">Zgjojeni pajisjen në vend që të pulsoni njoftime për ngjarjet e gjestit</string>
+    <string name="popup_title">Cilësimet e kamerës së përparme</string>
+    <string name="popup_calibration_title">Kalibrimi</string>
+    <string name="popup_calibration_summary">Kalibroni motorin e kamerës pop-up</string>
+    <string name="popup_calibration_warning_title">Kalibrimi i motorit</string>
+    <string name="popup_calibration_warning_text">Përdorimi i panevojshëm i kalibrimit mund të shkaktojë dëmtime të përhershme. Rekomandohet të kalibroni motorin e kamerës pop-up vetëm në rast se nuk lëviz siç duhet ose është në pozicion të gabuar!</string>
+    <string name="popup_camera_tip">Kujdes</string>
+    <string name="popup_camera_takeback_failed_calibrate">Nuk mundi të mbyllte kamerën e përparme. Provo të kalibrosh motorin.</string>
+    <string name="popup_camera_popup_failed_calibrate">Nuk mundi të hapte kamerën e përparme. Provo të kalibrosh motorin.</string>
+    <string name="popup_camera_calibrate_running">Kamera e përparme nuk mund të përdoret gjatë kalibrimit.</string>
+    <string name="popup_camera_calibrate_now">Kalibro</string>
+    <string name="popup_camera_calibrate_failed">Nuk mund të kalibrohej</string>
+    <string name="popup_camera_calibrate_success">U kalibrua me sukses. Tani mund ta hapësh kamerën e përparme.</string>
+    <string name="popup_led_title">LED-i i kamerës</string>
+    <string name="popup_led_summary">Aktivizoni dritën LED ndërsa kamera e përparme shfaqet dhe tërhiqet</string>
+    <string name="popup_sound_title">Efektet e tingullit</string>
+    <string name="popup_sound_muqin">Xylophone</string>
+    <string name="popup_sound_yingyan">Kondor</string>
+    <string name="popup_sound_mofa">Magjik</string>
+    <string name="popup_sound_jijia">Meka</string>
+    <string name="popup_sound_chilun">Ingranazh</string>
+    <string name="popup_sound_cangmen">Dera e kabinës</string>
+    <string name="doze_brightness_title">Gjithmonë në shkëlqim</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> modaliteti është aktivizuar</string>
+    <string name="doze_brightness_low">Ndriçimi i ulët</string>
+    <string name="doze_brightness_high">Ndriçimi i lartë</string>
+    <string name="doze_brightness_adaptive">Ndriçimi i përshtatshëm</string>
     <string name="alert_slider_category_title">Rrëshqitësi i alarmit</string>
     <string name="alert_slider_selection_dialog_title">Veprimi</string>
     <string name="alert_slider_top_position">Pozicioni i lartë</string>
@@ -135,4 +161,6 @@
     <string name="alert_slider_mode_dnd_alarms_only">Vetëm alarmet</string>
     <string name="alert_slider_mute_media_title">Hesht median</string>
     <string name="alert_slider_mute_media_summary">Çaktivizo median kur kalon në heshtje</string>
+    <string name="alert_slider_notification_dialog_title">Shfaq dialogun e rrëshqitësit</string>
+    <string name="alert_slider_notification_dialog_summary">Shfaq një dialog kur ndryshon pozicioni i rrëshqitësit të alarmit</string>
 </resources>
