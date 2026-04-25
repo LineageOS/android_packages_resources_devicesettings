@@ -178,4 +178,6 @@
     <string name="alert_slider_mute_media_summary">Bei Stummschaltung auch Medien stummschalten</string>
     <string name="alert_slider_notification_dialog_title">Schiebereglerdialog anzeigen</string>
     <string name="alert_slider_notification_dialog_summary">Dialog anzeigen, wenn die Position des Alarmschiebereglers geändert wird</string>
+    <string name="alert_slider_invert_colors_title">Dialog Farben invertieren</string>
+    <string name="alert_slider_invert_colors_summary">Tauscht die Icon/Text und Hintergrund Farben im Alert Slider Dialog</string>
 </resources>
