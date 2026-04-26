@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3367463c_85ad46ae",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2026-04-26T00:43:09Z",
+      "side": 1,
+      "message": "https://wiki.lineageos.org/how-to/translate/",
+      "revId": "44f0d252cc8a2aeeb385ee03905507d6e08e2eb3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
