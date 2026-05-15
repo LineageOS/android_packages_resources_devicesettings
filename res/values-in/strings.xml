@@ -100,6 +100,7 @@
     <string name="feedback_intensity_high">Kuat</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Dinonaktifkan</string>
+    <string name="none">Tidak Ada</string>
     <string name="doze_settings_help_title">Bantuan</string>
     <string name="doze_settings_help_text">Fitur-fitur ini menggunakan aktivitas sensor untuk meluncurkan pulse pemberitahuan tertidur. sensor yang dipilih hanya diaktifkan bila perangkat menerima pemberitahuan, ini membantu mengurangi penggunaan baterai. Ada juga pilihan untuk mengaktifkan sensor yang dipilih secepat layar mati, ini akan menyebabkan penggunaan baterai yang lebih tinggi.</string>
     <string name="button_panel_title">Tombol tambahan</string>
@@ -118,4 +119,8 @@
     <string name="high_touch_sensitivity_summary">Meningkatkan kepekaan layar sentuh sehingga dapat digunakan saat mengenakan sarung tangan</string>
     <string name="quick_charge_title">Pengisian cepat</string>
     <string name="quick_charge_summary">Aktifkan/nonaktifkan pengisian cepat. Cabut dan pasang kembali pengisi daya setelah mengubah setelan ini</string>
+    <string name="stylus_screen_on_when_removed_title">Nyalakan layar</string>
+    <string name="stylus_screen_off_when_inserted_title">Matikan layar</string>
+    <string name="stylus_vibrate_title">Getar</string>
+    <string name="stylus_launch_app_title">Luncurkan aplikasi saat dilepas</string>
 </resources>
