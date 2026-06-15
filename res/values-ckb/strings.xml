@@ -135,7 +135,7 @@
     <string name="popup_camera_calibrate_failed">نەتوانرا ڕێکبخرێتەوە</string>
     <string name="popup_camera_calibrate_success">ڕێکخستنەوە سەرکەوتوو بوو. ئێستا دەتوانیت کامێرای پێشەوە بکەیتەوە.</string>
     <string name="popup_led_title">LEDی کامێرا</string>
-    <string name="popup_led_summary">چالاککردنی ڕووناکی LED لە کاتی دەرکەوتن و گەڕانەوەی کامێرای پێشەوە</string>
+    <string name="popup_led_summary">چالاککردنی گلۆپی دۆخی کامێرا لە کاتی دەرکەوتن و گەڕانەوەی کامێرای پێشەوە</string>
     <string name="popup_sound_title">کاریگەرییە دەنگییەکان</string>
     <string name="popup_sound_muqin">زایلۆفۆن (Xylophone)</string>
     <string name="popup_sound_yingyan">کۆندۆر (Condor)</string>
@@ -162,6 +162,6 @@
     <string name="alert_slider_mode_dnd_alarms_only">تەنها زەنگەکان</string>
     <string name="alert_slider_mute_media_title">بێدەنگکردنی میدیا</string>
     <string name="alert_slider_mute_media_summary">بێدەنگکردنی میدیا کاتێک دەچێتە باری بێدەنگ</string>
-    <string name="alert_slider_notification_dialog_title">پیشاندانی پانێڵی سایدەر</string>
-    <string name="alert_slider_notification_dialog_summary">پیشاندانی پانێڵێک کاتێک شوێنی سایدەری ئاگاداری دەگۆڕێت</string>
+    <string name="alert_slider_notification_dialog_title">پیشاندانی پەڕەی سایدەر</string>
+    <string name="alert_slider_notification_dialog_summary">پیشاندانی پەڕەیەک کاتێک شوێنی سایدەری ئاگاداری دەگۆڕێت</string>
 </resources>
