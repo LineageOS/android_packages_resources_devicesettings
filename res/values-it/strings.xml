@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Solo priorità</string>
     <string name="alert_slider_mode_dnd_total_silence">Silenzio totale</string>
     <string name="alert_slider_mode_dnd_alarms_only">Solo sveglie</string>
+    <string name="alert_slider_mode_torch_on">Torcia accesa</string>
+    <string name="alert_slider_mode_torch_off">Torcia spenta</string>
     <string name="alert_slider_mute_media_title">Silenzia media</string>
     <string name="alert_slider_mute_media_summary">Silenzia i media quando si passa alla modalità silenziosa</string>
     <string name="alert_slider_notification_dialog_title">Mostra finestra di dialogo dello slider</string>

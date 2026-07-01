@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">仅限优先</string>
     <string name="alert_slider_mode_dnd_total_silence">完全静音</string>
     <string name="alert_slider_mode_dnd_alarms_only">仅限闹钟</string>
+    <string name="alert_slider_mode_torch_on">手电筒已打开</string>
+    <string name="alert_slider_mode_torch_off">手电筒已关闭</string>
     <string name="alert_slider_mute_media_title">静音，包括媒体音量</string>
     <string name="alert_slider_mute_media_summary">切换静音同时静音媒体</string>
     <string name="alert_slider_notification_dialog_title">显示滑块对话框</string>

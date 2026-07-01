@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">ئالدىنلىقلا</string>
     <string name="alert_slider_mode_dnd_total_silence">تامامەن ئۈنسىز</string>
     <string name="alert_slider_mode_dnd_alarms_only">قوڭغۇراقلا</string>
+    <string name="alert_slider_mode_torch_on">قول چىراغ ئوچۇق</string>
+    <string name="alert_slider_mode_torch_off">قول چىراغ تاقاق</string>
     <string name="alert_slider_mute_media_title">ۋاسىتە ئۈنسىز</string>
     <string name="alert_slider_mute_media_summary">ئۈنسىز ھالەتكە ئالماشتۇرغاندا ۋاسىتىنى ئۈنسىزلەيدۇ</string>
     <string name="alert_slider_notification_dialog_title">سىيرىغۇچ سۆزلەشكۈسىنى كۆرسەت</string>

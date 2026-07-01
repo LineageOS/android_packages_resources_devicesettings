@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Chỉ ưu tiên</string>
     <string name="alert_slider_mode_dnd_total_silence">Hoàn toàn im lặng</string>
     <string name="alert_slider_mode_dnd_alarms_only">Chỉ báo thức</string>
+    <string name="alert_slider_mode_torch_on">Bật đèn pin</string>
+    <string name="alert_slider_mode_torch_off">Tắt đèn pin</string>
     <string name="alert_slider_mute_media_title">Tắt tiếng phương tiện</string>
     <string name="alert_slider_mute_media_summary">Tắt tiếng phương tiện khi chuyển sang chế độ im lặng</string>
     <string name="alert_slider_notification_dialog_title">Hiển thị hộp thoại thanh trượt</string>

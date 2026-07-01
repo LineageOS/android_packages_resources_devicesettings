@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Tylko priorytetowe</string>
     <string name="alert_slider_mode_dnd_total_silence">Całkowita cisza</string>
     <string name="alert_slider_mode_dnd_alarms_only">Tylko alarmy</string>
+    <string name="alert_slider_mode_torch_on">Latarka włączona</string>
+    <string name="alert_slider_mode_torch_off">Latarka wyłączona</string>
     <string name="alert_slider_mute_media_title">Wycisz multimedia</string>
     <string name="alert_slider_mute_media_summary">Wyciszaj multimedia po przełączeniu na tryb cichy</string>
     <string name="alert_slider_notification_dialog_title">Pokazuj okno dialogowe suwaka</string>

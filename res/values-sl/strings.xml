@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Samo prednostno</string>
     <string name="alert_slider_mode_dnd_total_silence">Popolna tišina</string>
     <string name="alert_slider_mode_dnd_alarms_only">Samo budilke</string>
+    <string name="alert_slider_mode_torch_on">Svetilka vklopljena</string>
+    <string name="alert_slider_mode_torch_off">Svetilka izklopljena</string>
     <string name="alert_slider_mute_media_title">Utišaj predstavnost</string>
     <string name="alert_slider_mute_media_summary">Utišaj predstavnost med preklapljanjem na tiho</string>
     <string name="alert_slider_notification_dialog_title">Prikaži pogovorno okno drsnika</string>

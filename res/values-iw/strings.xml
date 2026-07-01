@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">עדיפות בלבד</string>
     <string name="alert_slider_mode_dnd_total_silence">מושתק לחלוטין</string>
     <string name="alert_slider_mode_dnd_alarms_only">שעון מעורר בלבד</string>
+    <string name="alert_slider_mode_torch_on">פנס פועל</string>
+    <string name="alert_slider_mode_torch_off">פנס כבוי</string>
     <string name="alert_slider_mute_media_title">השתקת מדיה</string>
     <string name="alert_slider_mute_media_summary">השתקת מדיה במעבר להשתקה</string>
     <string name="alert_slider_notification_dialog_title">הצג דיאלוג מחוון</string>

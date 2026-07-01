@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Priority only</string>
     <string name="alert_slider_mode_dnd_total_silence">Total silence</string>
     <string name="alert_slider_mode_dnd_alarms_only">Alarms only</string>
+    <string name="alert_slider_mode_torch_on">Torch on</string>
+    <string name="alert_slider_mode_torch_off">Torch off</string>
     <string name="alert_slider_mute_media_title">Mute media</string>
     <string name="alert_slider_mute_media_summary">Mute media when switching to silent</string>
     <string name="alert_slider_notification_dialog_title">Show slider dialogue</string>
