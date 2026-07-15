@@ -161,6 +161,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Solo prioritarias</string>
     <string name="alert_slider_mode_dnd_total_silence">Silencio total</string>
     <string name="alert_slider_mode_dnd_alarms_only">Solo alarmas</string>
+    <string name="alert_slider_mode_torch_on">Linterna encendida</string>
+    <string name="alert_slider_mode_torch_off">Linterna apagada</string>
     <string name="alert_slider_mute_media_title">Silenciar multimedia</string>
     <string name="alert_slider_mute_media_summary">Silenciar multimedia al activar el modo silencio</string>
     <string name="alert_slider_notification_dialog_title">Mostrar diálogo del control deslizante</string>

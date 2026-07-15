@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Yalnız prioritet</string>
     <string name="alert_slider_mode_dnd_total_silence">Tam səssizlik</string>
     <string name="alert_slider_mode_dnd_alarms_only">Yalnız zəngli saatlar</string>
+    <string name="alert_slider_mode_torch_on">Fənər yanır</string>
+    <string name="alert_slider_mode_torch_off">Fənər sönüb</string>
     <string name="alert_slider_mute_media_title">Media səsi yoxdur</string>
     <string name="alert_slider_mute_media_summary">Səssizə keçərkən medianı səssizə al</string>
     <string name="alert_slider_notification_dialog_title">Diyircək dialoqunu göstər</string>

@@ -163,6 +163,10 @@
     <string name="alert_slider_mode_dnd_priority_only">Prioritaires uniquement</string>
     <string name="alert_slider_mode_dnd_total_silence">Silence total</string>
     <string name="alert_slider_mode_dnd_alarms_only">Alarmes uniquement</string>
+    <string name="alert_slider_mode_torch_on">Lampe torche allumée</string>
+    <string name="alert_slider_mode_torch_off">Lampe torche éteinte</string>
     <string name="alert_slider_mute_media_title">Couper le son du média</string>
     <string name="alert_slider_mute_media_summary">Couper le son du média lors du passage en mode silencieux</string>
+    <string name="alert_slider_notification_dialog_title">Afficher la boîte de dialogue du curseur</string>
+    <string name="alert_slider_notification_dialog_summary">Afficher une boîte de dialogue lorsque la position du curseur d\'alerte change</string>
 </resources>

@@ -140,7 +140,8 @@
     <string name="popup_led_title">படமி LED</string>
     <string name="popup_led_summary">முன்புறப் படமி வெளிவரும்போதும் உட்செல்லும்போதும் LED விளக்கை ஒளிரச் செய்க</string>
     <string name="popup_sound_title">ஒலி விளைவுகள்</string>
-    <string name="popup_sound_muqin">இசைமரம்</string>
+    <string name="popup_sound_muqin">
+இசைமரம்</string>
     <string name="popup_sound_yingyan">கொண்டோர்</string>
     <string name="popup_sound_mofa">அற்புதம்</string>
     <string name="popup_sound_jijia">இயந்திரவியல்</string>

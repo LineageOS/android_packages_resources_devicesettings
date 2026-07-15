@@ -148,7 +148,8 @@
     <string name="popup_sound_cangmen">Kabinentür</string>
     <string name="doze_brightness_title">Helligkeit des Inaktivitätsdisplays</string>
     <string name="doze_brightness_summary">Modus „<xliff:g id="mode" example="Low brightness">%s</xliff:g>“ ist aktiviert</string>
-    <string name="doze_brightness_low">Niedrige Helligkeit</string>
+    <string name="doze_brightness_low">Niedrige Helligkeit
+</string>
     <string name="doze_brightness_high">Hohe Helligkeit</string>
     <string name="doze_brightness_adaptive">Adaptive Helligkeit</string>
     <string name="alert_slider_category_title">Alarmschieberegler</string>

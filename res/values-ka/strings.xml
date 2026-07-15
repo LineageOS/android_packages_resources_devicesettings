@@ -123,6 +123,8 @@
     <string name="alert_slider_mode_dnd_priority_only">მხოლოდ უპირატესი</string>
     <string name="alert_slider_mode_dnd_total_silence">სრულიად უხმო</string>
     <string name="alert_slider_mode_dnd_alarms_only">მხოლოდ მაღვიძარები</string>
+    <string name="alert_slider_mode_torch_on">სანათი ჩართ.</string>
+    <string name="alert_slider_mode_torch_off">სანათი გამორთ.</string>
     <string name="alert_slider_mute_media_title">ფაილის დადუმება</string>
     <string name="alert_slider_mute_media_summary">ფაილის დადუმება უხმოზე გადართვისას</string>
 </resources>
