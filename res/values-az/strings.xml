@@ -129,7 +129,7 @@
     <string name="popup_calibration_title">Kalibrasiya</string>
     <string name="popup_calibration_summary">Açılan kamera mühərrikini kalibrlə</string>
     <string name="popup_calibration_warning_title">Mühərrik kalibrasiyası</string>
-    <string name="popup_calibration_warning_text">Kalibrləməni lazımsız istifadə etmək daimi nasazlığa səbəb ola bilər. Yalnız düzgün hərəkət etmədikdə və ya yanlış vəziyyətdə olduğu halda açılan kamera mühərrikini kalibrləmək tövsiyə olunur.</string>
+    <string name="popup_calibration_warning_text">Kalibrləmənin gərəksiz istifadəsi daimi nasazlığa səbəb ola bilər. Açılan kamera mühərrikini, yalnız düzgün hərəkət etmədikdə və ya yanlış vəziyyətdə olduğu halda kalibrləmək tövsiyə olunur.</string>
     <string name="popup_camera_tip">Xəbərdarlıq</string>
     <string name="popup_camera_takeback_failed_calibrate">Ön kamera bağlanıla bilmir. Mühərriki kalibrləməyə çalışın.</string>
     <string name="popup_camera_popup_failed_calibrate">Ön kamera açıla bilmir. Mühərriki kalibrləməyə çalışın.</string>

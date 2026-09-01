@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Berre prioriterte</string>
     <string name="alert_slider_mode_dnd_total_silence">Heilt stille</string>
     <string name="alert_slider_mode_dnd_alarms_only">Berre alarmar</string>
+    <string name="alert_slider_mode_torch_on">Lommelykt på</string>
+    <string name="alert_slider_mode_torch_off">Lommelykt av</string>
     <string name="alert_slider_mute_media_title">Dempa media</string>
     <string name="alert_slider_mute_media_summary">Dempa media når du byter til stille</string>
     <string name="alert_slider_notification_dialog_title">Vis glidarvindauge</string>
