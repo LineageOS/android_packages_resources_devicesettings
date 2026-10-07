@@ -91,8 +91,6 @@
     <string name="dialog_ok">אישור</string>
     <string name="disabled">מושבת</string>
     <string name="none">ללא</string>
-    <string name="doze_settings_help_title">עזרה</string>
-    <string name="doze_settings_help_text">תכונות אלו משתמשות באירועי חיישנים כדי להפעיל פעימת התראה במצב Doze. החיישן שנבחר מופעל רק כאשר המכשיר מקבל התראה, דבר המסייע להפחתת צריכת הסוללה. קיימת גם אפשרות להפעיל את החיישן מיד עם כיבוי המסך, אך פעולה זו תגרום לצריכת סוללה גבוהה יותר.</string>
     <string name="button_panel_title">מקשים נוספים</string>
     <string name="button_swap_title">החלף בין מקשים</string>
     <string name="button_swap_summary">החלף בין המקש \"חזור\" ל\"אחרונים\"</string>

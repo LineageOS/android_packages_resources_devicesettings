@@ -89,8 +89,6 @@
     <string name="feedback_intensity_high">عالية</string>
     <string name="dialog_ok">موافق</string>
     <string name="disabled">تعطيل</string>
-    <string name="doze_settings_help_title">مساعدة</string>
-    <string name="doze_settings_help_text">هذه المزايا تستخدم أحداث الحساس لبدء إشعار نبضي للسبات. حيث يتم تفعيل الحساس المختار فقط عند استلام إشعار، وهذا يساعد على تقليل استخدام البطارية. ويوجد أيضًا خيار لتفعيل الحساس المختار حالما تغلق الشاشة، ولكن هذا سيزيد من استخدام البطارية.</string>
     <string name="button_panel_title">أزرار إضافية</string>
     <string name="button_swap_title">تبديل الأزرار</string>
     <string name="button_swap_summary">تبديل ترتيب أزرار الحديثة و الرجوع</string>

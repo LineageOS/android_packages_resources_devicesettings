@@ -91,8 +91,6 @@
     <string name="dialog_ok">OK</string>
     <string name="disabled">Desativado</string>
     <string name="none">Nenhum</string>
-    <string name="doze_settings_help_title">Ajuda</string>
-    <string name="doze_settings_help_text">Esses recursos monitoram o sensor para que o dispositivo possa pulsar notificações enquanto está em repouso. O sensor escolhido só é ativado quando o dispositivo recebe uma notificação, isso ajuda a reduzir o uso de bateria. Há também uma opção para ativar o sensor escolhido assim que a tela desliga, isso causará o maior uso da bateria.</string>
     <string name="button_panel_title">Botões adicionais</string>
     <string name="button_swap_title">Inverter botões</string>
     <string name="button_swap_summary">Inverter a ordem dos botões recentes e de voltar</string>

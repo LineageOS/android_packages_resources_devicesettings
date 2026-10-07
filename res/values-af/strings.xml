@@ -74,8 +74,6 @@
     <string name="feedback_intensity_high">Hoog</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Af</string>
-    <string name="doze_settings_help_title">Hulp</string>
-    <string name="doze_settings_help_text">Hierdie kenmerke gebruik \'n sensor gebaar om \'n slaap kennisgewing pols te laai. Die gekose sensor is slegs geaktiveer wanneer die toestel \'n kennisgewing ontvang, dit help om battery gebruik te verminder. Daar is ook \'n opsie om die gekose sensor te aktiveer sodra die skerm afskakel word, maar dit sal hoër battery gebruik veroorsaak.</string>
     <string name="button_panel_title">Addisionele knoppies</string>
     <string name="button_swap_title">Ruil knoppies</string>
     <string name="button_swap_summary">Verander die volgorde van onlangse en terug knoppies</string>

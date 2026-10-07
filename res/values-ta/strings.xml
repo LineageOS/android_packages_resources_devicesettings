@@ -91,8 +91,6 @@
     <string name="dialog_ok">சரி</string>
     <string name="disabled">முடக்கப்பட்டது</string>
     <string name="none">எதுவுமில்லை</string>
-    <string name="doze_settings_help_title">உதவி</string>
-    <string name="doze_settings_help_text">இச்சிறப்பியல்கள், துயில்நிலை அறிவிப்புகளைத் தூண்ட உணரி நிகழ்வுகளைப் பயன்படுத்துகின்றன. கருவி ஓர் அறிவிப்பைப் பெறும்போது மட்டுமே உணரி செயற்படும்; இது மின்கல நுகர்வைக் குறைக்க உதவும். திரை அணைந்தவுடனேயே உணரியைச் செயற்படுத்தும் வாய்ப்பும் உள்ளது. ஆனால், இஃது உயர்ந்த மின்கல ஆற்றலைச் செலவிடும்.</string>
     <string name="button_panel_title">கூடுதல் பொத்தான்கள்</string>
     <string name="button_swap_title">பொத்தான் இடமாற்றம்</string>
     <string name="button_swap_summary">அண்மை, பின்செல்லும் பொத்தான்களின் வரிசையை இடமாற்றுக</string>

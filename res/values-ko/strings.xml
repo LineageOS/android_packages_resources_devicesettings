@@ -90,8 +90,6 @@
     <string name="feedback_intensity_high">높게</string>
     <string name="dialog_ok">확인</string>
     <string name="disabled">끄기</string>
-    <string name="doze_settings_help_title">도움말</string>
-    <string name="doze_settings_help_text">해당 기능은 잠자기 모드 알림 깜빡임을 시작하기 위해 센서 이벤트를 사용합니다. 선택된 센서는 알림을 받았을 때만 작동하며, 이는 배터리 사용량을 줄이는 데 도움이 됩니다. 화면이 꺼지면 선택된 센서를 활성화시키는 옵션도 있으며, 이는 배터리 사용량 증가의 원인이 될 수 있습니다.</string>
     <string name="button_panel_title">기타 버튼</string>
     <string name="button_swap_title">버튼 바꾸기</string>
     <string name="button_swap_summary">최근 앱 버튼과 뒤로 버튼의 위치를 바꾸기</string>

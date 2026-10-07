@@ -90,8 +90,6 @@
     <string name="feedback_intensity_high">Alte</string>
     <string name="dialog_ok">Va ben</string>
     <string name="disabled">Disativade</string>
-    <string name="doze_settings_help_title">Jutori</string>
-    <string name="doze_settings_help_text">Chestis funzions a doprin i events dai sensôrs par mostrâ lis notifiche in modalitât durmide. Il sensôr selezionât al vignarà ativât dome cuant che il dispositîf al ricevarà une notifiche, chest al jude a diminuî il consum di batarie. Al è ancje pussibil ativâ il sensôr selezionât a pene che il schermi si distude, ma chest al doprarà plui batarie.</string>
     <string name="button_panel_title">Botons adizionâi</string>
     <string name="button_swap_title">Scambie i botons</string>
     <string name="button_swap_summary">Scambie l\'ordin dai botons \"resints\" e \"indaûr\"</string>

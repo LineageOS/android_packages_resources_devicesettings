@@ -88,8 +88,6 @@
     <string name="dialog_ok">باشە</string>
     <string name="disabled">ناچالاکە</string>
     <string name="none">هیچ</string>
-    <string name="doze_settings_help_title">یارمەتی</string>
-    <string name="doze_settings_help_text">ئەم تایبەتمەندییانە هەستەوەرەکان بەکاردەهێنن بۆ نیشاندانی ئاگانامەکان. هەستەوەری دیاریکراو تەنها کاتێک چالاک دەبێت کە ئامێرەکە ئاگانامەیەکی پێ بگات، ئەمەش یارمەتی کەمکردنەوەی بەکاربردنی باتری دەدات.</string>
     <string name="button_panel_title">دوگمە زیادکراوەکان</string>
     <string name="button_swap_title">گۆڕینی شوێنی دوگمەکان</string>
     <string name="button_swap_summary">گۆڕینی شوێنی دوگمەی گەڕانەوە و دوگمەی بەرنامە کراوەکان</string>

@@ -91,8 +91,6 @@
     <string name="dialog_ok">V redu</string>
     <string name="disabled">Onemogočeno</string>
     <string name="none">Brez</string>
-    <string name="doze_settings_help_title">Pomoč</string>
-    <string name="doze_settings_help_text">Te funkcije uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
     <string name="button_panel_title">Dodatni gumbi</string>
     <string name="button_swap_title">Zamenjaj gumbe</string>
     <string name="button_swap_summary">Zamenjaj vrstni red gumbov Nedavno in Nazaj</string>

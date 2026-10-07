@@ -87,8 +87,6 @@ položený na plocho</string>
     <string name="feedback_intensity_high">Vysoká</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Zakázaná</string>
-    <string name="doze_settings_help_title">Uživateľská príručka</string>
-    <string name="doze_settings_help_text">Tieto funkcie používajú udalosti senzorov pre spustenie upozorňovania blikaním. Vybraný senzor je zapnutý iba v prípade prijatia upozornenia, čo vedie k úspore batérie. Je tu aj možnosť zapnúť daný senzor ihneď po vypnutí obrazovky, ale dochádza k vyššej spotrebe batérie.</string>
     <string name="button_panel_title">Ďalšie tlačidlá</string>
     <string name="button_swap_title">Vymeniť tlačidlá</string>
     <string name="button_swap_summary">Vymeniť poradie tlačidiel Nedávne a Späť</string>

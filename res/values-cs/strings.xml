@@ -90,8 +90,6 @@
     <string name="feedback_intensity_high">Vysoká</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Žádná</string>
-    <string name="doze_settings_help_title">Uživatelská příručka</string>
-    <string name="doze_settings_help_text">Tyto funkce používají události senzorů ke spuštění pulzování oznámení. Vybraný senzor je zapnut pouze v případě přijetí upozornění, což vede k úspoře baterie. Je zde i možnost zapnout daný senzor ihned po vypnutí obrazovky, ale dochází k většímu vybíjení.</string>
     <string name="button_panel_title">Další tlačítka</string>
     <string name="button_swap_title">Prohodit tlačítka</string>
     <string name="button_swap_summary">Prohodit pořadí tlačítek „Nedávné“ a „Zpět“</string>

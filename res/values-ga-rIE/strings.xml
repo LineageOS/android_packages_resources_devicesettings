@@ -91,8 +91,6 @@
     <string name="dialog_ok">Ceart go leor</string>
     <string name="disabled">Díchumasaithe</string>
     <string name="none">Dada</string>
-    <string name="doze_settings_help_title">Cabhrú</string>
-    <string name="doze_settings_help_text">Úsáideann na gnéithe seo imeachtaí braite chun buille fógra doze a sheoladh. Níl an braiteoir roghnaithe cumasaithe ach amháin nuair a fhaigheann an gléas fógra, cabhraíonn sé seo le húsáid ceallraí a laghdú. Tá rogha ann freisin an braiteoir roghnaithe a chumasú chomh luath agus a mhúchadh an scáileán, beidh sé seo ina chúis le húsáid ceallraí níos airde.</string>
     <string name="button_panel_title">Cnaipí breise</string>
     <string name="button_swap_title">Cnaipí babhtála</string>
     <string name="button_swap_summary">Babhtáil ord na n-úrscéalta agus na gcnaipí cúil</string>

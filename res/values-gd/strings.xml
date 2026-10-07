@@ -87,8 +87,6 @@
     <string name="feedback_intensity_high">Àrd</string>
     <string name="dialog_ok">Ceart ma-thà</string>
     <string name="disabled">À comas</string>
-    <string name="doze_settings_help_title">Cobhair</string>
-    <string name="doze_settings_help_text">Cleachdaidh na gleusan seo tachartasan mhothaichearan airson frith-bhualadh brath cadail. Cha bhi am mothaichear a thagh thu an comas ach nuair a gheibh an t-uidheam brath; cuidichidh seo le caomhnadh a’ bhataraidh. Tha roghainn ann cuideachd a chuireas am mothaichear a thagh thu an comas mu thràth nuair a thèid an sgrìn a chur dheth agus thèid barrachd dhen bhataraidh a chaitheamh le sin.</string>
     <string name="button_panel_title">Barrachd phutan</string>
     <string name="button_swap_title">Dèan iomlaid phutanan</string>
     <string name="button_swap_summary">Cuir am putan “O chionn goirid” ’s am putan “Air ais” an àite càch a chèile</string>

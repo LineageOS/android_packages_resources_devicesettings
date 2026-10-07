@@ -90,8 +90,6 @@
     <string name="feedback_intensity_high">მაღალი</string>
     <string name="dialog_ok">კარგი</string>
     <string name="disabled">გამორთული</string>
-    <string name="doze_settings_help_title">დახმარება</string>
-    <string name="doze_settings_help_text">ეს შესაძლებლობები იყენებს აღმქმელ მოწყობილობებს შეტყობინებების ასაციმციმებლად მოსვენების რეჟიმში. შერჩეული აღმქმელი ჩაირთვება, შეტყობინების მიღებისას, რაც ამცირებს ენერგომოხმარებას. შესაძლებელია ეკრანის ჩაქრობისთანავე ჩართვაც, მაგრამ გაზრდის ბატარეის გამოყენებას.</string>
     <string name="button_panel_title">დამატებითი ღილაკები</string>
     <string name="button_swap_title">ღილაკების შენაცვლება</string>
     <string name="button_swap_summary">ბოლოებისა და უკუსვლის ღილაკების შენაცვლება</string>

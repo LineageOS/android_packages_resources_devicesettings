@@ -91,8 +91,6 @@
     <string name="dialog_ok">OK</string>
     <string name="disabled">Ανενεργή</string>
     <string name="none">Κανένα</string>
-    <string name="doze_settings_help_title">Βοήθεια</string>
-    <string name="doze_settings_help_text">Αυτά τα χαρακτηριστικά χρησιμοποιούν τον αισθητήρα για να εκκινήσουν ένα παλμό ειδοποίησης. Ο επιλεγμένος αισθητήρας είναι ενεργός μόνο όταν η συσκευή λαμβάνει μία ειδοποίηση, αυτό βοηθάει στη μείωση χρήσης μπαταρίας. Υπάρχει επίσης μία επιλογή για ενεργοποίηση του επιλεγμένου αισθητήρα με το που απενεργοποιείται η οθόνη, αυτό θα επιφέρει μεγαλύτερη χρήση μπαταρίας.</string>
     <string name="button_panel_title">Πρόσθετα πλήκτρα</string>
     <string name="button_swap_title">Εναλλαγή πλήκτρων</string>
     <string name="button_swap_summary">Εναλλαγή της διάταξης των πλήκτρων προσφάτων και πίσω</string>
@@ -163,6 +161,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Μόνο προτεραιότητας</string>
     <string name="alert_slider_mode_dnd_total_silence">Πλήρης σίγαση</string>
     <string name="alert_slider_mode_dnd_alarms_only">Μόνο ξυπνητήρια</string>
+    <string name="alert_slider_mode_torch_on">Φακός ενεργός</string>
+    <string name="alert_slider_mode_torch_off">Φακός ανενεργός</string>
     <string name="alert_slider_mute_media_title">Σίγαση πολυμέσων</string>
     <string name="alert_slider_mute_media_summary">Σίγαση πολυμέσων κατά την εναλλαγή σε αθόρυβο</string>
     <string name="alert_slider_notification_dialog_title">Εμφάνιση διαλόγου διακόπτη ειδοποιήσεων</string>

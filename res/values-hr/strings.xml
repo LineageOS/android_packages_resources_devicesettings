@@ -86,8 +86,6 @@
     <string name="feedback_intensity_high">Visoka</string>
     <string name="dialog_ok">OK</string>
     <string name="disabled">Onemogućeno</string>
-    <string name="doze_settings_help_title">Pomoć</string>
-    <string name="doze_settings_help_text">Te značajke koriste događaje senzora za pokretanje pulsiranja obavijesti. Odabrani senzor je omogućen jedino kada uređaj primi obavijest, to pomaže smanjenju potrošnje baterije. Tu je i opcija omogućenja odabranog senzora čim se zaslon isključi, to će uzrokovati veću potrošnju baterije.</string>
     <string name="button_panel_title">Dodatne tipke</string>
     <string name="button_swap_title">Zamijeni tipke</string>
     <string name="button_swap_summary">Zamijeni redoslijed tipke za prikaz nedavnih aplikacije i tipke za povratak natrag</string>

@@ -91,8 +91,6 @@
     <string name="dialog_ok">قبول</string>
     <string name="disabled">غیرفعال</string>
     <string name="none">هیچ</string>
-    <string name="doze_settings_help_title">راهنما</string>
-    <string name="doze_settings_help_text">این ویژگی ها از رویداد های حسگر ها استفاده می‌کنند تا یک روند چشمک زدن اعلان ها را ایجاد کنند. حسگر انتخاب شده تنها وقتی فعال می شود که دستگاه یک اعلان دریافت کند، این کار باعث صرفه جویی در مصرف باتری می شود. یک گزینه‌ی دیگر نیز هست که باعث می شود سنسور انتخاب شده به محض خاموش شدن صفحه نمایش فعال شود، این گزینه باعث مصرف بیشتر باتری می شود.</string>
     <string name="button_panel_title">دکمه های اضافی</string>
     <string name="button_swap_title">تعویض دکمه ها</string>
     <string name="button_swap_summary">عوض کردن دستور دکمه های برنامه های اخیر و بازگشت</string>

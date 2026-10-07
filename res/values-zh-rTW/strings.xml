@@ -90,8 +90,6 @@
     <string name="feedback_intensity_high">高</string>
     <string name="dialog_ok">確定</string>
     <string name="disabled">已停用</string>
-    <string name="doze_settings_help_title">說明</string>
-    <string name="doze_settings_help_text">這些功能使用各種感應器來感測即可觸發休眠閃爍呼吸燈，所選的感應器僅在裝置收到通知時才被啟動，達致減低耗電量。此外還有一個選項可以在每當螢幕關閉時馬上啟動感應器，當然這會消耗更多的電量。</string>
     <string name="button_panel_title">更多按鍵</string>
     <string name="button_swap_title">切換按鍵</string>
     <string name="button_swap_summary">切換多工和返回鍵的順序</string>

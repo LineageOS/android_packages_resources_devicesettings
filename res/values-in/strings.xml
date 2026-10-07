@@ -90,8 +90,6 @@
     <string name="dialog_ok">OK</string>
     <string name="disabled">Dinonaktifkan</string>
     <string name="none">Tidak Ada</string>
-    <string name="doze_settings_help_title">Bantuan</string>
-    <string name="doze_settings_help_text">Fitur-fitur ini menggunakan aktivitas sensor untuk meluncurkan pulse pemberitahuan tertidur. sensor yang dipilih hanya diaktifkan bila perangkat menerima pemberitahuan, ini membantu mengurangi penggunaan baterai. Ada juga pilihan untuk mengaktifkan sensor yang dipilih secepat layar mati, ini akan menyebabkan penggunaan baterai yang lebih tinggi.</string>
     <string name="button_panel_title">Tombol tambahan</string>
     <string name="button_swap_title">Tombol tukar</string>
     <string name="button_swap_summary">Tukar urutan tombol terkini dan kembali</string>

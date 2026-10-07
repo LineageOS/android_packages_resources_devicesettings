@@ -91,8 +91,6 @@
     <string name="dialog_ok">确定</string>
     <string name="disabled">已禁用</string>
     <string name="none">无</string>
-    <string name="doze_settings_help_title">帮助</string>
-    <string name="doze_settings_help_text">这些功能使用传感器事件来启用打盹通知指示灯。所选的传感器仅在设备收到通知时启用，这有助于降低电池消耗。还有一个选项是在屏幕关闭后马上启用所选的传感器，这会消耗更多的电量。</string>
     <string name="button_panel_title">更多按键</string>
     <string name="button_swap_title">交换按钮</string>
     <string name="button_swap_summary">交换最近使用与后退按钮的顺序</string>
