@@ -163,6 +163,8 @@
     <string name="alert_slider_mode_dnd_priority_only">Μόνο προτεραιότητας</string>
     <string name="alert_slider_mode_dnd_total_silence">Πλήρης σίγαση</string>
     <string name="alert_slider_mode_dnd_alarms_only">Μόνο ξυπνητήρια</string>
+    <string name="alert_slider_mode_torch_on">Φακός ενεργός</string>
+    <string name="alert_slider_mode_torch_off">Φακός ανενεργός</string>
     <string name="alert_slider_mute_media_title">Σίγαση πολυμέσων</string>
     <string name="alert_slider_mute_media_summary">Σίγαση πολυμέσων κατά την εναλλαγή σε αθόρυβο</string>
     <string name="alert_slider_notification_dialog_title">Εμφάνιση διαλόγου διακόπτη ειδοποιήσεων</string>

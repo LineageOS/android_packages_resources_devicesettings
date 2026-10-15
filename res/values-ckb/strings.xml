@@ -15,8 +15,8 @@
     <string name="gesture_display_title">جوڵەکانی کاتی کوژانەوەی ڕوونما</string>
     <string name="touchscreen_c_gesture_title">کامێرا</string>
     <string name="touchscreen_c_gesture_summary">بنووسە \"C\" بۆ چالاککردنی کامێرا</string>
-    <string name="touchscreen_e_gesture_title">ئیمەیڵ</string>
-    <string name="touchscreen_e_gesture_summary">بنووسە \"e\" بۆ کردنەوەی بەرنامەی ئیمەیڵ</string>
+    <string name="touchscreen_e_gesture_title">پۆستی ئەلیکترۆنی</string>
+    <string name="touchscreen_e_gesture_summary">بنووسە \"e\" بۆ کردنەوەی بەرنامەی پۆستی ئەلیکترۆنی</string>
     <string name="touchscreen_m_gesture_title">نامەناردن</string>
     <string name="touchscreen_m_gesture_summary">بنووسە \"M\" بۆ کردنەوەی بەرنامەی خزمەتگوزاری نامەناردن</string>
     <string name="touchscreen_s_gesture_title">نامەناردن</string>
@@ -49,7 +49,7 @@
     <string name="ambient_display_always_on_summary">نیشاندانی کات، وێنۆچکەکانی ئاگانامە و زانیاریی تر. بەکاربردنی باتری زیاد دەکات.</string>
     <string name="tilt_sensor_title">هەستەوەری لاری (Tilt)</string>
     <string name="pickup_sensor_title">هەستەوەری هەڵگرتن</string>
-    <string name="proximity_sensor_title">هەستەوەری نزیکی (Proximity)</string>
+    <string name="proximity_sensor_title">هەستەوەری نزیکی</string>
     <string name="hand_wave_gesture_title">ڕاوەشاندنی دەست</string>
     <string name="hand_wave_gesture_summary">نیشاندانی ئاگانامەکان بە ڕاوەشاندنی دەست</string>
     <string name="hand_wave_gesture_flat_title">دەستنیشانکردنی ئاراستە</string>
@@ -110,7 +110,7 @@
     <string name="camera_focus_fix_summary">ئەمە چالاک بکە ئەگەر کێشەی فۆکەست لە کامێراکەتدا هەیە</string>
     <string name="wake_on_gesture_title">هەڵکردن بە جوڵە</string>
     <string name="wake_on_gesture_summary">هەڵکردنی ئامێر لە جیاتی تەنها نیشاندانی ئاگانامە کاتێک جوڵەیەک ڕوودەدات</string>
-    <string name="stylus_panel_title">قەڵەم (Stylus)</string>
+    <string name="stylus_panel_title">قەڵەم</string>
     <string name="stylus_panel_summary">کۆنتڕۆڵکردنی ڕەفتاری قەڵەم</string>
     <string name="stylus_removed_category_title">قەڵەم دەرهێنرا</string>
     <string name="stylus_inserted_category_title">قەڵەم خرایە ناوەوە</string>
@@ -160,6 +160,8 @@
     <string name="alert_slider_mode_dnd_priority_only">تەنها لەپێشینەکان</string>
     <string name="alert_slider_mode_dnd_total_silence">بێدەنگیی تەواو</string>
     <string name="alert_slider_mode_dnd_alarms_only">تەنها زەنگەکان</string>
+    <string name="alert_slider_mode_torch_on">چرا داگیرسێنە</string>
+    <string name="alert_slider_mode_torch_off">چرا بکوژێنەرەوە</string>
     <string name="alert_slider_mute_media_title">بێدەنگکردنی میدیا</string>
     <string name="alert_slider_mute_media_summary">بێدەنگکردنی میدیا کاتێک دەچێتە باری بێدەنگ</string>
     <string name="alert_slider_notification_dialog_title">پیشاندانی پەڕەی سایدەر</string>
