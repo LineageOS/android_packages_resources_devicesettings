@@ -51,10 +51,10 @@
     <string name="touchscreen_swipe_left_title">Przesuń w lewo</string>
     <string name="user_aware_display_title">Aktywny ekran podczas spoglądania na niego</string>
     <string name="user_aware_display_summary">Utrzymuj ekran włączony, gdy użytkownik spogląda na ekran</string>
-    <string name="ambient_display_title">Ekran Ambient</string>
-    <string name="ambient_display_enable_title">Używaj Ekranu Ambient</string>
+    <string name="ambient_display_title">Ekran aktywny</string>
+    <string name="ambient_display_enable_title">Używaj trybu Ekran aktywny</string>
     <string name="ambient_display_enable_summary">Wybudzaj ekran, po otrzymaniu powiadomienia</string>
-    <string name="ambient_display_gestures_title">Gesty ekranu Ambient</string>
+    <string name="ambient_display_gestures_title">Gesty ekranu trybu Ekran aktywny</string>
     <string name="ambient_display_gestures_summary">Dodatkowe gesty do wybudzenia ekranu</string>
     <string name="ambient_display_summary">Wybudzaj ekran po odebraniu powiadomienia</string>
     <string name="ambient_display_summary_on">Ekran się wybudzi, po otrzymaniu powiadomienia</string>
