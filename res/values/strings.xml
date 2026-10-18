@@ -124,6 +124,10 @@
     <string name="lift_to_silence_title">Pick up to stop ringing</string>
     <string name="lift_to_silence_summary">Lift the phone to silence incoming calls. It only works when your phone starts flat</string>
 
+    <!-- Open to answer gesture -->
+    <string name="open_to_answer_title">Open to answer</string>
+    <string name="open_to_answer_summary">Open the phone to answer an incoming call, close it to end the call</string>
+
     <!-- Action toggles -->
     <string name="action_none">Disable</string>
     <string name="action_launch_camera">Launch camera</string>
