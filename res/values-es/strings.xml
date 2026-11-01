@@ -116,6 +116,7 @@
     <string name="stylus_removed_category_title">Lápiz óptico retirado</string>
     <string name="stylus_inserted_category_title">Lápiz óptico insertado</string>
     <string name="stylus_screen_on_when_removed_title">Encender la pantalla</string>
+    <string name="stylus_screen_on_when_removed_summary">Encender la pantalla al retirar el lápiz óptico</string>
     <string name="stylus_screen_off_when_inserted_title">Apagar la pantalla</string>
     <string name="stylus_screen_off_when_inserted_summary">Apagar la pantalla cuando se inserte el lápiz óptico</string>
     <string name="stylus_vibrate_title">Vibrar</string>
@@ -139,6 +140,7 @@
     <string name="popup_sound_title">Efectos de sonido</string>
     <string name="popup_sound_muqin">Xilófono</string>
     <string name="popup_sound_yingyan">Cóndor</string>
+    <string name="popup_sound_mofa">Mágico</string>
     <string name="popup_sound_jijia">Mecánico</string>
     <string name="popup_sound_chilun">Engranaje</string>
     <string name="popup_sound_cangmen">Puerta de cabina</string>
