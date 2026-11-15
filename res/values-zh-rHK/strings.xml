@@ -5,16 +5,47 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">進階設定</string>
     <string name="screen_gestures_panel_title">手勢</string>
     <string name="touchscreen_gesture_extras">附加功能</string>
+    <string name="touchscreen_gesture_settings_summary">執行各種觸控螢幕手勢嚟進行快速動作</string>
+    <string name="touchscreen_c_gesture_title">相機</string>
+    <string name="touchscreen_c_gesture_summary">畫出「C」以開啟相機</string>
+    <string name="touchscreen_e_gesture_summary">畫出「e」以開啟電郵應用程式</string>
+    <string name="touchscreen_m_gesture_summary">畫出「M」以開啟訊息應用程式</string>
+    <string name="touchscreen_s_gesture_summary">畫出「S」以開啟訊息應用程式</string>
+    <string name="touchscreen_v_gesture_summary">畫出「V」以開啟撥號應用程式</string>
+    <string name="touchscreen_w_gesture_summary">畫出「W」以開啟瀏覽器應用程式</string>
+    <string name="touchscreen_z_gesture_summary">畫出「Z」以切換電筒開關</string>
+    <string name="touchscreen_flashlight_gesture_title">電筒</string>
+    <string name="touchscreen_flashlight_gesture_summary">畫出圓圈以切換電筒開關</string>
+    <string name="touchscreen_music_gesture_title">音樂</string>
+    <string name="touchscreen_music_gesture_summary">用手勢控制音樂播放 \n
+    • 向下滑以播放/暫停\n
+    • 向左滑以換至上一首\n
+    • 向右滑以換至下一首</string>
     <string name="user_aware_display_title">使用者感知顯示</string>
-    <string name="user_aware_display_summary">當用戶在顯示器前保持螢幕開啟</string>
+    <string name="ambient_display_gestures_summary">用來喚醒螢幕的其他手勢</string>
+    <string name="ambient_display_summary_on">收到通知時喚醒螢幕</string>
+    <string name="ambient_display_summary_off">收到通知時不喚醒螢幕</string>
+    <string name="ambient_display_always_on_summary">顯示時間、通知圖示及其他資訊。這會增加電池耗電量。</string>
+    <string name="proximity_sensor_title">距離感應器</string>
     <string name="hand_wave_gesture_title">揮手</string>
+    <string name="hand_wave_gesture_flat_title">偵測方向</string>
+    <string name="hand_wave_gesture_flat_summary">僅在手機螢幕朝上、平放於平坦表面時顯示通知</string>
     <string name="pocket_gesture_title">口袋</string>
     <string name="pocket_gesture_summary">從口袋中取出時發出脈動通知</string>
     <string name="proximity_wake_title">接近喚醒</string>
     <string name="proximity_wake_enable_title">接近喚醒</string>
     <string name="proximity_wake_enable_summary">揮手喚醒裝置</string>
+    <string name="moto_gestures_panel_title">Moto 手勢</string>
+    <string name="camera_gesture_summary">使用雙重旋轉手勢開啟相機</string>
+    <string name="chop_chop_gesture_summary">使用揮動兩下手勢開關電筒</string>
+    <string name="hand_wave_silencer_title">揮手以靜音</string>
+    <string name="hand_wave_silencer_summary">在螢幕前揮手以將來電靜音</string>
+    <string name="flip_to_mute_summary">將手機螢幕朝下放置以將通知及來電靜音</string>
+    <string name="lift_to_silence_title">拿起手機以停止響鈴</string>
+    <string name="lift_to_silence_summary">拿起手機以將來電靜音。此功能僅在手機預先平放時有效</string>
     <string name="action_none">停用</string>
     <string name="action_launch_camera">啟動相機</string>
     <string name="action_torch">切換電筒</string>
@@ -24,7 +55,21 @@
     <string name="feedback_intensity_low">低</string>
     <string name="feedback_intensity_medium">中</string>
     <string name="feedback_intensity_high">高</string>
+    <string name="dialog_ok">確定</string>
     <string name="disabled">已停用</string>
     <string name="none">無</string>
+    <string name="button_swap_summary">對調最近使用的應用程式鍵與返回鍵的順序</string>
+    <string name="fingerprint_title">指紋</string>
+    <string name="fingerprint_wakeup_title">指紋喚醒</string>
+    <string name="fingerprint_wakeup_summary">允許指紋感應器在螢幕關閉時喚醒裝置</string>
+    <string name="fingerprint_sleep_title">指紋休眠</string>
+    <string name="fingerprint_sleep_summary">按下指紋感應器以關閉螢幕</string>
+    <string name="high_touch_sensitivity_summary">提高觸控螢幕靈敏度，讓您戴上手套時仍可使用</string>
+    <string name="camera_focus_fix_summary">如果相機無法對焦，請啟用此選項</string>
+    <string name="stylus_screen_on_when_removed_title">開啟螢幕</string>
+    <string name="stylus_screen_off_when_inserted_title">關閉螢幕</string>
+    <string name="stylus_vibrate_title">震動</string>
+    <string name="popup_calibration_summary">校正彈出式相機的馬達</string>
     <string name="alert_slider_mode_none">無</string>
+    <string name="alert_slider_mode_dnd_alarms_only">僅限鬧鐘</string>
 </resources>
