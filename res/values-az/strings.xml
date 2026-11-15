@@ -60,7 +60,7 @@
     <string name="ambient_display_summary_on">Bildiriş gələndə ekran oyanacaq</string>
     <string name="ambient_display_summary_off">Bildiriş gələndə ekran oyanmayacaq</string>
     <string name="ambient_display_always_on_title">Həmişə açıq</string>
-    <string name="ambient_display_always_on_summary">Saatı, bildiriş simgələrini və digər məlumatları göstərir. Batareya istifadəsini artırır.</string>
+    <string name="ambient_display_always_on_summary">Saatı, bildiriş simgələrini və digər bilgiləri göstərir. Batareya istifadəsini artırır.</string>
     <string name="tilt_sensor_title">Meyl sensoru</string>
     <string name="pickup_sensor_title">Əlinə götürmə sensoru</string>
     <string name="proximity_sensor_title">Yaxınlıq sensoru</string>
